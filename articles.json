@@ -1,5 +1,23 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/white-supremacists-july-4-march-counts-free-speech-messy-democracy-interior-2026-07-05/",
+    "title": "White supremacists' July 4 march counts as free speech in 'messy democracy,' Interior Secretary Burgum says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 02:34",
+    "pub_ts": 1783276449
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/trump-meet-leaders-ukraine-syria-alongside-nato-summit-2026-07-05/",
+    "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 02:01",
+    "pub_ts": 1783274504
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40753716.html",
     "title": "王毅同芬兰外长瓦尔托宁会谈",
@@ -1015,6 +1033,24 @@
     "pub_ts": 1783241144,
     "source": "Reuters",
     "category": "world"
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/qatar-says-all-maritime-activities-will-resume-immediately-2026-07-05/",
+    "title": "Qatar says all maritime activities will resume immediately",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 16:05",
+    "pub_ts": 1783238744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-2954-2026-07-04/",
+    "title": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 15:25",
+    "pub_ts": 1783236343
   },
   {
     "source": "Reuters",
