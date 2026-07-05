@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/easyjet-agrees-principle-castlelakes-sweetened-690-per-share-bid-2026-07-05/",
+    "title": "easyJet agrees in principle on Castlelake's sweetened £6.90 per share bid",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 00:31",
+    "pub_ts": 1783269103
+  },
+  {
     "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0702/c461529-40751863.html",
     "title": "人民日报评论员：学习功勋模范，擦亮精神标识",
@@ -982,6 +991,60 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/taiwan-military-resumes-anti-communist-classes-graduates-citing-chinese-threat-2026-07-05/",
+    "title": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 13:29",
+    "pub_ts": 1783229383
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/christian-ngo-welcomes-release-pastor-held-southern-china-2026-07-05/",
+    "title": "Christian NGO welcomes release of pastor held in southern China",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 13:17",
+    "pub_ts": 1783228664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-2024-06-14/",
+    "title": "The week in pictures",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 13:11",
+    "pub_ts": 1783228274
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/every-world-cup-poster-since-1930-clone-2026-06-09/",
+    "title": "Our best photos from the World Cup",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 13:11",
+    "pub_ts": 1783228260
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/blue-paint-meets-green-algae-lincoln-memorial-reflecting-pool-clone-2026-06-18/",
+    "title": "Scenes from America's 250th birthday",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 13:10",
+    "pub_ts": 1783228209
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/iranians-flock-week-long-funeral-rites-khamenei-2026-07-04/",
+    "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-05 12:59",
+    "pub_ts": 1783227571
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/heat-wave-disrupts-fourth-july-events-across-eastern-us-2026-07-03/",
     "title": "Heat wave disrupts Fourth of July events across US, strains power grids",
     "path": "/world/",
@@ -1069,6 +1132,15 @@
     "pub_ts": 1783202743,
     "source": "Reuters",
     "category": "business"
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/mexican-authorities-identify-remains-kidnapped-journalist-arrest-four-police-2026-07-03/",
+    "title": "Mexican authorities identify remains of kidnapped journalist, arrest four police officers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-05 03:01",
+    "pub_ts": 1783191668
   },
   {
     "url": "https://www.reuters.com/legal/government/justice-department-says-adani-case-should-end-because-foreign-jurisdiction-small-2026-07-04/",
