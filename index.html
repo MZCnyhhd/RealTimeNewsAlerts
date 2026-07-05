@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Reuters News — 24h Live (GitHub Actions)</title>
+<title>Real-Time News Alerts — Multi-Source</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Arial, sans-serif;
           background: #f5f5f5; color: #222; font-size: 14px; }
   .header { background: #fff; border-bottom: 2px solid #d32f2f; padding: 12px 20px;
              display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
@@ -15,11 +15,23 @@
                animation: pulse 2s infinite; }
   @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
   .header .meta { color: #666; font-size: 12px; }
+
+  .source-bar { background: #fff; border-bottom: 1px solid #eee; padding: 6px 20px;
+                 display: flex; gap: 16px; font-size: 12px; flex-wrap: wrap; align-items: center; }
+  .source-chip { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px;
+                 border-radius: 12px; cursor: pointer; transition: all 0.2s; white-space: nowrap;
+                 font-weight: 500; user-select: none; }
+  .source-chip:hover { transform: scale(1.05); }
+  .source-chip.active { box-shadow: 0 0 0 2px #333; }
+  .chip-reuters { background: #ffebee; color: #c62828; }
+  .chip-mit { background: #e3f2fd; color: #1565c0; }
+  .chip-people { background: #fff3e0; color: #e65100; }
+  .source-count { opacity: 0.7; font-size: 11px; }
+
   .stats-bar { background: #fafafa; border-bottom: 1px solid #eee; padding: 6px 20px;
                 display: flex; gap: 20px; font-size: 12px; color: #555; flex-wrap: wrap; }
   .stats-bar .stat b { color: #d32f2f; }
 
-  /* 分类按钮栏 */
   .cat-bar { background: #fff; border-bottom: 1px solid #ddd; padding: 8px 20px;
              display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
   .cat-btn { padding: 5px 14px; border: 1px solid #ddd; border-radius: 16px;
@@ -29,7 +41,6 @@
   .cat-btn.active { background: #1976d2; color: #fff; border-color: #1976d2; }
   .cat-count { font-size: 11px; opacity: 0.8; }
 
-  /* 工具栏 */
   .toolbar { position: sticky; top: 0; z-index: 100; background: #fff;
                border-bottom: 1px solid #ddd; padding: 8px 20px;
                display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
@@ -53,6 +64,11 @@
   .idx { font-size: 11px; color: #bbb; min-width: 28px; text-align: right; flex-shrink: 0; }
   .time { font-size: 13px; color: #388e3c; white-space: nowrap; flex-shrink: 0; min-width: 150px;
           font-weight: 600; }
+  .src-badge { font-size: 10px; padding: 1px 6px; border-radius: 3px; white-space: nowrap;
+               flex-shrink: 0; font-weight: 600; letter-spacing: 0.3px; }
+  .src-reuters { background: #ffcdd2; color: #b71c1c; }
+  .src-mit { background: #bbdefb; color: #0d47a1; }
+  .src-people { background: #ffe0b2; color: #e65100; }
   .path { font-size: 11px; color: #1565c0; background: #e3f2fd; padding: 2px 6px;
             border-radius: 3px; white-space: nowrap; flex-shrink: 0; font-weight: 500; }
   .title { font-size: 14px; color: #222; flex: 1; min-width: 200px; line-height: 1.4; }
@@ -68,20 +84,18 @@
 <body>
 
 <div class="header">
-  <h1><span class="live-dot"></span> 📰 Reuters News</h1>
-  <div class="meta" id="headerMeta">
-    GitHub Actions · 每5分钟自动更新 · 正在加载...
-  </div>
+  <h1><span class="live-dot"></span> 📰 Real-Time News Alerts</h1>
+  <div class="meta" id="headerMeta">多源新闻聚合 · 每5分钟自动更新 · 正在加载...</div>
 </div>
+
+<div class="source-bar" id="sourceBar"></div>
 
 <div class="stats-bar">
   <span class="stat">文章总数: <b id="statTotal">0</b></span>
   <span class="stat">上次更新: <b id="statUpdated">-</b></span>
   <span class="stat">新文章: <b id="statNew">0</b></span>
-  <span class="stat">下次检查: <b id="statNext">~5分钟</b></span>
 </div>
 
-<!-- 分类筛选栏 -->
 <div class="cat-bar" id="catBar"></div>
 
 <div class="toolbar">
@@ -93,237 +107,104 @@
 
 <div class="new-badge" id="newBadge">🎉 新文章！</div>
 
-<div id="articleList">
-  <div class="empty-state" id="emptyState">
-    <div style="font-size:32px; margin-bottom:10px;">⏳</div>
-    <div>正在加载文章...</div>
-  </div>
-</div>
+<div id="articleList"><div class="empty-state" id="emptyState">
+  <div style="font-size:32px;margin-bottom:10px;">⏳</div><div>正在加载文章...</div>
+</div></div>
 
 <script>
-let articleCount = 0;
-let knownUrls = new Set();
-let pollTimer = null;
-let currentCat = '全部';
-const CATEGORIES = [
-  ['全部', null],
-  ['/world/', 'world'],
-  ['/business/', 'business'],
-  ['/legal/', 'legal'],
-  ['/markets/', 'markets'],
-  ['/technology/', 'technology'],
-  ['/fact-check/', 'fact-check'],
-  ['/sports/world-cup/', 'sports/world-cup'],
-];
+let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = '全部', currentCat = '全部';
 
-// ============ 分类按钮 ============
-function buildCatBar() {
-  const bar = document.getElementById('catBar');
-  bar.innerHTML = '';
-  CATEGORIES.forEach(([label, key]) => {
-    const btn = document.createElement('button');
-    btn.className = 'cat-btn' + (label === '全部' ? ' active' : '');
-    btn.innerHTML = `${label} <span class="cat-count" id="cat-${key || 'all'}">(0)</span>`;
-    btn.onclick = () => selectCategory(label, btn);
-    bar.appendChild(btn);
+const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
+  ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
+const CATEGORIES = [['全部',null],['/world/','world'],['/business/','business'],['/legal/','legal'],
+  ['/markets/','markets'],['/technology/','technology'],['/fact-check/','fact-check'],
+  ['/sports/world-cup/','sports/world-cup'],['/politics/','politics'],['/finance/','finance'],['/general/','general']];
+const SRC_CLASS_MAP = {'Reuters':'src-reuters',"MIT Tech Review":'src-mit',"People's Daily":'src-people'};
+
+function buildSourceBar() {
+  const bar=document.getElementById('sourceBar'); bar.innerHTML='';
+  SOURCES.forEach(([label,key,cls])=>{
+    const c=document.createElement('span');
+    c.className=`source-chip ${(cls||'')}${label==='全部'?' active':''}`;
+    c.id=`src-${key||'all'}`; c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
+    c.onclick=()=>{currentSrc=label;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');filterArticles();};
+    bar.appendChild(c);
   });
 }
 
-function selectCategory(label, btn) {
-  currentCat = label;
-  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
-  filterArticles();
+function buildCatBar() {
+  const bar=document.getElementById('catBar'); bar.innerHTML='';
+  CATEGORIES.forEach(([label,key])=>{
+    const b=document.createElement('button');
+    b.className='cat-btn'+(label==='全部'?' active':'');
+    b.innerHTML=`${label} <span class="cat-count" id="cat-${key||'all'}">(0)</span>`;
+    b.onclick=()=>{currentCat=label;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
+    bar.appendChild(b);
+  });
 }
 
-// ============ 加载文章 ============
 async function loadArticles(isFirstLoad) {
   try {
-    const resp = await fetch(`articles.json?t=${Date.now()}`);
-    const data = await resp.json();
-
-    document.getElementById('statTotal').textContent = data.length;
-    updateCatCounts(data);
-
-    let newCount = 0;
-    const newArticles = [];
-
-    for (const article of data) {
-      if (!knownUrls.has(article.url)) {
-        newArticles.push(article);
-        knownUrls.add(article.url);
-        if (!isFirstLoad) newCount++;
-      }
-    }
-
-    if (isFirstLoad) {
-      renderAll(data);
-    } else if (newCount > 0) {
-      for (const article of newArticles) {
-        addArticleAtTop(article, true);
-      }
-      document.getElementById('statNew').textContent = newCount;
-      showNewBadge();
-      playBeep();
-    }
-
-    try {
-      const runResp = await fetch(`last_run.json?t=${Date.now()}`);
-      const runData = await runResp.json();
-      document.getElementById('statUpdated').textContent = runData.timestamp || '-';
-      document.getElementById('headerMeta').innerHTML =
-        `GitHub Actions · 上次更新: <b>${runData.timestamp || '-'}</b> · ${runData.new || 0} 篇新文章`;
-    } catch(e) {}
-
-  } catch(e) {
-    console.error('加载失败:', e);
-    document.getElementById('headerMeta').innerHTML =
-      '⚠️ 加载失败 · 请检查网络或稍后刷新';
-    const list = document.getElementById('articleList');
-    list.innerHTML = `<div class="empty-state">
-      <div style="font-size:32px; margin-bottom:10px;">❌</div>
-      <div>无法加载文章数据<br><small style="color:#bbb">${e.message}</small></div>
-      <button class="btn" onclick="loadArticles(true)" style="margin-top:12px">重试</button>
-    </div>`;
+    const resp=await fetch(`articles.json?t=${Date.now()}`), data=await resp.json();
+    document.getElementById('statTotal').textContent=data.length;
+    updateSourceCounts(data); updateCatCounts(data);
+    let nc=0,nA=[];
+    data.forEach(a=>{if(!knownUrls.has(a.url)){nA.push(a);knownUrls.add(a.url);if(!isFirstLoad)nc++}});
+    if(isFirstLoad){renderAll(data);}else if(nc>0){nA.forEach(a=>addArticleAtTop(a,true));
+      document.getElementById('statNew').textContent=nc;showNewBadge();playBeep();}
+    try{
+      const r=await fetch(`last_run.json?t=${Date.now()}`),rd=await r.json();
+      document.getElementById('statUpdated').textContent=rd.timestamp||'-';
+      document.getElementById('headerMeta').innerHTML=`多源聚合 · 更新: <b>${rd.timestamp||'-'}</b> · 新增 ${rd.new||0} 篇`;
+    }catch(e){}
+  }catch(e){
+    console.error(e);document.getElementById('headerMeta').innerHTML='⚠️ 加载失败';
+    document.getElementById('articleList').innerHTML='<div class="empty-state"><div style="font-size:32px">❌</div><div>加载失败<br><small>'+e.message+'</small></div></div>';
   }
 }
-
-function updateCatCounts(data) {
-  const total = data.length;
-  el = document.getElementById('cat-all');
-  if (el) el.textContent = `(${total})`;
-  for (const [, key] of CATEGORIES.slice(1)) {
-    const count = data.filter(a => a.path.startsWith(key)).length;
-    el = document.getElementById(`cat-${key}`);
-    if (el) el.textContent = `(${count})`;
-  }
+function updateSourceCounts(d){const t=d.length;let e=document.getElementById('srcCnt-all');if(e)e.textContent='('+t+')';
+  SOURCES.slice(1).forEach(([,k])=>{const c=d.filter(a=>(a.source||'Reuters')===k).length;
+    e=document.getElementById('srcCnt-'+k);if(e)e.textContent='('+c+')';});}
+function updateCatCounts(d){const t=d.length;let e=document.getElementById('cat-all');if(e)e.textContent='('+t+')';
+  CATEGORIES.slice(1).forEach(([,k])=>{const c=d.filter(a=>(a.path||'').startsWith(k)).length;
+    e=document.getElementById('cat-'+k);if(e)e.textContent='('+c+')';});}
+function renderAll(d){const l=document.getElementById('articleList'),e=document.getElementById('emptyState');if(e)e.remove();
+  l.innerHTML='';articleCount=0;d.sort((a,b)=>b.pub_ts-a.pub_ts);d.forEach(a=>{articleCount++;createArticleEl(a,false)});}
+function addArticleAtTop(a,i){articleCount++;createArticleEl(a,i);}
+function createArticleEl(a,isNew){
+  const l=document.getElementById('articleList'),e=document.getElementById('emptyState');if(e)e.remove();
+  const d=document.createElement('div');d.className='article'+(isNew?' new':'');
+  d.dataset.date=a.pub_bj.slice(0,10);d.dataset.path=a.path||'';d.dataset.source=a.source||'Reuters';
+  const s=a.source||'Reuters';
+  d.innerHTML=`<span class="idx">${String(articleCount).padStart(2,'0')}</span>
+    <span class="time">${a.pub_bj} GMT+8</span><span class="src-badge ${SRC_CLASS_MAP[s]||'src-reuters'}">${s}</span>
+    <span class="path">${a.path||'/'}</span><span class="title"><a href="${a.url}" target="_blank">${a.title}</a></span>`;
+  isNew?l.insertBefore(d,l.firstChild):l.appendChild(d);
 }
-
-function renderAll(articles) {
-  const list = document.getElementById('articleList');
-  const empty = document.getElementById('emptyState');
-  if (empty) empty.remove();
-  list.innerHTML = '';
-  articleCount = 0;
-
-  // 按时间倒序（最新在前）
-  articles.sort((a, b) => b.pub_ts - a.pub_ts);
-
-  // 用 appendChild 按顺序追加，最新在顶部
-  for (const article of articles) {
-    articleCount++;
-    createArticleEl(article, false);
-  }
-}
-
-function addArticleAtTop(article, isNew) {
-  articleCount++;
-  createArticleEl(article, isNew);
-}
-
-function createArticleEl(article, isNew) {
-  const list = document.getElementById('articleList');
-  const empty = document.getElementById('emptyState');
-  if (empty) empty.remove();
-
-  const div = document.createElement('div');
-  div.className = 'article' + (isNew ? ' new' : '');
-  div.dataset.date = article.pub_bj.slice(0, 10);
-  div.dataset.path = article.path;
-
-  div.innerHTML = `
-    <span class="idx">${String(articleCount).padStart(2, '0')}</span>
-    <span class="time">${article.pub_bj} GMT+8</span>
-    <span class="path">${article.path}</span>
-    <span class="title"><a href="${article.url}" target="_blank">${article.title}</a></span>
-  `;
-
-  if (isNew) {
-    // 新文章插到最前面
-    list.insertBefore(div, list.firstChild);
-  } else {
-    // 首次渲染按顺序追加
-    list.appendChild(div);
-  }
-}
-
-// ============ 筛选 ============
-function filterArticles() {
-  const q = document.getElementById('searchInput').value.toLowerCase();
-  const from = document.getElementById('dateFrom').value;
-  const to = document.getElementById('dateTo').value;
-
-  let visibleIdx = 1;
-  document.querySelectorAll('.article').forEach(div => {
-    const title = div.querySelector('.title').textContent.toLowerCase();
-    const date = div.dataset.date;
-    const path = div.dataset.path;
-    let show = true;
-
-    if (currentCat !== '全部') {
-      if (!path.startsWith(currentCat)) show = false;
-    }
-    if (q && !title.includes(q)) show = false;
-    if (from && date < from) show = false;
-    if (to && date > to) show = false;
-
-    div.style.display = show ? 'flex' : 'none';
-    if (show) {
-      div.querySelector('.idx').textContent = String(visibleIdx++).padStart(2, '0');
-    }
+function filterArticles(){
+  const q=document.getElementById('searchInput').value.toLowerCase(),from=document.getElementById('dateFrom').value,to=document.getElementById('dateTo').value;
+  let vi=1;document.querySelectorAll('.article').forEach(div=>{
+    const t=div.querySelector('.title').textContent.toLowerCase(),dt=div.dataset.date,p=div.dataset.path,s=div.dataset.source;
+    let show=true;if(currentSrc!=='全部'&&(!s.includes(currentSrc)))show=false;
+    if(currentCat!=='全部'&&(!p.startsWith(currentCat)))show=false;
+    if(q&&!t.includes(q))show=false;if(from&&dt<from)show=false;if(to&&dt>to)show=false;
+    div.style.display=show?'flex':'none';if(show)div.querySelector('.idx').textContent=String(vi++).padStart(2,'0');
   });
 }
-
-function clearFilters() {
-  document.getElementById('searchInput').value = '';
-  document.getElementById('dateFrom').value = '';
-  document.getElementById('dateTo').value = '';
-  currentCat = '全部';
-  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+function clearFilters(){document.getElementById('searchInput').value='';
+  document.getElementById('dateFrom').value='';document.getElementById('dateTo').value='';
+  currentCat='全部';currentSrc='全部';
+  document.querySelectorAll('.cat-btn').forEach(b=>b.classList.remove('active'));
   document.querySelector('.cat-btn').classList.add('active');
-  filterArticles();
-}
-
-// ============ 新文章提示 ============
-function showNewBadge() {
-  const badge = document.getElementById('newBadge');
-  badge.style.display = 'block';
-  setTimeout(() => { badge.style.display = 'none'; }, 3000);
-}
-
-function playBeep() {
-  try {
-    const ctx = new (window.AudioContext || window.webkitAudioContext)();
-    const osc = ctx.createOscillator();
-    const gain = ctx.createGain();
-    osc.connect(gain);
-    gain.connect(ctx.destination);
-    osc.frequency.value = 880;
-    gain.gain.setValueAtTime(0.2, ctx.currentTime);
-    gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.5);
-    osc.start();
-    osc.stop(ctx.currentTime + 0.5);
-  } catch(e) {}
-}
-
-// ============ 键盘快捷键 ============
-document.addEventListener('keydown', e => {
-  if (e.key === '/' && document.activeElement.tagName !== 'INPUT') {
-    e.preventDefault();
-    document.getElementById('searchInput').focus();
-  }
-  if (e.key === 'Escape') {
-    if (document.activeElement.tagName === 'INPUT') document.activeElement.blur();
-    clearFilters();
-  }
-});
-
-// ============ 启动 ============
-buildCatBar();
-loadArticles(true);
-
-// 每30秒轮询更新
-pollTimer = setInterval(() => loadArticles(false), 30000);
+  document.querySelectorAll('.source-chip').forEach(c=>c.classList.remove('active'));
+  document.querySelector('#src-all').classList.add('active');filterArticles();}
+function showNewBadge(){const b=document.getElementById('newBadge');b.style.display='block';setTimeout(()=>b.style.display='none',3000);}
+function playBeep(){try{const ctx=new(window.AudioContext||window.webkitAudioContext)();
+  const o=ctx.createOscillator(),g=ctx.createGain();o.connect(g);g.connect(ctx.destination);o.frequency.value=880;
+  g.gain.setValueAtTime(0.2,ctx.currentTime);g.gain.exponentialRampToValueAtTime(0.01,ctx.currentTime+0.5);o.start();o.stop(ctx.currentTime+0.5);}catch(e){}}
+document.addEventListener('keydown',e=>{if(e.key==='/'&&document.activeElement.tagName!=='INPUT'){e.preventDefault();document.getElementById('searchInput').focus();}
+  if(e.key==='Escape'){if(document.activeElement.tagName==='INPUT')document.activeElement.blur();clearFilters();}});
+buildSourceBar();buildCatBar();loadArticles(true);pollTimer=setInterval(()=>loadArticles(false),30000);
 </script>
 </body>
 </html>

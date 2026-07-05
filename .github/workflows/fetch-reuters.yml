@@ -1,10 +1,9 @@
-name: Fetch Reuters News
+name: Fetch Multi-Source News
 
 on:
   schedule:
-    # 每5分钟运行一次（GitHub Actions 最低频率）
     - cron: '*/5 * * * *'
-  workflow_dispatch: # 手动触发
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,16 +22,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run crawler
-        id: crawl
-        run: python fetch_reuters.py
+      - name: Run multi-source crawler
+        run: python fetch_news.py
 
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "Reuters News Bot"
-          git config user.email "bot@reuters-news.local"
+          git config user.name "News Crawler Bot"
+          git config user.email "bot@news-crawler.local"
           git add articles.json last_run.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
