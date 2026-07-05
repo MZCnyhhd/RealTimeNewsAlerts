@@ -18,6 +18,18 @@
   .stats-bar { background: #fafafa; border-bottom: 1px solid #eee; padding: 6px 20px;
                 display: flex; gap: 20px; font-size: 12px; color: #555; flex-wrap: wrap; }
   .stats-bar .stat b { color: #d32f2f; }
+
+  /* 分类按钮栏 */
+  .cat-bar { background: #fff; border-bottom: 1px solid #ddd; padding: 8px 20px;
+             display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .cat-btn { padding: 5px 14px; border: 1px solid #ddd; border-radius: 16px;
+             background: #fafafa; cursor: pointer; font-size: 12px; color: #555;
+             transition: all 0.2s; white-space: nowrap; }
+  .cat-btn:hover { border-color: #d32f2f; color: #d32f2f; }
+  .cat-btn.active { background: #1976d2; color: #fff; border-color: #1976d2; }
+  .cat-count { font-size: 11px; opacity: 0.8; }
+
+  /* 工具栏 */
   .toolbar { position: sticky; top: 0; z-index: 100; background: #fff;
                border-bottom: 1px solid #ddd; padding: 8px 20px;
                display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
@@ -27,7 +39,8 @@
   .toolbar .btn { padding: 5px 12px; border: 1px solid #ccc; border-radius: 4px;
                     background: #fafafa; cursor: pointer; font-size: 12px; }
   .toolbar .btn:hover { background: #eee; }
-  .article { background: #fff; border-bottom: 1px solid #eee; padding: 8px 20px;
+
+  .article { background: #fff; border-bottom: 1px solid #eee; padding: 9px 20px;
               display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
               transition: background 0.3s; }
   .article:hover { background: #f8f8ff; }
@@ -37,11 +50,12 @@
     20% { background: #c8e6c9; transform: translateX(0); opacity: 1; }
     100% { background: #fff; }
   }
-  .idx { font-size: 11px; color: #999; min-width: 28px; text-align: right; flex-shrink: 0; }
-  .time { font-size: 12px; color: #388e3c; white-space: nowrap; flex-shrink: 0; min-width: 145px; }
-  .path { font-size: 11px; color: #1565c0; background: #e3f2fd; padding: 1px 5px;
-            border-radius: 3px; white-space: nowrap; flex-shrink: 0; }
-  .title { font-size: 13px; color: #222; flex: 1; min-width: 200px; }
+  .idx { font-size: 11px; color: #bbb; min-width: 28px; text-align: right; flex-shrink: 0; }
+  .time { font-size: 13px; color: #388e3c; white-space: nowrap; flex-shrink: 0; min-width: 150px;
+          font-weight: 600; }
+  .path { font-size: 11px; color: #1565c0; background: #e3f2fd; padding: 2px 6px;
+            border-radius: 3px; white-space: nowrap; flex-shrink: 0; font-weight: 500; }
+  .title { font-size: 14px; color: #222; flex: 1; min-width: 200px; line-height: 1.4; }
   .title a { color: #222; text-decoration: none; }
   .title a:hover { text-decoration: underline; color: #d32f2f; }
   .title a:visited { color: #9c27b0; }
@@ -67,6 +81,9 @@
   <span class="stat">下次检查: <b id="statNext">~5分钟</b></span>
 </div>
 
+<!-- 分类筛选栏 -->
+<div class="cat-bar" id="catBar"></div>
+
 <div class="toolbar">
   <input type="text" id="searchInput" placeholder="搜索标题... (按 / 聚焦)" oninput="filterArticles()">
   <label>从 <input type="date" id="dateFrom" onchange="filterArticles()"> </label>
@@ -87,20 +104,50 @@
 let articleCount = 0;
 let knownUrls = new Set();
 let pollTimer = null;
+let currentCat = '全部';
+const CATEGORIES = [
+  ['全部', null],
+  ['/world/', 'world'],
+  ['/business/', 'business'],
+  ['/legal/', 'legal'],
+  ['/markets/', 'markets'],
+  ['/technology/', 'technology'],
+  ['/fact-check/', 'fact-check'],
+  ['/sports/world-cup/', 'sports/world-cup'],
+];
+
+// ============ 分类按钮 ============
+function buildCatBar() {
+  const bar = document.getElementById('catBar');
+  bar.innerHTML = '';
+  CATEGORIES.forEach(([label, key]) => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (label === '全部' ? ' active' : '');
+    btn.innerHTML = `${label} <span class="cat-count" id="cat-${key || 'all'}">(0)</span>`;
+    btn.onclick = () => selectCategory(label, btn);
+    bar.appendChild(btn);
+  });
+}
+
+function selectCategory(label, btn) {
+  currentCat = label;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  filterArticles();
+}
 
 // ============ 加载文章 ============
 async function loadArticles(isFirstLoad) {
   try {
-    // 加时间戳防缓存
     const resp = await fetch(`articles.json?t=${Date.now()}`);
     const data = await resp.json();
-    
+
     document.getElementById('statTotal').textContent = data.length;
-    
-    // 找新文章
+    updateCatCounts(data);
+
     let newCount = 0;
     const newArticles = [];
-    
+
     for (const article of data) {
       if (!knownUrls.has(article.url)) {
         newArticles.push(article);
@@ -108,31 +155,47 @@ async function loadArticles(isFirstLoad) {
         if (!isFirstLoad) newCount++;
       }
     }
-    
+
     if (isFirstLoad) {
-      // 首次加载：全部渲染
       renderAll(data);
     } else if (newCount > 0) {
-      // 增量更新：只插入新文章
       for (const article of newArticles) {
-        addArticleToTop(article, true);
+        addArticleAtTop(article, true);
       }
       document.getElementById('statNew').textContent = newCount;
       showNewBadge();
       playBeep();
     }
-    
-    // 加载 last_run.json
+
     try {
       const runResp = await fetch(`last_run.json?t=${Date.now()}`);
       const runData = await runResp.json();
       document.getElementById('statUpdated').textContent = runData.timestamp || '-';
-      document.getElementById('headerMeta').innerHTML = 
+      document.getElementById('headerMeta').innerHTML =
         `GitHub Actions · 上次更新: <b>${runData.timestamp || '-'}</b> · ${runData.new || 0} 篇新文章`;
     } catch(e) {}
-    
+
   } catch(e) {
     console.error('加载失败:', e);
+    document.getElementById('headerMeta').innerHTML =
+      '⚠️ 加载失败 · 请检查网络或稍后刷新';
+    const list = document.getElementById('articleList');
+    list.innerHTML = `<div class="empty-state">
+      <div style="font-size:32px; margin-bottom:10px;">❌</div>
+      <div>无法加载文章数据<br><small style="color:#bbb">${e.message}</small></div>
+      <button class="btn" onclick="loadArticles(true)" style="margin-top:12px">重试</button>
+    </div>`;
+  }
+}
+
+function updateCatCounts(data) {
+  const total = data.length;
+  el = document.getElementById('cat-all');
+  if (el) el.textContent = `(${total})`;
+  for (const [, key] of CATEGORIES.slice(1)) {
+    const count = data.filter(a => a.path.startsWith(key)).length;
+    el = document.getElementById(`cat-${key}`);
+    if (el) el.textContent = `(${count})`;
   }
 }
 
@@ -142,50 +205,72 @@ function renderAll(articles) {
   if (empty) empty.remove();
   list.innerHTML = '';
   articleCount = 0;
-  
+
   // 按时间倒序（最新在前）
   articles.sort((a, b) => b.pub_ts - a.pub_ts);
-  
+
+  // 用 appendChild 按顺序追加，最新在顶部
   for (const article of articles) {
-    addArticleToTop(article, false);
+    articleCount++;
+    createArticleEl(article, false);
   }
 }
 
-function addArticleToTop(article, isNew) {
+function addArticleAtTop(article, isNew) {
+  articleCount++;
+  createArticleEl(article, isNew);
+}
+
+function createArticleEl(article, isNew) {
   const list = document.getElementById('articleList');
   const empty = document.getElementById('emptyState');
   if (empty) empty.remove();
-  
-  articleCount++;
-  const idx = articleCount;
-  
+
   const div = document.createElement('div');
   div.className = 'article' + (isNew ? ' new' : '');
   div.dataset.date = article.pub_bj.slice(0, 10);
   div.dataset.path = article.path;
-  
+
   div.innerHTML = `
-    <span class="idx">[${String(idx).padStart(2, '0')}]</span>
+    <span class="idx">${String(articleCount).padStart(2, '0')}</span>
     <span class="time">${article.pub_bj} GMT+8</span>
     <span class="path">${article.path}</span>
     <span class="title"><a href="${article.url}" target="_blank">${article.title}</a></span>
   `;
-  
-  list.insertBefore(div, list.firstChild);
+
+  if (isNew) {
+    // 新文章插到最前面
+    list.insertBefore(div, list.firstChild);
+  } else {
+    // 首次渲染按顺序追加
+    list.appendChild(div);
+  }
 }
 
+// ============ 筛选 ============
 function filterArticles() {
   const q = document.getElementById('searchInput').value.toLowerCase();
   const from = document.getElementById('dateFrom').value;
   const to = document.getElementById('dateTo').value;
+
+  let visibleIdx = 1;
   document.querySelectorAll('.article').forEach(div => {
     const title = div.querySelector('.title').textContent.toLowerCase();
     const date = div.dataset.date;
+    const path = div.dataset.path;
     let show = true;
+
+    if (currentCat !== '全部') {
+      if (!path.startsWith(currentCat)) show = false;
+    }
     if (q && !title.includes(q)) show = false;
     if (from && date < from) show = false;
     if (to && date > to) show = false;
+
     div.style.display = show ? 'flex' : 'none';
+    if (show) {
+      div.querySelector('.idx').textContent = String(visibleIdx++).padStart(2, '0');
+    }
   });
 }
 
@@ -193,9 +278,13 @@ function clearFilters() {
   document.getElementById('searchInput').value = '';
   document.getElementById('dateFrom').value = '';
   document.getElementById('dateTo').value = '';
+  currentCat = '全部';
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  document.querySelector('.cat-btn').classList.add('active');
   filterArticles();
 }
 
+// ============ 新文章提示 ============
 function showNewBadge() {
   const badge = document.getElementById('newBadge');
   badge.style.display = 'block';
@@ -230,7 +319,7 @@ document.addEventListener('keydown', e => {
 });
 
 // ============ 启动 ============
-// 首次加载
+buildCatBar();
 loadArticles(true);
 
 // 每30秒轮询更新
