@@ -112,7 +112,7 @@
 </div></div>
 
 <script>
-let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = '全部', currentCat = '全部';
+let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null, currentCat = null;
 
 const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
   ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
@@ -127,7 +127,7 @@ function buildSourceBar() {
     const c=document.createElement('span');
     c.className=`source-chip ${(cls||'')}${label==='全部'?' active':''}`;
     c.id=`src-${key||'all'}`; c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
-    c.onclick=()=>{currentSrc=label;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');filterArticles();};
+    c.onclick=()=>{currentSrc=key;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');filterArticles();};
     bar.appendChild(c);
   });
 }
@@ -138,7 +138,7 @@ function buildCatBar() {
     const b=document.createElement('button');
     b.className='cat-btn'+(label==='全部'?' active':'');
     b.innerHTML=`${label} <span class="cat-count" id="cat-${key||'all'}">(0)</span>`;
-    b.onclick=()=>{currentCat=label;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
+    b.onclick=()=>{currentCat=key;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
     bar.appendChild(b);
   });
 }
@@ -185,15 +185,15 @@ function filterArticles(){
   const q=document.getElementById('searchInput').value.toLowerCase(),from=document.getElementById('dateFrom').value,to=document.getElementById('dateTo').value;
   let vi=1;document.querySelectorAll('.article').forEach(div=>{
     const t=div.querySelector('.title').textContent.toLowerCase(),dt=div.dataset.date,p=div.dataset.path,s=div.dataset.source;
-    let show=true;if(currentSrc!=='全部'&&(!s.includes(currentSrc)))show=false;
-    if(currentCat!=='全部'&&(!p.startsWith(currentCat)))show=false;
+    let show=true;if(currentSrc!==null&&s!==currentSrc)show=false;
+    if(currentCat!==null&&(!p.startsWith(currentCat)))show=false;
     if(q&&!t.includes(q))show=false;if(from&&dt<from)show=false;if(to&&dt>to)show=false;
     div.style.display=show?'flex':'none';if(show)div.querySelector('.idx').textContent=String(vi++).padStart(2,'0');
   });
 }
 function clearFilters(){document.getElementById('searchInput').value='';
   document.getElementById('dateFrom').value='';document.getElementById('dateTo').value='';
-  currentCat='全部';currentSrc='全部';
+  currentCat=null;currentSrc=null;
   document.querySelectorAll('.cat-btn').forEach(b=>b.classList.remove('active'));
   document.querySelector('.cat-btn').classList.add('active');
   document.querySelectorAll('.source-chip').forEach(c=>c.classList.remove('active'));
