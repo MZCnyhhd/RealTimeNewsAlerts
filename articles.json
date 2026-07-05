@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/shelter-order-place-azteca-stadium-ahead-mexico-v-england-game-2026-07-05/",
+    "title": "Shelter order in place at Azteca Stadium ahead of Mexico v England game",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 05:52",
+    "pub_ts": 1783288365
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3342-2026-07-05/",
+    "title": "Death toll from Venezuela quakes rises to 3,342",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 05:44",
+    "pub_ts": 1783287877
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/australias-battery-subsidies-spark-rooftop-solar-resurgence-2026-07-05/",
+    "title": "Australia's battery subsidies spark rooftop solar resurgence",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 05:05",
+    "pub_ts": 1783285545
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/easyjets-flight-path-start-up-takeover-deal-2026-07-05/",
     "title": "EasyJet's flight path from start-up to takeover deal",
     "path": "/business/",
