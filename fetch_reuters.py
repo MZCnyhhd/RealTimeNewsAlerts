@@ -125,21 +125,16 @@ def main():
     save_articles(all_articles)
     print(f"已保存 {len(all_articles)} 篇到 articles.json")
     
-    # 5. 输出摘要（供 GitHub Actions 使用）
-    summary = {
-        'existing': len(existing),
-        'sitemap_total': len(raw),
-        'filtered': len(filtered),
-        'new': len(new_articles),
-        'saved': len(all_articles),
-        'timestamp': datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S'),
-    }
-    print(f"\n::set-output name=summary::{json.dumps(summary, ensure_ascii=False)}")
-    
-    # 写入 last_run.json 供前端读取
+    # 5. 写 last_run.json（供前端读取，每次都写）
     last_run_path = os.path.join(os.path.dirname(DB_FILE), "last_run.json")
+    last_run = {
+        'timestamp': datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S'),
+        'new': len(new_articles),
+        'total': len(all_articles),
+    }
     with open(last_run_path, 'w', encoding='utf-8') as f:
-        json.dump(summary, f, ensure_ascii=False, indent=2)
+        json.dump(last_run, f, ensure_ascii=False, indent=2)
+    print(f"last_run.json: {json.dumps(last_run, ensure_ascii=False)}")
 
 if __name__ == '__main__':
     main()
