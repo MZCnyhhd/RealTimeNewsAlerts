@@ -1,5 +1,32 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40753716.html",
+    "title": "王毅同芬兰外长瓦尔托宁会谈",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 01:42",
+    "pub_ts": 1783273379
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/israel-government-says-it-will-defy-supreme-court-ruling-media-regulator-2026-07-05/",
+    "title": "Israel government says it will defy Supreme Court ruling on media regulator",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 01:31",
+    "pub_ts": 1783272687
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-two-people-gaza-medics-say-2026-07-05/",
+    "title": "Israeli strike kills two people in Gaza, medics say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 00:53",
+    "pub_ts": 1783270396
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/easyjet-agrees-principle-castlelakes-sweetened-690-per-share-bid-2026-07-05/",
     "title": "easyJet agrees in principle on Castlelake's sweetened £6.90 per share bid",
@@ -991,6 +1018,24 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-russia-navies-hold-drills-off-china-coast-2026-07-05/",
+    "title": "China, Russia navies to hold drills off China coast",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 15:20",
+    "pub_ts": 1783236005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/bridgepoint-leads-200-mln-fundraising-french-hr-tech-firm-skello-source-says-2026-07-05/",
+    "title": "Bridgepoint leads €200 mln fundraising in French HR tech firm Skello, source says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-05 15:06",
+    "pub_ts": 1783235172
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/china/taiwan-military-resumes-anti-communist-classes-graduates-citing-chinese-threat-2026-07-05/",
     "title": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
     "path": "/world/",
@@ -1132,6 +1177,42 @@
     "pub_ts": 1783202743,
     "source": "Reuters",
     "category": "business"
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ukraine-denies-russian-capture-key-eastern-city-kostiantynivka-2026-07-04/",
+    "title": "Zelenskiy denies Russian capture of key eastern city Kostiantynivka",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-05 04:33",
+    "pub_ts": 1783197238
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-cultural-centre-closes-moldova-after-government-order-2026-07-04/",
+    "title": "Russian cultural centre closes in Moldova after government order",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 04:31",
+    "pub_ts": 1783197084
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/us-vp-vance-says-britain-has-been-failed-by-leaders-hopes-next-pm-delivers-2026-07-04/",
+    "title": "US VP Vance says Britain has been failed by leaders, hopes next PM delivers change",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 04:14",
+    "pub_ts": 1783196065
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/pope-leo-marks-us-anniversary-with-migrant-appeal-lampedusa-2026-07-04/",
+    "title": "Pope Leo urges US to welcome immigrants in July 4 appeal from Lampedusa",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-05 04:05",
+    "pub_ts": 1783195552
   },
   {
     "source": "Reuters",
