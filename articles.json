@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/easyjets-flight-path-start-up-takeover-deal-2026-07-05/",
+    "title": "EasyJet's flight path from start-up to takeover deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 04:35",
+    "pub_ts": 1783283743
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/michigan-democrat-drops-out-us-senate-primary-2026-07-05/",
     "title": "Michigan Democrat drops out of US Senate primary",
     "path": "/world/",
