@@ -1,6 +1,483 @@
 [
   {
     "source": "People's Daily",
+    "url": "https://cpc.people.com.cn/n1/2026/0706/c164113-40754395.html",
+    "title": "追光的你丨以规立本永葆清风正气",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://cpc.people.com.cn/n1/2026/0704/c164113-40753264.html",
+    "title": "追光的你丨“共产党就是为人民服务的”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://cpc.people.com.cn/n1/2026/0630/c164113-40750872.html",
+    "title": "时习之丨与总书记一起重温入党誓词",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0703/c461001-40752479.html",
+    "title": "“中国共产党为什么能的关键密码”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0704/c461001-40753222.html",
+    "title": "“不断创造无愧于时代和人民的新业绩”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0706/c1024-40754461.html",
+    "title": "习近平致电祝贺藤森庆子当选秘鲁总统",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40754476.html",
+    "title": "接续奋斗,向着更加伟大的胜利和荣光",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40754477.html",
+    "title": "铸牢听党指挥的强军之魂 攻坚建军百年奋斗目标",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40754491.html",
+    "title": "刘国中在山东调研",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754487.html",
+    "title": "两部门紧急预拨1.6亿元中央自然灾害救灾资金",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0706/c179464-41630950.html",
+    "title": "受台风“美莎克”影响 广西启动防汛二级应急响应",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hlj.people.com.cn/n2/2026/0706/c220005-41630547.html",
+    "title": "黑龙江装备制造业：从“单兵突进”到“链上协同”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://fj.people.com.cn/n2/2026/0706/c181466-41630566.html",
+    "title": "破解“停车难”等你来支招 福建征集社区停车治理良策",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40754472.html",
+    "title": "一江碧水焕新颜 好山水变身富民产业",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gz.people.com.cn/n2/2026/0706/c222152-41630141.html",
+    "title": "党建调研行丨以业态之“新”赋能共富之“兴”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ah.people.com.cn/n2/2026/0706/c227131-41630403.html",
+    "title": "安徽向上丨阜南：向“新”而行“汽”势足",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0706/c1008-40754478.html",
+    "title": "中国民用航空局原党组成员、纪检组组长梁潮平接受审查调查",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0706/c1012-40754344.html",
+    "title": "国乒包揽WTT美国大满贯女单冠亚军",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0706/c1012-40754355.html",
+    "title": "挪威淘汰巴西 英格兰艰难晋级",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-06 20:30",
+    "pub_ts": 1783341037
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/brookfield-backed-csquare-targets-up-418-billion-valuation-us-ipo-2026-07-06/",
+    "title": "Brookfield-backed Csquare targets up to $4.18 billion valuation in US IPO",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-06 20:27",
+    "pub_ts": 1783340845
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/maersk-hapag-lloyd-resume-sailings-through-suez-canal-one-their-services-2026-07-06/",
+    "title": "Shippers Maersk and Hapag-Lloyd begin return to Suez Canal trade route",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 20:25",
+    "pub_ts": 1783340710
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/goldman-sachs-hires-googles-evan-kotsovinos-partner-engineering-head-2026-07-06/",
+    "title": "Goldman Sachs hires Google's Evan Kotsovinos as partner, engineering head",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 20:24",
+    "pub_ts": 1783340694
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/broadcom-apple-extend-chip-partnership-through-2031-2026-07-06/",
+    "title": "Broadcom, Apple extend chip supply deal through 2031",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-06 20:22",
+    "pub_ts": 1783340542
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/kremlin-says-russia-china-naval-drills-are-not-threat-other-nations-2026-07-06/",
+    "title": "Kremlin says Russia-China naval drills are not a threat to other nations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 20:22",
+    "pub_ts": 1783340531
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/uae-crude-output-nears-record-following-opec-exit-sources-says-2026-07-06/",
+    "title": "UAE crude output nears record following OPEC exit, sources says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 20:17",
+    "pub_ts": 1783340264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/italy-reshapes-national-cloud-company-leonardo-poste-target-control-sources-say-2026-07-06/",
+    "title": "Italy reshapes national cloud company as Leonardo, Poste target control, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 20:17",
+    "pub_ts": 1783340230
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/senegals-sangomar-oil-project-has-produced-about-18-million-barrels-so-far-this-2026-07-06/",
+    "title": "Senegal's Sangomar oil project has produced about 18 million barrels so far this year, document says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 20:15",
+    "pub_ts": 1783340132
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/utah-prosecutors-seek-trial-charlie-kirk-murder-case-2026-07-06/",
+    "title": "Utah prosecutors seek trial in Charlie Kirk murder case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 20:11",
+    "pub_ts": 1783339907
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/four-people-killed-an-israeli-strike-nabatieh-southern-lebanon-2026-07-06/",
+    "title": "Israeli drone strike kills four people in southern Lebanon, Lebanese state media reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 20:11",
+    "pub_ts": 1783339878
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/hedge-funds-reap-june-gains-by-piling-into-short-bets-lose-oil-sources-say-2026-07-02/",
+    "title": "Hedge funds reap June gains by piling into short bets but lose on oil, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 20:07",
+    "pub_ts": 1783339649
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-adds-new-chemical-weapons-sanctions-linked-russia-2026-07-06/",
+    "title": "UK sanctions Russians it says developed chemical weapons used to kill Navalny",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 20:04",
+    "pub_ts": 1783339496
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/burglars-grab-jewellery-lightning-raid-frances-lalique-museum-2026-07-06/",
+    "title": "Burglars grab jewellery in lightning raid on France's Lalique museum",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 19:57",
+    "pub_ts": 1783339044
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korean-fintech-toss-postpones-us-listing-plan-media-report-says-2026-07-06/",
+    "title": "South Korean fintech Toss postpones US listing plan, media report says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 19:53",
+    "pub_ts": 1783338836
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-stock-futures-up-chip-shares-recover-oil-prices-decline-2026-07-06/",
+    "title": "S&P 500, Nasdaq futures rise as chip shares rebound",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 19:48",
+    "pub_ts": 1783338529
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/when-their-interests-align-trump-roberts-both-win-supreme-court-2026-07-04/",
+    "title": "When their interests align, Trump and Roberts both win at Supreme Court",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 18:56",
+    "pub_ts": 1783335400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/france-softens-stance-turkey-sampt-air-defence-sale-sources-say-2026-07-06/",
+    "title": "France softens stance on Turkey SAMP/T air defence sale, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:56",
+    "pub_ts": 1783335385
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/supreme-court-ruling-may-wipe-out-democrats-cash-advantage-senate-battlegrounds-2026-07-06/",
+    "title": "Supreme Court ruling may wipe out Democrats' cash advantage in Senate battlegrounds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 18:54",
+    "pub_ts": 1783335263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/thales-strikes-deal-exail-controlling-stake-after-safran-exits-talks-2026-07-06/",
+    "title": "Thales expands in fast-growing sea drone warfare market with Exail deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:52",
+    "pub_ts": 1783335172
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/bp-exits-bay-du-nord-oil-project-leaving-equinor-sole-owner-2026-07-06/",
+    "title": "BP exits Bay du Nord oil project, leaving Equinor as sole owner",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:44",
+    "pub_ts": 1783334662
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iranian-mourners-call-vengeance-trump-during-khamenei-funeral-procession-2026-07-06/",
+    "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:43",
+    "pub_ts": 1783334614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indian-it-firms-face-muted-q1-ai-shift-weak-demand-weigh-2026-07-06/",
+    "title": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:33",
+    "pub_ts": 1783333993
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/dior-beats-chanel-dress-taylor-swift-wedding-decade-2026-07-06/",
+    "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:31",
+    "pub_ts": 1783333881
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/nigeria-says-two-citizens-killed-anti-migrant-violence-surged-south-africa-2026-07-06/",
+    "title": "Nigeria says two citizens killed as anti-migrant violence surged in South Africa",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:27",
+    "pub_ts": 1783333666
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/pound-breaks-seven-day-rally-dollar-steadies-after-jobs-data-2026-07-06/",
+    "title": "Pound breaks seven-day rally as dollar steadies after jobs data",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:27",
+    "pub_ts": 1783333665
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/raul-castros-grandson-open-negotiations-with-us-he-tells-usa-today-2026-07-06/",
+    "title": "Raul Castro's grandson open to negotiations with the US, he tells USA Today",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:24",
+    "pub_ts": 1783333456
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/denmark-intervenes-eu-court-case-over-publishers-rights-2026-07-06/",
+    "title": "Denmark intervenes in EU court case over publishers' rights",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 18:19",
+    "pub_ts": 1783333184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spain-expects-welcome-100-million-tourists-this-year-2026-07-06/",
+    "title": "Spain expects to welcome 100 million tourists this year",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 18:13",
+    "pub_ts": 1783332823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/ukraines-military-strikes-russian-oil-refineries-oil-terminal-vysotsk-2026-07-06/",
+    "title": "Ukraine's military strikes Russian oil refineries, oil terminal in Vysotsk",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:12",
+    "pub_ts": 1783332778
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trump-goads-italys-meloni-again-eve-nato-summit-2026-07-06/",
+    "title": "Trump goads Italy's Meloni again on eve of NATO summit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:11",
+    "pub_ts": 1783332704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/us-back-to-school-bargain-hunt-starts-early-higher-bills-pressure-families-2026-07-06/",
+    "title": "US back-to-school bargain hunt starts early as higher bills pressure families",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 18:07",
+    "pub_ts": 1783332434
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/growing-number-brazilian-companies-seek-out-of-court-debt-fixes-amid-high-rates-2026-07-06/",
+    "title": "Growing number of Brazilian companies seek out-of-court debt fixes amid high rates",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 18:04",
+    "pub_ts": 1783332249
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/qatarenergy-halves-2026-scheduled-deliveries-lng-bangladesh-says-petrobangla-2026-07-06/",
+    "title": "QatarEnergy halves 2026 scheduled deliveries of LNG to Bangladesh, Petrobangla says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 17:59",
+    "pub_ts": 1783331974
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "title": "South Korea’s hottest new bachelors are chip workers",
+    "path": "/culture/",
+    "category": "culture",
+    "pub_bj": "2026-07-06 17:00",
+    "pub_ts": 1783328400
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0706/c461530-40753775.html",
     "title": "探索出跨越山海的东西部协作共赢之路",
     "path": "/general/",
@@ -358,6 +835,132 @@
     "category": "business",
     "pub_bj": "2026-07-06 15:57",
     "pub_ts": 1783324664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/sapporo-invest-643-million-carlsberg-southeast-asia-venture-25-stake-2026-07-06/",
+    "title": "Sapporo to invest $643 million in Carlsberg Southeast Asia venture for 25% stake",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 15:51",
+    "pub_ts": 1783324269
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/world-absorbs-historic-iran-war-oil-supply-loss-depleted-stocks-bring-risks-2026-07-06/",
+    "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:47",
+    "pub_ts": 1783324077
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/german-commercial-property-financing-sentiment-plunges-survey-shows-2026-07-06/",
+    "title": "German commercial property financing sentiment plunges, survey shows",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-06 15:45",
+    "pub_ts": 1783323958
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/german-industrial-orders-rise-19-may-2026-07-06/",
+    "title": "German industrial orders rose more than expected in May",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-06 15:37",
+    "pub_ts": 1783323449
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-07-03/",
+    "title": "Take Five: Warsh and peace",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:30",
+    "pub_ts": 1783323059
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/uaes-adnoc-launches-combined-lng-marketing-trading-platform-2026-07-06/",
+    "title": "UAE's ADNOC launches combined LNG marketing and trading platform",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:30",
+    "pub_ts": 1783323041
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/fleet-10-japan-related-ships-exit-hormuz-data-shows-2026-07-06/",
+    "title": "Fleet of 10 Japan-related ships exit Hormuz, data shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 15:23",
+    "pub_ts": 1783322614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/uae-developer-arada-launch-funds-management-firm-targeting-5-billion-2026-07-06/",
+    "title": "UAE developer Arada to launch funds management firm targeting $5 billion",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 15:17",
+    "pub_ts": 1783322266
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/samsung-appliance-workers-stage-rally-protesting-chip-workers-wage-deal-2026-07-06/",
+    "title": "Samsung appliance workers to stage a rally protesting chip workers' wage deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:17",
+    "pub_ts": 1783322227
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/taiwans-unimicron-seeks-14-billion-depositary-share-sale-chip-firms-tap-ai-boom-2026-07-06/",
+    "title": "Taiwan's Unimicron seeks $1.4 billion from depositary share sale as chip firms tap AI boom",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 15:13",
+    "pub_ts": 1783321986
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fincantieri-buy-four-underwater-firms-600-million-deal-2026-07-06/",
+    "title": "Fincantieri to buy four underwater firms in €600 million deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:08",
+    "pub_ts": 1783321706
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/boeings-new-737-assembly-line-starts-moving-everett-2026-07-06/",
+    "title": "Boeing's new 737 assembly line starts moving in Everett",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 15:03",
+    "pub_ts": 1783321391
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/uks-ocado-says-ceo-steiner-stay-role-through-2028-2026-07-06/",
+    "title": "UK's Ocado says CEO Steiner to stay in role through 2028",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 14:46",
+    "pub_ts": 1783320371
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/nato-ankara-summit-whos-going-what-expect-2026-07-06/",
+    "title": "NATO Ankara summit: who's going and what to expect",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 14:42",
+    "pub_ts": 1783320138
   },
   {
     "source": "Reuters",
