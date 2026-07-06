@@ -8,19 +8,25 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Arial, sans-serif;
           background: #f5f5f5; color: #222; font-size: 14px; }
-  .header { background: #fff; border-bottom: 2px solid #d32f2f; padding: 12px 20px;
-             display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
-  .header h1 { font-size: 18px; color: #d32f2f; display: flex; align-items: center; gap: 8px; }
-  .live-dot { width: 10px; height: 10px; border-radius: 50%; background: #4caf50;
-               animation: pulse 2s infinite; }
+  .header { background: #fff; border-bottom: 2px solid #d32f2f; padding: 10px 20px;
+             display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+  .header h1 { font-size: 16px; color: #d32f2f; display: flex; align-items: center; gap: 8px;
+               white-space: nowrap; }
+  .live-dot { width: 9px; height: 9px; border-radius: 50%; background: #4caf50;
+               animation: pulse 2s infinite; flex-shrink: 0; }
   @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
-  .header .meta { color: #666; font-size: 12px; }
+  /* 合并后的统计行：替代原来分离的 meta + stats-bar */
+  .header-stats { display: flex; gap: 14px; font-size: 12px; color: #666; align-items: center;
+                   flex-wrap: wrap; }
+  .header-stats b { color: #d32f2f; font-weight: 600; }
+  .tz-note { color: #aaa; font-size: 11px; }
 
   .source-bar { background: #fff; border-bottom: 1px solid #eee; padding: 6px 20px;
-                 display: flex; gap: 16px; font-size: 12px; flex-wrap: wrap; align-items: center; }
+                 display: flex; gap: 6px; font-size: 12px; flex-wrap: wrap; align-items: center;
+                 max-height: 92px; overflow-y: auto; }
   .source-chip { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px;
                  border-radius: 12px; cursor: pointer; transition: all 0.2s; white-space: nowrap;
-                 font-weight: 500; user-select: none; }
+                 font-weight: 500; user-select: none; border: 1px solid transparent; }
   .source-chip:hover { transform: scale(1.05); }
   .source-chip.active { box-shadow: 0 0 0 2px #333; }
   .chip-reuters { background: #ffebee; color: #c62828; }
@@ -28,9 +34,7 @@
   .chip-people { background: #fff3e0; color: #e65100; }
   .source-count { opacity: 0.7; font-size: 11px; }
 
-  .stats-bar { background: #fafafa; border-bottom: 1px solid #eee; padding: 6px 20px;
-                display: flex; gap: 20px; font-size: 12px; color: #555; flex-wrap: wrap; }
-  .stats-bar .stat b { color: #d32f2f; }
+  /* 原 stats-bar 已合并到 header 中，此处保留兼容 */
 
   .cat-bar { background: #fff; border-bottom: 1px solid #ddd; padding: 8px 20px;
              display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
@@ -51,30 +55,43 @@
                     background: #fafafa; cursor: pointer; font-size: 12px; }
   .toolbar .btn:hover { background: #eee; }
 
-  .article { background: #fff; border-bottom: 1px solid #eee; padding: 9px 20px;
-              display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
-              transition: background 0.3s; }
-  .article:hover { background: #f8f8ff; }
+  .article { background: #fff; border-bottom: 1px solid #eef0f2; padding: 8px 20px;
+              display: flex; align-items: center; gap: 10px;
+              transition: background 0.15s; line-height: 1.5; }
+  .article:hover { background: #f7f9fc; }
   .article.new { animation: flashNew 3s ease-out; }
   @keyframes flashNew {
-    0% { background: #c8e6c9; transform: translateX(-10px); opacity: 0; }
-    20% { background: #c8e6c9; transform: translateX(0); opacity: 1; }
+    0% { background: #e8f5e9; opacity: 0; }
+    15% { background: #e8f5e9; opacity: 1; }
     100% { background: #fff; }
   }
-  .idx { font-size: 11px; color: #bbb; min-width: 28px; text-align: right; flex-shrink: 0; }
-  .time { font-size: 13px; color: #388e3c; white-space: nowrap; flex-shrink: 0; min-width: 150px;
-          font-weight: 600; }
-  .src-badge { font-size: 10px; padding: 1px 6px; border-radius: 3px; white-space: nowrap;
-               flex-shrink: 0; font-weight: 600; letter-spacing: 0.3px; }
+  .idx { font-size: 11px; color: #c0c0c0; width: 24px; text-align: right; flex-shrink: 0;
+          font-family: 'SF Mono', Consolas, monospace; user-select: none; }
+  .time-block { display: inline-flex; align-items: center; flex-shrink: 0;
+                background: linear-gradient(135deg, #f0fdf4, #ecfdf5); border-radius: 5px;
+                padding: 2px 9px; border: 1px solid #bbf7d0; min-width: 72px; }
+  .time-block-paper { background: linear-gradient(135deg, #fffbeb, #fef3c7);
+                      border-color: #fde68a; }
+  .time-block-paper .time { color: #b45309; }
+  .time { font-size: 12px; color: #16a34a; white-space: nowrap; font-weight: 600; letter-spacing: -0.2px; }
+  .pub-time { font-size: 10px; color: #94a3b8; white-space: nowrap;
+              margin-left: 7px; padding-left: 7px; border-left: 1px solid #cbd5e1;
+              font-family: 'SF Mono', Consolas, monospace; }
+  .pub-updated { color: #2563eb; border-left-color: #bfdbfe; }
+  .meta-group { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; }
+  .src-badge { font-size: 10px; padding: 2px 7px; border-radius: 4px; white-space: nowrap;
+               flex-shrink: 0; font-weight: 600; letter-spacing: 0.2px; line-height: 1.3; }
   .src-reuters { background: #ffcdd2; color: #b71c1c; }
   .src-mit { background: #bbdefb; color: #0d47a1; }
   .src-people { background: #ffe0b2; color: #e65100; }
-  .path { font-size: 11px; color: #1565c0; background: #e3f2fd; padding: 2px 6px;
-            border-radius: 3px; white-space: nowrap; flex-shrink: 0; font-weight: 500; }
-  .title { font-size: 14px; color: #222; flex: 1; min-width: 200px; line-height: 1.4; }
-  .title a { color: #222; text-decoration: none; }
+  .path { font-size: 10px; color: #2563eb; background: #eff6ff; padding: 2px 7px;
+            border-radius: 4px; white-space: nowrap; flex-shrink: 0; font-weight: 500;
+            line-height: 1.3; border: 1px solid #dbeafe; }
+  .title { font-size: 13.5px; color: #1e293b; flex: 1; min-width: 180px; line-height: 1.45;
+           overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .title a { color: #1e293b; text-decoration: none; transition: color 0.15s; }
   .title a:hover { text-decoration: underline; color: #d32f2f; }
-  .title a:visited { color: #9c27b0; }
+  .title a:visited { color: #7c3aed; }
   .new-badge { position: fixed; top: 80px; right: 20px; background: #4caf50; color: #fff;
                 padding: 10px 20px; border-radius: 8px; font-size: 13px; z-index: 200;
                 box-shadow: 0 4px 12px rgba(0,0,0,0.2); display: none; }
@@ -85,16 +102,15 @@
 
 <div class="header">
   <h1><span class="live-dot"></span> 📰 Real-Time News Alerts</h1>
-  <div class="meta" id="headerMeta">多源新闻聚合 · 每5分钟自动更新 · 正在加载...</div>
+  <div class="header-stats" id="headerStats">
+    <span>共 <b id="statTotal">0</b> 篇</span>
+    <span>更新于 <b id="statUpdated">-</b></span>
+    <span>新增 <b id="statNew" style="color:#4caf50">0</b></span>
+    <span class="tz-note">🕐 时间均为北京时间</span>
+  </div>
 </div>
 
 <div class="source-bar" id="sourceBar"></div>
-
-<div class="stats-bar">
-  <span class="stat">文章总数: <b id="statTotal">0</b></span>
-  <span class="stat">上次更新: <b id="statUpdated">-</b></span>
-  <span class="stat">新文章: <b id="statNew">0</b></span>
-</div>
 
 <div class="cat-bar" id="catBar"></div>
 
@@ -115,7 +131,7 @@
 let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null, currentCatPaths = null;
 
 const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
-  ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
+  ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报','人民日报','chip-people']];
 // 人民日报版面分组（合并后，与后端一致）。每项: [显示名, [path前缀列表]]
 const PEOPLE_BANMIAN = [
   ['要闻', ['/01/','/02/','/03/','/04/','/06/']],
@@ -129,12 +145,39 @@ const PEOPLE_BANMIAN = [
   ['文化', ['/13/']],
   ['体育', ['/14/']],
   ['国际', ['/15/','/17/']],
-  ['广告', ['/16/']],
   ['财经', ['/18/']],
   ['科技', ['/19/']],
-  ['副刊', ['/20/']],
 ];
-const SRC_CLASS_MAP = {'Reuters':'src-reuters',"MIT Tech Review":'src-mit',"People's Daily":'src-people'};
+// 来源徽章/标签配色：原有 3 源固定色，新增源按名称哈希取调色板
+const SRC_FIXED = {
+  'Reuters': ['#ffcdd2', '#b71c1c'],
+  'MIT Tech Review': ['#bbdefb', '#0d47a1'],
+  '人民日报': ['#ffe0b2', '#e65100'],
+};
+const SRC_PALETTE = [
+  ['#e8f5e9', '#2e7d32'], ['#fff3e0', '#e65100'], ['#f3e5f5', '#6a1b9a'],
+  ['#e0f7fa', '#006064'], ['#fce4ec', '#ad1457'], ['#fff9c4', '#f9a825'],
+  ['#ede7f6', '#4527a0'], ['#e8eaf6', '#283593'], ['#fbe9e7', '#bf360c'],
+  ['#e0f2f1', '#004d40'], ['#f1f8e9', '#33691e'], ['#ffebee', '#b71c1c'],
+  ['#e1f5fe', '#0277bd'], ['#f9fbe7', '#827717'], ['#fde0ef', '#880e4f'],
+];
+function srcColor(name) {
+  if (SRC_FIXED[name]) return SRC_FIXED[name];
+  let h = 0;
+  for (const ch of name) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return SRC_PALETTE[h % SRC_PALETTE.length];
+}
+
+// 路透社预定义全部分类标签（即使当前无文章也显示，避免缺失 markets 等）
+const REUTERS_CATS = [
+  ['world', ['/world/']],
+  ['business', ['/business/']],
+  ['markets', ['/markets/']],
+  ['legal', ['/legal/']],
+  ['technology', ['/technology/']],
+  ['fact-check', ['/fact-check/']],
+  ['sports/world-cup', ['/sports/world-cup/']],
+];
 let allData = [];   // 最新一次拉取的全部文章，供动态生成分类用
 
 function deriveCats(rows){
@@ -154,7 +197,8 @@ function makeCatBtn(label, paths, isAll){
 function rebuildCatBar(){
   const bar=document.getElementById('catBar'); bar.innerHTML='';
   let cats=[];
-  if(currentSrc==="People's Daily"){ cats=PEOPLE_BANMIAN; }
+  if(currentSrc==="人民日报"){ cats=PEOPLE_BANMIAN; }
+  else if(currentSrc==="Reuters"){ cats=REUTERS_CATS; }  // 路透社用预定义分类（确保 markets 等始终显示）
   else if(currentSrc!==null){ cats=deriveCats(allData.filter(a=>a.source===currentSrc)); }
   bar.appendChild(makeCatBtn('全部', null, true));
   cats.forEach(([label,paths])=>bar.appendChild(makeCatBtn(label,paths,false)));
@@ -166,7 +210,10 @@ function buildSourceBar() {
   SOURCES.forEach(([label,key,cls])=>{
     const c=document.createElement('span');
     c.className=`source-chip ${(cls||'')}${label==='全部'?' active':''}`;
-    c.id=`src-${key||'all'}`; c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
+    c.id=`src-${key||'all'}`;
+    if(label==='全部'){ c.style.background='#333'; c.style.color='#fff'; }
+    else { const [bg,fg]=srcColor(label); c.style.background=bg; c.style.color=fg; c.style.borderColor=bg; }
+    c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
     c.onclick=()=>{currentSrc=key;currentCatPaths=null;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');rebuildCatBar();filterArticles();};
     bar.appendChild(c);
   });
@@ -185,10 +232,9 @@ async function loadArticles(isFirstLoad) {
     try{
       const r=await fetch(`last_run.json?t=${Date.now()}`),rd=await r.json();
       document.getElementById('statUpdated').textContent=rd.timestamp||'-';
-      document.getElementById('headerMeta').innerHTML=`多源聚合 · 更新: <b>${rd.timestamp||'-'}</b> · 新增 ${rd.new||0} 篇`;
     }catch(e){}
   }catch(e){
-    console.error(e);document.getElementById('headerMeta').innerHTML='⚠️ 加载失败';
+    console.error(e);document.getElementById('headerStats').innerHTML='⚠️ 加载失败';
     document.getElementById('articleList').innerHTML='<div class="empty-state"><div style="font-size:32px">❌</div><div>加载失败<br><small>'+e.message+'</small></div></div>';
   }
 }
@@ -202,19 +248,58 @@ function updateCatCounts(d){
     const c = paths===null ? srcData.length
       : srcData.filter(a=>paths.some(pr=>(a.path||'').startsWith(pr))).length;
     const el=b.querySelector('.cat-count'); if(el) el.textContent='('+c+')';
+    // 空分类自动隐藏（仅限动态推导的分类；路透社预定义分类始终显示）
+    b.style.display = (c === 0 && paths !== null && currentSrc !== 'Reuters') ? 'none' : '';
   });
 }
 function renderAll(d){const l=document.getElementById('articleList'),e=document.getElementById('emptyState');if(e)e.remove();
   l.innerHTML='';articleCount=0;d.sort((a,b)=>b.pub_ts-a.pub_ts);d.forEach(a=>{articleCount++;createArticleEl(a,false)});}
 function addArticleAtTop(a,i){articleCount++;createArticleEl(a,i);}
+function formatTime(a){
+  const s = a.source || 'Reuters';
+  if(s === '人民日报'){
+    // 人民日报是日报，只有"出版日期"没有具体时刻 —— 用出版日期呈现，避免伪造 07:00 这类假时刻
+    return '📅 ' + (a.pub_bj || '未知') + ' 出版';
+  }
+  // 路透社 / MIT 等通讯社：用真实发稿时间做相对展示，更"直播感"
+  const diff = Math.max(0, Date.now() - (a.pub_ts||0)*1000);
+  const min = Math.floor(diff/60000);
+  if(min < 1) return '刚刚';
+  if(min < 60) return min + '分钟前';
+  const hr = Math.floor(min/60);
+  if(hr < 24) return hr + '小时前';
+  return a.pub_bj || ''; // 后端已是北京时间字符串 'YYYY-MM-DD HH:MM'
+}
 function createArticleEl(a,isNew){
   const l=document.getElementById('articleList'),e=document.getElementById('emptyState');if(e)e.remove();
   const d=document.createElement('div');d.className='article'+(isNew?' new':'');
   d.dataset.date=a.pub_bj.slice(0,10);d.dataset.path=a.path||'';d.dataset.source=a.source||'Reuters';
   const s=a.source||'Reuters';
+  const relTime = formatTime(a);
+  const isPeople = (s === '人民日报');
+  let pubTime = '';
+  if(!isPeople){
+    if(a.pub_corrected){
+      pubTime = `<span class="pub-time pub-updated">更新 ${a.pub_updated_bj || ''}</span>`;
+    } else {
+      pubTime = `<span class="pub-time">${a.pub_bj || ''}</span>`;
+    }
+  }
+  const timeBlockCls = isPeople ? 'time-block time-block-paper' : 'time-block';
+  const bc = srcColor(s);
+  const catText = a.category || a.path || '/';
+  // 标题 hover 时显示完整文本（防止 text-overflow 截断）
+  const tbTitle = isPeople ? ('出版 ' + (a.pub_bj||''))
+                  : (a.pub_corrected ? ('发布 ' + (a.pub_bj||'') + ' · 更新 ' + (a.pub_updated_bj||''))
+                                     : ('发布 ' + (a.pub_bj||'')));
   d.innerHTML=`<span class="idx">${String(articleCount).padStart(2,'0')}</span>
-    <span class="time">${a.pub_bj} GMT+8</span><span class="src-badge ${SRC_CLASS_MAP[s]||'src-reuters'}">${s}</span>
-    <span class="path">${a.category||a.path||'/'}</span><span class="title"><a href="${a.url}" target="_blank">${a.title}</a></span>`;
+    <span class="${timeBlockCls}" title="${tbTitle}"><span class="time">${relTime}</span>${pubTime}</span>
+    <span class="meta-group">
+      <span class="src-badge" style="background:${bc[0]};color:${bc[1]}">${s}</span>
+      <span class="path" title="${catText}">${catText}</span>
+    </span>
+    <span class="title" title="${a.title}"><a href="${a.url}" target="_blank">${a.title}</a></span>`;
+  if(currentSrc!==null && s!==currentSrc) d.style.display='none';
   isNew?l.insertBefore(d,l.firstChild):l.appendChild(d);
 }
 function filterArticles(){
@@ -232,7 +317,7 @@ function clearFilters(){document.getElementById('searchInput').value='';
   currentCatPaths=null;currentSrc=null;
   document.querySelectorAll('.source-chip').forEach(c=>c.classList.remove('active'));
   document.querySelector('#src-all').classList.add('active');
-  rebuildCatBar();filterArticles();}
+  buildSourceBar();rebuildCatBar();filterArticles();}
 function showNewBadge(){const b=document.getElementById('newBadge');b.style.display='block';setTimeout(()=>b.style.display='none',3000);}
 function playBeep(){try{const ctx=new(window.AudioContext||window.webkitAudioContext)();
   const o=ctx.createOscillator(),g=ctx.createGain();o.connect(g);g.connect(ctx.destination);o.frequency.value=880;

@@ -15,11 +15,14 @@ import xml.etree.ElementTree as ET
 PORT = int(os.environ.get('PORT', 9528))
 POLL_INTERVAL = 60  # 秒
 MAX_ARTICLES = 3000
-# 不同新闻源用不同的时间窗口（小时）：高频率源用短窗口，更新慢的源用长窗口
+
+# 人民日报电子报时段爬取：仅在 BJT 05:00–09:00 窗口内抓取新数据
+# 其余时间返回缓存（30min），减少无效请求。首次启动例外（缓存空则允许初始爬取）。
+PEOPLE_HOURS = (5, 9)  # (start_hour, end_hour) 包含两端
 SOURCE_CUTOFF_HOURS = {
     'Reuters': 48,
-    "People's Daily": 48,
-    'MIT Tech Review': 336,  # 14天，发稿慢
+    '人民日报': 48,
+    'MIT Tech Review': 24,   # 只保留最近24小时内的文章
 }
 DEFAULT_CUTOFF_HOURS = 48
 BJ_TZ = timezone(timedelta(hours=8))
@@ -52,23 +55,57 @@ stats = {
 stats_lock = threading.Lock()
 
 # ============ HTTP 下载工具 ============
+import subprocess
 def http_get(url, headers=None, timeout=30):
-    """用 urllib 下载内容，自动处理编码（utf-8 / gbk）"""
-    hdrs = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot-News)'}
+    """用 curl 下载内容（绕过沙箱代理对 urllib 的 HTTPS 截断问题）。
+    curl 能完整流式获取，urllib 在代理下常遇 IncompleteRead。失败回退 urllib。
+    返回解码后的字符串；彻底失败返回 ''。"""
+    hdrs = ['-A', 'Mozilla/5.0 (compatible; Googlebot-News)']
     if headers:
-        hdrs.update(headers)
-    req = Request(url, headers=hdrs)
-    with urlopen(req, timeout=timeout) as resp:
-        data = resp.read()
-        enc = resp.headers.get_content_charset()
-        if enc:
-            return data.decode(enc)
-        for e in ('utf-8', 'gbk', 'gb2312'):
-            try:
-                return data.decode(e)
-            except UnicodeDecodeError:
-                continue
-        return data.decode('utf-8', errors='replace')
+        for k, v in headers.items():
+            hdrs += ['-H', f'{k}: {v}']
+    last_rc = None
+    for attempt in range(1, 4):  # curl 最多重试 3 次（沙箱网络偶发 35 连接错误）
+        try:
+            result = subprocess.run(
+                ['curl', '-sL', '--max-time', str(timeout), *hdrs, url],
+                capture_output=True, timeout=timeout + 15
+            )
+            if result.returncode == 0 and result.stdout:
+                for enc in ('utf-8', 'latin-1', 'gbk'):
+                    try:
+                        return result.stdout.decode(enc)
+                    except UnicodeDecodeError:
+                        continue
+                return result.stdout.decode('utf-8', errors='replace')
+            last_rc = result.returncode
+        except Exception as e:
+            last_rc = f'exc:{e}'
+        if attempt < 3:
+            time.sleep(1.5)
+    print(f"  [curl] 最终失败 (rc={last_rc})，回退 urllib")
+
+    # 回退：urllib
+    try:
+        uh = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot-News)'}
+        if headers:
+            uh.update(headers)
+        req = Request(url, headers=uh)
+        import ssl
+        with urlopen(req, timeout=timeout, context=ssl.create_default_context()) as resp:
+            raw = resp.read()
+            enc = resp.headers.get_content_charset()
+            if enc:
+                return raw.decode(enc)
+            for e in ('utf-8', 'latin-1', 'gbk'):
+                try:
+                    return raw.decode(e)
+                except UnicodeDecodeError:
+                    continue
+            return raw.decode('utf-8', errors='replace')
+    except Exception as e2:
+        print(f"  [urllib] 也失败: {e2}")
+        return ''
 
 # ============ 路透社 (Sitemap XML) ============
 def fetch_reuters():
@@ -80,12 +117,15 @@ def fetch_reuters():
         if from_offset:
             url += f"&from={from_offset}"
         try:
-            content = http_get(url, headers={'User-Agent': 'Googlebot-News', 'Accept': 'application/xml,text/xml'})
+            content = http_get(url, headers={
+                'User-Agent': 'Googlebot-News',
+                'Accept': 'application/xml,text/xml',
+            })
             if len(content) < 100:
                 break
             root = ET.fromstring(content)
         except Exception as e:
-            print(f"  [Reuters] 页{from_offset} 失败: {e}")
+            print(f"  [Reuters] 页{from_offset} 失败: {type(e).__name__}: {e}")
             break
 
         entries = root.findall('sm:url', NS)
@@ -107,6 +147,25 @@ def fetch_reuters():
                 pub_utc = datetime.fromisoformat(pub_utc_str.replace('Z', '+00:00'))
             except:
                 continue
+            # 原始 sitemap 时间（与 <lastmod> 相同，实为"重新索引/更新时间"）
+            raw_bj = pub_utc + timedelta(hours=8)
+
+            # —— 真实发布时间修正 ——
+            # 路透社 sitemap 的 <news:publication_date> 实为"重新索引/更新时间"（与 <lastmod> 100% 相同），
+            # 并非真实发布时间；真实发布日内嵌在文章 URL 的 slug 中（/YYYY-MM-DD/）。
+            # 策略：提取 slug 日期；若 sitemap 日期比 slug 晚 ≥1 天（典型污染），用 slug 日期覆盖
+            # （UTC 00:00 → 北京时间 08:00，时刻不可信故归零）；若同日则信任 sitemap（含正确时刻）。
+            pub_corrected = False
+            m = re.search(r'(\d{4})-(\d{2})-(\d{2})', article_url)
+            if m:
+                try:
+                    slug_date = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+                    delta_days = (pub_utc.date() - slug_date.date()).days
+                    if delta_days >= 1:
+                        pub_utc = slug_date
+                        pub_corrected = True
+                except Exception:
+                    pass
 
             pub_bj = pub_utc + timedelta(hours=8)
             path_match = re.match(r'https?://www\.reuters\.com(/[^/]*/)', article_url)
@@ -120,6 +179,8 @@ def fetch_reuters():
                 'category': path.strip('/'),
                 'pub_bj': pub_bj.strftime('%Y-%m-%d %H:%M'),
                 'pub_ts': int(pub_utc.timestamp()),
+                'pub_updated_bj': raw_bj.strftime('%Y-%m-%d %H:%M'),
+                'pub_corrected': pub_corrected,
             })
 
         if len(entries) < 50:
@@ -136,12 +197,17 @@ def fetch_mit_tech_review():
     MAX_ITEMS = 30
 
     try:
-        content = http_get(RSS_URL, headers={'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)'})
-        if len(content) < 100:
-            print(f"  [MIT TR] RSS 下载失败")
-            return []
+        content = http_get(RSS_URL, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)',
+            'Accept': 'application/rss+xml,application/xml,text/xml,*/*',
+        })
+        print(f"  [MIT TR] RSS 下载成功 ({len(content)} bytes)")
     except Exception as e:
-        print(f"  [MIT TR] RSS 下载失败: {e}")
+        print(f"  [MIT TR] RSS 下载失败: {type(e).__name__}: {e}")
+        return []
+
+    if not content or len(content) < 200:
+        print(f"  [MIT TR] RSS 内容过短或为空 ({len(content) if content else 0} bytes)")
         return []
 
     try:
@@ -151,6 +217,7 @@ def fetch_mit_tech_review():
         return []
 
     items = root.findall('.//item')
+    print(f"  [MIT TR] 解析到 {len(items)} 个 item")
     articles = []
 
     for item in items[:MAX_ITEMS]:
@@ -233,6 +300,14 @@ def fetch_people_daily():
     if _people_cache['articles'] and (now - _people_cache['ts'] < 1800):
         return _people_cache['articles']
 
+    # 时段爬取检查：非窗口时段返回缓存（首次启动例外：缓存为空则允许初始爬取）
+    now_bj = datetime.now(BJ_TZ)
+    if _people_cache['articles']:
+        h = now_bj.hour
+        if not (PEOPLE_HOURS[0] <= h < PEOPLE_HOURS[1]):
+            print(f"  [人民日报] 非爬取时段({h}:00，窗口{PEOPLE_HOURS[0]}-{PEOPLE_HOURS[1]}点)，使用缓存({_people_cache['articles']}篇)")
+            return _people_cache['articles']
+
     LAYOUT_URL = "http://paper.people.com.cn/rmrb/pc/layout/index.html"
     UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     try:
@@ -257,7 +332,11 @@ def fetch_people_daily():
     articles = []
     seen = set()
     edition_date = None
+    # 人民日报需跳过的版面（广告、副刊等）
+    SKIP_BANHAO = {'16', '20'}
     for href, banhao, banming in ban_list:
+        if banhao in SKIP_BANHAO:
+            continue
         node_url = urljoin(LAYOUT_URL, href)
         dm = re.search(r'(\d{6})/(\d{2})', href)
         if dm and edition_date is None:
@@ -272,19 +351,24 @@ def fetch_people_daily():
             ahref = am.group(1)
             title = re.sub(r'<[^>]+>', '', am.group(2)).strip()
             title = html_module.unescape(title)
+            # 去掉"本版责编：XXX"等编者信息行
+            title = re.sub(r'^本版责编[：:].*$', '', title).strip()
+            # 去掉纯空格/标点残留
+            title = re.sub(r'^[\s\-·—–]+$|^编辑：.*$', '', title).strip()
             if len(title) < 6:
                 continue
             full = urljoin(node_url, ahref)
             if full in seen:
                 continue
             seen.add(full)
-            pub_bj = (edition_date or datetime.now(BJ_TZ).strftime('%Y-%m-%d')) + " 07:00"
+            # 电子报显示出版日期（不虚构时间）
+            pub_bj = edition_date or datetime.now(BJ_TZ).strftime('%Y-%m-%d')
             try:
-                pub_ts = int(datetime.strptime(pub_bj, '%Y-%m-%d %H:%M').replace(tzinfo=BJ_TZ).timestamp())
+                pub_ts = int(datetime.strptime(pub_bj + ' 08:00', '%Y-%m-%d %H:%M').replace(tzinfo=BJ_TZ).timestamp())
             except Exception:
                 pub_ts = int(datetime.now(BJ_TZ).timestamp())
             articles.append({
-                'source': "People's Daily",
+                'source': "人民日报",
                 'url': full,
                 'title': title,
                 'path': f"/{banhao}/",
@@ -295,7 +379,7 @@ def fetch_people_daily():
 
     if articles:
         _people_cache = {'ts': now, 'articles': articles}
-    print(f"  [People's Daily] 电子报: {len(articles)} 篇, {len(ban_list)} 个版面")
+    print(f"  [人民日报] 电子报: {len(articles)} 篇, {len(ban_list)} 个版面")
     return articles
 
 
@@ -438,6 +522,8 @@ def enrich_reuters(articles):
             a['pub_source'] = 'article'   # 标记来自文章页真实发布时间
         except Exception:
             pass
+
+
 
 
 # ============ SSE 客户端管理 ============
@@ -730,12 +816,16 @@ class ThreadedHTTPServer(ThreadingMixIn, HTTPServer):
 
 # ============ 主入口 ============
 def main():
+    # 强制无缓冲输出（后台运行时日志才能实时写入文件）
+    import sys
+    sys.stdout.reconfigure(line_buffering=True)
+    sys.stderr.reconfigure(line_buffering=True)
+
     print("=" * 60)
     print("  Multi-Source Live News - SSE Server (Render)")
     print("=" * 60)
     print(f"  端口: {PORT}")
     print(f"  轮询间隔: {POLL_INTERVAL}s")
-    print(f"  来源: Reuters + MIT Tech Review + People's Daily")
     print("=" * 60)
 
     # 启动轮询线程
