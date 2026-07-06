@@ -299,6 +299,147 @@ def fetch_people_daily():
     return articles
 
 
+# ============ Playwright (路透社真实发布时间 enrichment) ============
+# 路透社 sitemap 的 publication_date 实为"重新索引/更新时间"，非真实发布时间。
+# 真实发布时间仅在文章页 JSON-LD 的 datePublished 字段。文章页被 DataDome 拦截，
+# 普通 urllib 抓不到；尝试用无头 Chromium 渲染提取。若被拦或环境无 Chromium，
+# 自动退回 sitemap 时间（PW_ENABLED=False），不影响主流程。
+PW_ENABLED = False
+_pw = None
+_pw_browser = None
+_enriched_urls = set()
+PW_PROBE_URL = None          # 启动时探测用的文章 URL
+PW_BUDGET_S = 40             # 每次轮询 enrichment 最多耗时（秒）
+PW_GOTO_TIMEOUT = 25000      # 单篇文章导航超时（毫秒）
+
+def _parse_iso(s):
+    s = (s or '').strip()
+    if not s:
+        raise ValueError('empty')
+    try:
+        return datetime.fromisoformat(s.replace('Z', '+00:00'))
+    except Exception:
+        pass
+    for fmt in ('%Y-%m-%dT%H:%M:%S%z', '%Y-%m-%dT%H:%M:%S.%f%z',
+                '%Y-%m-%d %H:%M:%S%z', '%Y-%m-%dT%H:%M:%S', '%Y-%m-%d %H:%M:%S'):
+        try:
+            return datetime.strptime(s, fmt)
+        except Exception:
+            continue
+    raise ValueError('unparseable: ' + s)
+
+def init_playwright():
+    """启动无头 Chromium 并探测能否取到真实发布时间；失败则保持关闭。"""
+    global _pw, _pw_browser, PW_ENABLED, PW_PROBE_URL
+    try:
+        from playwright.sync_api import sync_playwright
+        _pw = sync_playwright().start()
+        _pw_browser = _pw.chromium.launch(
+            headless=True,
+            args=['--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu']
+        )
+        print("[PW] Chromium 启动成功，开始探测文章页可达性...")
+        # 探测：取一篇路透社文章，尝试提取 datePublished
+        probe = PW_PROBE_URL or _get_one_reuters_url()
+        if probe and _enrich_one(probe):
+            PW_ENABLED = True
+            print("[PW] 探测成功：将用文章页真实发布时间覆盖 sitemap 时间")
+        else:
+            PW_ENABLED = False
+            print("[PW] 探测失败（文章页被反爬拦截或环境受限）：退回 sitemap 时间")
+            try:
+                _pw_browser.close()
+            except Exception:
+                pass
+            try:
+                _pw.stop()
+            except Exception:
+                pass
+            _pw_browser = None
+            _pw = None
+    except Exception as e:
+        PW_ENABLED = False
+        print(f"[PW] Playwright 不可用（退回 sitemap 时间）: {e}")
+
+def _get_one_reuters_url():
+    """从 sitemap 取一篇路透社文章 URL，供探测使用。"""
+    try:
+        content = http_get(
+            "https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml",
+            headers={'User-Agent': 'Googlebot-News', 'Accept': 'application/xml,text/xml'}
+        )
+        m = re.search(r'<loc>(https?://www\.reuters\.com/[^<]+)</loc>', content or '')
+        return m.group(1) if m else None
+    except Exception:
+        return None
+
+def _enrich_one(url):
+    """从单篇路透社文章页提取 datePublished 字符串；失败返回 None。"""
+    if _pw_browser is None:
+        return None
+    page = None
+    try:
+        page = _pw_browser.new_page(
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+                       '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        )
+        resp = page.goto(url, timeout=PW_GOTO_TIMEOUT, wait_until='domcontentloaded')
+        if resp is None or resp.status >= 400:
+            return None
+        page.wait_for_timeout(3500)
+        data = page.evaluate(r"""() => {
+            const out = {};
+            document.querySelectorAll('script[type="application/ld+json"]').forEach(s => {
+                try {
+                    const j = JSON.parse(s.textContent);
+                    const arr = Array.isArray(j) ? j : [j];
+                    for (const o of arr) {
+                        if (o && o.datePublished) out.datePublished = o.datePublished;
+                        if (o && o.dateModified) out.dateModified = o.dateModified;
+                    }
+                } catch(e){}
+            });
+            const t = document.querySelector('time[datetime]');
+            if (t) out.timeTag = t.getAttribute('datetime');
+            return out;
+        }""")
+        if isinstance(data, dict) and data.get('datePublished'):
+            return data['datePublished']
+        return None
+    except Exception:
+        return None
+    finally:
+        if page is not None:
+            try:
+                page.close()
+            except Exception:
+                pass
+
+def enrich_reuters(articles):
+    """用文章页真实发布时间就地覆盖 sitemap 时间（仅未处理过的新文章，受时间预算限制）。"""
+    if not PW_ENABLED or _pw_browser is None:
+        return
+    deadline = time.time() + PW_BUDGET_S
+    for a in articles:
+        if a.get('source') != 'Reuters':
+            continue
+        if a['url'] in _enriched_urls:
+            continue
+        if time.time() > deadline:
+            break
+        dp = _enrich_one(a['url'])
+        _enriched_urls.add(a['url'])
+        if not dp:
+            continue
+        try:
+            pub_dt = _parse_iso(dp).astimezone(BJ_TZ)
+            a['pub_bj'] = pub_dt.strftime('%Y-%m-%d %H:%M')
+            a['pub_ts'] = int(pub_dt.timestamp())
+            a['pub_source'] = 'article'   # 标记来自文章页真实发布时间
+        except Exception:
+            pass
+
+
 # ============ SSE 客户端管理 ============
 def add_client(client_id, writer):
     with clients_lock:
@@ -345,6 +486,9 @@ def poll_loop():
     global all_articles
     print("[POLL] 轮询线程启动")
 
+    # 初始化 Playwright（探测文章页可达性；被拦则自动退回 sitemap 时间）
+    init_playwright()
+
     # 首次加载
     print("[POLL] 首次加载多源新闻...")
     fetch_all_sources(is_baseline=True)
@@ -368,6 +512,8 @@ def fetch_all_sources(is_baseline):
     try:
         reuters = fetch_reuters()
         new_r = [a for a in reuters if a['url'] not in seen_urls]
+        # 用文章页真实发布时间覆盖 sitemap（被拦则自动跳过，退回 sitemap 时间）
+        enrich_reuters(new_r)
         new_articles.extend(new_r)
         print(f"  新增: {len(new_r)} 篇")
     except Exception as e:

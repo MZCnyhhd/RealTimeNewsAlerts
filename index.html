@@ -116,13 +116,38 @@ let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null
 
 const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
   ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
-const CATEGORIES = [['全部',null],
-  ['01版：要闻','/01/'],['02版：要闻','/02/'],['03版：要闻','/03/'],['04版：要闻','/04/'],
+// 人民日报固定 20 版面（顺序固定，与后端一致）
+const PEOPLE_BANMIAN = [['01版：要闻','/01/'],['02版：要闻','/02/'],['03版：要闻','/03/'],['04版：要闻','/04/'],
   ['05版：评论','/05/'],['06版：要闻','/06/'],['07版：读者来信','/07/'],['08版：经济','/08/'],
   ['09版：理论','/09/'],['10版：生态','/10/'],['11版：政治','/11/'],['12版：社会','/12/'],
   ['13版：文化','/13/'],['14版：体育','/14/'],['15版：国际','/15/'],['16版：广告','/16/'],
   ['17版：国际','/17/'],['18版：财经','/18/'],['19版：科技','/19/'],['20版：副刊','/20/']];
 const SRC_CLASS_MAP = {'Reuters':'src-reuters',"MIT Tech Review":'src-mit',"People's Daily":'src-people'};
+let allData = [];   // 最新一次拉取的全部文章，供动态生成分类用
+
+function deriveCats(rows){
+  // 从文章动态提取 (path -> 分类标签)，用于路透社/MIT 各自分类
+  const m = new Map();
+  rows.forEach(a=>{ const p=a.path||'/'; if(!m.has(p)) m.set(p, a.category||a.path||p); });
+  return Array.from(m.entries());
+}
+function makeCatBtn(label, key, isAll){
+  const b=document.createElement('button');
+  b.className='cat-btn'+(isAll?' active':'');
+  b.dataset.key=key||'all';
+  b.innerHTML=`${label} <span class="cat-count" id="cat-${key||'all'}">(0)</span>`;
+  b.onclick=()=>{currentCat=key;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
+  return b;
+}
+function rebuildCatBar(){
+  const bar=document.getElementById('catBar'); bar.innerHTML='';
+  let cats=[];
+  if(currentSrc==="People's Daily"){ cats=PEOPLE_BANMIAN; }
+  else if(currentSrc!==null){ cats=deriveCats(allData.filter(a=>a.source===currentSrc)); }
+  bar.appendChild(makeCatBtn('全部', null, true));
+  cats.forEach(([label,key])=>bar.appendChild(makeCatBtn(label,key,false)));
+  updateCatCounts(allData);
+}
 
 function buildSourceBar() {
   const bar=document.getElementById('sourceBar'); bar.innerHTML='';
@@ -130,25 +155,15 @@ function buildSourceBar() {
     const c=document.createElement('span');
     c.className=`source-chip ${(cls||'')}${label==='全部'?' active':''}`;
     c.id=`src-${key||'all'}`; c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
-    c.onclick=()=>{currentSrc=key;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');filterArticles();};
+    c.onclick=()=>{currentSrc=key;currentCat=null;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');rebuildCatBar();filterArticles();};
     bar.appendChild(c);
-  });
-}
-
-function buildCatBar() {
-  const bar=document.getElementById('catBar'); bar.innerHTML='';
-  CATEGORIES.forEach(([label,key])=>{
-    const b=document.createElement('button');
-    b.className='cat-btn'+(label==='全部'?' active':'');
-    b.innerHTML=`${label} <span class="cat-count" id="cat-${key||'all'}">(0)</span>`;
-    b.onclick=()=>{currentCat=key;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
-    bar.appendChild(b);
   });
 }
 
 async function loadArticles(isFirstLoad) {
   try {
     const resp=await fetch(`articles.json?t=${Date.now()}`), data=await resp.json();
+    allData=data;
     document.getElementById('statTotal').textContent=data.length;
     updateSourceCounts(data); updateCatCounts(data);
     let nc=0,nA=[];
@@ -168,9 +183,14 @@ async function loadArticles(isFirstLoad) {
 function updateSourceCounts(d){const t=d.length;let e=document.getElementById('srcCnt-all');if(e)e.textContent='('+t+')';
   SOURCES.slice(1).forEach(([,k])=>{const c=d.filter(a=>(a.source||'Reuters')===k).length;
     e=document.getElementById('srcCnt-'+k);if(e)e.textContent='('+c+')';});}
-function updateCatCounts(d){const t=d.length;let e=document.getElementById('cat-all');if(e)e.textContent='('+t+')';
-  CATEGORIES.slice(1).forEach(([,k])=>{const c=d.filter(a=>(a.path||'').startsWith(k)).length;
-    e=document.getElementById('cat-'+k);if(e)e.textContent='('+c+')';});}
+function updateCatCounts(d){
+  const srcData = currentSrc===null ? d : d.filter(a=>(a.source||'Reuters')===currentSrc);
+  document.querySelectorAll('.cat-btn').forEach(b=>{
+    const k=b.dataset.key;
+    const c = (k==='all'||k===null) ? srcData.length : srcData.filter(a=>(a.path||'').startsWith(k)).length;
+    const el=b.querySelector('.cat-count'); if(el) el.textContent='('+c+')';
+  });
+}
 function renderAll(d){const l=document.getElementById('articleList'),e=document.getElementById('emptyState');if(e)e.remove();
   l.innerHTML='';articleCount=0;d.sort((a,b)=>b.pub_ts-a.pub_ts);d.forEach(a=>{articleCount++;createArticleEl(a,false)});}
 function addArticleAtTop(a,i){articleCount++;createArticleEl(a,i);}
@@ -197,17 +217,16 @@ function filterArticles(){
 function clearFilters(){document.getElementById('searchInput').value='';
   document.getElementById('dateFrom').value='';document.getElementById('dateTo').value='';
   currentCat=null;currentSrc=null;
-  document.querySelectorAll('.cat-btn').forEach(b=>b.classList.remove('active'));
-  document.querySelector('.cat-btn').classList.add('active');
   document.querySelectorAll('.source-chip').forEach(c=>c.classList.remove('active'));
-  document.querySelector('#src-all').classList.add('active');filterArticles();}
+  document.querySelector('#src-all').classList.add('active');
+  rebuildCatBar();filterArticles();}
 function showNewBadge(){const b=document.getElementById('newBadge');b.style.display='block';setTimeout(()=>b.style.display='none',3000);}
 function playBeep(){try{const ctx=new(window.AudioContext||window.webkitAudioContext)();
   const o=ctx.createOscillator(),g=ctx.createGain();o.connect(g);g.connect(ctx.destination);o.frequency.value=880;
   g.gain.setValueAtTime(0.2,ctx.currentTime);g.gain.exponentialRampToValueAtTime(0.01,ctx.currentTime+0.5);o.start();o.stop(ctx.currentTime+0.5);}catch(e){}}
 document.addEventListener('keydown',e=>{if(e.key==='/'&&document.activeElement.tagName!=='INPUT'){e.preventDefault();document.getElementById('searchInput').focus();}
   if(e.key==='Escape'){if(document.activeElement.tagName==='INPUT')document.activeElement.blur();clearFilters();}});
-buildSourceBar();buildCatBar();loadArticles(true);pollTimer=setInterval(()=>loadArticles(false),30000);
+buildSourceBar();rebuildCatBar();loadArticles(true);pollTimer=setInterval(()=>loadArticles(false),30000);
 </script>
 </body>
 </html>

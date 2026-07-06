@@ -1,2 +1,7 @@
 # Multi-Source Live News - Render 部署配置
-# 纯 Python 标准库，无第三方依赖
+# 核心依赖仅 Python 标准库，无第三方依赖，构建轻量、稳定。
+#
+# 可选增强（路透社真实发布时间）：app.py 已内置 Playwright 无头浏览器 enrichment，
+# 但默认关闭。启用条件：① 升级 Render 到付费层(Starter 及以上，免费层内存不足)；
+# ② 本文件加入 `playwright>=1.40`；③ Render Build Command 增加 `playwright install chromium`。
+# 未满足时 app.py 会自动退回 sitemap 时间，不影响主流程。
