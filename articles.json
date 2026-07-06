@@ -1,6 +1,114 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/democratic-ags-oppose-trump-plan-impose-tariffs-forced-labor-concerns-2026-07-06/",
+    "title": "Democratic AGs oppose Trump plan to impose tariffs on forced labor concerns",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 05:46",
+    "pub_ts": 1783374394
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/semiconductor-software-company-syntiant-corp-files-us-ipo-2026-07-06/",
+    "title": "Semiconductor and software company Syntiant Corp files for US IPO",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-07 05:46",
+    "pub_ts": 1783374390
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/wall-street-regulator-should-stick-quarterly-reports-investor-groups-say-2026-07-06/",
+    "title": "Wall Street regulator should stick to quarterly reports, investor groups say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 05:45",
+    "pub_ts": 1783374344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/toyota-build-36-billion-texas-plant-shift-some-truck-production-mexico-2026-07-06/",
+    "title": "Toyota to build $3.6 billion Texas plant, shift some truck production from Mexico",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 05:40",
+    "pub_ts": 1783374019
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-says-walmart-will-lower-prices-many-products-2026-07-06/",
+    "title": "Trump says Walmart will lower prices on ground beef, other items",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 05:37",
+    "pub_ts": 1783373859
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/rivian-forecasts-quarterly-revenue-above-estimates-2026-07-06/",
+    "title": "EV maker Rivian expects increase in quarterly revenue",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 05:33",
+    "pub_ts": 1783373596
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/maine-democrat-platner-says-he-will-reflect-senate-campaign-denies-report-sex-2026-07-06/",
+    "title": "Maine Democrat Platner says he will 'reflect' on Senate campaign, denies reported sex allegations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 05:19",
+    "pub_ts": 1783372756
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/vista-equity-quinti-capital-offer-buy-french-adtech-firm-criteo-sources-say-2026-07-06/",
+    "title": "Vista Equity, Quinti Capital offer to buy French adtech firm Criteo, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 05:18",
+    "pub_ts": 1783372716
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/pjm-says-emergency-electricity-conservation-during-us-heat-wave-kept-power-2026-07-06/",
+    "title": "PJM says emergency electricity conservation during US heat wave kept power demand shy of record",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 05:17",
+    "pub_ts": 1783372664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/india-aims-make-it-easier-short-by-nearly-doubling-stocks-eligible-borrowing-2026-07-06/",
+    "title": "India aims to make it easier to short by nearly doubling stocks eligible for borrowing, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 05:14",
+    "pub_ts": 1783372487
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/legal-tech-firm-ends-lawsuit-after-us-restores-access-anthropic-models-2026-07-06/",
+    "title": "Legal tech firm ends lawsuit after US restores access to Anthropic models",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 05:14",
+    "pub_ts": 1783372470
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/columbia-students-sue-kasowitz-law-firm-over-64-million-legal-fee-antisemitism-2026-07-06/",
+    "title": "Columbia students sue Kasowitz law firm over $6.4 million legal fee in antisemitism case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 05:13",
+    "pub_ts": 1783372423
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/cubas-national-electric-grid-collapses-reason-unknown-2026-07-06/",
     "title": "Cuba's national electric grid collapses, reason unknown",
     "path": "/business/",
@@ -79,6 +187,15 @@
     "category": "world",
     "pub_bj": "2026-07-07 02:56",
     "pub_ts": 1783364207
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/VP5KZKKYHFODVN5Y2YKWGT5JYQ-2026-07-06/",
+    "title": "Volkswagen estuda demitir até 100 mil na Alemanha, não no Brasil",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-07 02:26",
+    "pub_ts": 1783362377
   },
   {
     "source": "Reuters",
