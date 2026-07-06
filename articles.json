@@ -1,5 +1,230 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
+    "title": "US Supreme Court won't block Texas app store age verification law",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 02:11",
+    "pub_ts": 1783361463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/wef-founder-schwab-plots-return-forum-through-advisory-role-wsj-reports-2026-07-06/",
+    "title": "WEF founder Schwab seeks return to forum through advisory role, WSJ reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 02:04",
+    "pub_ts": 1783361045
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "title": "Your family’s $300 stake in OpenAI",
+    "path": "/artificial-intelligence/",
+    "category": "artificial intelligence",
+    "pub_bj": "2026-07-07 02:00",
+    "pub_ts": 1783360800
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/when-two-privileges-collide-intersection-attorney-client-spousal-privileges--pracin-2026-07-02/",
+    "title": "When two privileges collide — The intersection of attorney-client and spousal privileges",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 01:59",
+    "pub_ts": 1783360754
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-interest-rates-could-fall-least-3-central-bank-governor-says-2026-07-06/",
+    "title": "Israeli interest rates could fall to at least 3%, central bank governor says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:56",
+    "pub_ts": 1783360614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/canada-picks-germanys-tkms-build-12-new-submarines-globe-mail-reports-2026-07-06/",
+    "title": "Canada taps Germany's TKMS for 12 submarines ahead of NATO summit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:56",
+    "pub_ts": 1783360560
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/frances-macron-visits-syria-first-trip-by-an-eu-head-state-since-assad-toppled-2026-07-06/",
+    "title": "France's Macron visits Syria, in first trip by an EU head of state since Assad toppled",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:55",
+    "pub_ts": 1783360523
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-it-is-absurd-that-production-missile-defence-arms-cannot-meet-2026-07-06/",
+    "title": "Ukraine's Zelenskiy: It is 'absurd' that production of missile defence arms cannot meet demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:55",
+    "pub_ts": 1783360509
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/lebanons-south-takes-breath-families-return-shattered-homes-lives-2026-07-06/",
+    "title": "Lebanon's south takes a breath as families return to shattered homes and lives",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:43",
+    "pub_ts": 1783359824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/germany-plans-investor-friendly-reforms-gas-power-stations-2026-07-06/",
+    "title": "Germany plans investor-friendly reforms for gas power stations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:40",
+    "pub_ts": 1783359648
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/prince-harry-arrives-uk-itv-news-reports-2026-07-06/",
+    "title": "Prince Harry arrives in the UK, ITV News reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:38",
+    "pub_ts": 1783359495
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-agencies-have-seized-more-than-600-drones-near-world-cup-sites-2026-07-06/",
+    "title": "US agencies have seized more than 600 drones near World Cup sites",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:34",
+    "pub_ts": 1783359280
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/dutch-announce-over-3-billion-defence-deals-nato-forum-minister-says-2026-07-06/",
+    "title": "Dutch to announce over €3 billion in defence deals at NATO forum, minister says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:33",
+    "pub_ts": 1783359223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/ecbs-schnabel-says-iran-shock-is-not-over-2026-07-06/",
+    "title": "ECB's Schnabel says Iran shock is not over",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:32",
+    "pub_ts": 1783359138
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/alberta-ontario-propose-new-2050-mile-canada-oil-pipeline-2026-07-06/",
+    "title": "Alberta and Ontario propose new 2,050-mile Canada oil pipeline",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:29",
+    "pub_ts": 1783358955
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/un-rights-council-orders-urgent-sudan-al-obeid-inquiry-2026-07-06/",
+    "title": "UN deems Israel's detention of Gaza doctor 'arbitrary' as health fears mount",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:33",
+    "pub_ts": 1783355631
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/financial-services-ai-dangers-highlighted-by-regulators-review-2026-07-06/",
+    "title": "Financial services AI dangers highlighted by regulator's review",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 00:24",
+    "pub_ts": 1783355084
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-pardons-11-most-violating-clean-air-act-2026-07-04/",
+    "title": "Trump pardons 11, most for violating Clean Air Act",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 00:19",
+    "pub_ts": 1783354783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britain-netherlands-finland-poland-say-they-are-making-progress-defence-plan-2026-07-06/",
+    "title": "Britain, Netherlands, Finland, Poland say they are making progress on defence plan",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:16",
+    "pub_ts": 1783354592
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britains-ftse-indexes-slip-miners-offset-financial-gains-2026-07-06/",
+    "title": "Britain's FTSE 100 slips as miners, healthcare losses weigh",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:13",
+    "pub_ts": 1783354406
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/britain-should-consider-regulating-ai-models-fca-official-says-2026-07-06/",
+    "title": "Britain should consider regulating AI models, FCA official says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 00:08",
+    "pub_ts": 1783354126
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/chicago-mercantile-exchange-replaces-law-firm-lawsuit-against-cftc-2026-07-06/",
+    "title": "Chicago Mercantile Exchange replaces law firm in lawsuit against CFTC",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 00:07",
+    "pub_ts": 1783354065
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/",
+    "title": "Microsoft to cut 4,800 jobs, overhaul Xbox unit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 00:06",
+    "pub_ts": 1783353962
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/natos-rutte-stresses-democratic-rights-after-turkeys-presummit-crackdown-2026-07-06/",
+    "title": "NATO’s Rutte stresses democratic rights after Turkey’s pre‑summit crackdown",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 00:03",
+    "pub_ts": 1783353824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/senegals-faye-plans-form-his-own-political-party-2026-07-06/",
+    "title": "Senegal's Faye plans to form his own political party",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:02",
+    "pub_ts": 1783353730
+  },
+  {
     "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0706/c1003-40754483.html",
     "title": "泰山邕江一紧一松,共同指向同一命题",
@@ -196,6 +421,60 @@
     "category": "markets",
     "pub_bj": "2026-07-06 23:15",
     "pub_ts": 1783350906
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russian-drivers-patience-is-tested-fuel-shortages-drag-2026-07-06/",
+    "title": "Russian drivers' patience is tested as fuel shortages drag on ​",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 22:40",
+    "pub_ts": 1783348810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/austrian-court-convicts-ex-intelligence-chief-syrias-raqqa-torture-2026-07-06/",
+    "title": "Austrian court convicts ex-intelligence chief in Syria's Raqqa of torture",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 22:38",
+    "pub_ts": 1783348710
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/tennessee-guard-soldiers-trump-backed-task-force-kill-armed-man-authorities-say-2026-07-06/",
+    "title": "Tennessee Guard soldiers on Trump-backed task force kill armed man, authorities say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 22:37",
+    "pub_ts": 1783348649
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/kremlin-says-putin-trump-agreed-during-weekend-call-talk-again-near-future-2026-07-06/",
+    "title": "Kremlin says Putin and Trump agreed during weekend call to talk again in 'near future'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 22:35",
+    "pub_ts": 1783348524
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-service-sector-growth-dips-june-employment-rebounds-after-months-contraction-2026-07-06/",
+    "title": "US service sector growth dips in June; employment rebounds after months of contraction",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 22:35",
+    "pub_ts": 1783348507
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/netanyahu-government-challenge-supreme-court-reignites-judicial-row-2026-07-06/",
+    "title": "Netanyahu government challenge to Supreme Court reignites judicial dispute",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 22:31",
+    "pub_ts": 1783348304
   },
   {
     "source": "Reuters",
