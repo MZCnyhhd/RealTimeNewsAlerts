@@ -7,7 +7,7 @@ import os, sys, re, json, time, threading, html as html_module
 from datetime import datetime, timedelta, timezone
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from socketserver import ThreadingMixIn
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse, parse_qs, urljoin
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -53,13 +53,22 @@ stats_lock = threading.Lock()
 
 # ============ HTTP 下载工具 ============
 def http_get(url, headers=None, timeout=30):
-    """用 urllib 下载内容"""
+    """用 urllib 下载内容，自动处理编码（utf-8 / gbk）"""
     hdrs = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot-News)'}
     if headers:
         hdrs.update(headers)
     req = Request(url, headers=hdrs)
     with urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode('utf-8')
+        data = resp.read()
+        enc = resp.headers.get_content_charset()
+        if enc:
+            return data.decode(enc)
+        for e in ('utf-8', 'gbk', 'gb2312'):
+            try:
+                return data.decode(e)
+            except UnicodeDecodeError:
+                continue
+        return data.decode('utf-8', errors='replace')
 
 # ============ 路透社 (Sitemap XML) ============
 def fetch_reuters():
@@ -214,74 +223,80 @@ def fetch_mit_tech_review():
     return articles
 
 
-# ============ 人民日报 (HTML 抓取) ============
+# ============ 人民日报 (电子报版面爬取) ============
+# 数据源：paper.people.com.cn 电子版。每天一期，按版面(01-20版)组织文章。
+# 缓存 30 分钟，避免每分钟 20 次请求打爆对方服务器（日报内容本就每日更新一次）。
+_people_cache = {'ts': 0.0, 'articles': []}
 def fetch_people_daily():
-    HOME_URL = "https://www.people.com.cn/"
+    global _people_cache
+    now = time.time()
+    if _people_cache['articles'] and (now - _people_cache['ts'] < 1800):
+        return _people_cache['articles']
 
+    LAYOUT_URL = "http://paper.people.com.cn/rmrb/pc/layout/index.html"
+    UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     try:
-        content = http_get(HOME_URL, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
-        if len(content) < 500:
-            print(f"  [People] 首页下载失败")
-            return []
+        layout_html = http_get(LAYOUT_URL, headers={'User-Agent': UA})
     except Exception as e:
-        print(f"  [People] 首页下载失败: {e}")
-        return []
+        print(f"  [People] 版面索引下载失败: {e}")
+        return _people_cache['articles']  # 失败时返回旧缓存
+
+    # 解析 20 个版面：<li><a href="202607/06/node_01.html">...<br />第01版 要闻</a></li>
+    ban_list = []
+    for li in re.finditer(r'<li>(.*?)</li>', layout_html, re.S):
+        block = li.group(1)
+        hm = re.search(r'href="([^"]+)"', block)
+        tm = re.search(r'第(\d+)版\s*([^<]+)', block)
+        if hm and tm:
+            ban_list.append((hm.group(1), tm.group(1), tm.group(2).strip()))
+
+    if not ban_list:
+        print("  [People] 未解析到版面列表")
+        return _people_cache['articles']
 
     articles = []
     seen = set()
-
-    pattern = re.compile(
-        r'<a[^>]*href="(https?://(?:[\w]+\.)*people\.com\.cn[^"]*(?:n1|n2|n3|gb)[^"]*)"[^>]*>([^<]{8,})</a>',
-        re.IGNORECASE
-    )
-
-    for match in pattern.findall(content):
-        url = match[0]
-        raw_title = match[1].strip()
-        title = html_module.unescape(raw_title).strip()
-
-        if not url or len(title) < 6 or url in seen:
+    edition_date = None
+    for href, banhao, banming in ban_list:
+        node_url = urljoin(LAYOUT_URL, href)
+        dm = re.search(r'(\d{6})/(\d{2})', href)
+        if dm and edition_date is None:
+            edition_date = f"{dm.group(1)[:4]}-{dm.group(1)[4:6]}-{dm.group(2)}"
+        try:
+            node_html = http_get(node_url, headers={'User-Agent': UA})
+        except Exception as e:
+            print(f"  [People] 版面 {banhao} 下载失败: {e}")
             continue
-        skip_patterns = ['/video/', '/photo/', '/img/', '/pic/', '/v.', '/about', '/login']
-        if any(p in url for p in skip_patterns):
-            continue
+        # 文章链接形如 ../../../content/202607/06/content_XXXXXX.html
+        for am in re.finditer(r'<a[^>]*href="([^"]*content/[^"]+\.html?)"[^>]*>(.*?)</a>', node_html, re.S):
+            ahref = am.group(1)
+            title = re.sub(r'<[^>]+>', '', am.group(2)).strip()
+            title = html_module.unescape(title)
+            if len(title) < 6:
+                continue
+            full = urljoin(node_url, ahref)
+            if full in seen:
+                continue
+            seen.add(full)
+            pub_bj = (edition_date or datetime.now(BJ_TZ).strftime('%Y-%m-%d')) + " 07:00"
+            try:
+                pub_ts = int(datetime.strptime(pub_bj, '%Y-%m-%d %H:%M').replace(tzinfo=BJ_TZ).timestamp())
+            except Exception:
+                pub_ts = int(datetime.now(BJ_TZ).timestamp())
+            articles.append({
+                'source': "People's Daily",
+                'url': full,
+                'title': title,
+                'path': f"/{banhao}/",
+                'category': f"{banhao}版：{banming}",
+                'pub_bj': pub_bj,
+                'pub_ts': pub_ts,
+            })
 
-        seen.add(url)
-
-        if 'politics.people' in url or 'cpc.people' in url:
-            category, path = 'politics', '/politics/'
-        elif 'world.people' in url:
-            category, path = 'world', '/world/'
-        elif 'finance.people' in url:
-            category, path = 'finance', '/finance/'
-        elif 'legal.people' in url or 'society.people' in url:
-            category, path = 'society', '/society/'
-        elif 'keji.people' in url or 'tech.people' in url:
-            category, path = 'technology', '/technology/'
-        else:
-            category, path = 'general', '/general/'
-
-        now_bj = datetime.now(BJ_TZ)
-        articles.append({
-            'source': "People's Daily",
-            'url': url,
-            'title': title,
-            'path': path,
-            'category': category,
-            'pub_bj': now_bj.strftime('%Y-%m-%d %H:%M'),
-            'pub_ts': int(now_bj.timestamp()),
-        })
-
-    unique = []
-    titles_seen = set()
-    for a in articles:
-        t_key = a['title'][:20]
-        if t_key not in titles_seen:
-            titles_seen.add(t_key)
-            unique.append(a)
-
-    print(f"  [People's Daily] HTML: {len(unique)} 篇")
-    return unique
+    if articles:
+        _people_cache = {'ts': now, 'articles': articles}
+    print(f"  [People's Daily] 电子报: {len(articles)} 篇, {len(ban_list)} 个版面")
+    return articles
 
 
 # ============ SSE 客户端管理 ============

@@ -116,9 +116,12 @@ let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null
 
 const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
   ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
-const CATEGORIES = [['全部',null],['/world/','world'],['/business/','business'],['/legal/','legal'],
-  ['/markets/','markets'],['/technology/','technology'],['/fact-check/','fact-check'],
-  ['/sports/world-cup/','sports/world-cup'],['/politics/','politics'],['/finance/','finance'],['/general/','general']];
+const CATEGORIES = [['全部',null],
+  ['01版：要闻','/01/'],['02版：要闻','/02/'],['03版：要闻','/03/'],['04版：要闻','/04/'],
+  ['05版：评论','/05/'],['06版：要闻','/06/'],['07版：读者来信','/07/'],['08版：经济','/08/'],
+  ['09版：理论','/09/'],['10版：生态','/10/'],['11版：政治','/11/'],['12版：社会','/12/'],
+  ['13版：文化','/13/'],['14版：体育','/14/'],['15版：国际','/15/'],['16版：广告','/16/'],
+  ['17版：国际','/17/'],['18版：财经','/18/'],['19版：科技','/19/'],['20版：副刊','/20/']];
 const SRC_CLASS_MAP = {'Reuters':'src-reuters',"MIT Tech Review":'src-mit',"People's Daily":'src-people'};
 
 function buildSourceBar() {
@@ -178,7 +181,7 @@ function createArticleEl(a,isNew){
   const s=a.source||'Reuters';
   d.innerHTML=`<span class="idx">${String(articleCount).padStart(2,'0')}</span>
     <span class="time">${a.pub_bj} GMT+8</span><span class="src-badge ${SRC_CLASS_MAP[s]||'src-reuters'}">${s}</span>
-    <span class="path">${a.path||'/'}</span><span class="title"><a href="${a.url}" target="_blank">${a.title}</a></span>`;
+    <span class="path">${a.category||a.path||'/'}</span><span class="title"><a href="${a.url}" target="_blank">${a.title}</a></span>`;
   isNew?l.insertBefore(d,l.firstChild):l.appendChild(d);
 }
 function filterArticles(){
