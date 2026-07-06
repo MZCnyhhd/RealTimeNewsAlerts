@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/cubas-national-electric-grid-collapses-reason-unknown-2026-07-06/",
+    "title": "Cuba's national electric grid collapses, reason unknown",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 04:14",
+    "pub_ts": 1783368850
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-3535-thousands-remain-displaced-2026-07-06/",
+    "title": "Death toll from Venezuela quakes rises to 3,535 as thousands remain displaced",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 04:13",
+    "pub_ts": 1783368826
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brics-alternatives-dollar-no-longer-fantasy-economist-oneill-says-2026-07-06/",
+    "title": "BRICS alternatives to dollar no longer a 'fantasy,' economist O'Neill says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 04:13",
+    "pub_ts": 1783368824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/vertex-buy-crinetics-10-billion-deal-2026-07-06/",
+    "title": "Vertex to buy Crinetics in $10 billion deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 04:12",
+    "pub_ts": 1783368755
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+    "title": "US cyber agency is using Anthropic's Mythos to audit government code, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 04:11",
+    "pub_ts": 1783368704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/YYK366Q5UFKLZMDLX6RZ6LTKSU-2026-07-06/",
+    "title": "Infantino no estuvo en dos partidos del Mundial al mismo tiempo; fotos son de fechas distintas",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-07 03:48",
+    "pub_ts": 1783367314
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-trademark-office-abandons-board-peace-branding-rights-applications-2026-07-06/",
+    "title": "US trademark office abandons 'Board of Peace' branding rights applications",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 03:43",
+    "pub_ts": 1783367024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/zimbabwe-hit-by-nationwide-blackout-due-technical-fault-says-zesa-2026-07-06/",
+    "title": "Zimbabwe hit by nationwide blackout due to technical fault, says ZESA",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 03:29",
+    "pub_ts": 1783366159
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/reuters-next/reuters-next-asia-brings-policymakers-business-leaders-singapore-2026-07-06/",
+    "title": "Watch live: Reuters NEXT Asia brings policymakers, business leaders to Singapore",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 02:56",
+    "pub_ts": 1783364207
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
     "title": "US Supreme Court won't block Texas app store age verification law",
     "path": "/world/",
@@ -133,6 +214,96 @@
     "category": "business",
     "pub_bj": "2026-07-07 01:29",
     "pub_ts": 1783358955
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-law-firm-blank-rome-faces-class-action-over-data-breach-2026-07-06/",
+    "title": "US law firm Blank Rome faces class action over data breach",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 01:21",
+    "pub_ts": 1783358503
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/waller-says-risks-us-tilted-towards-high-inflation-2026-07-06/",
+    "title": "Waller says risks in US tilted towards high inflation",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:14",
+    "pub_ts": 1783358056
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/europes-central-banks-may-come-under-political-pressure-panetta-says-2026-07-06/",
+    "title": "Europe's central banks may come under political pressure, Panetta says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 01:09",
+    "pub_ts": 1783357783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/hamas-dissolves-gaza-government-presses-progress-stalled-peace-plan-2026-07-06/",
+    "title": "Hamas dissolves Gaza government, Israel dismisses move as 'stunt'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 01:05",
+    "pub_ts": 1783357509
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/european-shares-pause-after-rally-easyjet-soars-take-private-bid-2026-07-06/",
+    "title": "European shares retreat after hitting record high; easyJet surges on takeover offer",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-07 00:58",
+    "pub_ts": 1783357118
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/perus-sanchez-concedes-election-days-after-fujimori-declared-winner-2026-07-06/",
+    "title": "Peru's Sanchez concedes election days after Fujimori declared winner",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:58",
+    "pub_ts": 1783357096
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-by-62-million-lowest-level-since-2026-07-06/",
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall to lowest level since 1983",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 00:55",
+    "pub_ts": 1783356911
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/f1-could-bring-back-refuelling-independent-v8-supplier-says-fia-head-2026-07-06/",
+    "title": "F1 could bring back refuelling and independent V8 supplier, says FIA head",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 00:47",
+    "pub_ts": 1783356464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/honeywell-spinoff-solstice-buy-element-solutions-145-billion-2026-07-06/",
+    "title": "Solstice buys Element Solutions in $14.5 billion deal, sharpens focus on AI market",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 00:42",
+    "pub_ts": 1783356165
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/argentina-announce-plan-refinance-existing-debt-2026-07-06/",
+    "title": "Argentina to tap multilateral loans, privatizations to meet debt payments",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 00:37",
+    "pub_ts": 1783355859
   },
   {
     "source": "Reuters",
@@ -421,6 +592,78 @@
     "category": "markets",
     "pub_bj": "2026-07-06 23:15",
     "pub_ts": 1783350906
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-sell-up-5-stake-cochin-shipyard-2026-07-06/",
+    "title": "India to sell up to 5% stake in Cochin Shipyard",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 23:14",
+    "pub_ts": 1783350895
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/ukrainian-drones-hit-russias-largest-refinery-one-deepest-strikes-yet-2026-07-06/",
+    "title": "Ukrainian drones hit Russia's largest refinery, in one of deepest strikes yet",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 23:12",
+    "pub_ts": 1783350774
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/cuban-zookeepers-celebrate-birth-bengal-tigers-against-all-odds-2026-07-06/",
+    "title": "Cuban zookeepers celebrate birth of Bengal tigers against all odds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 23:11",
+    "pub_ts": 1783350670
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-07-06/",
+    "title": "Companies cutting jobs as investments shift toward AI",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-06 23:09",
+    "pub_ts": 1783350584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/mufg-ceo-warns-weak-yen-inflation-may-stifle-demand-threaten-growth-2026-07-06/",
+    "title": "MUFG CEO warns weak yen inflation may stifle demand, threaten growth",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 23:03",
+    "pub_ts": 1783350227
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/french-government-survives-no-confidence-vote-over-heatwave-handling-2026-07-06/",
+    "title": "French government survives no-confidence vote over heatwave handling",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 23:02",
+    "pub_ts": 1783350127
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indian-jeweller-titan-posts-41-growth-consumer-business-first-quarter-2026-07-06/",
+    "title": "Indian jeweller Titan posts 41% growth in consumer business in first quarter",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-06 22:45",
+    "pub_ts": 1783349116
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/bps-tyler-interested-permanent-chairman-role-sky-news-reports-2026-07-06/",
+    "title": "BP's Tyler interested in permanent chairman role, Sky News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-06 22:41",
+    "pub_ts": 1783348877
   },
   {
     "source": "Reuters",
