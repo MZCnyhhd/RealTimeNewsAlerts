@@ -1,0 +1,2 @@
+# Multi-Source Live News - Render 部署配置
+# 纯 Python 标准库，无第三方依赖
