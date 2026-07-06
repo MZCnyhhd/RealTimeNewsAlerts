@@ -1,6 +1,60 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
+    "title": "Samsung estimates 19-fold rise in Q2 operating profit, beating expectations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 06:47",
+    "pub_ts": 1783378035
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/maines-democratic-party-calls-platner-drop-out-race-2026-07-06/",
+    "title": "Maine's Democratic Party calls for Platner to drop out of race",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 06:30",
+    "pub_ts": 1783377011
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/ODCMBUSJ2VKFFNFG2ZXECCCMCU-2026-07-06/",
+    "title": "Mujer no fue rescatada con una grúa en festival del Mundial en Monterrey",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-07 06:10",
+    "pub_ts": 1783375840
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/taylor-swift-defeats-florida-poets-plagiarism-lawsuit-2026-07-06/",
+    "title": "Taylor Swift defeats Florida poet's plagiarism lawsuit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 06:10",
+    "pub_ts": 1783375810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-makes-available-281-mln-grants-addiction-mental-health-programs-2026-07-06/",
+    "title": "US makes available $281 mln in grants for addiction and mental health programs",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 06:09",
+    "pub_ts": 1783375777
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/marine-le-pens-presidential-hopes-rest-french-court-verdict-2026-07-06/",
+    "title": "Marine Le Pen's presidential hopes rest on French court verdict",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 06:07",
+    "pub_ts": 1783375669
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/democratic-ags-oppose-trump-plan-impose-tariffs-forced-labor-concerns-2026-07-06/",
     "title": "Democratic AGs oppose Trump plan to impose tariffs on forced labor concerns",
     "path": "/world/",
