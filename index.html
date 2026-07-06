@@ -112,31 +112,43 @@
 </div></div>
 
 <script>
-let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null, currentCat = null;
+let articleCount = 0, knownUrls = new Set(), pollTimer = null, currentSrc = null, currentCatPaths = null;
 
 const SOURCES = [['全部', null, ''], ['路透社','Reuters','chip-reuters'],
   ['MIT Tech Review',"MIT Tech Review",'chip-mit'], ['人民日报',"People's Daily",'chip-people']];
-// 人民日报固定 20 版面（顺序固定，与后端一致）
-const PEOPLE_BANMIAN = [['01版：要闻','/01/'],['02版：要闻','/02/'],['03版：要闻','/03/'],['04版：要闻','/04/'],
-  ['05版：评论','/05/'],['06版：要闻','/06/'],['07版：读者来信','/07/'],['08版：经济','/08/'],
-  ['09版：理论','/09/'],['10版：生态','/10/'],['11版：政治','/11/'],['12版：社会','/12/'],
-  ['13版：文化','/13/'],['14版：体育','/14/'],['15版：国际','/15/'],['16版：广告','/16/'],
-  ['17版：国际','/17/'],['18版：财经','/18/'],['19版：科技','/19/'],['20版：副刊','/20/']];
+// 人民日报版面分组（合并后，与后端一致）。每项: [显示名, [path前缀列表]]
+const PEOPLE_BANMIAN = [
+  ['要闻', ['/01/','/02/','/03/','/04/','/06/']],
+  ['评论', ['/05/']],
+  ['读者来信', ['/07/']],
+  ['经济', ['/08/']],
+  ['理论', ['/09/']],
+  ['生态', ['/10/']],
+  ['政治', ['/11/']],
+  ['社会', ['/12/']],
+  ['文化', ['/13/']],
+  ['体育', ['/14/']],
+  ['国际', ['/15/','/17/']],
+  ['广告', ['/16/']],
+  ['财经', ['/18/']],
+  ['科技', ['/19/']],
+  ['副刊', ['/20/']],
+];
 const SRC_CLASS_MAP = {'Reuters':'src-reuters',"MIT Tech Review":'src-mit',"People's Daily":'src-people'};
 let allData = [];   // 最新一次拉取的全部文章，供动态生成分类用
 
 function deriveCats(rows){
-  // 从文章动态提取 (path -> 分类标签)，用于路透社/MIT 各自分类
+  // 从文章动态提取 (path -> 分类标签)，用于路透社/MIT 各自分类（单 path 分组）
   const m = new Map();
   rows.forEach(a=>{ const p=a.path||'/'; if(!m.has(p)) m.set(p, a.category||a.path||p); });
-  return Array.from(m.entries());
+  return Array.from(m.entries()).map(([p,label])=>[label,[p]]);
 }
-function makeCatBtn(label, key, isAll){
+function makeCatBtn(label, paths, isAll){
   const b=document.createElement('button');
   b.className='cat-btn'+(isAll?' active':'');
-  b.dataset.key=key||'all';
-  b.innerHTML=`${label} <span class="cat-count" id="cat-${key||'all'}">(0)</span>`;
-  b.onclick=()=>{currentCat=key;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
+  if(paths) b.dataset.paths=JSON.stringify(paths);
+  b.innerHTML=`${label} <span class="cat-count">(0)</span>`;
+  b.onclick=()=>{currentCatPaths=paths?paths:null;document.querySelectorAll('.cat-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');filterArticles();};
   return b;
 }
 function rebuildCatBar(){
@@ -145,7 +157,7 @@ function rebuildCatBar(){
   if(currentSrc==="People's Daily"){ cats=PEOPLE_BANMIAN; }
   else if(currentSrc!==null){ cats=deriveCats(allData.filter(a=>a.source===currentSrc)); }
   bar.appendChild(makeCatBtn('全部', null, true));
-  cats.forEach(([label,key])=>bar.appendChild(makeCatBtn(label,key,false)));
+  cats.forEach(([label,paths])=>bar.appendChild(makeCatBtn(label,paths,false)));
   updateCatCounts(allData);
 }
 
@@ -155,7 +167,7 @@ function buildSourceBar() {
     const c=document.createElement('span');
     c.className=`source-chip ${(cls||'')}${label==='全部'?' active':''}`;
     c.id=`src-${key||'all'}`; c.innerHTML=`${label} <span class="source-count" id="srcCnt-${key||'all'}">(0)</span>`;
-    c.onclick=()=>{currentSrc=key;currentCat=null;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');rebuildCatBar();filterArticles();};
+    c.onclick=()=>{currentSrc=key;currentCatPaths=null;document.querySelectorAll('.source-chip').forEach(x=>x.classList.remove('active'));c.classList.add('active');rebuildCatBar();filterArticles();};
     bar.appendChild(c);
   });
 }
@@ -186,8 +198,9 @@ function updateSourceCounts(d){const t=d.length;let e=document.getElementById('s
 function updateCatCounts(d){
   const srcData = currentSrc===null ? d : d.filter(a=>(a.source||'Reuters')===currentSrc);
   document.querySelectorAll('.cat-btn').forEach(b=>{
-    const k=b.dataset.key;
-    const c = (k==='all'||k===null) ? srcData.length : srcData.filter(a=>(a.path||'').startsWith(k)).length;
+    const paths = b.dataset.paths ? JSON.parse(b.dataset.paths) : null;
+    const c = paths===null ? srcData.length
+      : srcData.filter(a=>paths.some(pr=>(a.path||'').startsWith(pr))).length;
     const el=b.querySelector('.cat-count'); if(el) el.textContent='('+c+')';
   });
 }
@@ -209,14 +222,14 @@ function filterArticles(){
   let vi=1;document.querySelectorAll('.article').forEach(div=>{
     const t=div.querySelector('.title').textContent.toLowerCase(),dt=div.dataset.date,p=div.dataset.path,s=div.dataset.source;
     let show=true;if(currentSrc!==null&&s!==currentSrc)show=false;
-    if(currentCat!==null&&(!p.startsWith(currentCat)))show=false;
+    if(currentCatPaths!==null&&!currentCatPaths.some(pr=>p.startsWith(pr)))show=false;
     if(q&&!t.includes(q))show=false;if(from&&dt<from)show=false;if(to&&dt>to)show=false;
     div.style.display=show?'flex':'none';if(show)div.querySelector('.idx').textContent=String(vi++).padStart(2,'0');
   });
 }
 function clearFilters(){document.getElementById('searchInput').value='';
   document.getElementById('dateFrom').value='';document.getElementById('dateTo').value='';
-  currentCat=null;currentSrc=null;
+  currentCatPaths=null;currentSrc=null;
   document.querySelectorAll('.source-chip').forEach(c=>c.classList.remove('active'));
   document.querySelector('#src-all').classList.add('active');
   rebuildCatBar();filterArticles();}
