@@ -15,7 +15,13 @@ import xml.etree.ElementTree as ET
 PORT = int(os.environ.get('PORT', 9528))
 POLL_INTERVAL = 60  # 秒
 MAX_ARTICLES = 3000
-HOURS_CUTOFF = 48
+# 不同新闻源用不同的时间窗口（小时）：高频率源用短窗口，更新慢的源用长窗口
+SOURCE_CUTOFF_HOURS = {
+    'Reuters': 48,
+    "People's Daily": 48,
+    'MIT Tech Review': 336,  # 14天，发稿慢
+}
+DEFAULT_CUTOFF_HOURS = 48
 BJ_TZ = timezone(timedelta(hours=8))
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 HTML_FILE = os.path.join(SCRIPT_DIR, "index.html")
@@ -143,9 +149,15 @@ def fetch_mit_tech_review():
             if el is None: return None
             return (el.text or '').strip()
 
-        title_el = item.find('title') or item.find('.//title')
-        link_el = item.find('link') or item.find('.//link')
-        pub_el = item.find('pubDate') or item.find('.//pubDate')
+        title_el = item.find('title')
+        if title_el is None:
+            title_el = item.find('.//title')
+        link_el = item.find('link')
+        if link_el is None:
+            link_el = item.find('.//link')
+        pub_el = item.find('pubDate')
+        if pub_el is None:
+            pub_el = item.find('.//pubDate')
 
         title = get_text(title_el)
         url = get_text(link_el)
@@ -159,7 +171,9 @@ def fetch_mit_tech_review():
                     break
 
         category = "tech"
-        cat_el = item.find('category') or item.find('.//category')
+        cat_el = item.find('category')
+        if cat_el is None:
+            cat_el = item.find('.//category')
         if cat_el is not None:
             category = get_text(cat_el).lower() or "tech"
 
@@ -369,9 +383,15 @@ def fetch_all_sources(is_baseline):
         all_articles.extend(new_articles)
         all_articles.sort(key=lambda x: x['pub_ts'], reverse=True)
 
-        # 截断
-        cutoff_ts = int((datetime.now(BJ_TZ) - timedelta(hours=HOURS_CUTOFF)).timestamp())
-        all_articles = [a for a in all_articles if a['pub_ts'] >= cutoff_ts]
+        # 截断（按来源单独计算时间窗口）
+        now_ts = datetime.now(BJ_TZ).timestamp()
+        kept = []
+        for a in all_articles:
+            cutoff_h = SOURCE_CUTOFF_HOURS.get(a['source'], DEFAULT_CUTOFF_HOURS)
+            cutoff_ts = int((now_ts - cutoff_h * 3600))
+            if a['pub_ts'] >= cutoff_ts:
+                kept.append(a)
+        all_articles = kept
         if len(all_articles) > MAX_ARTICLES:
             all_articles = all_articles[:MAX_ARTICLES]
 
