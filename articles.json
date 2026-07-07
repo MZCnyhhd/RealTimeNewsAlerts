@@ -1,6 +1,321 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c1001-40755396.html",
+    "title": "集聚人才合力 共赴壮阔前程",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 00:08",
+    "pub_ts": 1783440517
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0707/c1016-40755390.html",
+    "title": "暑期安全教育进校园",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 00:08",
+    "pub_ts": 1783440517
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://military.people.com.cn/n1/2026/0707/c1011-40755389.html",
+    "title": "国防部新闻发言人就中国海军组织潜射战略导弹试射答记者问",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 00:08",
+    "pub_ts": 1783440517
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755394.html",
+    "title": "两部门向广西增加调拨3.6万余件中央防汛物资",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-08 00:08",
+    "pub_ts": 1783440517
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755391.html",
+    "title": "强降雨已致6人死亡",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-08 00:08",
+    "pub_ts": 1783440517
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/ukraine-pick-ai-models-operated-without-provider-control-official-says-2026-07-07/",
+    "title": "Ukraine to pick AI models operated without provider control, official says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 00:05",
+    "pub_ts": 1783440320
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-aid-venezuela-after-quakes-exceeds-310-mln-says-us-charg-daffaires-2026-07-07/",
+    "title": "Venezuela complying with US requests on quake relief, envoy says, amid criticism of government response",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:04",
+    "pub_ts": 1783440279
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/nigel-farage-takes-his-fight-with-establishment-voters-2026-07-07/",
+    "title": "Nigel Farage takes his 'fight with the establishment' to the voters",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:04",
+    "pub_ts": 1783440266
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/five-nato-members-seen-spend-over-35-gdp-core-defence-this-year-alliance-2026-07-07/",
+    "title": "Five NATO members seen to spend over 3.5% of GDP on core defence this year, alliance estimates show",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:04",
+    "pub_ts": 1783440249
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/fiat-launches-topolino-mini-ev-us-with-13995-price-tag-2026-07-07/",
+    "title": "Fiat launches Topolino mini EV in U.S. with $13,995 price tag",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:03",
+    "pub_ts": 1783440224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/russia-goes-electric-2026-07-07/",
+    "title": "Russia goes electric?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:00",
+    "pub_ts": 1783440000
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/britains-ms-flags-higher-shareholder-returns-2026-07-07/",
+    "title": "Britain's M&S flags higher shareholder returns",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 23:59",
+    "pub_ts": 1783439985
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/catsonacouch-instagram-account-owner-sues-over-exclusion-vp-vance-event-2026-07-07/",
+    "title": "'CatsOnACouch' Instagram account owner sues over exclusion from VP Vance event",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 23:57",
+    "pub_ts": 1783439874
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/ai-startup-ceo-pleaded-guilty-us-trading-insider-tips-lawyers-2026-07-07/",
+    "title": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 23:55",
+    "pub_ts": 1783439742
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/harry-kane-did-not-say-he-will-not-wear-rainbow-pride-flag-2026-07-07/",
+    "title": "Harry Kane did not say he will not wear a rainbow Pride flag",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-07 23:49",
+    "pub_ts": 1783439341
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/prince-harrys-war-with-uk-press-is-over-hes-lost-2026-07-07/",
+    "title": "Prince Harry's war with UK press is over, and he's lost",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:48",
+    "pub_ts": 1783439326
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/eu-candidate-countries-should-not-expect-membership-soon-serbias-vucic-says-2026-07-07/",
+    "title": "EU candidate countries should not expect membership soon, Serbia's Vucic says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:45",
+    "pub_ts": 1783439146
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-rand-softens-after-foreign-reserves-fall-2026-07-07/",
+    "title": "South African rand softens after foreign reserves fall",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:44",
+    "pub_ts": 1783439092
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-bulk-up-with-bets-weight-loss-treatments-2026-07-07/",
+    "title": "Weight-loss drug developers line up to tap lucrative market as competition heats up",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 23:42",
+    "pub_ts": 1783438951
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/abc-says-trump-agency-unfairly-targets-the-view-2026-07-07/",
+    "title": "ABC says US TV regulator pushing Trump politics by targeting 'The View'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:42",
+    "pub_ts": 1783438943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/egypt-june-inflation-seen-climbing-151-reuters-poll-shows-2026-07-07/",
+    "title": "Egypt June inflation seen climbing to 15.1%, Reuters poll shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:41",
+    "pub_ts": 1783438917
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-airlines-fuel-bills-rose-by-3-billion-may-2026-07-07/",
+    "title": "US airlines fuel bills rose by $3 billion in May",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 23:41",
+    "pub_ts": 1783438908
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-trade-deficit-widens-sharply-may-capital-goods-imports-hit-record-high-2026-07-07/",
+    "title": "Record capital goods imports help to sharply widen US trade deficit in May",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 23:40",
+    "pub_ts": 1783438811
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spanish-dutch-police-seize-nearly-ton-mdma-destined-south-america-2026-07-07/",
+    "title": "Spanish, Dutch police seize nearly a ton of MDMA destined for South America",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 22:32",
+    "pub_ts": 1783434733
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-eyes-cooperation-with-nato-arms-rd-production-2026-07-07/",
+    "title": "South Korea's Lee eyes cooperation with NATO in arms R&D, production",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 22:25",
+    "pub_ts": 1783434344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/israels-energy-minister-touts-oil-pipeline-bypass-hormuz-2026-07-07/",
+    "title": "Israel's energy minister touts oil pipeline to bypass Hormuz",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:24",
+    "pub_ts": 1783434243
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/cuba-struggles-restore-power-island-following-nationwide-grid-collapse-2026-07-07/",
+    "title": "Cuba struggles to restore power to island following nationwide grid collapse",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:22",
+    "pub_ts": 1783434130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/canadas-trade-surplus-may-sharply-up-four-year-high-2026-07-07/",
+    "title": "Canada's trade surplus in May jumps to a four-year high as US exports surge",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 22:20",
+    "pub_ts": 1783434041
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/rheinmetall-freezes-naval-hiring-plans-after-germany-scraps-frigate-programme-2026-07-07/",
+    "title": "Rheinmetall freezes naval hiring plans after Germany scraps frigate programme",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:19",
+    "pub_ts": 1783433984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/senegal-seeks-financial-adviser-help-manage-debt-sources-say-2026-07-07/",
+    "title": "Senegal seeks financial adviser to help manage debt, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 22:18",
+    "pub_ts": 1783433910
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/motorists-queue-fuel-omsk-after-ukrainian-drones-hit-russias-biggest-refinery-2026-07-07/",
+    "title": "Motorists queue for fuel in Omsk after Ukrainian drones hit Russia's biggest refinery",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:14",
+    "pub_ts": 1783433659
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/uk-spends-254-million-long-range-precision-strike-missile-programme-2026-07-07/",
+    "title": "UK spends $254 million on long-range Precision Strike Missile programme",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:11",
+    "pub_ts": 1783433503
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/canadas-ivey-pmi-falls-three-month-low-june-2026-07-07/",
+    "title": "Canada's Ivey PMI falls to three-month low in June",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 22:10",
+    "pub_ts": 1783433410
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/financial-institutions-health-is-key-factor-bank-runs-new-york-fed-research-2026-07-07/",
+    "title": "Financial institutions' health is key factor in bank runs, New York Fed research shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:04",
+    "pub_ts": 1783433048
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/dangote-fund-proposed-kenya-refinery-with-cash-bonds-an-ipo-2026-07-07/",
+    "title": "Dangote to fund proposed Kenya refinery with cash, bonds and an IPO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:01",
+    "pub_ts": 1783432906
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0707/c461001-40755370.html",
     "title": "铭记历史,吾辈自强",
     "path": "/politics/",
@@ -241,6 +556,132 @@
     "category": "business",
     "pub_bj": "2026-07-07 20:59",
     "pub_ts": 1783429142
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/draft-egyptian-law-expands-military-linked-economic-bodys-powers-under-2026-07-07/",
+    "title": "Draft Egyptian law expands powers of military-linked economic body",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:54",
+    "pub_ts": 1783428874
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/nato-launch-strategic-airlift-fleet-a400m-rutte-says-2026-07-07/",
+    "title": "NATO to launch strategic airlift fleet of A400M, Rutte says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:52",
+    "pub_ts": 1783428738
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/obesity-biotech-kalohexis-confidentially-files-go-public-us-2026-07-07/",
+    "title": "Obesity biotech Kalohexis confidentially files to go public in US",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:50",
+    "pub_ts": 1783428617
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/diehl-defence-says-new-version-iris-t-system-could-reduce-need-patriot-missiles-2026-07-07/",
+    "title": "Diehl Defence says new version of IRIS-T system could reduce need for Patriot missiles",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:48",
+    "pub_ts": 1783428487
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/canada-wants-more-backers-global-defence-bank-foreign-minister-says-2026-07-07/",
+    "title": "Canada wants more backers for global defence bank, foreign minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:47",
+    "pub_ts": 1783428458
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/hebrew/UNU4PI7QCZPWZLAB3VZCPS5M2A-2026-07-07/",
+    "title": "השום הסיני אינו כפוף לתקני בטיחות נמוכים יותר מאשר התוצרת הישראלית",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-07 20:47",
+    "pub_ts": 1783428426
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/france-trims-2026-economic-growth-forecast-07-2026-07-07/",
+    "title": "France's 2026 deficit target at risk as growth outlook cut, minister says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:45",
+    "pub_ts": 1783428327
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/fresh-foods-boost-amazon-now-demand-brazil-executive-says-2026-07-07/",
+    "title": "Fresh foods boost Amazon Now demand in Brazil, executive says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:35",
+    "pub_ts": 1783427730
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/totalenergies-ceo-syria-discuss-signing-an-exploration-contract-2026-07-07/",
+    "title": "TotalEnergies to discuss Syria offshore exploration contract, CEO says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:34",
+    "pub_ts": 1783427658
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/nato-picks-swedish-saab-early-warning-planes-over-us-rival-2026-07-07/",
+    "title": "NATO picks Swedish Saab early-warning planes over US rival",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:26",
+    "pub_ts": 1783427197
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/energy-profits-lift-europe-earnings-outlook-2026-07-02/",
+    "title": "Energy profits lift Europe earnings outlook",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:21",
+    "pub_ts": 1783426907
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/italy-arrests-two-over-alleged-spying-russia-2026-07-07/",
+    "title": "Italy arrests two over alleged spying for Russia",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:17",
+    "pub_ts": 1783426661
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/onsemi-sell-two-chipmaking-plants-cut-costs-2026-07-07/",
+    "title": "Onsemi to sell two chipmaking plants to cut costs",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 20:16",
+    "pub_ts": 1783426592
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/un-sees-no-budget-cuts-2027-after-us-welcomes-cash-saving-steps-2026-07-07/",
+    "title": "UN sees no budget cuts in 2027 after US welcomes cash-saving steps",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 20:13",
+    "pub_ts": 1783426428
   },
   {
     "source": "Reuters",
