@@ -1,6 +1,456 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://zj.people.com.cn/n2/2026/0707/c186327-41631267.html",
+    "title": "一座小岛的\"克制\"与\"浪漫\"",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://nx.people.com.cn/n2/2026/0707/c192493-41631815.html",
+    "title": "行进中国｜塞上江南 稻浪铺青",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hb.people.com.cn/n2/2026/0707/c194063-41631860.html",
+    "title": "直击湖北黄冈龙卷风灾后救援现场",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0707/c179464-41631443.html",
+    "title": "广西南宁洪涝灾害受灾人口约5.5万人 已疏散4.8万人",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hb.people.com.cn/n2/2026/0707/c194063-41631786.html",
+    "title": "湖北鄂州遭遇13级龙卷风致5人死亡 各方全力救援",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://nm.people.com.cn/n2/2026/0707/c196689-41631431.html",
+    "title": "鄂尔多斯市东胜区：三级养老服务体系护航幸福晚年",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0707/c351638-41631709.html",
+    "title": "河南24条金融举措赋能制造强省建设",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sh.people.com.cn/n2/2026/0707/c134768-41631868.html",
+    "title": "超300款产品全球首发 2026世界人工智能大会即将在上海举行",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://js.people.com.cn/n2/2026/0707/c358232-41631233.html",
+    "title": "淮扬菜守味记：从河下古镇到世界餐桌",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0707/c1012-40755068.html",
+    "title": "西班牙比利时晋级 八强将全部揭晓",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://nm.people.com.cn/n2/2026/0707/c196689-41631431.html\n",
+    "title": "鄂尔多斯东胜区：三级养老服务体系护航幸福晚年",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://jl.people.com.cn/n2/2026/0707/c349771-41631553.html\n",
+    "title": "第二届吉林省家政服务技能大赛在长春举办",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hlj.people.com.cn/n2/2026/0707/c220005-41631885.html\n",
+    "title": "黑龙江哈尔滨极地公园新增沉浸式光影空间",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://fj.people.com.cn/n2/2026/0707/c181466-41631637.html\n",
+    "title": "“与光同行 筑梦未来”主题宣讲活动将在福州举行",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gz.people.com.cn/n2/2026/0707/c222152-41631782.html\n",
+    "title": "贵州工会启动2026年“送清凉”活动",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 19:34",
+    "pub_ts": 1783424054
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/healthcare-gives-democrats-potent-midterms-attack-line-iowa-beyond-2026-07-07/",
+    "title": "Healthcare gives Democrats a potent midterms attack line in Iowa and beyond",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 19:27",
+    "pub_ts": 1783423638
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/nasdaq-futures-fall-after-samsungs-record-profit-fails-allay-chip-jitters-2026-07-07/",
+    "title": "Nasdaq futures fall after record Samsung profit fails to calm AI chip worries",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:23",
+    "pub_ts": 1783423422
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ex-nato-chief-says-uk-may-get-frosty-ankara-welcome-absence-35-plan-2026-07-07/",
+    "title": "Ex-NATO chief says UK may get 'frosty' Ankara welcome in absence of 3.5% plan",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:23",
+    "pub_ts": 1783423405
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kaileras-glp-1-drug-meets-main-goal-late-stage-trials-2026-07-07/",
+    "title": "Kailera's weight-loss drug meets main goal of late-stage trials in China",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:21",
+    "pub_ts": 1783423316
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/reform-uks-farage-make-statement-future-public-life-2026-07-07/",
+    "title": "Reform UK's Farage to make statement on future in public life",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:21",
+    "pub_ts": 1783423283
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/big-tech-data-centers-are-driving-up-power-bills-americas-rust-belt-factories-2026-07-07/",
+    "title": "Big Tech data centers are driving up power bills at America's Rust Belt factories",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:19",
+    "pub_ts": 1783423188
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-risks-financial-stability-ai-2026-07-07/",
+    "title": "Bank of England sees growing risks to financial stability from AI",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:17",
+    "pub_ts": 1783423020
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/french-shipping-group-cma-cgm-signs-deal-with-syria-2026-07-07/",
+    "title": "French shipping group CMA CGM signs deal with Syria",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:16",
+    "pub_ts": 1783422974
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/londons-ftse-100-edges-up-shell-lifts-energy-stocks-2026-07-07/",
+    "title": "London's FTSE 100 edges up as Shell lifts energy stocks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:16",
+    "pub_ts": 1783422963
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/zimbabwe-begins-blueberry-shipments-china-2026-07-07/",
+    "title": "Zimbabwe begins blueberry shipments to China",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:13",
+    "pub_ts": 1783422823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/moldovas-sandu-names-osmocheschu-acting-prime-minister-2026-07-07/",
+    "title": "Moldova's Sandu names Osmocheschu acting prime minister",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:11",
+    "pub_ts": 1783422717
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/woman-suspected-monaco-bombing-found-shot-dead-near-kyiv-report-says-2026-07-07/",
+    "title": "Woman suspected in Monaco bombing found shot dead near Kyiv, report says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:11",
+    "pub_ts": 1783422704
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "path": "/artificial-intelligence/",
+    "category": "artificial intelligence",
+    "pub_bj": "2026-07-07 19:10",
+    "pub_ts": 1783422652
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russians-race-adapt-cars-use-lpg-gasoline-runs-short-2026-07-07/",
+    "title": "Russians race to adapt cars to use LPG as gasoline runs short",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:09",
+    "pub_ts": 1783422598
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
+    "title": "China's DeepSeek developing its own AI chip, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:08",
+    "pub_ts": 1783422508
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/kazakhstans-top-court-says-president-can-seek-another-term-2026-07-07/",
+    "title": "Kazakhstan's top court says president can seek another term",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:06",
+    "pub_ts": 1783422367
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraine-strikes-eight-russian-shadow-fleet-tankers-kyiv-says-2026-07-07/",
+    "title": "Ukraine strikes eight Russian 'shadow fleet' tankers, Kyiv says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:00",
+    "pub_ts": 1783422011
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/ship-hit-hormuz-millions-march-ayatollah-iran-says-no-talks-unless-trump-halts-2026-07-07/",
+    "title": "Tankers hit in Hormuz as millions mourn Iran's Khamenei",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 18:54",
+    "pub_ts": 1783421648
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+    "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+    "path": "/climate-change-and-energy/",
+    "category": "climate change and energy",
+    "pub_bj": "2026-07-07 18:00",
+    "pub_ts": 1783418400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/europe-may-face-more-deadly-weeks-new-heatwave-builds-who-warns-2026-07-07/",
+    "title": "Europe may face 'more deadly weeks' as new heatwave builds, WHO warns",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 17:44",
+    "pub_ts": 1783417451
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/japans-ban-jet-fuel-exports-russia-includes-indirect-shipments-2026-07-07/",
+    "title": "Japan's ban on jet fuel exports to Russia includes indirect shipments",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 17:43",
+    "pub_ts": 1783417415
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/india-finds-adanis-mumbai-airport-shops-sold-nicotine-pouches-breach-law-2026-07-07/",
+    "title": "India finds Adani's Mumbai airport shops sold nicotine pouches in breach of law",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 17:41",
+    "pub_ts": 1783417319
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/saudi-arabia-considers-expansion-oil-pipeline-red-sea-sources-say-2026-07-07/",
+    "title": "Saudi Arabia considers expansion of oil pipeline to Red Sea, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 17:37",
+    "pub_ts": 1783417030
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/hsbc-reviews-turkish-banking-business-possible-sale-2026-07-07/",
+    "title": "HSBC reviews Turkish banking business for possible sale",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 17:26",
+    "pub_ts": 1783416388
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ebola-outbreak-congo-still-expansion-phase-who-says-2026-07-07/",
+    "title": "Ebola outbreak in Congo still in 'expansion phase', WHO says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:26",
+    "pub_ts": 1783416365
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-flagged-crude-oil-tanker-damaged-near-hormuz-after-lng-tanker-hit-sources-2026-07-07/",
+    "title": "Saudi-Flagged crude oil tanker damaged near Hormuz after LNG tanker hit, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:24",
+    "pub_ts": 1783416261
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-rheinmetall-jointly-produce-atacms-missiles-germany-2026-07-07/",
+    "title": "Lockheed Martin, Rheinmetall to jointly produce ATACMS missiles in Germany",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 17:23",
+    "pub_ts": 1783416224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/european-shares-flat-ai-caution-prevails-focus-defence-stocks-2026-07-07/",
+    "title": "European shares flat as gains in consumer stocks offset tech weakness",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-07 17:21",
+    "pub_ts": 1783416087
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/new-fault-discovery-adds-risk-factor-south-africas-shale-gas-ambitions-uct-study-2026-07-07/",
+    "title": "New fault discovery adds risk factor to South Africa's shale gas ambitions - UCT study",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:17",
+    "pub_ts": 1783415858
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/capita-shares-tumble-uk-withholds-payments-missing-contract-deadlines-2026-07-07/",
+    "title": "Capita shares tumble as UK withholds payments for missing contract deadlines",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:11",
+    "pub_ts": 1783415471
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/nato-allies-discuss-hormuz-tensions-mission-with-gulf-arabs-2026-07-07/",
+    "title": "NATO allies to discuss Hormuz tensions, mission with Gulf Arabs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:07",
+    "pub_ts": 1783415277
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/nine-policemen-killed-clash-with-militants-pakistans-balochistan-2026-07-07/",
+    "title": "Nine policemen killed in clash with militants in Pakistan's Balochistan",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:06",
+    "pub_ts": 1783415177
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesias-2026-budget-deficit-outlook-seen-285-gdp-house-panel-says-2026-07-07/",
+    "title": "Indonesia's 2026 budget deficit seen widening to 2.85% of GDP",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:05",
+    "pub_ts": 1783415155
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/ecb-tells-banks-draw-up-plans-against-ai-attacks-amid-disruption-fears-2026-07-07/",
+    "title": "ECB tells banks to draw up plans against AI attacks amid disruption fears",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 17:03",
+    "pub_ts": 1783415024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/taiwans-preparations-face-chinese-attack-are-not-provocation-senior-official-2026-07-07/",
+    "title": "Taiwan's preparations to face a Chinese attack are not a provocation, senior official says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 16:55",
+    "pub_ts": 1783414534
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0707/c461530-40754592.html",
     "title": "人民要论丨努力把农业建成现代化大产业",
     "path": "/general/",
@@ -241,6 +691,60 @@
     "category": "world",
     "pub_bj": "2026-07-07 15:58",
     "pub_ts": 1783411136
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/policy-support-lifts-foreign-inflows-into-indian-banks-14-month-high-2026-07-07/",
+    "title": "Policy support lifts foreign inflows into Indian banks to 14-month high",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 15:15",
+    "pub_ts": 1783408554
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/zimbabwe-restores-power-after-nationwide-blackout-zesa-says-2026-07-07/",
+    "title": "Zimbabwe restores power after nationwide blackout, ZESA says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 15:15",
+    "pub_ts": 1783408514
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/german-industrial-output-rises-more-than-expected-may-2026-07-07/",
+    "title": "German industrial output rises more than expected in May",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-07 15:07",
+    "pub_ts": 1783408062
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-beauty-tech-raises-annual-sales-profit-forecasts-after-strong-first-half-2026-07-07/",
+    "title": "UK's Beauty Tech raises annual sales, profit forecasts after strong first half",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 15:01",
+    "pub_ts": 1783407702
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/young-cos-sales-rise-good-weather-soccer-draw-drinkers-pubs-2026-07-07/",
+    "title": "Young & Co's sales rise as good weather, soccer draw drinkers to pubs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 15:00",
+    "pub_ts": 1783407656
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/how-frances-le-pen-ended-up-fighting-court-save-her-presidential-hopes-2026-07-02/",
+    "title": "How France's Le Pen ended up fighting in court to save her presidential hopes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 14:53",
+    "pub_ts": 1783407223
   },
   {
     "source": "Reuters",
