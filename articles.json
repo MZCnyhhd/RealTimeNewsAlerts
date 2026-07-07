@@ -1,5 +1,77 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-cargo-plane-loses-contact-after-reporting-technical-issue-near-karachi-2026-07-07/",
+    "title": "Cargo plane with five on board loses contact near Karachi after technical issue",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 04:08",
+    "pub_ts": 1783454897
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/who-are-democratic-socialists-america-2026-07-07/",
+    "title": "Who are the Democratic Socialists of America?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 04:02",
+    "pub_ts": 1783454529
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/south-sudan-oil-injunction-relaxed-after-bb-energy-awarded-three-cargoes-2026-07-07/",
+    "title": "South Sudan oil injunction relaxed after BB Energy awarded three cargoes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 03:51",
+    "pub_ts": 1783453903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/coffin-slain-iranian-supreme-leader-arrives-iraqs-najaf-iraqi-state-tv-says-2026-07-07/",
+    "title": "Coffin of slain Iranian supreme leader arrives in Iraq's Najaf, Iraqi state TV says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 03:46",
+    "pub_ts": 1783453569
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-revoking-license-that-authorized-iranian-oil-sales-official-says-2026-07-07/",
+    "title": "United States revokes license that authorized Iranian oil sales",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 03:27",
+    "pub_ts": 1783452436
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/GLCRQABKQVM7JHFGD737NDHXRA-2026-07-07/",
+    "title": "Lula não criticou Neymar por nunca ter vencido a Copa do Mundo",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-08 03:23",
+    "pub_ts": 1783452232
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/perplexity-says-it-plans-use-nvidias-new-cpu-2026-07-07/",
+    "title": "Perplexity says it plans to use Nvidia's new CPU",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 03:04",
+    "pub_ts": 1783451044
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canada-agrees-potential-c400-million-teck-investment-strategic-metals-production-2026-07-07/",
+    "title": "Canada agrees on a potential C$400 million Teck investment for strategic metals production.",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 03:03",
+    "pub_ts": 1783451025
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40755397.html",
     "title": "盯紧压实责任全力抢险救援 最大限度减少人员伤亡",
@@ -115,6 +187,87 @@
     "category": "business",
     "pub_bj": "2026-07-08 01:09",
     "pub_ts": 1783444186
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-07-07/",
+    "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 01:01",
+    "pub_ts": 1783443714
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/armenian-opposition-leader-charged-with-fraud-be-held-two-months-2026-07-07/",
+    "title": "Armenian opposition leader charged with fraud to be held for two months",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:01",
+    "pub_ts": 1783443691
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israels-netanyahu-tells-cnn-he-trump-align-big-things-over-iran-2026-07-07/",
+    "title": "Israel's Netanyahu tells CNN he and Trump align on big things over Iran",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:00",
+    "pub_ts": 1783443629
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/netherlands-looks-move-past-nexperia-dispute-with-china-dutch-minister-says-2026-07-07/",
+    "title": "Netherlands looks to move past Nexperia dispute with China, Dutch minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:53",
+    "pub_ts": 1783443234
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ghana-delays-south-africa-meetings-over-anti-migrant-violence-2026-07-07/",
+    "title": "Ghana delays South Africa meetings over anti-migrant violence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:53",
+    "pub_ts": 1783443223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/trump-says-greenland-should-be-controlled-by-us-not-denmark-2026-07-07/",
+    "title": "Trump reiterates at NATO summit that Greenland should be controlled by US, not Denmark",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:50",
+    "pub_ts": 1783443036
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/world-must-close-4-trillion-annual-funding-gap-reach-development-goals-un-says-2026-07-07/",
+    "title": "World must close $4 trillion annual funding gap to reach development goals, UN says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:48",
+    "pub_ts": 1783442889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/zimbabwes-mnangagwa-signs-law-extending-term-2030-2026-07-07/",
+    "title": "Zimbabwe's Mnangagwa signs law extending his presidency to 2030",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:42",
+    "pub_ts": 1783442536
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/indias-top-refiner-charters-vlcc-load-oil-iraq-sources-say-2026-07-07/",
+    "title": "India's top refiner charters VLCC to load oil from Iraq, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:42",
+    "pub_ts": 1783442528
   },
   {
     "source": "Reuters",
@@ -394,6 +547,78 @@
     "category": "business",
     "pub_bj": "2026-07-07 23:40",
     "pub_ts": 1783438811
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/ford-recall-over-110000-us-vehicles-over-wiper-pinion-shaft-issues-nhtsa-says-2026-07-07/",
+    "title": "Ford to recall over 110,000 US vehicles over wiper, pinion shaft issues, NHTSA says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 23:22",
+    "pub_ts": 1783437745
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/sleepless-ukrainians-wonder-when-russia-will-strike-next-2026-07-07/",
+    "title": "Sleepless Ukrainians wonder when Russia will strike next",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 23:12",
+    "pub_ts": 1783437140
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/boj-dissenter-asada-needs-demand-driven-inflation-before-backing-rate-hike-2026-07-07/",
+    "title": "BOJ dissenter Asada needs demand-driven inflation before backing rate hike",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 23:10",
+    "pub_ts": 1783437030
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/why-immigration-is-new-front-line-ma-due-diligence--pracin-2026-07-07/",
+    "title": "Why immigration is the new front line of M&A due diligence",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 23:05",
+    "pub_ts": 1783436707
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russias-largest-oil-refinery-halts-processing-after-drone-attack-sources-say-2026-07-07/",
+    "title": "Russia's largest oil refinery halts processing after drone attack, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:57",
+    "pub_ts": 1783436259
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/canada-carves-role-gas-clean-power-grid-strategy--reeii-2026-07-07/",
+    "title": "Canada carves role for gas in clean power grid strategy",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:55",
+    "pub_ts": 1783436131
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/burnham-ally-oneill-says-uks-next-leader-be-bolder-investment-borrowing-2026-07-07/",
+    "title": "Burnham ally O'Neill says UK's next leader to be \"bolder\" on investment borrowing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:50",
+    "pub_ts": 1783435813
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/legal-ai-startup-norm-ai-hits-12-billion-valuation-after-120-million-funding-2026-07-07/",
+    "title": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 22:48",
+    "pub_ts": 1783435728
   },
   {
     "source": "Reuters",
