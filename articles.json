@@ -1,5 +1,59 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/",
+    "title": "ResMed to sell software business MatrixCare for $490 million",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 06:39",
+    "pub_ts": 1783463984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/iran-war-live-us-military-resumes-strikes-iran-after-attacks-hormuz-strait-2026-07-07/",
+    "title": "Updates: US military resumes strikes on Iran after attacks in Hormuz strait",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 06:38",
+    "pub_ts": 1783463889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07/",
+    "title": "FCC denies US firm with Chinese links approval to provide telecom services",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 06:20",
+    "pub_ts": 1783462828
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/south-korea-us-japan-agree-cooperate-smr-deployment-seoul-says-2026-07-07/",
+    "title": "South Korea, US and Japan agree to cooperate on SMR deployment, Seoul says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 06:20",
+    "pub_ts": 1783462810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/ice-agent-fatally-shoots-mexican-motorist-texas-during-vehicle-stop-agency-says-2026-07-07/",
+    "title": "ICE agent fatally shoots Mexican motorist in Texas during vehicle stop, agency says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 05:57",
+    "pub_ts": 1783461469
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/bottled-water-business-owner-appeals-detention-trinidad-over-alleged-pm-2026-07-07/",
+    "title": "Bottled water business owner appeals detention in Trinidad over alleged PM assassination plot",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 05:55",
+    "pub_ts": 1783461345
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40755399.html",
     "title": "王毅外长访问北欧成果清单",
@@ -16,6 +70,15 @@
     "category": "world",
     "pub_bj": "2026-07-08 05:43",
     "pub_ts": 1783460597
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/lawsuit-alleges-us-shared-information-with-iran-about-asylum-seekers-us-denies-2026-07-07/",
+    "title": "Lawsuit alleges US shared information with Iran about asylum seekers, US denies allegation",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 05:43",
+    "pub_ts": 1783460590
   },
   {
     "source": "Reuters",
@@ -151,6 +214,15 @@
     "category": "business",
     "pub_bj": "2026-07-08 04:41",
     "pub_ts": 1783456888
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-tariffs-brazilian-instant-coffee-would-hit-us-consumers-businesses-industry-2026-07-07/",
+    "title": "US tariffs on Brazilian instant coffee would hit US consumers and businesses, industry says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 04:26",
+    "pub_ts": 1783455966
   },
   {
     "source": "Reuters",
