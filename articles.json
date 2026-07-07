@@ -1,6 +1,348 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c461001-40755370.html",
+    "title": "铭记历史,吾辈自强",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c461001-40755369.html",
+    "title": "传承和弘扬伟大抗战精神",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c461001-40755368.html",
+    "title": "习言道|\"我国广大科技工作者是大有作为的\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c1024-40755366.html",
+    "title": "全国政协召开主席会议成员务虚会 王沪宁主持并讲话",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0707/c436867-40755314.html\n",
+    "title": "大厂如此排他,我们还能自由地\"玩\"梗吗?",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0707/c1001-40755367.html",
+    "title": "李鸿忠出席宣传贯彻实施生态环境法典座谈会并讲话",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hb.people.com.cn/n2/2026/0707/c194063-41632166.html",
+    "title": "湖北雷暴大风灾害致1.46万人受灾 财政拨付1500万救灾资金",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40755315.html",
+    "title": "6月末外汇储备规模超3.4万亿美元 黄金储备连续20个月增加",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://health.people.com.cn/n1/2026/0707/c14739-40755363.html\n",
+    "title": "新版国家免疫规划疫苗儿童免疫程序及说明印发",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-07 21:39",
+    "pub_ts": 1783431547
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/tsx-futures-inch-up-oil-gains-fed-minutes-focus-2026-07-07/",
+    "title": "Toronto stocks edge higher as oil climbs, investors eye Fed minutes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:35",
+    "pub_ts": 1783431334
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/britains-farage-quits-lawmaker-trigger-by-election-2026-07-07/",
+    "title": "Britain's Farage quits parliament in protest, but will stand for re-election",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:35",
+    "pub_ts": 1783431330
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-williams-tells-fox-business-hes-more-sanguine-inflation-due-energy-price-2026-07-07/",
+    "title": "Fed's Williams tells Fox Business he's more sanguine on inflation due to energy price retreat",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:33",
+    "pub_ts": 1783431227
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/trump-says-he-thinks-war-ukraine-will-be-settled-hopefully-soon-2026-07-07/",
+    "title": "Trump says he thinks war in Ukraine will be settled, 'hopefully soon'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:33",
+    "pub_ts": 1783431223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk-court-dismisses-harry-others-lawsuit-against-daily-mail-2026-07-07/",
+    "title": "Prince Harry and others lose privacy lawsuit against Daily Mail",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:33",
+    "pub_ts": 1783431181
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/norway-wealth-fund-enters-strategic-partnership-with-asana-partners-us-2026-07-07/",
+    "title": "Norway wealth fund enters strategic partnership with Asana Partners in the US",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:32",
+    "pub_ts": 1783431152
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/defence-companies-sign-deals-nato-industry-forum-2026-07-07/",
+    "title": "Defence companies sign deals at NATO industry forum",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:32",
+    "pub_ts": 1783431134
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-will-lift-turkey-sanctions-decide-selling-f-35s-2026-07-07/",
+    "title": "Trump says he will lift Turkey sanctions, decide on selling F-35s",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:27",
+    "pub_ts": 1783430860
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/canada-submarine-deal-good-news-german-economy-politicians-say-2026-07-07/",
+    "title": "Canada submarine deal good news for German economy, politicians say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:25",
+    "pub_ts": 1783430725
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-07-07/",
+    "title": "Ukraine attacks Russian energy sites — what has been hit?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:18",
+    "pub_ts": 1783430298
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/reactions-verdict-marine-le-pens-election-ban-2026-07-07/",
+    "title": "Reactions to French court ruling on Marine Le Pen",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:16",
+    "pub_ts": 1783430193
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/nuclear-fuel-firm-standard-nuclear-eyes-up-355-billion-valuation-us-ipo-2026-07-07/",
+    "title": "Nuclear fuel firm Standard Nuclear eyes up to $3.55 billion valuation in US IPO",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 21:11",
+    "pub_ts": 1783429870
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ema-fast-tracks-review-revolutions-experimental-pancreatic-cancer-pill-2026-07-07/",
+    "title": "EMA fast-tracks review of Revolutions' experimental pancreatic cancer pill",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:09",
+    "pub_ts": 1783429782
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/amazon-aims-raise-25-billion-bond-sale-bloomberg-news-reports-2026-07-07/",
+    "title": "Amazon aims to raise $25 billion from bond sale, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 21:06",
+    "pub_ts": 1783429608
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/unitedhealth-says-most-home-health-diagnoses-were-supported-2025-2026-07-07/",
+    "title": "UnitedHealth says most home-health diagnoses were supported in 2025",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 21:05",
+    "pub_ts": 1783429543
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-talks-europe-missile-co-production-source-says-2026-07-07/",
+    "title": "US plans PAC-3 missile maintenance facility in Europe",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:03",
+    "pub_ts": 1783429424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/drug-smuggling-caused-deadly-sri-lanka-prison-riot-says-minister-2026-07-07/",
+    "title": "Drug smuggling caused deadly Sri Lanka prison riot, says minister",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 21:02",
+    "pub_ts": 1783429330
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/tech-companies-tap-debt-markets-fund-ai-cloud-expansion-2026-07-07/",
+    "title": "Tech companies tap debt, equity to fund AI and cloud expansion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:59",
+    "pub_ts": 1783429142
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/french-court-shortens-le-pens-ban-office-orders-electronic-tag-2026-07-07/",
+    "title": "French court shortens Le Pen's ban from office but orders electronic tag",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:11",
+    "pub_ts": 1783426288
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/bank-england-sets-out-plan-ease-bank-leverage-rules-2026-07-07/",
+    "title": "Bank of England sets out plan to ease bank leverage rules",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:10",
+    "pub_ts": 1783426249
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/abu-dhabi-royal-linked-firm-invest-113-billion-lng-company-midocean-energy-2026-07-07/",
+    "title": "Abu Dhabi royal-linked firm to invest $1.13 billion in LNG company MidOcean Energy",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 20:10",
+    "pub_ts": 1783426245
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "path": "/the-download/",
+    "category": "the download",
+    "pub_bj": "2026-07-07 20:10",
+    "pub_ts": 1783426200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+    "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:09",
+    "pub_ts": 1783426164
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britain-will-need-vast-fiscal-tightening-avert-debt-spiral-obr-predicts-2026-07-07/",
+    "title": "UK will need vast fiscal tightening to avert debt spiral, OBR predicts",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 20:00",
+    "pub_ts": 1783425636
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/philippines-vp-duterte-remains-defiant-trial-turns-alleged-threats-against-2026-07-07/",
+    "title": "Philippines' VP Duterte remains defiant as trial turns to alleged threats against Marcos",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:55",
+    "pub_ts": 1783425344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/frances-debt-burden-risk-snowballing-ahead-2027-election-2026-07-07/",
+    "title": "France's debt burden at risk of snowballing ahead of 2027 election",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:51",
+    "pub_ts": 1783425104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/eus-biggest-political-group-seeks-ease-carbon-market-burden-industry-draft-shows-2026-07-07/",
+    "title": "EU's biggest political group seeks to ease carbon market burden on industry, draft shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 19:46",
+    "pub_ts": 1783424769
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/blackrock-launch-nasdaq-100-etf-challenging-invescos-dominance-ai-rally-boosts-2026-07-07/",
+    "title": "BlackRock to launch Nasdaq-100 ETF, challenging Invesco's dominance as AI rally boosts demand",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 19:44",
+    "pub_ts": 1783424692
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-based-apple-supplier-luxshare-sets-hong-kong-listing-top-range-raises-over-2026-07-07/",
+    "title": "China-based Apple supplier Luxshare prices $3 billion Hong Kong listing at top end of range",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 19:43",
+    "pub_ts": 1783424607
+  },
+  {
+    "source": "People's Daily",
     "url": "http://zj.people.com.cn/n2/2026/0707/c186327-41631267.html",
     "title": "一座小岛的\"克制\"与\"浪漫\"",
     "path": "/general/",
@@ -297,6 +639,33 @@
     "pub_ts": 1783421648
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indias-temple-trust-reshuffles-leadership-after-donation-theft-scandal-2026-07-07/",
+    "title": "India's temple trust reshuffles leadership after donation theft scandal",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 18:19",
+    "pub_ts": 1783419584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/lawyers-love-footnotes-judge-boasberg-demands-rewrite-2026-07-07/",
+    "title": "Lawyers love footnotes. Judge Boasberg demands a rewrite.",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-07 18:11",
+    "pub_ts": 1783419100
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/major-deals-involving-us-drugmakers-biotechs-over-past-decade-2026-07-07/",
+    "title": "Major deals involving US drugmakers and biotechs over the past decade",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 18:09",
+    "pub_ts": 1783418970
+  },
+  {
     "source": "MIT Tech Review",
     "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
     "title": "Why worms (and microbes) are catching on as a manure pollution solution",
@@ -304,6 +673,24 @@
     "category": "climate change and energy",
     "pub_bj": "2026-07-07 18:00",
     "pub_ts": 1783418400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-police-say-death-nigerian-man-not-linked-anti-migrant-violence-2026-07-07/",
+    "title": "South African police say death of Nigerian man not linked to anti-migrant violence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:57",
+    "pub_ts": 1783418263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-gold-reserves-rise-most-since-2023-even-bullion-tumbles-2026-07-07/",
+    "title": "China gold reserves rise most since 2023 even as bullion tumbles",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-07 17:53",
+    "pub_ts": 1783418012
   },
   {
     "source": "Reuters",
