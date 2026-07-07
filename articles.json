@@ -1,5 +1,158 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40755399.html",
+    "title": "王毅外长访问北欧成果清单",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 05:43",
+    "pub_ts": 1783460597
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0708/c1002-40755400.html",
+    "title": "外交部介绍王毅外长访问北欧四国情况",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 05:43",
+    "pub_ts": 1783460597
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-2026-07-07/",
+    "title": "US military launches strikes against Iran, Central Command says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 05:36",
+    "pub_ts": 1783460212
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/urgent-coty-return-gucci-beauty-license-kering-early-400-million-deal-2026-07-07/",
+    "title": "Coty, Kering agree early return of Gucci Beauty license in $400 million deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:26",
+    "pub_ts": 1783459605
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/imf-appoints-silvana-tenreyro-chief-economist-head-research-2026-07-07/",
+    "title": "IMF appoints Silvana Tenreyro as chief economist, head of research",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:22",
+    "pub_ts": 1783459334
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/trans-mountain-pipeline-reaches-settlement-with-oil-shippers-tolling-dispute-2026-07-07/",
+    "title": "Trans Mountain pipeline reaches settlement with oil shippers on tolling dispute",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:19",
+    "pub_ts": 1783459147
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/petrobras-signs-58-million-deal-with-brazil-regulator-bring-wells-into-2026-07-07/",
+    "title": "Petrobras signs $58 million deal with Brazil regulator to bring wells into compliance",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:16",
+    "pub_ts": 1783459002
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacexai-plans-launch-new-model-with-cursor-soon-wednesday-information-reports-2026-07-07/",
+    "title": "SpaceXAI plans to launch new model with Cursor as soon as Wednesday, The Information reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:03",
+    "pub_ts": 1783458223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/mastec-acquire-electrical-contractor-superior-group-165-billion-deal-2026-07-07/",
+    "title": "MasTec to acquire electrical contractor Superior Group in $1.65 billion deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 05:03",
+    "pub_ts": 1783458194
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-administration-puts-plan-harriet-tubman-20-bill-ice-2026-07-07/",
+    "title": "Trump administration puts plan for Harriet Tubman $20 bill on ice",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 05:01",
+    "pub_ts": 1783458105
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/patriot-front-members-solitary-woman-travel-dc-train-2026-07-07/",
+    "title": "Patriot Front members and a solitary woman travel on a DC train",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 05:01",
+    "pub_ts": 1783458105
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/norfolk-southern-union-pacific-defend-proposed-85-billion-merger-2026-07-07/",
+    "title": "Norfolk Southern, Union Pacific defend proposed $85 billion merger",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 04:57",
+    "pub_ts": 1783457869
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukraines-zelenskiy-signs-drone-deals-with-three-countries-2026-07-07/",
+    "title": "Ukraine's Zelenskiy signs 'drone deals' with three countries",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 04:57",
+    "pub_ts": 1783457863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/nearly-half-early-career-lawyers-use-ai-daily-survey-finds-2026-07-07/",
+    "title": "Nearly half of early career lawyers use AI daily, survey finds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 04:56",
+    "pub_ts": 1783457777
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/oklahoma-sues-allstate-says-insurer-underpays-damages-claims-2026-07-07/",
+    "title": "Oklahoma sues Allstate, says insurer underpays damages claims",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 04:45",
+    "pub_ts": 1783457104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/who-could-replace-maine-senate-candidate-graham-platner-if-he-dropped-out-2026-07-07/",
+    "title": "Who could replace Maine Senate candidate Graham Platner if he dropped out?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 04:42",
+    "pub_ts": 1783456960
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/exxon-mobil-signals-higher-second-quarter-earnings-2026-07-07/",
+    "title": "Exxon Mobil signals higher second-quarter earnings",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 04:41",
+    "pub_ts": 1783456888
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/pakistan-cargo-plane-loses-contact-after-reporting-technical-issue-near-karachi-2026-07-07/",
     "title": "Cargo plane with five on board loses contact near Karachi after technical issue",
@@ -70,6 +223,15 @@
     "category": "business",
     "pub_bj": "2026-07-08 03:03",
     "pub_ts": 1783451025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/davos/five-takeaways-davos-2026-2026-01-23/",
+    "title": "Five takeaways from Davos 2026",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 02:38",
+    "pub_ts": 1783449524
   },
   {
     "source": "People's Daily",
@@ -268,6 +430,42 @@
     "category": "business",
     "pub_bj": "2026-07-08 00:42",
     "pub_ts": 1783442528
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/pay-gap-between-top-lowest-swiss-earners-has-grown-study-finds-2026-07-07/",
+    "title": "Pay gap between top and lowest Swiss earners has grown, study finds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:32",
+    "pub_ts": 1783441942
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/brazils-2026-auto-sales-seen-highest-since-2014-auto-association-says-2026-07-07/",
+    "title": "Brazil's 2026 auto sales seen at highest since 2014, auto association says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:31",
+    "pub_ts": 1783441906
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/outspoken-chinese-economist-gao-shanwen-dies-55-state-media-reports-2026-07-07/",
+    "title": "Outspoken Chinese economist Gao Shanwen dies at 55, state media reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:31",
+    "pub_ts": 1783441904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinese-robotaxi-firm-momenta-prices-hong-kong-listing-top-end-seeks-raise-751-2026-07-07/",
+    "title": "Chinese robotaxi firm Momenta prices Hong Kong listing at top end, seeks to raise $751 million",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:26",
+    "pub_ts": 1783441610
   },
   {
     "source": "Reuters",
