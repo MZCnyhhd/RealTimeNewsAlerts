@@ -1,6 +1,195 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40755397.html",
+    "title": "盯紧压实责任全力抢险救援 最大限度减少人员伤亡",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 02:15",
+    "pub_ts": 1783448149
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk-summons-senior-iranian-diplomat-over-stabbing-iranian-journalist-london-2026-07-07/",
+    "title": "UK summons senior Iranian diplomat over stabbing of Iranian journalist in London",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 02:06",
+    "pub_ts": 1783447611
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/meta-expands-generative-ai-tools-with-muse-image-rollout-2026-07-07/",
+    "title": "Meta expands generative AI tools with Muse Image rollout",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-08 02:06",
+    "pub_ts": 1783447570
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-approves-4675-million-payout-23andme-data-breach-victims-2026-07-07/",
+    "title": "Judge approves $46.75 million payout for 23andMe data breach victims",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 02:01",
+    "pub_ts": 1783447275
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/bernie-sanders-urges-platner-quit-maine-senate-race-democrats-vie-succeed-him-2026-07-07/",
+    "title": "Bernie Sanders urges Platner to quit Maine Senate race as Democrats vie to succeed him",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:51",
+    "pub_ts": 1783446680
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/marine-le-pen-verdict-live-frances-far-right-leader-awaits-appeal-ruling-with-2026-07-07/",
+    "title": "Marine Le Pen verdict live: France's far-right leader awaits appeal ruling with presidential race at stake",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:51",
+    "pub_ts": 1783446673
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/video-shows-suspect-sniper-position-charlie-kirk-shot-utah-prosecutors-say-2026-07-07/",
+    "title": "Video shows suspect in sniper position as Charlie Kirk shot, Utah prosecutors say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 01:49",
+    "pub_ts": 1783446554
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/uk-netherlands-sign-new-32-billion-maritime-partnership-2026-07-07/",
+    "title": "UK and the Netherlands sign new $3.2 billion maritime partnership",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:45",
+    "pub_ts": 1783446330
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/columns-manhattan-high-rise-buckle-prompting-evacuations-2026-07-07/",
+    "title": "Columns in Manhattan high-rise buckle, prompting evacuations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:36",
+    "pub_ts": 1783445801
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/tennis-players-association-sues-former-top-lawyer-over-alleged-power-grab-2026-07-07/",
+    "title": "Tennis players' association sues former top lawyer over alleged power grab",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 01:35",
+    "pub_ts": 1783445706
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-two-people-gaza-medics-say-2026-07-07/",
+    "title": "Israeli fire kills seven people, including a child, in Gaza, medics say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:30",
+    "pub_ts": 1783445401
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazils-senator-bolsonaro-argues-against-25-us-tariff-its-exports-2026-07-07/",
+    "title": "Brazil's Senator Bolsonaro argues against 25% US tariff on its exports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 01:23",
+    "pub_ts": 1783444996
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-veras-kidney-disease-drug-2026-07-07/",
+    "title": "US FDA approves Vera's kidney disease drug",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 01:09",
+    "pub_ts": 1783444186
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-edges-higher-trade-data-boosts-growth-outlook-2026-07-07/",
+    "title": "Canadian dollar edges higher as trade data boosts growth outlook",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:20",
+    "pub_ts": 1783441229
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ny-fed-survey-reports-rising-near-term-inflation-expectations-june-2026-07-07/",
+    "title": "US consumers' near-term inflation expectations rise in June, New York Fed says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:19",
+    "pub_ts": 1783441198
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarian-state-tv-suspends-news-broadcast-revamp-after-orban-years-2026-07-07/",
+    "title": "Hungarian state TV suspends news broadcast for revamp after Orban years",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:16",
+    "pub_ts": 1783440993
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/nine-countries-commit-to-global-defence-bank-says-canada-2026-07-07/",
+    "title": "Nine countries commit to global defence bank, Canada says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 00:15",
+    "pub_ts": 1783440932
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/nigerias-utm-secures-gas-supply-deal-clears-key-hurdle-3-billion-lng-project-2026-07-07/",
+    "title": "Nigeria's UTM secures gas supply deal, clears key hurdle to $3 billion LNG project",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:15",
+    "pub_ts": 1783440907
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/discounts-russian-urals-crude-widen-more-than-10-per-barrel-india-sources-say-2026-07-07/",
+    "title": "Discounts for Russian Urals crude widen to more than $10 per barrel in India, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:14",
+    "pub_ts": 1783440849
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/factbox-top-pharma-companies-work-launch-first-weight-loss-pill-2026-07-07/",
+    "title": "Race to launch weight-loss pills heats up as smaller players advance",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 00:12",
+    "pub_ts": 1783440774
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/greek-wiretapping-victims-sue-spyware-firm-intellexa-damages-2026-07-07/",
+    "title": "Greek wiretapping victims sue spyware firm Intellexa for damages",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 00:10",
+    "pub_ts": 1783440640
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0707/c1001-40755396.html",
     "title": "集聚人才合力 共赴壮阔前程",
     "path": "/politics/",
@@ -313,6 +502,15 @@
     "category": "business",
     "pub_bj": "2026-07-07 22:01",
     "pub_ts": 1783432906
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/drought-shrivels-french-wine-harvest-prospects-2026-07-07/",
+    "title": "Drought shrivels French wine harvest prospects",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-07 21:48",
+    "pub_ts": 1783432080
   },
   {
     "source": "People's Daily",
