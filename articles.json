@@ -1,5 +1,149 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/fatal-ice-shooting-houston-sparks-demands-transparency-independent-investigation-2026-07-08/",
+    "title": "Fatal ICE shooting in Houston sparks demands for transparency, independent investigation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 02:07",
+    "pub_ts": 1783534063
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/swiss-official-sees-good-chance-15-us-tariff-rate-maintained-2026-07-08/",
+    "title": "Swiss official sees good chance 15% US tariff rate maintained",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 02:03",
+    "pub_ts": 1783533825
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/some-war-insurers-advise-shipowners-pause-hormuz-voyages-after-attacks-sources-2026-07-08/",
+    "title": "Some war insurers advise shipowners to pause Hormuz voyages after attacks, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 02:02",
+    "pub_ts": 1783533725
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-rescinds-syria-state-sponsor-terrorism-designation-2026-07-08/",
+    "title": "Trump rescinds Syria state sponsor of terrorism designation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:57",
+    "pub_ts": 1783533423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/venezuelan-fashion-workshop-swaps-gowns-body-bags-after-deadly-earthquakes-2026-07-08/",
+    "title": "Venezuelan fashion workshop swaps gowns for body bags after deadly earthquakes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:53",
+    "pub_ts": 1783533224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/openai-launches-gpt-live-voice-models-that-listen-speak-simultaneously-2026-07-08/",
+    "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 01:53",
+    "pub_ts": 1783533224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-five-people-including-child-gaza-medics-say-2026-07-08/",
+    "title": "Israeli fire kills nine people, including two children, in Gaza, medics say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:53",
+    "pub_ts": 1783533215
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-gains-oil-jumps-mideast-hostilities-2026-07-08/",
+    "title": "Canadian dollar gains as oil jumps on Mideast hostilities",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 01:42",
+    "pub_ts": 1783532577
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/natos-rutte-brushes-off-disputes-between-trump-allies-2026-07-08/",
+    "title": "NATO's Rutte brushes off disputes between Trump and allies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 01:39",
+    "pub_ts": 1783532384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/deere-settles-lawsuit-by-us-ftc-states-over-equipment-repair-restrictions-2026-07-08/",
+    "title": "Deere settles lawsuit by US FTC, states over equipment repair restrictions",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 01:37",
+    "pub_ts": 1783532266
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/guatemalan-zoo-breeds-rare-lizards-bid-save-endangered-species-2026-07-08/",
+    "title": "Guatemalan zoo breeds rare lizards in bid to save endangered species",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 01:36",
+    "pub_ts": 1783532187
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/are-us-iran-escalating-negotiate-2026-07-08/",
+    "title": "Are the US and Iran escalating to negotiate?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:32",
+    "pub_ts": 1783531920
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/bofa-extends-first-520-million-loan-openai-ahead-ipo-source-says-2026-07-08/",
+    "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 01:24",
+    "pub_ts": 1783531474
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-authorizes-payment-multi-million-dollar-award-e-jean-carroll-trump-case-2026-07-08/",
+    "title": "Judge authorizes payment of multi-million dollar award to E. Jean Carroll in Trump case",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:23",
+    "pub_ts": 1783531384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-urges-all-sides-uphold-commitments-under-islamabad-mou-2026-07-08/",
+    "title": "Pakistan urges all sides to uphold commitments under Islamabad MoU",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:21",
+    "pub_ts": 1783531303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/two-people-killed-after-israeli-drone-strike-southern-lebanon-2026-07-08/",
+    "title": "Two people killed after Israeli drone strike in southern Lebanon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:14",
+    "pub_ts": 1783530851
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40756241.html",
     "title": "同心同行 推动世界共同发展",
@@ -142,6 +286,105 @@
     "category": "business",
     "pub_bj": "2026-07-09 00:15",
     "pub_ts": 1783527344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/albanias-pm-defends-4-million-kanye-west-concert-2026-07-08/",
+    "title": "Albania's PM defends €4 million Kanye West concert",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:10",
+    "pub_ts": 1783527041
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/nato-upgrades-baltic-air-policing-mission-air-defence-2026-07-08/",
+    "title": "NATO upgrades Baltic Air Policing mission to air defence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:09",
+    "pub_ts": 1783526961
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/",
+    "title": "Zendaya, Anne Hathaway, Charlize Theron: Style from The Odyssey premiere",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:07",
+    "pub_ts": 1783526834
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/crypto-firms-prepare-defenses-quantum-threat-encryption-draws-nearer-2026-07-08/",
+    "title": "Crypto firms prepare defenses as quantum threat to encryption draws nearer",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:06",
+    "pub_ts": 1783526809
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/new-european-power-links-needed-renewables-grid-resilience-hitachi-energy-says-2026-07-08/",
+    "title": "New European power links needed for renewables, grid resilience, Hitachi Energy says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:06",
+    "pub_ts": 1783526780
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/eu-plans-impose-emissions-costs-waste-incineration-plants-2026-07-08/",
+    "title": "EU plans to impose emissions costs on waste incineration plants",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:03",
+    "pub_ts": 1783526625
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/eight-iranian-army-members-killed-us-attacks-southern-parts-iran-2026-07-08/",
+    "title": "Eight Iranian army members killed in U.S. attacks on southern parts of Iran",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:03",
+    "pub_ts": 1783526605
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/trump-says-both-sides-ukraine-war-want-settlement-2026-07-08/",
+    "title": "Trump says Ukraine to be allowed to make Patriot missile interceptors",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:02",
+    "pub_ts": 1783526568
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/dc-circuit-challenge-dea-hearing-put-federal-cannabis-rescheduling-test--pracin-2026-07-08/",
+    "title": "D.C. Circuit challenge and DEA hearing put federal cannabis rescheduling to the test",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:00",
+    "pub_ts": 1783526457
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trumps-board-peace-planning-pilot-humanitarian-zone-gaza-official-says-2026-07-08/",
+    "title": "Trump's Board of Peace planning pilot humanitarian zone in Gaza, official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:00",
+    "pub_ts": 1783526410
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-plans-let-top-ai-firms-buy-limited-amount-nvidia-h200-chips-information-2026-07-08/",
+    "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:58",
+    "pub_ts": 1783526327
   },
   {
     "source": "Reuters",
@@ -412,6 +655,60 @@
     "category": "world",
     "pub_bj": "2026-07-08 22:32",
     "pub_ts": 1783521129
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/italys-meloni-says-no-regrets-over-trying-woo-trump-2026-07-08/",
+    "title": "Italy's Meloni says no regrets over trying to woo Trump",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:25",
+    "pub_ts": 1783520746
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/tsx-futures-fall-renewed-middle-east-tensions-2026-07-08/",
+    "title": "TSX slides on fresh Middle East concerns",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:23",
+    "pub_ts": 1783520623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/wreckage-missing-cargo-plane-found-pakistan-airports-authority-says-2026-07-08/",
+    "title": "Wreckage of missing cargo plane found, Pakistan Airports Authority says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:20",
+    "pub_ts": 1783520416
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/aba-seeks-white-house-records-tied-trumps-law-firm-executive-orders-2026-07-08/",
+    "title": "ABA seeks White House records tied to Trump's law-firm executive orders",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 22:19",
+    "pub_ts": 1783520383
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/frances-highest-court-may-rule-le-pens-appeal-by-april-before-presidential-2026-07-08/",
+    "title": "France's highest court may rule on Le Pen's appeal by April, before presidential election",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:15",
+    "pub_ts": 1783520145
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+    "title": "Major AI models at a glance",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 21:58",
+    "pub_ts": 1783519088
   },
   {
     "source": "Reuters",
