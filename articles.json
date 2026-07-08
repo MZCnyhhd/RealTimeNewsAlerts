@@ -1,6 +1,276 @@
 [
   {
     "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0708/c1002-40756227.html",
+    "title": "IMF下调世界经济增长预期 上调中国增长预期",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:12",
+    "pub_ts": 1783523560
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0708/c1008-40756228.html",
+    "title": "住房城乡建设部部署城市排水防涝工作",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-08 23:12",
+    "pub_ts": 1783523560
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0708/c1008-40756229.html",
+    "title": "今年首期全国高温中暑气象预报发布",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-08 23:12",
+    "pub_ts": 1783523560
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-sbi-funds-management-ipo-open-july-14-2026-07-08/",
+    "title": "India's SBI Funds Management IPO to open on July 14",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:03",
+    "pub_ts": 1783523001
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/aeps-texas-unit-secures-up-326-billion-federal-loan-upgrade-power-grid-2026-07-08/",
+    "title": "AEP's Texas unit secures up to $3.26 billion US loan to boost power grid",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:02",
+    "pub_ts": 1783522933
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/jpmorgan-hires-veteran-banker-michael-flynn-lead-small-cap-banking-business-2026-07-08/",
+    "title": "JPMorgan hires veteran banker Michael Flynn to lead small-cap banking business",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 23:02",
+    "pub_ts": 1783522929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-says-he-thinks-he-will-remove-syria-us-terrorism-sponsor-list-2026-07-08/",
+    "title": "Trump says he thinks he will remove Syria from US terrorism sponsor list",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:57",
+    "pub_ts": 1783522637
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/google-defeats-consumer-lawsuit-over-gemini-data-tracking-claims-2026-07-08/",
+    "title": "Google defeats consumer lawsuit over Gemini data tracking claims",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 22:56",
+    "pub_ts": 1783522590
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-he-will-use-old-air-force-one-travel-uk-with-new-plane-going-there-2026-07-08/",
+    "title": "Trump says he will use old Air Force One to travel to UK with new plane going there too",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:56",
+    "pub_ts": 1783522576
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/eu-sues-hungary-over-food-price-cap-foreign-retailers-2026-07-08/",
+    "title": "EU sues Hungary over food price cap on foreign retailers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 22:51",
+    "pub_ts": 1783522285
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/maine-democrats-say-embattled-senate-candidate-platner-cant-pick-his-replacement-2026-07-08/",
+    "title": "Maine Democrats say embattled Senate candidate Platner can't pick his replacement",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:50",
+    "pub_ts": 1783522248
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/japans-ruling-party-plans-tighter-oversight-disclosures-by-activist-investors-2026-07-08/",
+    "title": "Japan's ruling party plans tighter oversight of disclosures by activist investors",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 22:50",
+    "pub_ts": 1783522237
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-wholesale-inventories-may-revised-lower-2026-07-08/",
+    "title": "US wholesale inventories in May revised lower",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:42",
+    "pub_ts": 1783521778
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/apple-spend-30-billion-broadcom-chips-deal-that-will-see-colorado-factory-expand-2026-07-08/",
+    "title": "Apple to spend $30 billion on Broadcom chips as it boosts US sourcing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:40",
+    "pub_ts": 1783521657
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/venezuelas-rodriguez-signs-oil-gas-reform-framework-2026-07-08/",
+    "title": "Venezuela's Rodriguez signs oil and gas reform framework",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:40",
+    "pub_ts": 1783521638
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/trump-nominee-cdc-director-appear-before-us-senate-panel-next-week-2026-07-08/",
+    "title": "Trump nominee for CDC director to appear before US Senate panel next week",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 22:37",
+    "pub_ts": 1783521465
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/czech-republic-will-not-participate-70-billion-package-ukraine-pm-babis-says-2026-07-08/",
+    "title": "Czech Republic will not participate in €70 billion package for Ukraine, PM Babis says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 22:37",
+    "pub_ts": 1783521465
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/CD4P4HSIBVJ5LIJQCM5ORKRGGM-2026-07-08/",
+    "title": "Hincha de Inglaterra no fue detenido por pisar bandera mexicana; imagen fue hecha con IA",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-08 22:35",
+    "pub_ts": 1783521358
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/can-us-president-trump-cut-off-all-trade-with-spain-2026-07-08/",
+    "title": "Can U.S. President Trump 'cut off all trade' with Spain?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:33",
+    "pub_ts": 1783521191
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/british-neo-nazi-jailed-13-and-a-half-years-police-say-2026-07-08/",
+    "title": "British neo-Nazi jailed for 13-and-a-half years, police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 22:32",
+    "pub_ts": 1783521129
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/airlines-cancel-flights-after-us-israel-strikes-iran-2026-07-08/",
+    "title": "Airlines resume some Middle East flights but disruption continues",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 21:36",
+    "pub_ts": 1783517770
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/spains-santander-overhauls-asia-pacific-business-ft-reports-2026-07-08/",
+    "title": "Spain's Santander overhauls Asia-Pacific business, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 21:28",
+    "pub_ts": 1783517295
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russian-backed-crimea-governor-says-fuel-situation-is-likely-remain-tense-2026-07-08/",
+    "title": "Russian-backed Crimea governor says fuel situation is likely to remain tense",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 21:27",
+    "pub_ts": 1783517264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-opposes-letting-e-jean-carroll-collect-5-million-award-cites-supreme-court-2026-07-08/",
+    "title": "Trump opposes letting E. Jean Carroll collect $5 million award, cites Supreme Court bid",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 21:26",
+    "pub_ts": 1783517217
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/imf-cuts-turkeys-2026-growth-view-second-time-this-year-2026-07-08/",
+    "title": "IMF cuts Turkey's 2026 growth view for second time this year",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 21:19",
+    "pub_ts": 1783516787
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/cathay-pacific-cuts-fuel-surcharges-again-jet-fuel-prices-ease-2026-07-08/",
+    "title": "Cathay Pacific cuts fuel surcharges again as jet fuel prices ease",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 21:17",
+    "pub_ts": 1783516676
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/honda-recalls-over-300000-us-vehicles-over-rearview-image-display-issues-2026-07-08/",
+    "title": "Honda recalls over 300,000 US vehicles over rearview image display issues",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 21:16",
+    "pub_ts": 1783516563
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-battery-storage-tariffs-seen-rising-higher-costs-squeeze-low-priced-2026-07-08/",
+    "title": "India battery storage tariffs seen rising as higher costs squeeze low-priced projects",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 21:13",
+    "pub_ts": 1783516438
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/deutsche-bank-gains-new-saudi-licence-push-expand-2026-07-08/",
+    "title": "Deutsche Bank gains new Saudi licence in push to expand",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 21:11",
+    "pub_ts": 1783516310
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/astrazeneca-daiichi-near-uk-pricing-deal-breast-cancer-drug-bloomberg-news-2026-07-08/",
+    "title": "AstraZeneca, Daiichi near UK pricing deal for breast cancer drug, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 21:09",
+    "pub_ts": 1783516196
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756224.html",
     "title": "朝着建成科技强国的宏伟目标奋勇前进",
     "path": "/politics/",
@@ -214,6 +484,42 @@
     "category": "the download",
     "pub_bj": "2026-07-08 20:10",
     "pub_ts": 1783512600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-42-security-personnel-killed-balochistan-attacks-this-week-2026-07-08/",
+    "title": "Pakistan says 42 security personnel killed in Balochistan attacks this week",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 19:57",
+    "pub_ts": 1783511835
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britains-ftse-indexes-fall-trump-says-iran-deal-over-2026-07-08/",
+    "title": "Britain's FTSE indexes fall as Trump says Iran deal 'over'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 19:50",
+    "pub_ts": 1783511403
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-minimax-plans-launch-giant-27-trillion-parameter-model-2026-07-08/",
+    "title": "China's MiniMax plans to launch giant 2.7 trillion parameter model",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 19:48",
+    "pub_ts": 1783511336
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/tesco-weighs-sale-central-eastern-european-ops-ft-reports-2026-07-08/",
+    "title": "Tesco exploring sale of Central Europe operations, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 19:41",
+    "pub_ts": 1783510910
   },
   {
     "source": "Reuters",
