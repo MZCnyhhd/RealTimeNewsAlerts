@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacexai-launches-grok-45-model-coding-agentic-tasks-2026-07-08/",
+    "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 04:48",
+    "pub_ts": 1783543693
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-approves-elon-musk-settlement-with-us-sec-over-twitter-disclosures-2026-07-08/",
+    "title": "US judge approves Elon Musk settlement with SEC despite misgivings, 'red flags'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 04:45",
+    "pub_ts": 1783543534
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/cash-app-parent-settles-states-probe-over-fraud-protections-45-million-2026-07-08/",
+    "title": "Cash App parent settles states' probe over fraud protections for $45 million",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 04:36",
+    "pub_ts": 1783542989
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/levi-strauss-raises-annual-outlook-denim-demand-holds-steady-2026-07-08/",
+    "title": "Levi Strauss raises annual outlook as denim demand holds steady",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 04:30",
+    "pub_ts": 1783542632
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/companies-must-address-self-driving-car-interference-with-emergency-vehicles-us-2026-07-08/",
+    "title": "Companies must address self-driving car interference with emergency vehicles, U.S. says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 04:29",
+    "pub_ts": 1783542562
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-military-is-conducting-fresh-strikes-iran-2026-07-08/",
+    "title": "US military is conducting fresh strikes on Iran",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 04:26",
+    "pub_ts": 1783542386
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/global-economy-resilient-middle-east-war-shock-agencies-say-2026-07-08/",
+    "title": "Global economy resilient to Middle East war shock, agencies say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 04:20",
+    "pub_ts": 1783542036
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-diesel-futures-post-biggest-daily-gains-four-years-after-russia-bans-exports-2026-07-08/",
+    "title": "US diesel futures post biggest daily gains in four years after Russia bans exports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 04:17",
+    "pub_ts": 1783541864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/venture-globals-second-quarter-liquefaction-fee-jumps-69-iran-war-lifts-lng-2026-07-08/",
+    "title": "Venture Global's second-quarter liquefaction fee jumps 69% as Iran war lifts LNG prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 04:11",
+    "pub_ts": 1783541505
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/DDLOYEKAR5K6FEPRBPH53IG4HE-2026-07-08/",
+    "title": "Fifa não suspendeu árbitro que anulou gol de Vinicius Júnior na Copa",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 04:09",
+    "pub_ts": 1783541387
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+    "title": "China weighs silicon curtain around sought-after AI models",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-09 04:00",
+    "pub_ts": 1783540800
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/africa/eleven-more-trump-deportees-arrive-eswatini-united-states-lawyer-says-2026-07-08/",
     "title": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
     "path": "/world/",
@@ -115,6 +214,33 @@
     "category": "world",
     "pub_bj": "2026-07-09 02:51",
     "pub_ts": 1783536667
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-attack-kills-four-ukraine-port-odesa-official-says-2026-07-08/",
+    "title": "Russian attack kills four in Ukraine port of Odesa, official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 02:41",
+    "pub_ts": 1783536077
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/polish-watchdog-searches-banks-mortgage-scoring-probe-2026-07-08/",
+    "title": "Polish watchdog searches banks in mortgage-scoring probe",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 02:31",
+    "pub_ts": 1783535511
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/pentagon-seeks-rally-latin-america-behind-new-monroe-doctrine-2026-07-08/",
+    "title": "Pentagon seeks to rally Latin America behind new Monroe Doctrine",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 02:21",
+    "pub_ts": 1783534904
   },
   {
     "source": "Reuters",
