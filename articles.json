@@ -1,6 +1,240 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c1001-40756241.html",
+    "title": "同心同行 推动世界共同发展",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-09 00:49",
+    "pub_ts": 1783529358
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0708/c1016-40756240.html",
+    "title": "我国最大全回转半潜起重船“四航永盛”号交付",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-09 00:49",
+    "pub_ts": 1783529358
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/judge-rejects-kalshi-bid-block-new-york-gambling-enforcement-law-2026-07-08/",
+    "title": "Judge rejects Kalshi bid to block New York gambling enforcement law",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:44",
+    "pub_ts": 1783529083
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-traffic-deaths-fell-sharply-early-2026-2026-07-08/",
+    "title": "US traffic deaths fell sharply in early 2026",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:36",
+    "pub_ts": 1783528569
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/midtown-manhattan-high-rise-stable-after-columns-buckled-officials-say-2026-07-08/",
+    "title": "Midtown Manhattan high-rise stable after columns buckled, officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:34",
+    "pub_ts": 1783528492
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-detects-swine-fever-case-wild-boar-2026-07-08/",
+    "title": "Germany detects swine fever case in wild boar",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:33",
+    "pub_ts": 1783528382
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-cites-tremendous-unity-nato-summit-progress-defense-spending-2026-07-08/",
+    "title": "Trump cites 'tremendous unity' at NATO summit, progress on defense spending",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:30",
+    "pub_ts": 1783528209
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/imf-edges-2026-global-growth-forecast-lower-3-sees-rebound-2027-2026-07-08/",
+    "title": "IMF lowers 2026 global growth forecast to 3%, sees rebound in 2027",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:29",
+    "pub_ts": 1783528146
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/unicredit-closes-commerzbank-battle-enters-endgame-2026-07-08/",
+    "title": "UniCredit closes in on Commerzbank as battle enters endgame",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:26",
+    "pub_ts": 1783527998
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "path": "/tech/",
+    "category": "tech",
+    "pub_bj": "2026-07-09 00:26",
+    "pub_ts": 1783527970
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-orders-four-states-be-given-access-citizenship-data-voter-checks-2026-07-08/",
+    "title": "US judge orders four states be given access to citizenship data for voter checks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:23",
+    "pub_ts": 1783527824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/etihad-nearing-deal-order-10-boeing-787-jets-sources-say-2026-07-08/",
+    "title": "Etihad nearing deal to order 10 Boeing 787 jets, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:23",
+    "pub_ts": 1783527823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russia-bans-diesel-exports-increase-domestic-supply-says-deputy-pm-2026-07-08/",
+    "title": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:22",
+    "pub_ts": 1783527739
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/how-irans-golden-weapon-hormuz-became-bigger-priority-than-its-long-disputed-2026-07-08/",
+    "title": "How Iran's 'golden weapon' of Hormuz became a bigger priority than its long-disputed nuclear programme",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 00:21",
+    "pub_ts": 1783527701
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-court-says-trump-name-must-stay-off-kennedy-center-during-appeal-2026-07-08/",
+    "title": "US court says Trump name must stay off Kennedy Center during appeal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:18",
+    "pub_ts": 1783527487
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/sweden-germany-sign-letter-intent-air-defence-swedish-government-says-2026-07-08/",
+    "title": "Sweden and Germany sign letter of intent on air defence, Swedish government says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:15",
+    "pub_ts": 1783527344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/strong-el-nino-event-could-raise-extreme-weather-risks-china-state-media-says-2026-07-08/",
+    "title": "Strong El Nino event could raise extreme weather risks in China, state media says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:39",
+    "pub_ts": 1783525184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/adb-raises-developing-asia-2026-growth-forecast-49-2026-07-08/",
+    "title": "ADB raises developing Asia 2026 growth forecast to 4.9%",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:39",
+    "pub_ts": 1783525160
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/lawyer-britain-charged-with-insider-dealing-2026-07-08/",
+    "title": "Lawyer in Britain charged with insider dealing",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 23:38",
+    "pub_ts": 1783525119
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-he-thinks-israel-will-withdraw-troops-southern-lebanon-2026-07-08/",
+    "title": "Trump says he thinks Israel will withdraw troops from southern Lebanon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:38",
+    "pub_ts": 1783525109
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-estimates-300-gw-power-demand-next-year-backs-local-clean-energy-2026-07-08/",
+    "title": "India estimates 300 GW power demand next year, backs local clean-energy manufacturing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:35",
+    "pub_ts": 1783524951
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ny-fed-says-firms-its-district-arent-done-passing-tariff-costs-2026-07-08/",
+    "title": "NY Fed says firms in its district aren't done passing on tariff costs",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:33",
+    "pub_ts": 1783524829
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/greenland-is-not-sale-prime-minister-says-after-trump-demand-2026-07-08/",
+    "title": "Greenland is not for sale, prime minister says after Trump demand",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:25",
+    "pub_ts": 1783524344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexico-expects-economy-outperform-imf-projections-2026-07-08/",
+    "title": "Mexico expects economy to outperform IMF projections",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:19",
+    "pub_ts": 1783523954
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jp-morgan-expects-gold-prices-reach-6300oz-by-end-2026-2026-07-08/",
+    "title": "BofA cuts 2026 average gold forecast, sees long-term upside",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:18",
+    "pub_ts": 1783523908
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/technical-work-ongoing-with-turkey-italy-over-samp-t-air-defence-macron-says-2026-07-08/",
+    "title": "Technical work ongoing with Turkey, Italy over SAMP-T air defence, Macron says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:13",
+    "pub_ts": 1783523637
+  },
+  {
+    "source": "People's Daily",
     "url": "https://world.people.com.cn/n1/2026/0708/c1002-40756227.html",
     "title": "IMF下调世界经济增长预期 上调中国增长预期",
     "path": "/world/",
