@@ -1,6 +1,213 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://xz.people.com.cn/n2/2026/0708/c138901-41632863.html",
+    "title": "4000公里串起一条\"高原上班路\"",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://jl.people.com.cn/n2/2026/0708/c349771-41632880.html",
+    "title": "雷达巨擘的赤子情怀——访中国工程院院士贲德",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0708/c1016-40756090.html",
+    "title": "国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会召开",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0708/c351638-41632562.html",
+    "title": "行进中国｜东岳村振兴记",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0708/c1008-40756027.html",
+    "title": "国家发展改革委安排5000万元支持湖北风雹等灾害灾后应急恢复",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sc.people.com.cn/n2/2026/0708/c345167-41632627.html\n",
+    "title": "四川巴中：千年“琵琶”，弹出了什么曲？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sc.people.com.cn/n2/2026/0708/c345167-41632627.html",
+    "title": "四川巴中，这座位于秦巴山区腹地的城市，古称“琵琶城”。清道光《巴州志》记载：“州城形似琵琶，故名。”登高俯瞰，巴河穿城而过，城区依山展开，整体轮廓南北狭长、中部开阔，犹如一把横卧于河畔的琵琶。千百年来，这把“琵琶”弹过古道上商旅的驼铃，弹过红军入川的战歌。今天，它又弹出什么新曲？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 15:02",
+    "pub_ts": 1783494130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/russia-tries-jam-musks-starlink-systems-counter-ukrainian-drones-2026-07-08/",
+    "title": "Russia tries to jam Musk's Starlink systems to counter Ukrainian drones",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 14:57",
+    "pub_ts": 1783493829
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-regulator-fines-virgin-media-37-million-preventing-contract-cancellations-2026-07-08/",
+    "title": "UK regulator fines Virgin Media $37 million for preventing contract cancellations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:51",
+    "pub_ts": 1783493510
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britains-unite-reports-higher-bookings-202627-robust-direct-let-demand-2026-07-08/",
+    "title": "Britain's Unite reports higher bookings for 2026/27 on robust direct-let demand",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:51",
+    "pub_ts": 1783493471
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/chinas-actions-risk-creation-new-status-quo-taiwan-official-says-2026-07-08/",
+    "title": "China's actions risk creation of new status quo, Taiwan official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:43",
+    "pub_ts": 1783493026
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korean-shares-drop-20-peak-chipmaker-stock-volatility-sharpens-2026-07-08/",
+    "title": "South Korean shares drop 20% from peak as chipmaker stock volatility sharpens",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:43",
+    "pub_ts": 1783493025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/china-further-eases-fuel-export-curbs-july-sources-say-2026-07-08/",
+    "title": "China lifts fuel export curbs for July, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 14:41",
+    "pub_ts": 1783492864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/uk-regulator-finds-severn-trent-water-breach-wastewater-obligations-2026-07-08/",
+    "title": "Severn Trent Water breached wastewater duties, UK watchdog says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 14:39",
+    "pub_ts": 1783492753
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-homebuilder-vistry-forecasts-first-half-loss-cfo-resigns-2026-07-08/",
+    "title": "UK homebuilder Vistry forecasts first-half loss, CFO departs for role elsewhere",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:36",
+    "pub_ts": 1783492584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uks-jet2-says-summer-bookings-rise-7-middle-east-tensions-ease-2026-07-08/",
+    "title": "UK's Jet2 says summer bookings rise 7% as Middle East tensions ease",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 14:32",
+    "pub_ts": 1783492341
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/norways-telenor-buys-575-stake-worth-629-million-swedish-broadband-provider-2026-07-08/",
+    "title": "Norway's Telenor buys 57.5% stake worth $629 million in Swedish broadband provider",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 14:30",
+    "pub_ts": 1783492209
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uks-ig-group-plans-jersey-holding-company-strategic-review-advances-2026-07-08/",
+    "title": "UK's IG Group plans Jersey holding company as strategic review advances",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 14:29",
+    "pub_ts": 1783492157
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/safaricom-shareholders-vote-vodafones-right-pick-ceo-2026-07-08/",
+    "title": "Safaricom shareholders to vote on Vodafone's right to pick CEO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:22",
+    "pub_ts": 1783491730
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/new-us-attacks-iran-were-absolutely-necessary-nato-chief-says-2026-07-08/",
+    "title": "New US attacks on Iran were absolutely necessary, NATO chief says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:16",
+    "pub_ts": 1783491376
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/denmark-ready-defend-every-inch-nato-including-danish-kingdom-pm-says-2026-07-08/",
+    "title": "Denmark ready to defend 'every inch of NATO', including Danish kingdom, PM says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 14:01",
+    "pub_ts": 1783490471
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukrainian-drones-kill-one-person-damage-two-empty-oil-tankers-russia-says-2026-07-08/",
+    "title": "Ukrainian drones kill one person, damage two empty oil tankers, Russia says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 13:53",
+    "pub_ts": 1783489999
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/taiwans-migrating-crab-population-rebounds-thanks-safer-road-crossings-2026-07-08/",
+    "title": "Taiwan's migrating crab population rebounds thanks to safer road crossings",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 13:52",
+    "pub_ts": 1783489929
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756010.html",
     "title": "2025年度国家科学技术奖揭晓",
     "path": "/politics/",
@@ -403,6 +610,24 @@
     "category": "world",
     "pub_bj": "2026-07-08 10:41",
     "pub_ts": 1783478501
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/least-21-killed-landslide-chinas-gansu-province-rescue-efforts-end-xinhua-says-2026-07-08/",
+    "title": "At least 21 killed in landslide in China's Gansu province as rescue efforts end, Xinhua says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 09:43",
+    "pub_ts": 1783475012
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/australia-central-banker-says-oil-shock-yet-slow-economy-2026-07-08/",
+    "title": "Australia central banker says oil shock yet to slow economy",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 09:22",
+    "pub_ts": 1783473746
   },
   {
     "source": "People's Daily",
