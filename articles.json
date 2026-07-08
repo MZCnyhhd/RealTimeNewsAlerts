@@ -1,5 +1,95 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-states-could-sue-next-week-block-paramount-warner-bros-deal-sources-say-2026-07-08/",
+    "title": "US states could sue next week to block Paramount-Warner Bros deal, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 06:44",
+    "pub_ts": 1783550641
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-wants-leave-iran-war-behind-that-wont-happen-soon-2026-07-08/",
+    "title": "Trump wants to leave the Iran war behind. That won't happen soon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 06:36",
+    "pub_ts": 1783550199
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/U73VQXFEMZPRBDULTMUIIGHN5Y-2026-07-08/",
+    "title": "Video de aficionados surcoreanos con bandera palestina antecede a Mundial 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 06:35",
+    "pub_ts": 1783550108
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-justice-department-tells-state-officials-they-could-be-prosecuted-over-2026-07-08/",
+    "title": "US Justice Department tells state officials they could be prosecuted over noncitizen voting",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 06:26",
+    "pub_ts": 1783549596
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-rises-more-than-dollar-per-barrel-us-launches-fresh-strikes-against-iran-2026-07-08/",
+    "title": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 06:23",
+    "pub_ts": 1783549434
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-denounces-nato-summit-decisions-aid-ukraine-defence-2026-07-08/",
+    "title": "Russia denounces NATO summit decisions on aid for Ukraine, defence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 06:23",
+    "pub_ts": 1783549424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/florida-can-pursue-lawsuit-against-group-over-trans-youth-care-us-court-rules-2026-07-08/",
+    "title": "Florida can pursue lawsuit against group over trans youth care, US court rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 06:20",
+    "pub_ts": 1783549258
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-coffee-industry-asks-trump-keep-tariff-exemption-brazil-beans-2026-07-08/",
+    "title": "US coffee industry asks Trump to keep tariff exemption on Brazil beans",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 06:09",
+    "pub_ts": 1783548583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/52IQBVBISVP2THJMYP3WNURQQQ-2026-07-08/",
+    "title": "Rescatista salvadoreño murió por accidente, no en labores de rescate en Venezuela",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 06:04",
+    "pub_ts": 1783548243
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-nuclear-power-regulator-proposes-narrowing-scope-environmental-reviews-2026-07-08/",
+    "title": "US nuclear power regulator proposes narrowing scope of environmental reviews",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 06:03",
+    "pub_ts": 1783548224
+  },
+  {
     "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756242.html",
     "title": "2025年度国家科技奖呈现新特点",
@@ -205,6 +295,15 @@
     "category": "technology",
     "pub_bj": "2026-07-09 04:00",
     "pub_ts": 1783540800
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/imfs-georgieva-visit-argentina-late-july-2026-07-08/",
+    "title": "IMF's Georgieva to visit Argentina in late July",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:49",
+    "pub_ts": 1783540184
   },
   {
     "source": "Reuters",
