@@ -1,6 +1,375 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756113.html\n",
+    "title": "习近平总书记同科技工作者的故事",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756148.html\n",
+    "title": "《习近平关于基层工作方法的重要论述学习读本》出版发行",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756115.html\n",
+    "title": "\"只要我们紧密团结起来,就没有克服不了的困难\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://qh.people.com.cn/n2/2026/0708/c378418-41632686.html",
+    "title": "天路笛鸣二十年 高原生活日日新",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0708/c1016-40756118.html",
+    "title": "我国首个实验室天体物理专用研究平台加速建设",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0708/c1002-40756119.html",
+    "title": "外交部：呼吁美伊双方落实好已经签署的谅解备忘录",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0708/c1012-40756154.html",
+    "title": "今年全国暑期文旅消费季将发放超4.5亿元消费补贴",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://tw.people.com.cn/n1/2026/0708/c14657-40756145.html",
+    "title": "国台办：统战工作行之有年，光明正大",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://bj.people.com.cn/n2/2026/0708/c14540-41632947.html\n",
+    "title": "北海公园荷花盛放 古典园林邂逅夏日荷韵",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://nm.people.com.cn/n2/2026/0708/c196689-41632714.html\n",
+    "title": "内蒙古红色文化传承中的兴安实践主题展开展",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ah.people.com.cn/n2/2026/0708/c227131-41632973.html\n",
+    "title": "安徽红色故事短视频大赛暨红色研学季启动",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sd.people.com.cn/n2/2026/0708/c166188-41632692.html\n",
+    "title": "山东开展机动指挥部跨区域协同保障拉练",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://cq.people.com.cn/n2/2026/0708/c365401-41632919.html\n",
+    "title": "重庆航空“渝兴快线”首推“一刻登机”服务",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 17:30",
+    "pub_ts": 1783503038
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/mosque-promised-indias-ayodhya-settlement-scaled-back-over-funding-shortfall-2026-07-08/",
+    "title": "Mosque promised in India's Ayodhya settlement scaled back over funding shortfall",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 17:23",
+    "pub_ts": 1783502624
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/paris-court-rules-bollor-does-not-control-vivendi-2026-07-08/",
+    "title": "Paris court rules Bolloré does not control Vivendi",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 17:22",
+    "pub_ts": 1783502529
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-stock-futures-tumble-trump-says-iran-deal-is-over-oil-climbs-2026-07-08/",
+    "title": "US stock futures tumble as Trump says Iran deal is 'over'; oil climbs",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:19",
+    "pub_ts": 1783502346
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/catastrophic-storms-test-chinas-resilience-2026-scientists-warn-2026-07-08/",
+    "title": "Catastrophic storms to test China's resilience in 2026, scientists warn",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:17",
+    "pub_ts": 1783502265
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/what-are-key-issues-volkswagens-restructuring-efforts-2026-07-08/",
+    "title": "What are the key issues in Volkswagen's restructuring efforts?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:14",
+    "pub_ts": 1783502063
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/us-container-imports-jumped-8-june-ahead-higher-fuel-costs-tariff-increases-2026-07-08/",
+    "title": "US container imports jumped 8% in June ahead of higher fuel costs and tariff increases",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:07",
+    "pub_ts": 1783501663
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-he-ordered-cutting-off-all-trade-with-spain-2026-07-08/",
+    "title": "Trump says at NATO summit he has ordered cutoff of US trade with Spain",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 17:06",
+    "pub_ts": 1783501612
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/commerzbank-calls-unicredit-offer-unattractive-2026-07-08/",
+    "title": "Commerzbank calls UniCredit offer unattractive",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:06",
+    "pub_ts": 1783501569
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/s-koreas-rebellions-targets-ipo-next-year-followed-by-potential-us-listing-ceo-2026-07-08/",
+    "title": "South Korean AI chip startup Rebellions targets IPO next year",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 17:05",
+    "pub_ts": 1783501538
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/global-markets-trump-instant-view-2026-07-08/",
+    "title": "VIEW Markets dive, Trump says Iran MOU 'is over'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 17:04",
+    "pub_ts": 1783501478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/obamacare-insurers-ask-second-highest-premiums-increase-nearly-decade-2026-07-08/",
+    "title": "Obamacare insurers ask for second-highest premiums increase in nearly a decade",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 17:04",
+    "pub_ts": 1783501464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/mercedes-benz-q2-sales-fall-china-competition-intensifies-2026-07-08/",
+    "title": "Mercedes-Benz Q2 sales fall, China competition intensifies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 17:04",
+    "pub_ts": 1783501452
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/uaes-adnoc-expands-energy-partnership-with-south-korea-2026-07-08/",
+    "title": "UAE's ADNOC expands energy partnership with South Korea",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:59",
+    "pub_ts": 1783501185
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/thai-watchdog-says-investigating-share-purchase-filings-investor-who-built-up-2026-07-08/",
+    "title": "Thai watchdog says investigating share purchase filings from investor who built up stake in True Corp",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:59",
+    "pub_ts": 1783501146
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ryanair-loses-appeals-against-italys-covid-aid-airlines-eu-court-2026-07-08/",
+    "title": "Ryanair loses appeals against Italy's COVID aid to airlines in EU Court",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:53",
+    "pub_ts": 1783500781
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/black-sea-nato-states-expand-mine-force-protect-infrastructure-2026-07-08/",
+    "title": "Black Sea NATO states expand mine force to protect infrastructure",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:52",
+    "pub_ts": 1783500729
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/budget-overhaul-set-be-hungary-pm-magyars-first-major-credibility-test-2026-07-08/",
+    "title": "Budget overhaul set to be Hungary PM Magyar's first major credibility test",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:48",
+    "pub_ts": 1783500522
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/daimler-truck-q2-vehicle-sales-rise-8-north-america-demand-recovers-2026-07-08/",
+    "title": "Daimler Truck Q2 vehicle sales rise 8% as North America demand recovers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:46",
+    "pub_ts": 1783500407
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/eu-court-rejects-apples-challenge-against-eu-rules-reining-big-tech-2026-07-08/",
+    "title": "Apple loses challenges against EU rules to curb Big Tech",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:46",
+    "pub_ts": 1783500404
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/johannesburg-other-municipalities-face-funding-freeze-over-high-spending-2026-07-08/",
+    "title": "Johannesburg, other municipalities face funding freeze over high spending",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:45",
+    "pub_ts": 1783500346
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/hegseth-meet-netanyahu-over-possible-sale-f-35s-turkey-source-tells-reuters-2026-07-08/",
+    "title": "Hegseth to meet Netanyahu over possible sale of F-35s to Turkey, source tells Reuters",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:45",
+    "pub_ts": 1783500346
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/",
+    "title": "Trump says interim accord with Iran to end war is \"over\"",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:44",
+    "pub_ts": 1783500292
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/unicredit-secures-176-commerzbank-2026-07-08/",
+    "title": "UniCredit secures 47.6% of Commerzbank after buyout offer extension",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 15:50",
+    "pub_ts": 1783497057
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/thousands-march-khameneis-funeral-procession-crosses-into-iraq-2026-07-08/",
+    "title": "Thousands march as Khamenei's funeral procession crosses into Iraq",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 15:39",
+    "pub_ts": 1783496342
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/singapores-temasek-green-portfolio-rises-7-sees-eneven-climate-path-2026-07-08/",
+    "title": "Singapore's Temasek green portfolio rises 7%, sees uneven climate path",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 15:37",
+    "pub_ts": 1783496268
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-slip-middle-east-hostilities-2026-07-08/",
+    "title": "Most Gulf markets slip on Middle East hostilities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 15:25",
+    "pub_ts": 1783495544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/swedish-headline-inflation-eases-june-flash-data-shows-2026-07-08/",
+    "title": "Swedish headline inflation eases in June, flash data shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 15:21",
+    "pub_ts": 1783495306
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-rand-steady-markets-assess-renewed-middle-east-tensions-2026-07-08/",
+    "title": "South African rand steady as markets assess renewed Middle East tensions",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 15:19",
+    "pub_ts": 1783495183
+  },
+  {
+    "source": "People's Daily",
     "url": "http://xz.people.com.cn/n2/2026/0708/c138901-41632863.html",
     "title": "4000公里串起一条\"高原上班路\"",
     "path": "/general/",
@@ -61,6 +430,15 @@
     "category": "general",
     "pub_bj": "2026-07-08 15:02",
     "pub_ts": 1783494130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
+    "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 15:01",
+    "pub_ts": 1783494085
   },
   {
     "source": "Reuters",
