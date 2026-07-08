@@ -1,6 +1,240 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756224.html",
+    "title": "朝着建成科技强国的宏伟目标奋勇前进",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c461001-40756223.html",
+    "title": "\"把学党史、用党史作为终身必修课\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c1024-40756203.html",
+    "title": "蔡奇:奋力跑好科技强国建设接力赛\"关键一棒\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0708/c1024-40756198.html",
+    "title": "丁薛祥接见国际科技合作奖获奖外国专家",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0708/c436867-40756082.html",
+    "title": "要警惕公共二维码成为黑灰产\"入口\"",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0708/c426981-40756222.html",
+    "title": "国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会召开",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0708/c179464-41633192.html",
+    "title": "遇到蛇后该如何应对？专家支招：冷静远离，被咬速就医勿乱处理",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sc.people.com.cn/n2/2026/0708/c345167-41633106.html",
+    "title": "成为“前额叶友好型”城市 成都未来5年要做什么？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-08 20:56",
+    "pub_ts": 1783515377
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-zhipu-ai-launches-4-billion-hong-kong-shares-offering-term-sheet-shows-2026-07-08/",
+    "title": "China's Zhipu AI launches $4 billion Hong Kong shares offering months after IPO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:48",
+    "pub_ts": 1783514926
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/sas-ceo-step-down-2027-lead-air-canada-2026-07-08/",
+    "title": "SAS CEO to step down in 2027 to lead Air Canada",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:47",
+    "pub_ts": 1783514869
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/rocket-maker-blue-origin-raises-funds-first-time-nyt-dealbook-reports-2026-07-08/",
+    "title": "Bezos' Blue Origin raises first outside funding at $130 billion valuation, NYT DealBook reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 20:44",
+    "pub_ts": 1783514689
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazils-natura-sees-second-quarter-revenue-down-9-10-year-on-year-2026-07-08/",
+    "title": "Brazil's Natura sees second-quarter revenue down 9% to 10% year-on-year",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:41",
+    "pub_ts": 1783514469
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/air-canada-names-new-ceo-2026-07-08/",
+    "title": "Air Canada hires top boss of Scandinavian Airlines as CEO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:39",
+    "pub_ts": 1783514399
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/asian-shipbuilding-dominance-could-thwart-lng-expansion-wood-mackenzie-says-2026-07-08/",
+    "title": "Asian shipbuilding dominance could thwart LNG expansion, Wood Mackenzie says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:36",
+    "pub_ts": 1783514160
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/backlash-ethanol-blend-fuel-intensifies-india-puts-carmakers-dock-2026-07-08/",
+    "title": "Backlash on ethanol-blend fuel intensifies in India, puts carmakers in the dock",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:35",
+    "pub_ts": 1783514154
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-nexchip-raise-890-million-hong-kong-share-sale-2026-07-08/",
+    "title": "China's Nexchip to raise $890 million in Hong Kong share sale",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:34",
+    "pub_ts": 1783514052
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/spanish-markets-hit-by-trumps-renewed-trade-threat-2026-07-08/",
+    "title": "Spanish markets hit by Trump's renewed trade threat",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:33",
+    "pub_ts": 1783513998
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/what-are-risks-an-lng-tanker-explosion-2026-07-08/",
+    "title": "What are the risks of an LNG tanker explosion?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:31",
+    "pub_ts": 1783513875
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/trump-told-nato-leaders-he-wants-keep-us-alliance-source-says-2026-07-08/",
+    "title": "Trump told NATO leaders he wants to keep US in alliance, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:30",
+    "pub_ts": 1783513822
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/eight-children-killed-landslide-rohingya-refugee-camp-bangladesh-2026-07-08/",
+    "title": "Eight children killed in landslide at Rohingya refugee camp in Bangladesh",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 20:29",
+    "pub_ts": 1783513788
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazilian-police-search-former-president-bolsonaros-home-weapons-estadao-reports-2026-07-08/",
+    "title": "Brazilian police search former President Bolsonaro's home for weapons, Estadao reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 20:28",
+    "pub_ts": 1783513689
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/chevron-offers-rival-drillers-its-chemical-technology-boost-shale-oil-output-2026-07-08/",
+    "title": "Chevron offers rival drillers its chemical technology to boost shale oil output",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 20:21",
+    "pub_ts": 1783513304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/legal-ai-startup-norm-ai-hits-12-billion-valuation-after-120-million-funding-2026-07-07/",
+    "title": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-08 20:20",
+    "pub_ts": 1783513225
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+    "title": "The Download: worms fight pollution, and geoengineering faces reality",
+    "path": "/the-download/",
+    "category": "the download",
+    "pub_bj": "2026-07-08 20:10",
+    "pub_ts": 1783512600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/ubs-lowers-2026-2027-oil-price-forecasts-hormuz-flows-recover-2026-07-02/",
+    "title": "FACTBOX HSBC lowers 2026-2027 oil price forecasts on expected Gulf export recovery",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 19:35",
+    "pub_ts": 1783510535
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-seeks-feedback-sanofis-commitments-addressing-suspected-anti-competitive-2026-07-08/",
+    "title": "Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 19:24",
+    "pub_ts": 1783509853
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0708/c1024-40756181.html",
     "title": "习近平：“十五五”时期是科技强国建设的关键攻坚期",
     "path": "/politics/",
@@ -691,6 +925,33 @@
     "category": "world",
     "pub_bj": "2026-07-08 16:44",
     "pub_ts": 1783500292
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/germanys-commerzbank-has-bumpy-history-with-big-ma-2026-07-08/",
+    "title": "UniCredit nears majority stake in Commerzbank takeover battle",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:42",
+    "pub_ts": 1783500179
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/dollar-selling-linked-sk-hynix-share-offer-sends-won-over-1-month-high-source-2026-07-08/",
+    "title": "Dollar-selling linked to SK Hynix share offer sends won to over 1-month high, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 16:40",
+    "pub_ts": 1783500005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/french-firefigher-dies-wildfire-savoie-region-minister-says-2026-07-08/",
+    "title": "French firefigher dies in wildfire in Savoie region, minister says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 16:37",
+    "pub_ts": 1783499831
   },
   {
     "source": "Reuters",
