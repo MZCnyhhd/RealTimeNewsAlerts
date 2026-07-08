@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/eleven-more-trump-deportees-arrive-eswatini-united-states-lawyer-says-2026-07-08/",
+    "title": "Eleven more Trump deportees arrive in Eswatini from the United States, lawyer says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:48",
+    "pub_ts": 1783540082
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/greenlanders-reject-trumps-renewed-push-control-island-2026-07-08/",
+    "title": "Greenlanders reject Trump's renewed push for control of island",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:47",
+    "pub_ts": 1783540064
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/meta-build-c13-billion-alberta-data-center-its-first-canada-2026-07-08/",
+    "title": "Meta to build C$13 billion Alberta data center, its first in Canada",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:46",
+    "pub_ts": 1783539980
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/politics-us-newsletter-supreme-victory-2026-07-02/",
+    "title": "As US turns 250, Trump celebrates expansion of power",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:45",
+    "pub_ts": 1783539937
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/us-sec-removes-legal-obstacle-ubs-crisis-resolution-plan-2026-07-08/",
+    "title": "US SEC removes legal obstacle to UBS' crisis-resolution plan",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 03:43",
+    "pub_ts": 1783539807
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/aba-eyes-more-rollbacks-law-school-diversity-rules-2026-07-08/",
+    "title": "ABA eyes more rollbacks to law school diversity rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 03:41",
+    "pub_ts": 1783539703
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/6KBBSGDWPBP4FMJEOY7PAKNH5Y-2026-07-08/",
+    "title": "Vídeo de rachadura em estrada não foi filmado na fronteira do Brasil com a Venezuela",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 03:33",
+    "pub_ts": 1783539224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/thames-water-creditors-prepare-fresh-funding-backing-sky-news-reports-2026-07-08/",
+    "title": "Thames Water creditors prepare fresh funding backing, Sky News reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:24",
+    "pub_ts": 1783538679
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trumps-visit-win-turkeys-erdogan-nato-tensions-aside-2026-07-08/",
+    "title": "Trump's visit a win for Turkey's Erdogan, NATO tensions aside",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 03:14",
+    "pub_ts": 1783538091
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/E4J6STBSUFM3PF6HAGFNDEVV3A-2026-07-08/",
+    "title": "É falso que fonte oficial previu “megaterremoto” no Brasil em setembro",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 03:09",
+    "pub_ts": 1783537775
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/china-gave-little-notice-detail-us-before-july-6-missile-test-state-dept-2026-07-08/",
+    "title": "US criticizes China for short notice ahead of missile test",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 03:04",
+    "pub_ts": 1783537457
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/irelands-manna-begins-push-into-us-drone-delivery-battleground-2026-07-08/",
+    "title": "Ireland's Manna begins push into U.S. drone delivery \"battleground\"",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 02:59",
+    "pub_ts": 1783537183
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-he-doesnt-think-iran-conflict-will-start-again-2026-07-08/",
+    "title": "Trump says he doesn't think Iran conflict will start again",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 02:51",
+    "pub_ts": 1783536667
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/americas/fatal-ice-shooting-houston-sparks-demands-transparency-independent-investigation-2026-07-08/",
     "title": "Fatal ICE shooting in Houston sparks demands for transparency, independent investigation",
     "path": "/world/",
@@ -142,6 +259,60 @@
     "category": "world",
     "pub_bj": "2026-07-09 01:14",
     "pub_ts": 1783530851
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/un-probe-says-mass-killings-rapes-abductions-starvation-by-sudan-force-amount-2026-07-08/",
+    "title": "UN probe says mass killings, rapes, abductions, starvation by Sudan force amount to genocide",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:10",
+    "pub_ts": 1783530610
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/democrat-rahm-emanuel-tells-israel-change-course-or-risk-us-alliance-2026-07-08/",
+    "title": "Democrat Rahm Emanuel tells Israel to change course or risk US alliance",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 01:08",
+    "pub_ts": 1783530533
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/naval-group-sees-europe-buying-european-more-ceo-says-2026-07-08/",
+    "title": "Naval Group sees Europe 'buying European' more, CEO says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 01:05",
+    "pub_ts": 1783530343
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/global-markets-inflation-graphic-2026-07-08/",
+    "title": "Investors get inflation 'wake-up call' as Trump fires up oil prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:54",
+    "pub_ts": 1783529664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/macron-says-europe-has-stepped-up-nato-ahead-ukraine-coalition-summit-2026-07-08/",
+    "title": "Macron says Europe has stepped up in NATO ahead of Ukraine coalition summit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 00:52",
+    "pub_ts": 1783529530
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/uk-takeover-panel-extends-deadline-dcc-takeover-offer-by-kkr-energy-capital-2026-07-08/",
+    "title": "UK takeover panel extends deadline for DCC takeover offer by KKR, Energy Capital consortium",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 00:50",
+    "pub_ts": 1783529449
   },
   {
     "source": "People's Daily",
@@ -385,6 +556,60 @@
     "category": "world",
     "pub_bj": "2026-07-08 23:58",
     "pub_ts": 1783526327
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/airbus-deliveries-rise-15-351-first-half-2026-07-08/",
+    "title": "Airbus deliveries rise 15% to 351 in first half",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:53",
+    "pub_ts": 1783526035
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/wto-panel-largely-rejects-indonesias-challenge-eu-duties-fatty-acid-imports-2026-07-08/",
+    "title": "WTO panel largely rejects Indonesia's challenge to EU duties in fatty acid imports dispute",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-08 23:53",
+    "pub_ts": 1783525993
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/asia/imf-says-hopes-engage-central-banks-changes-forward-guidance-2026-07-08/",
+    "title": "IMF says hopes to engage on central banks' changes to forward guidance",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-08 23:47",
+    "pub_ts": 1783525665
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/uk-takeover-panel-extends-deadline-epiris-takeover-gamma-communications-2026-07-08/",
+    "title": "UK takeover panel extends deadline for Epiris takeover of Gamma Communications",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-08 23:46",
+    "pub_ts": 1783525603
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/mistral-launches-first-robotics-model-physical-ai-push-2026-07-08/",
+    "title": "Mistral launches first robotics model in physical AI push",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:45",
+    "pub_ts": 1783525544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/latam-assets-slide-with-global-markets-after-trump-says-iran-deal-over-2026-07-08/",
+    "title": "LatAm assets slide with global markets after Trump says Iran deal 'over'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-08 23:41",
+    "pub_ts": 1783525317
   },
   {
     "source": "Reuters",
