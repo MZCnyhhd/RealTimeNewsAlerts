@@ -1,5 +1,113 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756242.html",
+    "title": "2025年度国家科技奖呈现新特点",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-09 05:52",
+    "pub_ts": 1783547576
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/michael-burry-buys-flutter-draftkings-shares-betting-prediction-market-threat-2026-07-08/",
+    "title": "Michael Burry buys Flutter, DraftKings shares betting prediction-market threat will fade",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 05:51",
+    "pub_ts": 1783547476
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/paramount-delays-warner-bros-deal-closure-amid-oregon-probe-2026-07-08/",
+    "title": "Paramount delays Warner Bros deal closure amid Oregon probe",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 05:43",
+    "pub_ts": 1783547023
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-he-will-ask-supreme-court-rehear-birthright-citizenship-case-2026-07-08/",
+    "title": "Trump says he will ask Supreme Court to rehear birthright citizenship case",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 05:40",
+    "pub_ts": 1783546852
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/senate-committee-vote-bill-tighten-us-ban-chinese-vehicles-2026-07-08/",
+    "title": "Senate committee to vote on bill to tighten US ban on Chinese vehicles",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 05:38",
+    "pub_ts": 1783546734
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/alector-gsk-partnership-end-after-dementia-alzheimers-drug-failures-2026-07-08/",
+    "title": "Alector and GSK partnership to end after dementia, Alzheimer's drug failures",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 05:36",
+    "pub_ts": 1783546593
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/perdue-farms-defeats-turkey-price-fixing-claims-2026-07-08/",
+    "title": "Perdue Farms defeats turkey price-fixing claims",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 05:35",
+    "pub_ts": 1783546544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/edf-uk-government-agree-extend-life-sizewell-b-nuclear-plant-by-20-years-2026-07-08/",
+    "title": "EDF, UK government agree to extend life of Sizewell B nuclear plant by 20 years",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 05:33",
+    "pub_ts": 1783546423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/honeywell-technologies-raises-profit-guidance-after-one-for-two-reverse-stock-2026-07-08/",
+    "title": "Honeywell Technologies raises profit guidance after one-for-two reverse stock split",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 05:31",
+    "pub_ts": 1783546315
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/big-tech-joins-calgary-stampede-oil-bash-canada-courts-data-centers-2026-07-08/",
+    "title": "Big Tech joins Calgary Stampede oil bash, as Canada courts data centers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 05:28",
+    "pub_ts": 1783546091
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/H2H34BOO5BLDTKVZ7JXZBGEYCE-2026-07-08/",
+    "title": "Não há evidências de que chefe de arbitragem da Fifa comparou lances de Messi e Balogun",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 05:09",
+    "pub_ts": 1783544998
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/exxonmobil-invest-1-billion-nigerias-oilfield-regulator-says-2026-07-08/",
+    "title": "ExxonMobil to invest $1 billion in Nigeria's oilfield, regulator says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 05:02",
+    "pub_ts": 1783544529
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/spacexai-launches-grok-45-model-coding-agentic-tasks-2026-07-08/",
     "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
