@@ -1,5 +1,122 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/skeptical-us-democrats-congress-urge-debate-israel-plans-2026-07-09/",
+    "title": "Skeptical US Democrats in Congress urge debate on Israel plans",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 04:08",
+    "pub_ts": 1783627686
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/maine-democrats-seek-path-forward-critical-us-senate-race-2026-07-09/",
+    "title": "Six Maine Democrats clamor to fill sudden void in critical US Senate race",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 04:07",
+    "pub_ts": 1783627666
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/4GBFHO3OWFK6DIC6FLYJF7KB5M-2026-07-09/",
+    "title": "É de 2022 reportagem sobre aumento da fome no Brasil",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-10 04:05",
+    "pub_ts": 1783627521
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/goldman-bans-staff-participating-finance-politics-prediction-markets-source-says-2026-07-09/",
+    "title": "Goldman bans staff from participating in finance, politics prediction markets, source says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 03:58",
+    "pub_ts": 1783627089
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-hit-ammunition-warehouse-ukraines-kyiv-region-zelenskiy-says-2026-07-09/",
+    "title": "Russia hit ammunition warehouse in Ukraine's Kyiv region, Zelenskiy says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 03:47",
+    "pub_ts": 1783626471
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/slight-earthquake-hits-czech-republic-not-big-first-reported-2026-07-09/",
+    "title": "Slight earthquake hits Czech Republic, not as big as first reported",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 03:47",
+    "pub_ts": 1783626434
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/feds-warsh-taps-broad-group-central-bank-outsiders-oversee-review-2026-07-09/",
+    "title": "Fed's Warsh taps broad group of Fed outsiders to oversee review",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 03:45",
+    "pub_ts": 1783626312
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/simpson-thacher-prepares-rare-malpractice-trial-florida-next-week-2026-07-09/",
+    "title": "Simpson Thacher prepares for rare malpractice trial in Florida next week",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 03:41",
+    "pub_ts": 1783626108
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/mitch-mcconnells-health-absence-mystery-with-us-senate-poised-return-2026-07-09/",
+    "title": "Mitch McConnell's health absence a mystery with US Senate poised to return",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 03:17",
+    "pub_ts": 1783624663
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-tackles-fifa-nato-iran-2026-07-09/",
+    "title": "Trump tackles FIFA, NATO and Iran",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 03:10",
+    "pub_ts": 1783624200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-steadies-as-recession-fears-recede-2026-07-09/",
+    "title": "Canadian dollar steadies as recession fears recede",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 03:06",
+    "pub_ts": 1783624011
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/bank-englands-pill-says-interest-rates-will-need-rise-2026-07-09/",
+    "title": "Bank of England's Pill says interest rates will need to rise",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 03:04",
+    "pub_ts": 1783623850
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/war-driven-inflation-fears-fail-shake-us-treasury-yield-outlook-2026-07-09/",
+    "title": "War-driven inflation fears fail to shake U.S. Treasury yield outlook: Reuters poll",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 03:02",
+    "pub_ts": 1783623720
+  },
+  {
     "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756954.html",
     "title": "科技创新,一直在总书记的学习清单上",
@@ -169,6 +286,33 @@
     "category": "world",
     "pub_bj": "2026-07-10 01:34",
     "pub_ts": 1783618498
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/salary-race-heats-up-small-boutique-firms-lure-biglaw-talent-2026-07-09/",
+    "title": "As salary race heats up, small \"boutique\" firms lure BigLaw talent",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 01:34",
+    "pub_ts": 1783618455
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/former-fed-chair-ben-bernanke-joins-anthropics-ai-oversight-trust-2026-07-09/",
+    "title": "Former Fed chair Ben Bernanke joins Anthropic's AI oversight trust",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 01:33",
+    "pub_ts": 1783618426
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/itv-split-drags-share-price-down-high-separation-costs-loom-2026-07-09/",
+    "title": "ITV split drags share price down as high separation costs loom",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 01:11",
+    "pub_ts": 1783617083
   },
   {
     "source": "People's Daily",
@@ -430,6 +574,60 @@
     "category": "world",
     "pub_bj": "2026-07-09 23:43",
     "pub_ts": 1783611791
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/carney-pitches-tighter-canada-saudi-mining-energy-ties-2026-07-09/",
+    "title": "Carney pitches tighter Canada-Saudi mining and energy ties",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:31",
+    "pub_ts": 1783611114
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-rand-firms-ahead-key-manufacturing-data-2026-07-09/",
+    "title": "South African rand firms, shrugging off dour manufacturing data",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:30",
+    "pub_ts": 1783611019
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-defence-electronics-maker-apollo-micro-buy-413-stake-premier-explosives-2026-07-09/",
+    "title": "India's defence electronics maker Apollo Micro to buy 41.3% stake in Premier Explosives",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:23",
+    "pub_ts": 1783610639
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/europes-financial-stability-watchdog-examining-private-credit-risks-adviser-says-2026-07-09/",
+    "title": "Europe's financial stability watchdog examining private credit risks, adviser says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 23:16",
+    "pub_ts": 1783610215
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/image-israeli-flag-projected-washington-monument-is-not-independence-day-2026-07-09/",
+    "title": "Image of Israeli flag projected on Washington Monument is not from Independence Day celebrations",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-09 23:12",
+    "pub_ts": 1783609941
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/private-credit-under-stress-emerging-litigation-risks--pracin-2026-07-09/",
+    "title": "Private credit under stress — Emerging litigation risks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 23:12",
+    "pub_ts": 1783609920
   },
   {
     "source": "Reuters",
