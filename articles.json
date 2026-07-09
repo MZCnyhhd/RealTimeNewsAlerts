@@ -1,6 +1,294 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0709/c1008-40757120.html",
+    "title": "国家防总对京津启动防汛四级应急响应",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-10 00:38",
+    "pub_ts": 1783615107
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0709/c1008-40757071.html",
+    "title": "浙闽防台风三级应急响应",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-10 00:38",
+    "pub_ts": 1783615107
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0709/c179464-41634339.html",
+    "title": "全员平安转移！广西贵港教育园区师生在安置点得到妥善安置",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-10 00:38",
+    "pub_ts": 1783615107
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-protesters-go-door-to-door-forcing-immigrants-their-homes-2026-07-09/",
+    "title": "South African protesters go door-to-door forcing immigrants from their homes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:37",
+    "pub_ts": 1783615029
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/bolivia-says-petrobras-may-return-oil-gas-production-help-restructure-ypfb-2026-07-09/",
+    "title": "Bolivia says Petrobras may return to oil and gas production, help restructure YPFB",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 00:36",
+    "pub_ts": 1783615005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/convoy-carrying-russian-fighters-attacked-mali-sources-say-2026-07-09/",
+    "title": "Convoy carrying Russian fighters attacked in Mali, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:34",
+    "pub_ts": 1783614857
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/fuel-markets-flash-supply-crunch-despite-calmer-oil-prices-2026-07-09/",
+    "title": "Fuel markets flash supply crunch despite calmer oil prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 00:33",
+    "pub_ts": 1783614824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/us-direct-lending-activity-falls-even-private-credit-firms-raise-more-cash-2026-07-09/",
+    "title": "US direct-lending activity falls even as private credit firms raise more cash",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:33",
+    "pub_ts": 1783614824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/us-markets-brace-renewed-funding-pressure-leverage-rises-2026-07-09/",
+    "title": "US markets brace for renewed funding pressure as leverage rises",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:28",
+    "pub_ts": 1783614513
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/proposed-rules-call-doj-disclosure-when-grand-juries-reject-indictments-2026-07-09/",
+    "title": "Proposed rules call for DOJ disclosure when grand juries reject indictments in Massachusetts",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:27",
+    "pub_ts": 1783614447
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/moisture-channelled-by-typhoon-bavi-puts-north-china-alert-heavy-rain-2026-07-09/",
+    "title": "Moisture channelled by Typhoon Bavi puts north China on alert for heavy rain",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 00:27",
+    "pub_ts": 1783614441
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/global-ma-activity-track-eclipse-2021-deal-boom-morgan-stanley-says-2026-07-09/",
+    "title": "Global M&A activity on track to eclipse 2021 deal boom, Morgan Stanley says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:27",
+    "pub_ts": 1783614434
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/tanzania-arrests-130-people-government-cracks-down-dissent-2026-07-09/",
+    "title": "Tanzania arrests 130 people as government cracks down on dissent",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:20",
+    "pub_ts": 1783614015
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/european-shares-gain-tech-stocks-rebound-middle-east-focus-2026-07-09/",
+    "title": "Tech rebound lifts European shares after three-day slide",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-10 00:19",
+    "pub_ts": 1783613964
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexico-file-criminal-complaints-us-over-deaths-immigration-custody-2026-07-09/",
+    "title": "Mexico to file criminal complaints in US over deaths of Mexicans in immigration enforcement",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:19",
+    "pub_ts": 1783613943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/clashes-ukraines-lviv-highlight-wartime-tensions-over-draft-2026-07-09/",
+    "title": "Clashes in Ukraine's Lviv highlight wartime tensions over draft",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:17",
+    "pub_ts": 1783613864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/imfs-africa-director-met-with-malawi-officials-this-week-imf-says-2026-07-09/",
+    "title": "IMF's Africa director met with Malawi officials this week, IMF says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:17",
+    "pub_ts": 1783613863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/roommate-charlie-kirk-killing-suspect-make-first-public-statement-2026-07-09/",
+    "title": "Interview with roommate of Charlie Kirk killing suspect to be played in court",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:12",
+    "pub_ts": 1783613570
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/imfs-georgieva-venezuelan-acting-president-discuss-use-sdrs-earthquake-needs-2026-07-09/",
+    "title": "IMF's Georgieva, Venezuelan acting president discuss use of SDRs for earthquake needs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:09",
+    "pub_ts": 1783613384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/new-york-times-led-group-asks-court-sanction-openai-us-copyright-dispute-2026-07-09/",
+    "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 00:08",
+    "pub_ts": 1783613303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/overcrowding-lack-clean-water-among-biggest-health-risks-venezuela-quakes-says-2026-07-09/",
+    "title": "Overcrowding, lack of clean water among biggest health risks from Venezuela quakes says PAHO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 00:07",
+    "pub_ts": 1783613264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/imf-looks-forward-engaging-with-fed-its-review-communications-forward-guidance-2026-07-09/",
+    "title": "IMF looks forward to engaging with Fed on its review of communications, forward guidance",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-09 23:03",
+    "pub_ts": 1783609404
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/palm-beach-florida-home-trumps-resort-names-its-airport-after-him-2026-07-09/",
+    "title": "Palm Beach, Florida airport officially changes name to honor Trump",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 22:59",
+    "pub_ts": 1783609155
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/data-centre-operator-aruba-buys-three-hydro-plants-italy-2026-07-09/",
+    "title": "Data centre operator Aruba buys three hydro plants in Italy",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 22:49",
+    "pub_ts": 1783608584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/german-investigators-link-misplaced-pin-boeing-787-incident-2026-07-09/",
+    "title": "German investigators link misplaced pin to Boeing 787 incident",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 22:44",
+    "pub_ts": 1783608250
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/itv-split-drags-share-price-down-analysts-investor-spot-high-costs-2026-07-09/",
+    "title": "ITV split drags share price down as analysts, investor spot high costs",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 22:41",
+    "pub_ts": 1783608103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/russia-is-ready-help-mozambique-fight-terrorist-threat-tass-cites-lavrov-2026-07-09/",
+    "title": "Russia is ready to help Mozambique fight 'terrorist threat', TASS cites Lavrov",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 22:40",
+    "pub_ts": 1783608009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/feds-williams-doesnt-expect-sustained-surge-energy-prices-2026-07-09/",
+    "title": "Fed's Williams doesn't expect sustained surge in energy prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 22:39",
+    "pub_ts": 1783607951
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russias-saratov-oil-refinery-halt-since-wednesdays-drone-attack-sources-say-2026-07-09/",
+    "title": "Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 22:37",
+    "pub_ts": 1783607864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/micron-invest-up-3-billion-us-chip-supply-chain-2026-07-09/",
+    "title": "Micron boosts US investment plan again, commits $250 billion through 2035",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 22:29",
+    "pub_ts": 1783607352
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/here-are-democrats-taking-early-steps-potential-2028-white-house-bids-2026-07-09/",
+    "title": "Here are the Democrats taking early steps in potential 2028 White House bids",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 22:28",
+    "pub_ts": 1783607299
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-mention-boj-independence-economic-blueprint-kyodo-says-2026-07-09/",
+    "title": "Japan to add BOJ independence reference to economic blueprint, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 22:14",
+    "pub_ts": 1783606469
+  },
+  {
+    "source": "People's Daily",
     "url": "http://cq.people.com.cn/n2/2026/0709/c365401-41633641.html",
     "title": "红色热土焕“綦”迹",
     "path": "/general/",
@@ -259,6 +547,114 @@
     "category": "world",
     "pub_bj": "2026-07-09 21:33",
     "pub_ts": 1783603999
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/spains-high-court-orders-bbva-stand-trial-spying-case-2026-07-09/",
+    "title": "Spain's High Court orders BBVA to stand trial in spying case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 21:09",
+    "pub_ts": 1783602540
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-india-linked-hacking-groups-targeted-pakistani-law-enforcement-report-says-2026-07-09/",
+    "title": "China, India-linked hacking groups targeted Pakistani law enforcement, report says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 21:04",
+    "pub_ts": 1783602298
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexicos-inflation-slows-more-than-expected-june-2026-07-09/",
+    "title": "Mexico's annual inflation hits lowest level in over five years",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 21:03",
+    "pub_ts": 1783602215
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/eu-drafts-buy-european-rules-public-tenders-curb-foreign-dependence-2026-07-09/",
+    "title": "EU drafts 'Buy European' rules for public tenders to curb foreign dependence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 20:59",
+    "pub_ts": 1783601950
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/replica-mosque-bonfire-northern-ireland-condemned-sickening-2026-07-09/",
+    "title": "Replica of mosque on bonfire in Northern Ireland condemned as 'sickening'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 20:58",
+    "pub_ts": 1783601889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/families-crew-aboard-crashed-pakistani-cargo-plane-face-agonising-wait-2026-07-09/",
+    "title": "Families of crew aboard crashed Pakistani cargo plane face agonising wait",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 20:54",
+    "pub_ts": 1783601663
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/energy-expected-drive-european-earnings-underlying-growth-slows-2026-07-09/",
+    "title": "Energy expected to drive European earnings as underlying growth slows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 20:53",
+    "pub_ts": 1783601587
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/serbia-cull-11000-pigs-due-african-swine-fever-tanjug-reports-2026-07-09/",
+    "title": "Serbia to cull 11,000 pigs due to African swine fever, Tanjug reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 20:48",
+    "pub_ts": 1783601285
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/rheinmetall-mbda-win-german-navy-laser-weapon-contract-2026-07-09/",
+    "title": "Rheinmetall, MBDA win German navy laser weapon contract",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 20:47",
+    "pub_ts": 1783601264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/coinbase-restores-prediction-markets-trading-after-technical-issue-2026-07-09/",
+    "title": "Coinbase restores prediction markets trading after technical issue",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 20:47",
+    "pub_ts": 1783601263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/heat-wave-linked-more-than-5000-deaths-germany-rki-says-2026-07-09/",
+    "title": "Heatwave linked to more than 5,000 deaths in Germany, RKI says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 20:47",
+    "pub_ts": 1783601246
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/oil-tanker-traffic-through-hormuz-near-standstill-attacks-strain-iran-truce-2026-07-09/",
+    "title": "Oil tanker traffic through Hormuz at near standstill as attacks strain Iran truce",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 20:45",
+    "pub_ts": 1783601145
   },
   {
     "source": "Reuters",
