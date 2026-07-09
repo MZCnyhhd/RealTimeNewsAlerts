@@ -1,6 +1,177 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756954.html",
+    "title": "科技创新,一直在总书记的学习清单上",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-10 02:23",
+    "pub_ts": 1783621410
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40757122.html",
+    "title": "抓住历史机遇 迎接时代挑战",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-10 02:23",
+    "pub_ts": 1783621410
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/largest-us-grid-paid-up-28000-per-megawatt-balance-electricity-during-heat-wave-2026-07-09/",
+    "title": "Largest US grid paid up to $28,000 per megawatt to balance electricity during heat wave",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 02:19",
+    "pub_ts": 1783621184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/fortuna-expects-senegal-gold-project-permit-within-weeks-ceo-says-2026-07-09/",
+    "title": "Fortuna expects Senegal gold project permit within weeks, CEO says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 02:16",
+    "pub_ts": 1783621013
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/saudi-arabias-humain-canadas-cohere-work-together-ai-compute-sovereign-ai-models-2026-07-09/",
+    "title": "Saudi Arabia's Humain, Canada's Cohere to work together on AI compute, sovereign AI models",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 02:16",
+    "pub_ts": 1783620990
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/french-central-bank-revises-growth-forecast-higher-despite-heatwave-disruption-2026-07-09/",
+    "title": "French central bank revises growth forecast higher despite heatwave disruption",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 02:03",
+    "pub_ts": 1783620224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+    "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 02:03",
+    "pub_ts": 1783620222
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/us-appeals-court-upholds-win-astrazeneca-pfizer-cancer-drug-patent-fight-2026-07-09/",
+    "title": "US appeals court upholds win for AstraZeneca in Pfizer cancer drug patent fight",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 02:02",
+    "pub_ts": 1783620153
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/brazil-keeps-12-oil-export-tax-review-measure-30-days-2026-07-09/",
+    "title": "Brazil keeps 12% oil export tax, to review measure in 30 days",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 02:00",
+    "pub_ts": 1783620028
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/airbus-workers-spain-strike-over-working-conditions-2026-07-09/",
+    "title": "Airbus workers in Spain strike over working conditions",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 01:58",
+    "pub_ts": 1783619888
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-likely-next-pm-andy-burnham-says-he-wants-put-more-pressure-israel-2026-07-09/",
+    "title": "UK's likely next PM, Andy Burnham, says he wants to put more pressure on Israel",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 01:55",
+    "pub_ts": 1783619716
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/costa-ricas-new-president-clashes-with-judiciary-over-tackling-drug-violence-2026-07-09/",
+    "title": "Costa Rica's new president clashes with judiciary over tackling drug violence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 01:51",
+    "pub_ts": 1783619504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/C4EDIDXQNBMJ5ENQYHDPCQQXCQ-2026-07-09/",
+    "title": "No hay evidencia de que Netanyahu asistiera al partido entre Argentina y Austria en el Mundial 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-10 01:49",
+    "pub_ts": 1783619349
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/wells-fargo-workers-reject-bid-dissolve-union-new-jersey-branch-2026-07-09/",
+    "title": "Wells Fargo workers reject bid to dissolve union at New Jersey branch",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 01:47",
+    "pub_ts": 1783619271
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/south-african-regulators-issue-recall-ozempic-copies-2026-07-09/",
+    "title": "South African regulators issue recall of Ozempic copies",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 01:47",
+    "pub_ts": 1783619244
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/us-epa-proposes-easing-biden-heavy-truck-emissions-rules-2026-07-09/",
+    "title": "US EPA proposes easing Biden heavy-truck emissions rules",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 01:46",
+    "pub_ts": 1783619164
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/feds-logan-says-fed-open-market-operations-would-benefit-voluntary-central-2026-07-09/",
+    "title": "Fed's Logan says Fed open market operations would benefit from voluntary central clearing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 01:45",
+    "pub_ts": 1783619110
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/feds-perli-reiterates-flexible-path-reserve-management-buying-2026-07-09/",
+    "title": "Fed's Perli reiterates flexible path of reserve management buying",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 01:44",
+    "pub_ts": 1783619083
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/new-york-sues-3m-dupont-others-over-forever-chemicals-consumer-goods-2026-07-09/",
+    "title": "New York sues 3M, DuPont, others over toxic 'forever chemicals' in consumer goods",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 01:34",
+    "pub_ts": 1783618498
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0709/c1008-40757120.html",
     "title": "国家防总对京津启动防汛四级应急响应",
     "path": "/society/",
@@ -187,6 +358,78 @@
     "category": "business",
     "pub_bj": "2026-07-10 00:07",
     "pub_ts": 1783613264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/qiagen-draws-early-takeover-interest-eqt-advent-kkr-bloomberg-news-reports-2026-07-09/",
+    "title": "EQT, Advent, KKR explore takeover of diagnostics firm Qiagen, Bloomberg News reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 00:02",
+    "pub_ts": 1783612971
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/india-clears-dixon-vivo-jv-domestic-smartphone-manufacturing-2026-07-09/",
+    "title": "India clears Dixon-Vivo JV for domestic smartphone manufacturing",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:01",
+    "pub_ts": 1783612907
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/jailed-american-robert-gilman-taken-russian-hospital-newspaper-reports-2026-07-09/",
+    "title": "Jailed American Robert Gilman taken to Russian hospital, newspaper reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 00:01",
+    "pub_ts": 1783612905
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/spain-says-trump-softened-rhetoric-after-learning-madrids-contributions-nato-2026-07-09/",
+    "title": "Spain says Trump softened rhetoric after learning of Madrid's contributions to NATO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:51",
+    "pub_ts": 1783612314
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-2026-07-09/",
+    "title": "SK Hynix's US share sale aims to raise $26.5 billion at $149 per ADR, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:50",
+    "pub_ts": 1783612246
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/cftc-block-cmes-plan-247-crude-oil-futures-trading-2026-07-09/",
+    "title": "CFTC to block CME's plan for 24/7 crude oil futures trading",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 23:48",
+    "pub_ts": 1783612126
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/typhoon-activity-run-40-above-average-this-year-tsr-says-2026-07-09/",
+    "title": "Typhoon activity to run 40% above average this year, TSR says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 23:45",
+    "pub_ts": 1783611943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-tcs-beats-first-quarter-revenue-view-2026-07-09/",
+    "title": "India's TCS tops revenue estimates on weak rupee, banking boost",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 23:43",
+    "pub_ts": 1783611791
   },
   {
     "source": "Reuters",
