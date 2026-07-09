@@ -1,6 +1,132 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://kpzg.people.com.cn/n1/2026/0709/c404214-40756414.html",
+    "title": "新型电解液让锂金属电池“增能延寿”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-09 09:22",
+    "pub_ts": 1783560142
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0709/c1012-40756364.html",
+    "title": "中外青年在北京琉璃河遗址共研考古",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-09 09:22",
+    "pub_ts": 1783560142
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-rises-after-us-launches-fresh-strikes-against-iran-2026-07-09/",
+    "title": "Oil rises after US launches fresh strikes against Iran",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 09:15",
+    "pub_ts": 1783559748
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesias-pertamina-boeing-sign-mou-sustainable-aviation-fuel-development-2026-07-09/",
+    "title": "Indonesia's Pertamina, Boeing sign MoU on sustainable aviation fuel development",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 09:12",
+    "pub_ts": 1783559567
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-start-book-building-july-15-43-billion-shanghai-ipo-2026-07-09/",
+    "title": "China's CXMT to start book-building on July 15 for $4.3 billion Shanghai IPO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 09:10",
+    "pub_ts": 1783559444
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-iluvatar-corex-seeks-raise-902-million-hong-kong-share-sale-2026-07-09/",
+    "title": "China's Iluvatar CoreX seeks to raise $902 million in Hong Kong share sale",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:56",
+    "pub_ts": 1783558569
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-benchmark-bond-yield-hits-30-year-high-inflation-fiscal-health-concerns-2026-07-09/",
+    "title": "Japan benchmark bond yield hits 30-year high on inflation, fiscal health concerns",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:45",
+    "pub_ts": 1783557904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/maine-democratic-senate-nominee-graham-platner-suspends-his-campaign-2026-07-09/",
+    "title": "Maine Democratic Senate nominee Graham Platner suspends his campaign",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:44",
+    "pub_ts": 1783557890
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/iran/iran-war-threatened-food-crisis-next-gulf-conflict-could-do-same-2026-07-09/",
+    "title": "The Iran War threatened a food crisis. The next Gulf conflict could do the same.",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:33",
+    "pub_ts": 1783557189
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indias-modi-meet-australias-albanese-with-uranium-defence-agenda-2026-07-08/",
+    "title": "India's Modi to meet Australia's Albanese with uranium, defence on agenda",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:20",
+    "pub_ts": 1783556418
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/new-congo-province-has-suspected-ebola-case-deaths-hit-600-report-says-2026-07-09/",
+    "title": "New Congo province has suspected Ebola case as deaths hit 600, report says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-09 08:19",
+    "pub_ts": 1783556346
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/australias-steadfast-exclusivity-period-extended-us-consortium-reaffirms-53-2026-07-09/",
+    "title": "Australia's Steadfast exclusivity period extended as US consortium reaffirms $5.3 billion bid",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-09 08:17",
+    "pub_ts": 1783556230
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexico-arrests-man-theft-leonora-carrington-bronzework-church-patio-2026-07-09/",
+    "title": "Mexico arrests man in theft of Leonora Carrington bronzework from church patio",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 08:14",
+    "pub_ts": 1783556068
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/fight-freedom-speech-salman-rushdie-urges-hes-honoured-in-london-2026-07-08/",
+    "title": "Fight for freedom of speech, Salman Rushdie urges as he's honoured in London",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-09 07:56",
+    "pub_ts": 1783554990
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0709/c1024-40756243.html",
     "title": "习近平：“十五五”时期是科技强国建设的关键攻坚期",
     "path": "/politics/",
