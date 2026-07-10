@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/fashion-retailer-tailored-brands-reveals-paperwork-us-ipo-2026-07-10/",
+    "title": "Fashion retailer Tailored Brands reveals paperwork for US IPO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 03:59",
+    "pub_ts": 1783713584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iran-oil-stuck-sea-surges-chinas-teapots-turn-rival-middle-east-supplies-traders-2026-07-10/",
+    "title": "Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 03:33",
+    "pub_ts": 1783712000
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/jones-day-settles-96-million-legal-fee-lawsuit-against-private-equity-firm-2026-07-10/",
+    "title": "Jones Day settles $9.6 million legal fee lawsuit against private equity firm",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 03:32",
+    "pub_ts": 1783711929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/faa-extends-flight-cuts-chicago-ohare-another-year-2026-07-10/",
+    "title": "FAA extends flight cuts at Chicago O'Hare for another year",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 03:19",
+    "pub_ts": 1783711183
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/att-reaches-1841-million-settlement-with-employees-over-pension-plan-2026-07-10/",
+    "title": "AT&T reaches $184.1 million settlement with employees over pension plan",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 03:16",
+    "pub_ts": 1783710992
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-can-help-end-ukraine-war-by-pressuring-russia-us-senator-graham-says-2026-07-10/",
+    "title": "China can help end Ukraine war by pressuring Russia, U.S. Senator Graham says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 03:09",
+    "pub_ts": 1783710598
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/trump-administration-rule-weakens-protections-threatened-species-2026-07-10/",
+    "title": "Trump administration rule weakens protections for threatened species",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 02:59",
+    "pub_ts": 1783709944
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/bc-partners-cvc-set-sights-italian-coffee-firm-segafredo-zanetti-fund-owner-2026-07-10/",
+    "title": "BC Partners, CVC set sights on Italian coffee firm Segafredo Zanetti as fund owner weighs sale, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 02:55",
+    "pub_ts": 1783709754
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-issues-fresh-iran-related-sanctions-website-shows-2026-07-10/",
+    "title": "US issues fresh Iran-related sanctions, website shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:51",
+    "pub_ts": 1783709462
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/",
     "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds",
     "path": "/business/",
@@ -97,6 +178,24 @@
     "category": "markets",
     "pub_bj": "2026-07-11 01:47",
     "pub_ts": 1783705673
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/warburg-pincus-nears-7-billion-deal-pantherx-rare-wsj-reports-2026-07-10/",
+    "title": "Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 01:35",
+    "pub_ts": 1783704927
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/on-the-money/is-40000-vacation-worth-an-empty-bank-account-readers-weigh-2026-07-10/",
+    "title": "Is a $40,000 vacation worth an empty bank account? Readers weigh in",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-11 01:34",
+    "pub_ts": 1783704840
   },
   {
     "source": "People's Daily",
