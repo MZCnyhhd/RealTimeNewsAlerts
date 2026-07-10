@@ -1,6 +1,114 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40758173.html",
+    "title": "关于构建新时代中纳命运共同体的联合声明",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40758275.html",
+    "title": "应对台风“巴威”，上铁集团动态调整列车开行方案",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0710/c1004-40758194.html",
+    "title": "全国用电负荷达15.18亿千瓦 创历史新高",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40758277.html",
+    "title": "水利部对浙闽启动洪水防御Ⅳ级应急响应",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40758274.html",
+    "title": "部署台风\"巴威\"防御工作",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40758055.html",
+    "title": "火场逃生与灭火“神器”使用要点指南",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 01:11",
+    "pub_ts": 1783703484
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/amazon-settlement-lets-customers-pursue-200-million-social-casino-app-developers-2026-07-10/",
+    "title": "Amazon settlement lets customers pursue $200 million from social casino app developers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 01:08",
+    "pub_ts": 1783703294
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-fda-declines-approve-elevars-liver-cancer-drug-combo-manufacturing-site-2026-07-10/",
+    "title": "US FDA declines to approve Elevar's liver cancer drug combo on manufacturing site concerns",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 01:07",
+    "pub_ts": 1783703225
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
+    "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 01:00",
+    "pub_ts": 1783702812
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/sp-500-nasdaq-futures-slip-investors-eye-sk-hynix-listing-middle-east-risks-2026-07-10/",
+    "title": "Wall St flat as SK Hynix's stellar debut limits losses in chip stocks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 00:53",
+    "pub_ts": 1783702415
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-heads-first-weekly-gain-six-weeks-after-jobs-beat-2026-07-10/",
+    "title": "Canadian dollar heads for first weekly gain in six weeks after jobs beat",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 00:34",
+    "pub_ts": 1783701264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/how-absence-irans-new-supreme-leader-is-becoming-liability-islamic-republic-2026-07-10/",
+    "title": "How the absence of Iran's new supreme leader is becoming a liability for the Islamic Republic",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 00:19",
+    "pub_ts": 1783700360
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0710/c1004-40757629.html",
     "title": "财米油盐｜小龙虾大产业，降价背后有新机",
     "path": "/finance/",
@@ -244,6 +352,78 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/spains-high-court-widens-graft-inquiry-include-pms-close-ally-2026-07-10/",
+    "title": "Spain's High Court widens graft inquiry to include PM's close ally",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:40",
+    "pub_ts": 1783694406
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/sheins-secretive-founder-sky-xu-faces-biggest-public-test-with-hong-kong-ipo-2026-07-10/",
+    "title": "Shein's secretive founder Sky Xu faces biggest public test with Hong Kong IPO",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-10 22:38",
+    "pub_ts": 1783694296
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/spanish-wildfire-victims-burned-cars-roads-turned-into-death-traps-2026-07-10/",
+    "title": "Spanish wildfire victims burned in cars as roads turned into death traps",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 22:33",
+    "pub_ts": 1783693990
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korea-taiwan-lead-46-billion-emerging-market-equity-exodus-june-2026-07-10/",
+    "title": "South Korea, Taiwan lead $46 billion emerging market equity exodus in June",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:32",
+    "pub_ts": 1783693974
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/insurgents-withdraw-strategic-north-mali-town-after-days-fighting-2026-07-10/",
+    "title": "Insurgents withdraw from strategic north Mali town after days of fighting",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:32",
+    "pub_ts": 1783693937
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-exempts-gift-city-units-foreign-vessel-licensing-2026-07-10/",
+    "title": "India exempts GIFT City units from foreign vessel licensing",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:21",
+    "pub_ts": 1783693303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/poll-bank-canada-hold-rates-steady-2026-inflation-risks-appear-contained-2026-07-10/",
+    "title": "Bank of Canada to hold rates steady in 2026 as inflation risks appear contained: Reuters poll",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:18",
+    "pub_ts": 1783693087
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/uk-temperatures-june-2026-were-not-highest-since-1976-heatwave-2026-07-10/",
+    "title": "UK temperatures in June 2026 were not highest since 1976 heatwave",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-10 22:08",
+    "pub_ts": 1783692534
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/uk/uk-loses-case-over-asylum-seeker-rejections-linked-migrant-deal-with-france-2026-07-10/",
     "title": "UK loses case over asylum seeker rejections linked to migrant deal with France",
     "path": "/world/",
@@ -322,6 +502,15 @@
     "category": "business",
     "pub_bj": "2026-07-10 21:04",
     "pub_ts": 1783688667
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-sp-group-opens-debut-dollar-debt-issue-after-multiple-delays-sources-say-2026-07-10/",
+    "title": "India's SP Group opens debut dollar debt issue after multiple delays, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 20:40",
+    "pub_ts": 1783687204
   },
   {
     "source": "People's Daily",
@@ -421,6 +610,15 @@
     "category": "politics",
     "pub_bj": "2026-07-10 20:38",
     "pub_ts": 1783687121
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/zambia-election-will-put-hichilemas-economic-record-test-2026-07-09/",
+    "title": "Zambia election will put Hichilema's economic record to the test",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 20:37",
+    "pub_ts": 1783687058
   },
   {
     "source": "Reuters",
