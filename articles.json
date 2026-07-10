@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/RB6BYGW5NBONZGZ4BMLIRTKSMM-2026-07-10/",
+    "title": "Vídeo mostra reação de Infantino a Holanda x Marrocos, não Argentina x Egito",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-11 05:11",
+    "pub_ts": 1783717877
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/california-cannot-seek-damages-23andme-successor-over-2023-data-breach-2026-07-10/",
+    "title": "California cannot seek damages from 23andMe successor over 2023 data breach",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:11",
+    "pub_ts": 1783717873
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/cubas-power-grid-fails-second-time-this-week-2026-07-10/",
+    "title": "Cuba's power grid fails for second time this week",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 05:10",
+    "pub_ts": 1783717810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/new-york-times-countersues-us-employment-agency-over-its-diversity-hiring-2026-07-10/",
+    "title": "New York Times countersues US employment agency over DEI lawsuit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:09",
+    "pub_ts": 1783717754
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/occidentals-quarterly-realized-oil-prices-jump-amid-iran-war-disruption-2026-07-10/",
+    "title": "Occidental's quarterly realized oil prices jump amid Iran war disruption",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 05:09",
+    "pub_ts": 1783717744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/apple-sues-openai-alleging-misappropriation-trade-secrets-court-records-show-2026-07-10/",
+    "title": "Apple sues OpenAI, two former employees for trade secrets theft",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 05:07",
+    "pub_ts": 1783717639
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/family-demands-answers-death-young-black-man-mississippi-2026-07-10/",
+    "title": "Family demands answers in death of young Black man in Mississippi",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:07",
+    "pub_ts": 1783717624
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-insists-iran-commit-stopping-attacks-hormuz-strait-say-us-officials-2026-07-10/",
+    "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:04",
+    "pub_ts": 1783717453
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/maine-senate-candidate-graham-platner-formally-withdraws-race-2026-07-10/",
+    "title": "Maine Senate candidate Graham Platner formally withdraws from race",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:00",
+    "pub_ts": 1783717246
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-court-pauses-union-lawsuit-against-trump-consumer-watchdog-2026-07-10/",
+    "title": "US court pauses union lawsuit against Trump consumer watchdog",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 04:47",
+    "pub_ts": 1783716461
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-pain-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices-2026-07-10/",
+    "title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 04:42",
+    "pub_ts": 1783716125
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-says-doj-lawyers-can-work-home-pending-lawsuit-over-telework-policy-2026-07-10/",
+    "title": "US judge says DOJ lawyers can work from home pending lawsuit over telework policy",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 04:40",
+    "pub_ts": 1783716002
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/new-us-canada-bridge-open-soon-michigan-republican-says-2026-07-10/",
+    "title": "New US, Canada bridge to open soon, Michigan Republican says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 04:39",
+    "pub_ts": 1783715956
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/fashion-retailer-tailored-brands-reveals-paperwork-us-ipo-2026-07-10/",
     "title": "Fashion retailer Tailored Brands reveals paperwork for US IPO",
     "path": "/business/",
@@ -79,6 +196,33 @@
     "category": "world",
     "pub_bj": "2026-07-11 02:51",
     "pub_ts": 1783709462
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/",
+    "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 02:43",
+    "pub_ts": 1783709024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/cuba-projects-internal-unity-after-raul-castros-grandson-offers-negotiate-with-2026-07-10/",
+    "title": "Cuba projects internal unity after Raul Castro's grandson offers to negotiate with US",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:42",
+    "pub_ts": 1783708929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-appeals-court-rebukes-lawyer-over-fake-hallucinated-case-citations-2026-07-10/",
+    "title": "US appeals court rebukes lawyer over ‘fake and hallucinated’ case citations",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 02:41",
+    "pub_ts": 1783708904
   },
   {
     "source": "Reuters",
