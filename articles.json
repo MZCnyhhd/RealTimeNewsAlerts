@@ -1,5 +1,104 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/meta-ai-image-detector-fails-identify-some-its-own-cropped-ai-images-reuters-2026-07-10/",
+    "title": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 02:34",
+    "pub_ts": 1783708448
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/south-african-police-say-they-have-arrested-man-suspected-triple-murder-uk-2026-07-10/",
+    "title": "South African police arrest man suspected of murdering wife and daughters in UK",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:32",
+    "pub_ts": 1783708379
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
+    "title": "SK Hynix CEO sees worst-ever memory supply shortage in 2027, says demand to outstrip supply beyond 2030",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:28",
+    "pub_ts": 1783708106
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/witnesses-fatal-houston-ice-shooting-challenge-agencys-account-lawyer-says-2026-07-10/",
+    "title": "Witnesses to fatal Houston ICE shooting challenge agency's account, lawyer says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:28",
+    "pub_ts": 1783708089
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-energy-firms-add-rigs-fourth-week-row-says-baker-hughes-2026-07-10/",
+    "title": "US energy firms add rigs for fourth week in a row, says Baker Hughes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 02:27",
+    "pub_ts": 1783708039
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/european-shares-snap-four-week-winning-streak-tech-selloff-us-iran-war-2026-07-10/",
+    "title": "European shares snap four-week winning streak on tech selloff, US-Iran war",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-11 02:21",
+    "pub_ts": 1783707679
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-senators-say-agreement-reached-with-trump-russia-sanctions-bill-2026-07-10/",
+    "title": "US senators say agreement reached with Trump on Russia sanctions bill",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:21",
+    "pub_ts": 1783707663
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/fire-breaks-out-mini-refinery-western-iran-tasnim-says-2026-07-10/",
+    "title": "Fire breaks out at mini-refinery in western Iran, Tasnim says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:20",
+    "pub_ts": 1783707631
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/king-charles-hosts-prince-harry-his-wife-meghan-their-two-children-itv-reports-2026-07-10/",
+    "title": "King Charles meets Prince Harry, Meghan and their two children, ITV reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 02:14",
+    "pub_ts": 1783707292
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trailblazer-prokop-hopes-inspire-other-gay-athletes-with-new-documentary-2026-07-10/",
+    "title": "Trailblazer Prokop hopes to inspire other gay athletes with new documentary",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 02:06",
+    "pub_ts": 1783706775
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/european-shares-muted-ai-valuation-concerns-middle-east-tensions-linger-2026-07-10/",
+    "title": "European shares muted on AI valuation concerns; Middle East tensions linger",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-11 01:47",
+    "pub_ts": 1783705673
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40758173.html",
     "title": "关于构建新时代中纳命运共同体的联合声明",
@@ -106,6 +205,132 @@
     "category": "world",
     "pub_bj": "2026-07-11 00:19",
     "pub_ts": 1783700360
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraine-wants-joint-investigation-monaco-bomb-case-top-prosecutor-says-2026-07-10/",
+    "title": "Ukraine wants joint investigation in Monaco bomb case, top prosecutor says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 00:03",
+    "pub_ts": 1783699428
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/sudanese-return-home-capital-unready-welcome-them-2026-07-10/",
+    "title": "Sudanese return home to a capital unready to welcome them",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:51",
+    "pub_ts": 1783698690
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/campari-fights-aperol-copycats-rivals-chase-growing-spritz-market-2026-07-10/",
+    "title": "Campari fights Aperol copycats as rivals chase growing spritz market",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:51",
+    "pub_ts": 1783698686
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russian-refineries-oil-terminal-tankers-hit-ukraine-says-2026-07-10/",
+    "title": "Russian refineries, oil terminal, tankers hit, Ukraine says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:48",
+    "pub_ts": 1783698495
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/northern-china-braces-heavy-rains-bavi-nears-2026-07-10/",
+    "title": "Northern China braces for heavy rains as Bavi nears",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:47",
+    "pub_ts": 1783698474
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-shares-jump-14-nasdaq-debut-2026-07-10/",
+    "title": "SK Hynix shares jump 14% in Nasdaq debut",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:47",
+    "pub_ts": 1783698465
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/takaichis-pension-pivot-seeks-reverse-abe-era-outpouring-japanese-capital-2026-07-10/",
+    "title": "Japan's pension pivot puts Abe-era outpouring of capital in reverse",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:40",
+    "pub_ts": 1783698058
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ex-energoatom-official-named-suspect-ukraines-biggest-wartime-bribery-probe-2026-07-10/",
+    "title": "Ex-Energoatom official named suspect in Ukraine's biggest wartime bribery probe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:39",
+    "pub_ts": 1783697997
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/nigeria-charges-10-after-meth-lab-bust-including-3-mexicans-2026-07-10/",
+    "title": "Nigeria charges 10 after meth lab bust, including 3 Mexicans",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:38",
+    "pub_ts": 1783697903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/angola-allows-banks-use-chinas-yuan-reserve-requirements-2026-07-10/",
+    "title": "Angola allows banks to use China's yuan for reserve requirements",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:37",
+    "pub_ts": 1783697845
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/south-africa-allow-private-foot-and-mouth-vaccine-imports-2026-07-10/",
+    "title": "South Africa to allow private foot-and-mouth vaccine imports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:35",
+    "pub_ts": 1783697744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/freight-rates-russias-urals-shipments-india-fall-higher-tanker-availability-2026-07-10/",
+    "title": "Freight rates for Russia's Urals shipments to India fall on higher tanker availability, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:27",
+    "pub_ts": 1783697263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/turkey-says-it-hopes-achieve-result-lifting-us-sanctions-soon-2026-07-10/",
+    "title": "Turkey says it hopes to achieve result on lifting U.S. sanctions soon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 23:19",
+    "pub_ts": 1783696783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iea-head-urges-eu-reconsider-opposition-new-arctic-oil-drilling-2026-07-10/",
+    "title": "IEA head urges EU to reconsider opposition to new Arctic oil drilling",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-10 23:17",
+    "pub_ts": 1783696664
   },
   {
     "source": "People's Daily",
@@ -421,6 +646,24 @@
     "category": "fact-check",
     "pub_bj": "2026-07-10 22:08",
     "pub_ts": 1783692534
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarys-government-submits-bill-set-up-anti-corruption-office-2026-07-10/",
+    "title": "Hungary's government submits bill to set up anti-corruption office",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:08",
+    "pub_ts": 1783692496
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/qatari-delegation-is-iran-aims-boost-mediation-role-tasnim-news-agency-says-2026-07-10/",
+    "title": "Qatari delegation is in Iran, aims to boost mediation role, Tasnim news agency says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-10 22:04",
+    "pub_ts": 1783692250
   },
   {
     "source": "Reuters",
