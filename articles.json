@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-extends-work-permits-haitians-other-immigrants-with-temporary-protected-2026-07-10/",
+    "title": "US extends work permits for Haitians, other immigrants with temporary protected status",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 06:13",
+    "pub_ts": 1783721582
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/xi-says-chinas-commitment-north-korea-friendship-will-not-change-kcna-reports-2026-07-10/",
+    "title": "Xi says China’s commitment to North Korea friendship will not change, KCNA reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 06:11",
+    "pub_ts": 1783721505
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/holtec-nuclear-corporation-files-us-ipo-2026-07-10/",
+    "title": "Holtec Nuclear Corporation files for US IPO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 05:52",
+    "pub_ts": 1783720377
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/aluminium-falls-ega-alumina-restart-still-set-weekly-rise-2026-07-10/",
+    "title": "Aluminium falls on EGA alumina restart, still set for weekly rise",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 05:37",
+    "pub_ts": 1783719464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/doj-charges-white-supremacist-after-threats-us-lawmaker-muslims-transgender-2026-07-10/",
+    "title": "DOJ charges white supremacist after threats to US lawmaker, Muslims and transgender people",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 05:36",
+    "pub_ts": 1783719389
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-wont-block-ftc-case-against-transgender-health-nonprofit-2026-07-10/",
+    "title": "US judge won't block FTC case against transgender health nonprofit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 05:32",
+    "pub_ts": 1783719144
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-administration-require-states-adopt-election-security-measures-receive-2026-07-10/",
+    "title": "Trump administration to require states to adopt election security measures to receive FEMA funds, DHS says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 05:17",
+    "pub_ts": 1783718225
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/fact-check/portugues/RB6BYGW5NBONZGZ4BMLIRTKSMM-2026-07-10/",
     "title": "Vídeo mostra reação de Infantino a Holanda x Marrocos, não Argentina x Egito",
     "path": "/fact-check/",
