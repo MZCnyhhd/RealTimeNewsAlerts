@@ -1,6 +1,42 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758313.html",
+    "title": "福建泉州通报火灾事故情况",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 08:10",
+    "pub_ts": 1783728622
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0711/c1004-40758324.html",
+    "title": "人工智能学会“使坏”，我们怎么办",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-11 08:10",
+    "pub_ts": 1783728622
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10/",
+    "title": "Meta discontinues AI image feature days after launch",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-11 07:34",
+    "pub_ts": 1783726489
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/activist-investor-elliott-builds-stake-software-firm-ccc-bloomberg-news-reports-2026-07-10/",
+    "title": "Activist investor Elliott builds stake in software firm CCC, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-11 07:21",
+    "pub_ts": 1783725695
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758284.html",
     "title": "习近平同纳米比亚总统恩代特瓦会谈",
     "path": "/politics/",
