@@ -1,6 +1,24 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0711/c351638-41635870.html",
+    "title": "河南淅川：一江丹水出渠首",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-11 18:44",
+    "pub_ts": 1783766673
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/boat-carrying-tourists-capsizes-off-vietnams-phu-quoc-island-killing-15-2026-07-11/",
+    "title": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 18:08",
+    "pub_ts": 1783764500
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0626/c1004-40747869.html",
     "title": "文旅业态深度融合 夏日消费活力涌动",
     "path": "/finance/",
