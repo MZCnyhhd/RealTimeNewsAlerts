@@ -1,5 +1,41 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/floods-bangladesh-kill-44-leave-over-million-stranded-2026-07-11/",
+    "title": "Floods in Bangladesh kill 44, leave over a million stranded",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 21:51",
+    "pub_ts": 1783777905
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/masked-world-cup-players-spotlight-soccers-overlooked-facial-injury-risk-2026-07-11/",
+    "title": "Masked World Cup players spotlight soccer's overlooked facial injury risk",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 21:07",
+    "pub_ts": 1783775264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/saudi-arabia-adds-industry-mineral-resources-portfolio-energy-minister-prince-2026-07-11/",
+    "title": "Saudi Arabia adds industry, mineral resources portfolio to Energy Minister Prince Abdulaziz's role",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 21:01",
+    "pub_ts": 1783774904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/turkey-still-evaluating-participation-canadas-global-defence-bank-sources-say-2026-07-11/",
+    "title": "Turkey still evaluating participation in Canada's global defence bank, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 20:53",
+    "pub_ts": 1783774424
+  },
+  {
     "source": "People's Daily",
     "url": "http://sx.people.com.cn/n2/2026/0711/c189132-41636061.html",
     "title": "把碳原子\"种\"进刹车盘",
