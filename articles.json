@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-postal-service-raises-stamp-price-82-cents-2026-07-11/",
+    "title": "US Postal Service raises stamp price to 82 cents",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 03:35",
+    "pub_ts": 1783798543
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/kushner-project-being-developed-disputed-land-albanian-villagers-say-2026-06-13/",
     "title": "Kushner project being developed on disputed land, Albanian villagers say",
     "path": "/world/",
