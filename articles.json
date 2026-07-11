@@ -1,6 +1,24 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://zj.people.com.cn/n2/2026/0712/c186327-41636333.html",
+    "title": "台风\"巴威\"在浙江乐清二次登陆",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 01:10",
+    "pub_ts": 1783789832
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-says-he-just-finished-physical-walter-reed-2026-07-11/",
+    "title": "Trump says he 'just finished' a physical at Walter Reed",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 00:43",
+    "pub_ts": 1783788197
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0711/c461001-40758559.html",
     "title": "习主席用这8个字形容中纳合作",
     "path": "/politics/",
