@@ -1,6 +1,69 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://sx.people.com.cn/n2/2026/0711/c189132-41636061.html",
+    "title": "把碳原子\"种\"进刹车盘",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-11 20:35",
+    "pub_ts": 1783773304
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758546.html",
+    "title": "两部门预拨4000万元支持福建、浙江应急抢险救灾",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 20:35",
+    "pub_ts": 1783773304
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758547.html",
+    "title": "国家防办增派工作组赴安徽协助指导防汛防台风工作",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 20:35",
+    "pub_ts": 1783773304
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758549.html",
+    "title": "两部门联合发布红色地质灾害预警",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 20:35",
+    "pub_ts": 1783773304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/teen-venezuela-quake-survivor-mourns-her-young-forever-friends-2026-07-11/",
+    "title": "Teen Venezuela quake survivor mourns her 'young forever' friends",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 20:17",
+    "pub_ts": 1783772242
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/eni-ceo-says-oil-market-risks-breaking-out-current-range-by-early-2027-2026-07-11/",
+    "title": "Eni CEO says oil market risks breaking out of current range by early 2027",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 20:01",
+    "pub_ts": 1783771300
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/spanish-firefighters-turn-offensive-against-deadly-almeria-blaze-2026-07-11/",
+    "title": "Spanish firefighters turn to the offensive against deadly Almeria blaze",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 19:38",
+    "pub_ts": 1783769906
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758544.html",
     "title": "交通运输部启动强降雨一级防御响应",
     "path": "/society/",
