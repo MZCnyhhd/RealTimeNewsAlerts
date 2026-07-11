@@ -1,6 +1,24 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/kushner-project-being-developed-disputed-land-albanian-villagers-say-2026-06-13/",
+    "title": "Kushner project being developed on disputed land, Albanian villagers say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 02:32",
+    "pub_ts": 1783794739
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/space-rocks-smartwatches-ai-millionaires-rewrite-luxury-playbook-2026-07-08/",
+    "title": "From space rocks to smartwatches, AI millionaires rewrite the luxury playbook",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 02:19",
+    "pub_ts": 1783793974
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/americas/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says-2026-07-11/",
     "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
     "path": "/world/",
