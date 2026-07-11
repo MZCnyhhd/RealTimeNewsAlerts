@@ -1,6 +1,42 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758544.html",
+    "title": "交通运输部启动强降雨一级防御响应",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-11 19:36",
+    "pub_ts": 1783769786
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/indias-aditya-birla-proposes-126-billion-expansion-odisha-alumina-refinery-2026-07-11/",
+    "title": "India's Aditya Birla proposes $1.26 billion expansion of Odisha alumina refinery",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-11 19:29",
+    "pub_ts": 1783769384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-2026-07-11/",
+    "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 19:18",
+    "pub_ts": 1783768733
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/irans-supreme-leader-pledges-revenge-slain-father-predecessor-2026-07-11/",
+    "title": "Iran's Supreme Leader pledges revenge for slain father and predecessor",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 18:51",
+    "pub_ts": 1783767071
+  },
+  {
+    "source": "People's Daily",
     "url": "http://henan.people.com.cn/n2/2026/0711/c351638-41635870.html",
     "title": "河南淅川：一江丹水出渠首",
     "path": "/general/",
@@ -709,6 +745,15 @@
     "category": "finance",
     "pub_bj": "2026-07-11 08:10",
     "pub_ts": 1783728622
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/malaysians-johor-state-go-polls-test-unity-pm-anwars-coalition-2026-07-11/",
+    "title": "Malaysians in Johor state go to the polls in test of unity for PM Anwar's coalition",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-11 08:06",
+    "pub_ts": 1783728409
   },
   {
     "source": "Reuters",
