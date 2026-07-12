@@ -1,6 +1,69 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756362.html",
+    "title": "未来5年，中国粮食综合生产能力将增加600亿斤左右",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-12 17:14",
+    "pub_ts": 1783847681
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://leaders.people.com.cn/n1/2026/0706/c58278-40754274.html",
+    "title": "夏粮连年丰收是“理所当然”吗",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 17:14",
+    "pub_ts": 1783847681
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hb.people.com.cn/n2/2026/0710/c194063-41634575.html",
+    "title": "增强粮食安全保障能力",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 17:14",
+    "pub_ts": 1783847681
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-2026-07-12/",
+    "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 16:37",
+    "pub_ts": 1783845463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/former-qatar-ruler-sheikh-hamad-moderniser-who-seized-power-has-died-2026-07-12/",
+    "title": "Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 16:21",
+    "pub_ts": 1783844511
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-officials-offer-their-condolences-after-death-us-senator-lindsey-graham-2026-07-12/",
+    "title": "Israeli officials offer their condolences after death of US Senator Lindsey Graham",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 15:51",
+    "pub_ts": 1783842683
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-says-ukraine-struck-tanker-sea-azov-2026-07-12/",
+    "title": "Russia says Ukraine struck tanker in Sea of Azov",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 15:48",
+    "pub_ts": 1783842503
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758701.html",
     "title": "此行间·“为了人民，我们再困难也要上！”",
     "path": "/politics/",
@@ -43,6 +106,15 @@
     "category": "general",
     "pub_bj": "2026-07-12 15:11",
     "pub_ts": 1783840281
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/one-indian-national-missing-after-attack-vessel-off-oman-foreign-ministry-says-2026-07-12/",
+    "title": "One Indian national missing after attack on vessel off Oman, foreign ministry says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 15:10",
+    "pub_ts": 1783840218
   },
   {
     "source": "Reuters",
