@@ -1,6 +1,87 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758889.html",
+    "title": "习近平:打通科技加速向现实生产力转化通道",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 20:38",
+    "pub_ts": 1783859885
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758890.html",
+    "title": "\"矢志追求真理,始终把准前进方向\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 20:38",
+    "pub_ts": 1783859885
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0712/c1002-40758885.html",
+    "title": "外交部就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 20:38",
+    "pub_ts": 1783859885
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758888.html",
+    "title": "红色山洪灾害气象预警发布",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-12 20:38",
+    "pub_ts": 1783859885
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758892.html",
+    "title": "红色地质灾害气象风险预警发布",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-12 20:38",
+    "pub_ts": 1783859885
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/germany-funds-50000-strike-drones-ukraine-source-says-2026-07-12/",
+    "title": "Germany funds 50,000 strike drones for Ukraine, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 20:31",
+    "pub_ts": 1783859478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-forces-ready-ensure-navigation-strait-hormuz-central-command-says-2026-07-12/",
+    "title": "US forces ready to ensure navigation in Strait of Hormuz, Central Command says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 20:26",
+    "pub_ts": 1783859169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-three-people-including-girl-say-medics-2026-07-12/",
+    "title": "Israeli attacks in Gaza kill three people, including a girl, say medics",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 20:19",
+    "pub_ts": 1783858791
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/myanmar-tells-asean-detained-aung-san-suu-kyi-will-be-looked-after-special-envoy-2026-07-12/",
+    "title": "Myanmar tells ASEAN detained Aung San Suu Kyi will be looked after, special envoy says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 19:52",
+    "pub_ts": 1783857129
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0502/c1001-40712708.html",
     "title": "以更大力度更实举措加强基础研究",
     "path": "/politics/",
