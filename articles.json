@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israels-election-will-be-held-october-27-coalition-head-says-2026-07-12/",
+    "title": "Israel's election will be held on October 27, coalition head says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 01:50",
+    "pub_ts": 1783878656
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/us-conducts-strikes-iran-missile-systems-around-strait-hormuz-axios-reports-2026-07-12/",
     "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports",
     "path": "/world/",
