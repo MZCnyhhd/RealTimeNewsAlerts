@@ -1,6 +1,87 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758701.html",
+    "title": "此行间·“为了人民，我们再困难也要上！”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 15:11",
+    "pub_ts": 1783840281
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758805.html",
+    "title": "习言道|习近平再次强调\"破四唯\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 15:11",
+    "pub_ts": 1783840281
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758804.html",
+    "title": "跨越600年 扬帆再远航",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 15:11",
+    "pub_ts": 1783840281
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0712/c351638-41636478.html",
+    "title": "行进中国丨河南叶县：路通业兴 乡村旧貌换新颜",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 15:11",
+    "pub_ts": 1783840281
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ah.people.com.cn/n2/2026/0712/c227131-41636651.html",
+    "title": "黄山书会 喜“阅”假期",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 15:11",
+    "pub_ts": 1783840281
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/son-belgian-wildfire-victim-disputes-spanish-officials-account-warnings-2026-07-12/",
+    "title": "Son of Belgian wildfire victim disputes Spanish officials' account of warnings",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 15:03",
+    "pub_ts": 1783839839
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-senator-lindsey-graham-passes-away-2026-07-12/",
+    "title": "Pivotal US Republican Senator Lindsey Graham dies at 71",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 14:59",
+    "pub_ts": 1783839589
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/south-china-sea-joint-statement-says-chinas-maritime-claims-have-no-basis-2026-07-12/",
+    "title": "South China Sea joint statement says China's maritime claims have no basis",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 14:44",
+    "pub_ts": 1783838692
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/former-emir-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-74-2026-07-12/",
+    "title": "Former emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, dies at 74",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 14:06",
+    "pub_ts": 1783836404
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40758272.html",
     "title": "为建设科技强国多立新功",
     "path": "/politics/",
