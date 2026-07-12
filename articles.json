@@ -1,6 +1,96 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0712/c223228-40758766.html",
+    "title": "从\"糖丸\"到HPV疫苗,让每一次免疫扩容精准落地",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://fj.people.com.cn/n2/2026/0712/c181466-41636634.html",
+    "title": "福建终止防汛Ⅳ级应急响应",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://bj.people.com.cn/n2/2026/0712/c14540-41636607.html",
+    "title": "北京平谷继续发布山洪灾害红色预警",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0712/c1004-40758744.html",
+    "title": "数智赋能、向海图强 航运业发展开新局",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0712/c1002-40758801.html",
+    "title": "无线电远征亲历者讲述：黄岩岛属于中国铁证如山",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hi.people.com.cn/n2/2026/0712/c231190-41636377.html",
+    "title": "海南自贸港加工增值免关税政策实施5年 享惠货值超121亿元",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0712/c351638-41636458.html",
+    "title": "河南可再生能源装机破亿千瓦 绿色转型跑出中部加速度",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0712/c1012-40758808.html",
+    "title": "四强正式出炉 “英阿”狭路相逢",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 18:42",
+    "pub_ts": 1783852973
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iraqi-prime-minister-visit-washington-monday-oil-gas-deals-expected-2026-07-12/",
+    "title": "Iraqi prime minister to visit Washington on Monday; oil and gas deals expected",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 18:17",
+    "pub_ts": 1783851453
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/egypts-january-march-current-account-deficit-widens-51-billion-2026-07-12/",
+    "title": "Egypt's January-March current account deficit widens to $5.1 billion",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 17:45",
+    "pub_ts": 1783849548
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0709/c1004-40756362.html",
     "title": "未来5年，中国粮食综合生产能力将增加600亿斤左右",
     "path": "/finance/",
