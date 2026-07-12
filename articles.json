@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/mcconnell-says-he-wont-be-able-return-us-senate-yet-2026-07-12/",
+    "title": "McConnell says he won't be able to return to U.S. Senate yet",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 05:31",
+    "pub_ts": 1783891876
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/bangkok-pub-fire-kills-least-27-people-ap-reports-2026-07-12/",
     "title": "Bangkok pub fire kills at least 27 people, reports say",
     "path": "/world/",
