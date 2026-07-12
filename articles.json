@@ -1,5 +1,41 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/traffic-accident-mexico-leaves-9-dead-10-injured-four-them-americans-2026-07-12/",
+    "title": "Traffic accident in Mexico leaves 9 dead and 10 injured, four of them Americans",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 07:27",
+    "pub_ts": 1783898831
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/europe-recorded-10000-excess-deaths-during-late-june-heatwave-data-show-2026-07-12/",
+    "title": "Europe recorded 10,000 excess deaths during late-June heatwave, data show",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 07:12",
+    "pub_ts": 1783897959
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-plans-spend-250-million-over-three-years-protect-jewish-communities-2026-07-12/",
+    "title": "UK plans to spend £250 million over three years to protect Jewish communities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 07:07",
+    "pub_ts": 1783897666
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/spanish-wildfires-claim-13th-victim-british-woman-93-dies-injuries-2026-07-12/",
+    "title": "Spanish wildfires claim 13th victim as British woman, 93, dies of injuries",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 07:06",
+    "pub_ts": 1783897581
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0713/c461001-40758939.html",
     "title": "总书记的人民情怀丨“必须实事求是、求真务实、真抓实干”",
