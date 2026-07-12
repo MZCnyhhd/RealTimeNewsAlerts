@@ -1,6 +1,78 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758904.html",
+    "title": "关口前移、预防为先——多地强化防汛预警和救援准备",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-12 22:11",
+    "pub_ts": 1783865462
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0712/c436867-40758821.html",
+    "title": "整治\"AI研学\"乱象,剔除病灶虚火",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 22:11",
+    "pub_ts": 1783865462
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ln.people.com.cn/n2/2026/0712/c378317-41636727.html",
+    "title": "受台风“巴威”影响，沈阳、抚顺两城市发布停课通知",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 22:11",
+    "pub_ts": 1783865462
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/about-300-people-evacuated-paris-suburb-due-suspicious-car-near-synagogue-2026-07-12/",
+    "title": "About 300 people evacuated in Paris suburb due to 'suspicious' car near synagogue",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 22:01",
+    "pub_ts": 1783864905
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/trump-says-strait-hormuz-open-commercial-traffic-2026-07-12/",
+    "title": "Trump says Strait of Hormuz open to commercial traffic",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-12 21:30",
+    "pub_ts": 1783863009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/new-syrian-parliament-meets-first-time-damascus-2026-07-12/",
+    "title": "New Syrian parliament meets for first time in Damascus",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 21:27",
+    "pub_ts": 1783862863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/gulf-bourses-subdued-us-iran-exchange-strikes-2026-07-12/",
+    "title": "Gulf bourses subdued as US and Iran exchange strikes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 21:07",
+    "pub_ts": 1783861634
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korea-asks-north-korea-help-with-finding-missing-seaman-near-border-2026-07-12/",
+    "title": "South Korea asks North Korea for help with finding missing seaman near border",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 20:55",
+    "pub_ts": 1783860940
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0712/c461001-40758889.html",
     "title": "习近平:打通科技加速向现实生产力转化通道",
     "path": "/politics/",
