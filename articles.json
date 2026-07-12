@@ -1,6 +1,24 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bangkok-pub-fire-kills-least-27-people-ap-reports-2026-07-12/",
+    "title": "Bangkok pub fire kills at least 27 people, reports say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 03:44",
+    "pub_ts": 1783885445
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/death-toll-venezuela-earthquakes-rises-4490-2026-07-12/",
+    "title": "Death toll from Venezuela earthquakes rises to 4,490",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 03:33",
+    "pub_ts": 1783884824
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/israels-election-will-be-held-october-27-coalition-head-says-2026-07-12/",
     "title": "Israel's election will be held on October 27, coalition head says",
     "path": "/world/",
