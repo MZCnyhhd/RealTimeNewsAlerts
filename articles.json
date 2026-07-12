@@ -1,6 +1,33 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0712/c1012-40758633.html",
+    "title": "英格兰逆转挪威晋级世界杯四强",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 09:11",
+    "pub_ts": 1783818662
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-says-it-launched-strikes-against-iran-after-attack-cyprus-flagged-container-2026-07-12/",
+    "title": "US says it launched strikes against Iran after attack on Cyprus-flagged container ship",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 08:51",
+    "pub_ts": 1783817487
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/two-children-die-after-ferry-hits-bridge-eastern-syria-2026-07-12/",
+    "title": "Two children die after ferry hits bridge in eastern Syria",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 08:49",
+    "pub_ts": 1783817387
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758576.html",
     "title": "各部门多措并举防汛",
     "path": "/society/",
