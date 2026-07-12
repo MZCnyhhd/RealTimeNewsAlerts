@@ -1,6 +1,105 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0502/c1001-40712708.html",
+    "title": "以更大力度更实举措加强基础研究",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0502/c461001-40712891.html",
+    "title": "为何强调加强基础研究要“持续抓下去”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0503/c461001-40713177.html",
+    "title": "看中国发展的“长期主义”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gd.people.com.cn/n2/2026/0523/c123932-41589179.html",
+    "title": "坐热基础研究的“冷板凳”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0609/c351638-41604814.html",
+    "title": "加强基础研究，青年何为",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://edu.people.com.cn/n1/2026/0712/c1006-40758874.html",
+    "title": "亲历者说丨西江72小时纪录片《同舟》",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0712/c1002-40758882.html",
+    "title": "外交部关于有关国家炒作“南海仲裁案裁决”出台十年的声明",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758883.html",
+    "title": "水利部升级发布洪水黄色预警",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0712/c1004-40758824.html",
+    "title": "经济热点快评丨防诈提示！别让AI荐股骗了你",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-12 19:43",
+    "pub_ts": 1783856614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-proposes-replace-prime-minister-svyrydenko-2026-07-12/",
+    "title": "Ukraine's Zelenskiy proposes to replace Prime Minister Svyrydenko",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 19:29",
+    "pub_ts": 1783855783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-police-say-no-political-link-found-investigation-into-murder-former-minister-2026-07-12/",
+    "title": "No evidence of political motive in murder of former UK minister Widdecombe, police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 19:26",
+    "pub_ts": 1783855612
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0712/c223228-40758766.html",
     "title": "从\"糖丸\"到HPV疫苗,让每一次免疫扩容精准落地",
     "path": "/general/",
