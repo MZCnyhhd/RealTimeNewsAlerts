@@ -1,6 +1,24 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0712/c1016-40758917.html",
+    "title": "天津滨海新区：加高加固防潮海堤 筑牢防潮安全防线",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-12 23:13",
+    "pub_ts": 1783869228
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-says-four-killed-ukrainian-drone-attack-russian-controlled-enerhodar-2026-07-12/",
+    "title": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-12 22:51",
+    "pub_ts": 1783867888
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0712/c1008-40758904.html",
     "title": "关口前移、预防为先——多地强化防汛预警和救援准备",
     "path": "/society/",
