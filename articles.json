@@ -1,6 +1,447 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0713/c1004-40759347.html",
+    "title": "在老地方，过上“新”日子",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0606/c1004-40734965.html",
+    "title": "三问城市更新：老街，如何“不掉队”？",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0615/c1004-40740072.html",
+    "title": "城市地下管网如何“强筋健骨”",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0609/c1004-40736335.html",
+    "title": "城市更新聚焦23项重点任务",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0518/c1004-40721491.html",
+    "title": "城市更新“任务书”来了",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0713/c1024-40759743.html",
+    "title": "李强主持召开经济形势专家和企业家座谈会",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0713/c1024-40759751.html",
+    "title": "王沪宁会见第十一届世界华侨华人社团联谊大会全体代表",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0713/c1001-40759730.html",
+    "title": "国务院批复同意《扩大消费“十五五”规划》",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0713/c1002-40759737.html",
+    "title": "外交部介绍此访安排",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0713/c1008-40759742.html",
+    "title": "国家发展改革委安排3000万元支持河北暴雨洪涝灾害灾后应急恢复",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-13 21:10",
+    "pub_ts": 1783948238
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iraqs-prime-minister-seeks-big-energy-investments-us-trip-2026-07-13/",
+    "title": "Iraq's prime minister seeks big energy investments on US trip",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 21:08",
+    "pub_ts": 1783948106
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/bank-america-hires-nine-senior-investment-bankers-target-us-middle-market-2026-07-13/",
+    "title": "Bank of America hires nine senior investment bankers to target US middle market",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 21:08",
+    "pub_ts": 1783948094
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-police-arrest-12-after-extreme-right-wing-investigation-2026-07-13/",
+    "title": "UK police arrest 12 after \"extreme right-wing\" investigation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:08",
+    "pub_ts": 1783948081
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-control-strait-hormuz-get-paid-it-2026-07-13/",
+    "title": "Trump says the US should control the Strait of Hormuz and get paid for it",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:03",
+    "pub_ts": 1783947834
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/yemeni-military-targets-sanaa-airport-runway-stop-iranian-plane-landing-defence-2026-07-13/",
+    "title": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:59",
+    "pub_ts": 1783947597
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/watches-switzerland-held-talks-over-potential-takeover-offers-sources-say-2026-07-13/",
+    "title": "Watches of Switzerland held talks over potential takeover offers, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:58",
+    "pub_ts": 1783947485
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/i-squared-invest-up-2-billion-saudi-pifs-digital-infrastructure-cooling-plants-2026-07-13/",
+    "title": "I Squared to invest up to $2 billion in Saudi PIF's digital infrastructure and cooling plants",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:56",
+    "pub_ts": 1783947374
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-premier-urges-objective-understanding-economy-2026-07-13/",
+    "title": "China's premier urges 'objective' understanding of the economy",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:55",
+    "pub_ts": 1783947332
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/global-smartphone-shipments-second-quarter-hit-lowest-13-years-memory-chip-2026-07-13/",
+    "title": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:51",
+    "pub_ts": 1783947104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/ousted-pm-hasina-faces-prison-return-bangladesh-minister-says-2026-07-13/",
+    "title": "Ousted PM Hasina faces prison on return to Bangladesh, minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:47",
+    "pub_ts": 1783946856
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/france-sends-water-bombers-tackle-wildfire-outside-paris-2026-07-13/",
+    "title": "Wildfire rages near Paris as heatwave scorches Europe",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:47",
+    "pub_ts": 1783946824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/opec-further-lowers-2026-global-oil-demand-growth-forecast-2026-07-13/",
+    "title": "OPEC further lowers 2026 global oil demand growth forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:46",
+    "pub_ts": 1783946793
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/macron-calls-go-it-alone-defence-strategies-europe-an-absurdity-2026-07-13/",
+    "title": "Macron calls go-it-alone defence strategies in Europe an 'absurdity'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:44",
+    "pub_ts": 1783946674
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/italian-judge-rejects-inwits-bid-suspend-telecom-italia-exit-tower-contract-2026-07-13/",
+    "title": "Italian judge rejects INWIT bid to suspend Telecom Italia's exit from tower contract",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:43",
+    "pub_ts": 1783946621
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/intel-announces-57-billion-capital-investment-irish-manufacturing-hub-2026-07-13/",
+    "title": "Intel announces $5.7 billion AI-driven capital investment in Ireland",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:41",
+    "pub_ts": 1783946510
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-hcltech-beats-first-quarter-revenue-estimates-2026-07-13/",
+    "title": "India's HCLTech beats first-quarter revenue estimates on financial services strength",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:39",
+    "pub_ts": 1783946341
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/chesapeake-utilities-unit-build-12-billion-florida-gas-pipeline-project-2026-07-13/",
+    "title": "Chesapeake Utilities unit to build $1.2 billion Florida gas pipeline project",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:36",
+    "pub_ts": 1783946201
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/hormuz-traffic-slows-multi-week-low-renewed-us-iran-strikes-raise-safety-risk-2026-07-13/",
+    "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:33",
+    "pub_ts": 1783946008
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/no-way-out-survivors-describe-deadly-bangkok-bar-inferno-2026-07-13/",
+    "title": "'No way out': Survivors describe deadly Bangkok bar inferno",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:32",
+    "pub_ts": 1783945956
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "path": "/the-download/",
+    "category": "the download",
+    "pub_bj": "2026-07-13 20:10",
+    "pub_ts": 1783944600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-proscribes-irans-irgc-terrorist-organisation-sky-news-reports-2026-07-13/",
+    "title": "UK outlaws two Iranian groups over antisemitic attacks in Britain",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:56",
+    "pub_ts": 1783943771
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/el-salvador-presidents-party-nominates-bukele-seek-third-term-2026-07-13/",
+    "title": "El Salvador president's party nominates Bukele to seek third term",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:56",
+    "pub_ts": 1783943769
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarian-opposition-fideszs-parliamentary-group-chief-resigns-over-legislation-2026-07-13/",
+    "title": "Hungarian opposition Fidesz's parliamentary group chief resigns over legislation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:55",
+    "pub_ts": 1783943746
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/transdigm-withdraws-planned-960-million-stellant-systems-acquisition-2026-07-13/",
+    "title": "TransDigm withdraws from planned $960 million Stellant Systems acquisition",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 19:55",
+    "pub_ts": 1783943745
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/emerging/an-emboldened-india-holds-out-better-terms-us-trade-talks-2026-07-13/",
+    "title": "An emboldened India holds out for better terms in US trade talks",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-13 19:50",
+    "pub_ts": 1783943423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/view-indias-retail-inflation-accelerates-438-raising-rate-hike-expectations-2026-07-13/",
+    "title": "VIEW India's retail inflation accelerates to 4.38%, raising rate hike expectations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:49",
+    "pub_ts": 1783943342
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/rescuers-search-crew-member-after-container-ship-attack-strait-hormuz-2026-07-13/",
+    "title": "Rescuers search for crew member after container ship attack in Strait of Hormuz",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:37",
+    "pub_ts": 1783942655
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/asean-outreach-may-give-myanmar-leaders-legitimacy-without-results-2026-07-13/",
+    "title": "ASEAN outreach may give Myanmar leaders legitimacy without results",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:35",
+    "pub_ts": 1783942557
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/pesticide-makers-stack-wins-against-us-environmental-public-health-groups-2026-07-13/",
+    "title": "Pesticide makers stack wins against US environmental, public health groups",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 19:30",
+    "pub_ts": 1783942200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/nigerias-oil-output-hit-highest-level-since-2020-june-regulator-says-2026-07-13/",
+    "title": "Nigeria's oil output hit highest level since 2020 in June, regulator says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 19:26",
+    "pub_ts": 1783941965
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/eu-announces-restrictions-trading-sudanese-gold-2026-07-13/",
+    "title": "EU announces restrictions on trading Sudanese gold",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:24",
+    "pub_ts": 1783941882
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/italys-eni-seri-launch-battery-venture-market-energy-storage-systems-2026-07-13/",
+    "title": "Italy's Eni, Seri launch battery venture to market energy storage systems",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 19:17",
+    "pub_ts": 1783941463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/air-canada-reaches-new-tentative-agreement-with-iamaw-union-2026-07-13/",
+    "title": "Air Canada reaches new tentative agreement with IAMAW union",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 19:16",
+    "pub_ts": 1783941378
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/uk-murder-suspect-bought-gun-south-africa-possibly-kill-himself-police-say-2026-07-13/",
+    "title": "UK murder suspect bought gun in South Africa, possibly to kill himself, police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:15",
+    "pub_ts": 1783941309
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/wealth/global-pension-funds-pull-back-fx-hedges-dollar-woes-ease-2026-07-13/",
+    "title": "Global pension funds pull back on FX hedges as dollar woes ease",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-13 19:13",
+    "pub_ts": 1783941239
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/crypto-exchanges-cash-spacex-frenzy-with-pre-ipo-derivatives-2026-06-11/",
+    "title": "Crypto exchanges cash in on SpaceX frenzy with pre-IPO derivatives",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 19:07",
+    "pub_ts": 1783940825
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/brazil-coffee-faces-el-nio-headwinds-crops-more-resilient-2026-07-13/",
+    "title": "Brazil coffee faces El Niño headwinds, but crops more resilient",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 19:06",
+    "pub_ts": 1783940796
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/solar-costs-jump-18-remain-cheapest-generation-build-lazard-says-2026-07-13/",
+    "title": "Solar costs jump 18%, but remain the cheapest generation to build, Lazard says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 19:03",
+    "pub_ts": 1783940625
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/",
+    "title": "TSMC posts record revenue in second quarter on AI demand",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 19:01",
+    "pub_ts": 1783940476
+  },
+  {
+    "source": "People's Daily",
     "url": "http://sz.people.com.cn/n2/2026/0713/c202846-41636822.html",
     "title": "深中通道：“超级工程”走进日常",
     "path": "/general/",
@@ -520,6 +961,159 @@
     "category": "business",
     "pub_bj": "2026-07-13 17:55",
     "pub_ts": 1783936546
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/german-hospital-treats-us-ebola-patient-infected-congo-2026-07-13/",
+    "title": "German hospital treats US Ebola patient infected in Congo",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:47",
+    "pub_ts": 1783936043
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/oxford-begins-first-human-trial-bundibugyo-ebola-vaccine-2026-07-13/",
+    "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:47",
+    "pub_ts": 1783936041
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/dbs-becomes-first-singapore-stock-top-s200-billion-market-value-2026-07-13/",
+    "title": "DBS becomes first Singapore stock to top S$200 billion in market value",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:42",
+    "pub_ts": 1783935738
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/morocco-arrests-dissident-journalist-ali-lmrabet-2026-07-13/",
+    "title": "Morocco arrests dissident journalist Ali Lmrabet",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:40",
+    "pub_ts": 1783935632
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-outbreak-spreads-two-more-provinces-2026-07-13/",
+    "title": "Congo's Ebola outbreak spreads to two more provinces",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:40",
+    "pub_ts": 1783935616
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-progressing-well-trade-deal-with-us-dont-see-challenges-india-trade-secy-2026-07-13/",
+    "title": "India progressing well on trade deal with US, don't see challenges, India trade secy says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:34",
+    "pub_ts": 1783935249
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/wall-street-banks-ramp-up-digital-assistants-bid-to-win-productivity-race-2026-07-13/",
+    "title": "Wall Street banks ramp up digital assistants in bid to win productivity race",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:31",
+    "pub_ts": 1783935075
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/south-africa-proposes-compulsory-fuel-stocks-preempt-crises-2026-07-13/",
+    "title": "South Africa proposes compulsory fuel stocks to preempt crises",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:25",
+    "pub_ts": 1783934704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russian-attack-cargo-ship-kills-three-crew-ukrainian-officials-say-2026-07-13/",
+    "title": "Russian attack on cargo ship kills three crew, Ukrainian officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:23",
+    "pub_ts": 1783934596
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pension-shift-japan-may-hurt-some-foreign-money-managers-2026-07-13/",
+    "title": "A pension shift in Japan may hurt some foreign money managers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:19",
+    "pub_ts": 1783934384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/magnitude-65-earthquake-strikes-lorengau-region-papua-new-guinea-usgs-says-2026-07-13/",
+    "title": "Magnitude 6.5 earthquake strikes Lorengau region in Papua New Guinea, USGS says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:19",
+    "pub_ts": 1783934365
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-tells-clean-energy-firms-lose-grid-connection-or-generate-power-2026-07-13/",
+    "title": "India tells clean energy firms to lose grid connection or generate power",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:13",
+    "pub_ts": 1783934024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-tcs-bags-multi-million-contract-industrial-giant-abb-2026-07-13/",
+    "title": "India's TCS bags multi-million contract from industrial giant ABB",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:13",
+    "pub_ts": 1783934024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/prosus-backed-indian-jeweller-bluestone-double-workforce-expand-beyond-malls-2026-07-13/",
+    "title": "Prosus-backed Indian jeweller BlueStone to double workforce, expand beyond malls",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:11",
+    "pub_ts": 1783933904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/asian-tech-firms-seeking-follow-sk-hynix-may-find-foreign-investors-more-2026-07-13/",
+    "title": "Asian tech firms seeking to follow SK Hynix may find foreign investors more selective",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 17:07",
+    "pub_ts": 1783933665
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/kongsberg-orders-jump-second-quarter-led-by-joint-strike-missile-2026-07-13/",
+    "title": "Kongsberg misses order intake estimates, shares slip",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:07",
+    "pub_ts": 1783933633
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/eu-imports-record-lng-volumes-russias-biggest-plant-2026-07-13/",
+    "title": "EU imports record LNG volumes from Russia's biggest plant",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 17:01",
+    "pub_ts": 1783933305
   },
   {
     "source": "Reuters",
