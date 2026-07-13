@@ -1,6 +1,159 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/argentinas-ypf-electric-energy-files-us-ipo-2026-07-13/",
+    "title": "Argentina's YPF Electric Energy files for US IPO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 04:15",
+    "pub_ts": 1783973704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/CVMZH4424NKZXBTSHWSO3LCYIE-2026-07-13/",
+    "title": "Aprovação do governo Lula no último Datafolha foi de 32%, não de 24%",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-14 04:14",
+    "pub_ts": 1783973694
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/lawsuit-accuses-blackrock-overcharging-mutual-fund-investors-2026-07-13/",
+    "title": "Lawsuit accuses BlackRock of overcharging mutual fund investors",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 04:14",
+    "pub_ts": 1783973658
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/thomson-reuters-cut-small-number-engineering-jobs-2026-07-13/",
+    "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 04:12",
+    "pub_ts": 1783973557
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/china-detains-us-seismologist-who-has-studied-north-korean-nuclear-tests-2026-07-13/",
+    "title": "China detains US seismologist who has studied North Korean nuclear tests",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 04:05",
+    "pub_ts": 1783973146
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-officials-turn-over-withheld-evidence-immigration-agents-killings-renee-2026-07-13/",
+    "title": "Trump officials turn over withheld evidence in immigration agents' killings of Renee Good, Alex Pretti",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 03:52",
+    "pub_ts": 1783972323
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-investigation-points-likely-us-responsibility-iran-school-strike-sources-say-2026-03-06/",
+    "title": "US investigation points to likely US responsibility in Iran school strike, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 03:49",
+    "pub_ts": 1783972157
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/lawmakers-demand-pentagon-release-findings-probe-iran-school-strike-2026-07-13/",
+    "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 03:43",
+    "pub_ts": 1783971826
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/sbi-funds-ipo-anchor-book-attracts-singapore-abu-dhabi-wealth-funds-2026-07-13/",
+    "title": "SBI Funds IPO anchor book attracts Singapore, Abu Dhabi wealth funds",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 03:40",
+    "pub_ts": 1783971625
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/global-fusion-energy-annual-investments-hit-record-nearly-45-billion-2026-07-13/",
+    "title": "Global fusion energy annual investments hit record of nearly $4.5 billion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 03:33",
+    "pub_ts": 1783971237
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-at-home-starter-dose-eisai-biogen-alzheimers-drug-2026-07-13/",
+    "title": "FDA approves at-home starter dose of Eisai-Biogen Alzheimer's drug",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 03:25",
+    "pub_ts": 1783970721
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-appeals-court-revives-teva-lawsuit-over-lilly-osteoporosis-drug-2026-07-13/",
+    "title": "US appeals court revives Teva lawsuit over Lilly osteoporosis drug",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 03:22",
+    "pub_ts": 1783970532
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-cases-intestinal-disease-parasite-soar-over-2600-2026-07-13/",
+    "title": "Michigan cases of intestinal disease from parasite soar to over 2,600",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 03:21",
+    "pub_ts": 1783970489
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/spire-healthcare-chair-could-step-down-within-months-sky-news-reports-2026-07-13/",
+    "title": "Spire Healthcare chair could step down within months, Sky News reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 03:21",
+    "pub_ts": 1783970464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/XO4HPTDQKVLG5HOB3LBZBUA5UY-2026-07-13/",
+    "title": "Texto sobre telefonema entre Lula e Trump é crônica, diz autor",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-14 03:13",
+    "pub_ts": 1783970005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/meta-presses-new-defense-tactic-cases-over-scam-ads-promoting-stocks-2026-07-13/",
+    "title": "Meta presses new defense tactic in cases over scam ads promoting stocks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 03:07",
+    "pub_ts": 1783969664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/venezuelas-smallest-refinery-restarts-catalytic-cracker-workers-say-2026-07-13/",
+    "title": "Venezuela's smallest refinery restarts catalytic cracker, workers say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 03:05",
+    "pub_ts": 1783969543
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/americas/brazils-top-court-bars-senator-bolsonaro-visiting-his-father-2026-07-13/",
     "title": "Brazil's top court bars Senator Bolsonaro from visiting his father",
     "path": "/world/",
@@ -106,6 +259,15 @@
     "category": "artificial intelligence",
     "pub_bj": "2026-07-14 02:00",
     "pub_ts": 1783965600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/jackson-walker-settlements-get-initial-court-backing-after-judge-scandal-2026-07-13/",
+    "title": "Jackson Walker settlements get initial court backing after judge scandal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 01:43",
+    "pub_ts": 1783964624
   },
   {
     "source": "Reuters",
@@ -538,6 +700,15 @@
     "category": "world",
     "pub_bj": "2026-07-13 22:55",
     "pub_ts": 1783954540
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/gunmen-kill-least-18-people-nigerias-benue-state-residents-say-2026-07-13/",
+    "title": "Gunmen kill at least 18 people in Nigeria's Benue state, residents say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:55",
+    "pub_ts": 1783954508
   },
   {
     "source": "Reuters",
