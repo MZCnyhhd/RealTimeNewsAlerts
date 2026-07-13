@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-shares-fall-much-44-seoul-after-strong-nasdaq-debut-2026-07-13/",
+    "title": "SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 09:07",
+    "pub_ts": 1783904826
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/an-emboldened-india-holds-out-better-terms-us-trade-talks-2026-07-13/",
+    "title": "An emboldened India holds out for better terms in US trade talks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 09:03",
+    "pub_ts": 1783904624
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/dollar-jumps-renewed-middle-east-attacks-hormuz-closure-2026-07-13/",
+    "title": "Dollar jumps on renewed Middle East attacks, Hormuz closure",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 08:51",
+    "pub_ts": 1783903886
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-07-13/",
+    "title": "Shares slip in Asia as oil jumps on Gulf attacks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 08:50",
+    "pub_ts": 1783903810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/deutsche-bank-pays-13-million-penalty-australian-trade-reporting-failures-2026-07-13/",
+    "title": "Deutsche Bank pays $1.3 million penalty for Australian trade reporting failures",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 08:41",
+    "pub_ts": 1783903272
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/nippon-paint-said-offer-86-billion-akzo-nobels-paint-arm-bloomberg-news-reports-2026-07-13/",
+    "title": "Nippon Paint offers $8.6 billion for Akzo Nobel unit, Bloomberg News reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 08:39",
+    "pub_ts": 1783903167
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/minnesota-governor-mobilizes-national-guard-battle-wildfires-northern-part-state-2026-07-13/",
+    "title": "Minnesota governor mobilizes National Guard to battle wildfires in northern part of state",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 08:35",
+    "pub_ts": 1783902943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-move-up-start-chip-factory-yongin-2029-source-says-2026-07-13/",
+    "title": "Samsung Electronics to move up start of chip factory in Yongin to 2029, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 08:32",
+    "pub_ts": 1783902760
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/eu-ministers-debate-curbing-trade-with-israeli-settlements-2026-07-13/",
+    "title": "EU ministers to debate curbing trade with Israeli settlements",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 08:04",
+    "pub_ts": 1783901049
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/americas/traffic-accident-mexico-leaves-9-dead-10-injured-four-them-americans-2026-07-12/",
     "title": "Traffic accident in Mexico leaves 9 dead and 10 injured, four of them Americans",
     "path": "/world/",
