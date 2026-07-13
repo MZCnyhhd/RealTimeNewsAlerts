@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/former-delivery-driver-books-final-open-spot-faces-accommodation-scramble-2026-07-13/",
+    "title": "Former delivery driver books final Open spot but faces accommodation scramble",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 05:11",
+    "pub_ts": 1783977104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trumps-give-speech-about-foreign-interference-2020-election-ms-now-reports-2026-07-13/",
+    "title": "Trump's to give speech about foreign interference in 2020 election, MS Now reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 05:09",
+    "pub_ts": 1783976983
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-take-out-pickaxe-mountain-iran-2026-07-13/",
+    "title": "Trump says the US will take out Pickaxe Mountain in Iran",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 04:59",
+    "pub_ts": 1783976384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/brown-forman-ceo-lawson-whiting-plans-retire-wsj-reports-2026-07-13/",
+    "title": "Jack Daniel's maker Brown-Forman CEO Lawson Whiting to retire",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 04:58",
+    "pub_ts": 1783976288
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/major-power-line-new-york-city-trips-offline-second-time-july-2026-07-13/",
+    "title": "Major power line for New York City trips offline for second time in July",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 04:29",
+    "pub_ts": 1783974582
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/un-official-says-hamas-obstructing-aid-gaza-2026-07-13/",
+    "title": "UN official says Hamas obstructing aid in Gaza",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 04:27",
+    "pub_ts": 1783974473
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/el-nio-may-test-latin-america-markets-with-colombia-most-exposed-ubs-says-2026-07-13/",
+    "title": "El Niño may test Latin America markets, with Colombia most exposed, UBS says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 04:26",
+    "pub_ts": 1783974362
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/argentinas-ypf-electric-energy-files-us-ipo-2026-07-13/",
     "title": "Argentina's YPF Electric Energy files for US IPO",
     "path": "/business/",
@@ -259,6 +322,15 @@
     "category": "artificial intelligence",
     "pub_bj": "2026-07-14 02:00",
     "pub_ts": 1783965600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/us-bank-first-hawaiian-bets-california-growth-with-2-billion-trico-buy-2026-07-13/",
+    "title": "US bank First Hawaiian bets on California growth with $2 billion TriCo buy",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 01:50",
+    "pub_ts": 1783965009
   },
   {
     "source": "Reuters",
