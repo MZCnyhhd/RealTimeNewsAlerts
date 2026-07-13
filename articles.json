@@ -1,6 +1,114 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazils-top-court-bars-senator-bolsonaro-visiting-his-father-2026-07-13/",
+    "title": "Brazil's top court bars Senator Bolsonaro from visiting his father",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 02:58",
+    "pub_ts": 1783969112
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/spain-identifies-six-victims-deadly-wildfire-2026-07-13/",
+    "title": "Spain identifies six victims of deadly wildfire",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 02:57",
+    "pub_ts": 1783969047
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-fda-urges-infant-formula-makers-tighten-supplier-oversight-after-product-2026-07-13/",
+    "title": "US FDA urges infant-formula makers to tighten supplier oversight after product recalls, botulism outbreaks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 02:53",
+    "pub_ts": 1783968822
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/hapag-lloyd-raises-annual-outlook-strong-demand-freight-rates-2026-07-13/",
+    "title": "Hapag-Lloyd raises annual outlook on strong demand, freight rates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 02:31",
+    "pub_ts": 1783967476
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ukraine-produce-french-missiles-orders-war-planes-macron-says-2026-07-13/",
+    "title": "Ukraine to produce French missiles, orders war planes, Macron says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 02:30",
+    "pub_ts": 1783967424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/P6MSRSBNNBPOLC6YWC2NGHCIUM-2026-07-13/",
+    "title": "Não há registros de doações de Cristiano Ronaldo à Venezuela nem de agradecimento de Delcy Rodríguez",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-14 02:28",
+    "pub_ts": 1783967288
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-begin-enforcing-maritime-blockade-iran-tuesday-2026-07-13/",
+    "title": "US to begin enforcing maritime blockade on Iran on Tuesday",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 02:25",
+    "pub_ts": 1783967101
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/tariff-refunds-push-us-june-budget-deficit-120-billion-2026-07-13/",
+    "title": "Tariff refunds push US June budget deficit to $120 billion",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 02:21",
+    "pub_ts": 1783966903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/riyadh-air-studies-order-25-30-more-boeing-787s-sources-say-2026-07-13/",
+    "title": "Riyadh Air studies orders for 25-30 Boeing 787s and more Airbus, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 02:19",
+    "pub_ts": 1783966795
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13/",
+    "title": "Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 02:11",
+    "pub_ts": 1783966299
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-lawmakers-debate-whether-stop-twice-yearly-clock-switching-2026-07-13/",
+    "title": "US lawmakers to debate whether to stop twice yearly clock switching",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 02:07",
+    "pub_ts": 1783966063
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "path": "/artificial-intelligence/",
+    "category": "artificial intelligence",
+    "pub_bj": "2026-07-14 02:00",
+    "pub_ts": 1783965600
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/urgent-california-11-states-suing-block-paramounts-110-billion-warner-bros-deal-2026-07-13/",
     "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
     "path": "/world/",
@@ -97,6 +205,78 @@
     "category": "world",
     "pub_bj": "2026-07-14 00:51",
     "pub_ts": 1783961504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/lawyer-rebuked-misusing-ai-again-roc-nation-lawsuit-2026-07-13/",
+    "title": "Lawyer rebuked for misusing AI again in Roc Nation lawsuit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 00:50",
+    "pub_ts": 1783961413
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-invested-crypto-gains-stocks-bonds-filings-show-2026-07-13/",
+    "title": "Trump invested crypto gains in stocks and bonds, filings show",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 00:44",
+    "pub_ts": 1783961084
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/GCEFSJR2EVKQDMS34I3IOTKDZA-2026-07-13/",
+    "title": "No hay evidencia de frase de jefe de arbitraje de la FIFA comparando faltas de Messi y Balogun",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-14 00:41",
+    "pub_ts": 1783960876
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/iranian-born-engineer-convicted-us-exporting-technology-iran-2026-07-13/",
+    "title": "Iranian-born engineer convicted in US of exporting technology to Iran",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 00:36",
+    "pub_ts": 1783960582
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/quadria-backed-indias-maxivision-hires-ipo-bankers-sources-say-2026-07-13/",
+    "title": "Quadria-backed India's Maxivision hires IPO bankers, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 00:32",
+    "pub_ts": 1783960368
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-by-3-million-barrels-lowest-level-2026-07-13/",
+    "title": "Crude stocks in US strategic reserve fall 3 million barrels to lowest level since 1983",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 00:30",
+    "pub_ts": 1783960211
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-agrees-deal-join-eu-ukraine-support-loan-scheme-2026-07-13/",
+    "title": "UK agrees deal to join EU Ukraine Support Loan scheme",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 00:17",
+    "pub_ts": 1783959444
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-two-year-gilt-yield-hits-1-month-high-iran-us-clash-2026-07-13/",
+    "title": "UK two-year gilt yield hits 1-month high as Iran and US clash",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 00:15",
+    "pub_ts": 1783959343
   },
   {
     "source": "People's Daily",
@@ -358,6 +538,78 @@
     "category": "world",
     "pub_bj": "2026-07-13 22:55",
     "pub_ts": 1783954540
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-creates-task-force-prosecute-leaks-news-media-hegseth-says-2026-07-13/",
+    "title": "US creates task force to prosecute leaks to news media, Hegseth says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 22:46",
+    "pub_ts": 1783953977
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/europes-digital-euro-what-it-is-how-it-would-work-2026-07-13/",
+    "title": "Europe's digital euro: What it is and how it would work",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:43",
+    "pub_ts": 1783953813
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/why-has-iran-us-ceasefire-memorandum-frayed-2026-07-13/",
+    "title": "Why has the Iran-US ceasefire memorandum frayed?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:32",
+    "pub_ts": 1783953126
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/williams-secures-53-billion-investment-blackstone-led-group-2026-07-13/",
+    "title": "Pipeline operator Williams draws $5.34 billion from Blackstone-led group for power push",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:22",
+    "pub_ts": 1783952553
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bangladesh-says-imf-agrees-phased-approach-reforms-under-new-programme-2026-07-13/",
+    "title": "Bangladesh says IMF agrees phased approach to reforms under new programme",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:22",
+    "pub_ts": 1783952533
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-nato-shift-negative-europes-sovereign-ratings-moodys-2026-07-13/",
+    "title": "US' NATO shift negative for Europe's sovereign ratings - Moody's",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:15",
+    "pub_ts": 1783952145
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/britain-switzerland-look-boost-services-with-new-trade-deal-2026-07-13/",
+    "title": "Britain and Switzerland look to boost services with new trade deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:15",
+    "pub_ts": 1783952143
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/ferguson-buy-floworks-wynnchurch-capital-16-billion-2026-07-13/",
+    "title": "Ferguson to buy FloWorks from Wynnchurch Capital for $1.6 billion",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 22:15",
+    "pub_ts": 1783952118
   },
   {
     "source": "Reuters",
