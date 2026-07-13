@@ -1,6 +1,78 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-13/",
+    "title": "What to know about the US outbreak of intestinal illness cyclosporiasis",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 06:08",
+    "pub_ts": 1783980480
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/russian-missiles-strike-kyiv-senior-ukrainian-officials-say-2026-07-13/",
+    "title": "Russian missiles strike Kyiv, senior Ukrainian officials say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 06:06",
+    "pub_ts": 1783980419
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/walmart-must-face-gay-ex-workers-harassment-claim-us-court-rules-2026-07-13/",
+    "title": "Walmart must face gay ex-worker's harassment claim, US court rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 06:06",
+    "pub_ts": 1783980373
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-house-democratic-womens-caucus-urges-usda-reinstate-women-ousted-soybean-2026-07-13/",
+    "title": "US House Democratic Women's Caucus urges USDA to reinstate women ousted from soybean board",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 06:05",
+    "pub_ts": 1783980349
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britain-close-loophole-blocking-deportation-grooming-gang-ringleader-2026-07-13/",
+    "title": "Britain to close loophole blocking deportation of grooming gang ringleader",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 06:03",
+    "pub_ts": 1783980232
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/shutterstock-ceo-hennessy-steps-down-weeks-after-failed-getty-deal-2026-07-13/",
+    "title": "Shutterstock CEO Hennessy steps down weeks after failed Getty deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 05:47",
+    "pub_ts": 1783979235
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/venezuelas-rodriguez-taps-washington-envoy-new-foreign-ministry-post-2026-07-13/",
+    "title": "Venezuela's Rodriguez taps Washington envoy for new foreign ministry post",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 05:31",
+    "pub_ts": 1783978296
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/pentagon-pauses-cyber-audit-rule-blamed-supplier-exits-2026-07-13/",
+    "title": "Pentagon pauses cyber audit rule blamed for supplier exits",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-14 05:15",
+    "pub_ts": 1783977343
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/former-delivery-driver-books-final-open-spot-faces-accommodation-scramble-2026-07-13/",
     "title": "Former delivery driver books final Open spot but faces accommodation scramble",
     "path": "/business/",
