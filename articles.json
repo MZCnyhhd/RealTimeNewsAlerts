@@ -1,5 +1,104 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/urgent-california-11-states-suing-block-paramounts-110-billion-warner-bros-deal-2026-07-13/",
+    "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 01:40",
+    "pub_ts": 1783964447
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-judge-voids-trumps-settlement-with-irs-2026-07-13/",
+    "title": "U.S. judge voids Trump's settlement with IRS, refers lawyers for discipline",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 01:37",
+    "pub_ts": 1783964229
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/feds-waller-says-higher-rates-possibly-needed-near-term-2026-07-13/",
+    "title": "Fed's Waller says higher rates possibly needed in 'near term'",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-14 01:31",
+    "pub_ts": 1783963888
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jpmorgans-dimon-questioned-whether-he-lobbied-uk-government-epsteins-advice-ft-2026-07-13/",
+    "title": "JPMorgan's Dimon questioned on whether he lobbied UK government on Epstein's advice",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 01:29",
+    "pub_ts": 1783963755
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/pentagon-invests-25-million-into-rare-earths-startup-reelement-technologies-2026-07-13/",
+    "title": "Pentagon invests $25 million into rare earths startup ReElement Technologies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 01:19",
+    "pub_ts": 1783963183
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/canadas-oil-sands-alliance-reaches-agreement-advance-pathways-carbon-capture-2026-07-13/",
+    "title": "Canada's Oil Sands Alliance reaches agreement to advance Pathways Carbon Capture and Storage Project",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 01:18",
+    "pub_ts": 1783963082
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/un-shipping-agency-opposes-fees-any-strait-after-trump-plans-hormuz-charge-2026-07-13/",
+    "title": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 01:01",
+    "pub_ts": 1783962088
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraine-awaits-new-government-after-prime-ministers-shock-dismissal-2026-07-13/",
+    "title": "Ukraine awaits new government after prime minister's shock dismissal",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 00:55",
+    "pub_ts": 1783961713
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/faa-closes-starship-review-ahead-spacexs-next-test-flight-this-week-2026-07-13/",
+    "title": "SpaceX clears Starship mishap probe before next test flight this week",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 00:53",
+    "pub_ts": 1783961636
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/european-regulator-appoints-technical-advisor-probe-ryanair-window-incident-2026-07-13/",
+    "title": "European regulator appoints technical advisor to probe Ryanair window incident",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 00:53",
+    "pub_ts": 1783961623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukrainian-pm-svyrydenko-has-submitted-resignation-parliament-speaker-says-2026-07-13/",
+    "title": "Ukrainian PM Svyrydenko has submitted resignation, parliament speaker says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 00:51",
+    "pub_ts": 1783961504
+  },
+  {
     "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0713/c436867-40759580.html",
     "title": "人民锐评：以正确政绩观积极化解历史遗留问题",
@@ -241,6 +340,24 @@
     "category": "world",
     "pub_bj": "2026-07-13 23:00",
     "pub_ts": 1783954830
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-forces-strike-iranian-submarine-ship-maintenance-facility-2026-07-13/",
+    "title": "US forces strike Iranian submarine, ship maintenance facility",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:58",
+    "pub_ts": 1783954722
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/two-irish-lessors-seek-deregistration-four-boeing-737-max-jets-leased-indias-2026-07-13/",
+    "title": "Two Irish lessors seek deregistration of four Boeing 737 MAX jets leased to India's SpiceJet, document shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:55",
+    "pub_ts": 1783954540
   },
   {
     "source": "Reuters",
