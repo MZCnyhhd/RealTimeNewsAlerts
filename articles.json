@@ -1,6 +1,357 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0713/c436867-40759580.html",
+    "title": "人民锐评：以正确政绩观积极化解历史遗留问题",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://he.people.com.cn/n2/2026/0610/c192235-41606000.html",
+    "title": "牢固树立深入践行正确政绩观 努力为人民出政绩以实干出政绩",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0713/c1001-40759772.html",
+    "title": "《习近平谈治国理政》第五卷吉尔吉斯斯坦推介会举行",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://henan.people.com.cn/n2/2026/0713/c351638-41637397.html",
+    "title": "信阳毛尖如何\"冒尖\"?",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://zj.people.com.cn/n2/2026/0713/c228592-41637394.html",
+    "title": "台风来袭,浙江为什么要\"小题大做\"?",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ln.people.com.cn/n2/2026/0713/c378489-41637802.html",
+    "title": "辽宁省防汛应急响应级别提升至二级",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0713/c1004-40759746.html",
+    "title": "台风“巴威”北上",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0713/c1008-40759770.html",
+    "title": "水利部提升辽吉洪水防御应急响应至Ⅲ级",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0713/c1008-40759763.html",
+    "title": "百日千万招聘专项行动推出现代服务等招聘专场",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0713/c1004-40759643.html",
+    "title": "搭建粮油产销对接平台 土特产“小切口”撬动产业协作",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0713/c179464-41637781.html",
+    "title": "广西贵港：加快农业灾后重建",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0713/c179464-41637789.html",
+    "title": "全力推进水电路网恢复",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-13 23:50",
+    "pub_ts": 1783957844
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/small-boats-approach-tanker-off-yemens-aden-ukmto-says-2026-07-13/",
+    "title": "Small boats approach tanker off Yemen's Aden, UKMTO says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:41",
+    "pub_ts": 1783957265
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/venezuelas-complex-contested-debt-puzzle-2026-07-13/",
+    "title": "Venezuela's complex and contested debt puzzle",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:39",
+    "pub_ts": 1783957184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/bosch-begins-sample-production-its-first-us-semiconductor-plant-2026-07-13/",
+    "title": "Bosch begins sample production at its first US semiconductor plant",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:33",
+    "pub_ts": 1783956824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/shein-executive-chairman-step-down-ipo-nears-completion-sources-say-2026-07-13/",
+    "title": "Shein executive chairman to step down as IPO nears completion, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:25",
+    "pub_ts": 1783956356
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/indias-aditya-birla-groups-renewables-arm-buy-sprng-energy-shell-2026-07-13/",
+    "title": "India's Aditya Birla Group's renewables arm to buy Sprng Energy from Shell",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:25",
+    "pub_ts": 1783956331
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/california-offering-3500-ev-rebates-first-time-buyers-2026-07-13/",
+    "title": "California offering $3,500 EV rebates to first-time buyers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:23",
+    "pub_ts": 1783956208
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/us-bank-regulators-warn-firms-lending-undocumented-workers-2026-07-13/",
+    "title": "U.S. bank regulators warn firms on lending to undocumented workers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:21",
+    "pub_ts": 1783956117
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/canadas-greenfire-resources-buy-connacher-about-900-million-2026-07-13/",
+    "title": "Canada's Greenfire Resources to buy Connacher for about $900 million",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:21",
+    "pub_ts": 1783956088
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/central-asia-feels-pinch-russias-fuel-crunch-2026-07-13/",
+    "title": "Central Asia feels the pinch of Russia's fuel crunch",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:19",
+    "pub_ts": 1783955985
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-administration-launches-effort-isolate-international-criminal-court-2026-07-13/",
+    "title": "Trump administration launches effort to isolate International Criminal Court",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:12",
+    "pub_ts": 1783955555
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-appeals-court-revives-private-lawsuits-linking-tylenol-autism-adhd-2026-07-13/",
+    "title": "US appeals court revives private lawsuits linking Tylenol to autism",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:10",
+    "pub_ts": 1783955401
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-lindsey-grahams-sister-should-be-interim-south-carolina-senator-2026-07-13/",
+    "title": "Trump says Lindsey Graham's sister should be interim South Carolina senator",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:08",
+    "pub_ts": 1783955325
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/western-leaders-agree-anti-ballistic-missile-coalition-with-ukraine-2026-07-13/",
+    "title": "Western leaders agree anti-ballistic missile coalition with Ukraine",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 23:07",
+    "pub_ts": 1783955223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/guinea-bissau-military-court-orders-opposition-leader-back-jail-2026-07-13/",
+    "title": "Guinea-Bissau military court orders opposition leader back to jail",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:00",
+    "pub_ts": 1783954849
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/person-killed-ice-involved-shooting-maine-media-reports-2026-07-13/",
+    "title": "Person killed in ICE-involved shooting in Maine, state lawmaker says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 23:00",
+    "pub_ts": 1783954830
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/eu-adds-some-palm-oil-products-deforestation-law-removes-leather-2026-07-13/",
+    "title": "EU adds some palm oil products to deforestation law, removes leather",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:09",
+    "pub_ts": 1783951784
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mylan-sell-up-363-million-stake-indias-biocon-term-sheet-shows-2026-07-13/",
+    "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 22:09",
+    "pub_ts": 1783951763
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/shein-eyes-up-3-billion-hong-kong-ipo-soon-august-bloomberg-news-reports-2026-07-13/",
+    "title": "Shein eyes up to $3 billion Hong Kong IPO as soon as August, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 22:06",
+    "pub_ts": 1783951565
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/dp-world-plans-uae-east-coast-port-bypass-strait-hormuz-ft-reports-2026-07-13/",
+    "title": "DP World plans UAE east coast port to bypass Strait of Hormuz, FT reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 22:01",
+    "pub_ts": 1783951286
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/eu-pledges-120-million-help-moldovas-air-defence-system-2026-07-13/",
+    "title": "EU pledges €120 million to help Moldova's air defence system",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:55",
+    "pub_ts": 1783950945
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/eu-imposes-sanctions-russians-over-human-rights-cybercrime-2026-07-13/",
+    "title": "EU imposes sanctions on Russians over human rights and cybercrime",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 21:51",
+    "pub_ts": 1783950683
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/global-privacy-control-what-businesses-need-know--pracin-2026-07-13/",
+    "title": "Global Privacy Control — what businesses need to know",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 21:45",
+    "pub_ts": 1783950301
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/55QS4G537RNHXENNHYK4XH5BTM-2026-07-13/",
+    "title": "Video no muestra reacción de Infantino por gol contra Argentina",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-13 21:43",
+    "pub_ts": 1783950188
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-anti-war-politician-nadezhdin-says-he-has-been-detained-2026-07-13/",
+    "title": "Russian anti-war politician Nadezhdin says he has been detained",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:40",
+    "pub_ts": 1783950011
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-counter-terrorism-police-now-probing-former-minister-widdecombes-suspected-2026-07-13/",
+    "title": "UK counter-terrorism police investigating former minister Widdecombe's death, minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:30",
+    "pub_ts": 1783949409
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russias-fsb-says-it-foiled-ukrainian-attack-air-bases-deep-inside-russia-2026-07-13/",
+    "title": "Russia says it seizes Western-made, AI-powered drones prepared for attacks in Urals, Far East",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:15",
+    "pub_ts": 1783948543
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazils-economy-forecast-grow-moderately-after-october-presidential-vote-2026-07-13/",
+    "title": "Brazil's economy forecast to grow moderately after October presidential vote",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 21:11",
+    "pub_ts": 1783948290
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0713/c1004-40759347.html",
     "title": "在老地方，过上“新”日子",
     "path": "/finance/",
@@ -261,6 +612,69 @@
     "pub_ts": 1783945956
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/more-sun-needed-strengthen-ivory-coast-cocoa-crop-farmers-say-2026-07-13/",
+    "title": "More sun needed to strengthen Ivory Coast cocoa crop, farmers say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-13 20:19",
+    "pub_ts": 1783945184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-asian-paints-hikes-prices-by-12-west-asia-conflict-drives-up-costs-2026-07-13/",
+    "title": "India's Asian Paints hikes prices by 12% as West Asia conflict drives up costs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:18",
+    "pub_ts": 1783945089
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/graham-death-mcconnell-absence-hang-over-us-senate-congress-returns-2026-07-13/",
+    "title": "Graham death, McConnell absence hang over US Senate as Congress returns",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:16",
+    "pub_ts": 1783944980
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-puts-some-akzo-nobel-assets-into-temporary-administration-2026-07-13/",
+    "title": "Russia puts some Akzo Nobel assets into temporary administration",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:15",
+    "pub_ts": 1783944944
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/german-finance-industry-racks-up-8-billion-costs-giant-tax-fraud-scheme-watchdog-2026-07-13/",
+    "title": "German finance industry racks up $8 billion in costs from giant tax fraud scheme, watchdog survey shows",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-13 20:15",
+    "pub_ts": 1783944912
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/germanys-merz-pushes-china-currency-talks-urges-freer-yuan-2026-07-13/",
+    "title": "Germany's Merz pushes China currency talks, urges freer yuan",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:13",
+    "pub_ts": 1783944825
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/heavy-handed-revenue-enforcement-threat-congo-mining-sector-warns-president-2026-07-13/",
+    "title": "Heavy-handed revenue enforcement a threat to Congo mining sector, warns president",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:13",
+    "pub_ts": 1783944824
+  },
+  {
     "source": "MIT Tech Review",
     "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
     "title": "The Download: a donor conception cap and world models for AI",
@@ -268,6 +682,15 @@
     "category": "the download",
     "pub_bj": "2026-07-13 20:10",
     "pub_ts": 1783944600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/us-based-fintech-firm-payoneer-opens-tech-hub-india-boosts-hiring-2026-07-13/",
+    "title": "US-based fintech firm Payoneer opens tech hub in India, boosts hiring",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-13 20:09",
+    "pub_ts": 1783944589
   },
   {
     "source": "Reuters",
