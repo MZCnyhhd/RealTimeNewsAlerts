@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/misuse-driver-assistance-systems-biggest-risk-road-safety-survey-finds-2026-07-14/",
+    "title": "Misuse of driver-assistance systems biggest risk to road safety, survey finds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 06:07",
+    "pub_ts": 1784066848
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-drivers-may-soon-see-pump-prices-climb-back-up-4-2026-07-14/",
+    "title": "US drivers may soon see pump prices climb back up to $4",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 06:05",
+    "pub_ts": 1784066714
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/cms-proposes-major-medicare-physician-payment-overhaul-boost-primary-care-2026-07-14/",
+    "title": "CMS proposes major Medicare physician payment overhaul to boost primary care",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 05:56",
+    "pub_ts": 1784066169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/lionsgate-studios-attracts-takeover-interest-bollore-banijay-sources-say-2026-07-14/",
+    "title": "Lionsgate Studios attracts takeover interest from Bollore, Banijay, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 05:55",
+    "pub_ts": 1784066115
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/moscow-mayor-says-340-ukrainian-drones-sent-towards-capital-most-downed-2026-07-14/",
+    "title": "Moscow mayor says 340 Ukrainian drones sent towards the capital, most downed",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 05:53",
+    "pub_ts": 1784066023
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-house-votes-make-daylight-saving-time-permanent-2026-07-14/",
+    "title": "US House votes to make daylight saving time permanent",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-15 05:53",
+    "pub_ts": 1784066009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senate-democrats-block-115-trillion-defense-bill-over-iran-war-objections-2026-07-14/",
+    "title": "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 05:50",
+    "pub_ts": 1784065831
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/kirkland-ellis-trial-win-17-million-fee-award-wiped-out-computer-chip-trade-2026-07-14/",
+    "title": "Kirkland & Ellis trial win, $17 million fee award wiped out in computer chip trade secrets appeal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 05:48",
+    "pub_ts": 1784065717
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-supporting-efforts-revive-iraq-syria-crude-oil-pipeline-us-official-says-2026-07-14/",
+    "title": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 05:45",
+    "pub_ts": 1784065542
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-prosecutor-jack-smith-reviewed-texts-44-us-lawmakers-republican-senators-2026-07-14/",
+    "title": "Trump prosecutor Jack Smith reviewed texts from 44 US lawmakers, Republican senators say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 05:43",
+    "pub_ts": 1784065431
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/",
+    "title": "UK plans default midnight social media curfew for 16- and 17-year-olds",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-15 05:33",
+    "pub_ts": 1784064824
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/top-fed-officials-embrace-cooler-inflation-reading-clamor-more-2026-07-14/",
     "title": "Top Fed officials embrace cooler inflation reading, clamor for more",
     "path": "/world/",
@@ -223,6 +322,15 @@
     "category": "legal",
     "pub_bj": "2026-07-15 03:20",
     "pub_ts": 1784056848
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-pm-in-waiting-andy-burnham-calls-serious-review-lawmakers-security-2026-07-14/",
+    "title": "UK's PM-in-waiting Andy Burnham calls for serious review of lawmakers' security",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-15 03:08",
+    "pub_ts": 1784056084
   },
   {
     "source": "People's Daily",
@@ -26890,113 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-06 11:12",
     "pub_ts": 1783307525
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/typhoon-bavi-brings-catastrophic-winds-western-pacific-islands-2026-07-06/",
-    "title": "Typhoon Bavi brings catastrophic winds to western Pacific islands",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-06 10:53",
-    "pub_ts": 1783306400
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/heavy-rain-triggers-flooding-evacuations-dunedin-2026-07-06/",
-    "title": "Heavy rain triggers flooding, evacuations in Dunedin",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-06 10:51",
-    "pub_ts": 1783306297
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/dollar-near-two-week-lows-rate-hike-bets-recede-embattled-yen-focus-2026-07-06/",
-    "title": "Dollar near two-week lows as rate-hike bets recede, embattled yen in focus",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 10:47",
-    "pub_ts": 1783306057
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/taiwan-says-it-is-tracking-upward-trend-chinese-naval-movements-2026-07-06/",
-    "title": "Taiwan says it is tracking 'upward trend' in Chinese naval movements",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 10:42",
-    "pub_ts": 1783305723
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-build-51-billion-nand-memory-chip-factory-by-2029-2026-07-02/",
-    "title": "South Korea's Lee urges speed in launching mega chip projects",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 10:29",
-    "pub_ts": 1783304989
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/record-wave-ipo-lock-up-shares-hit-hong-kong-market-2026-07-06/",
-    "title": "Record wave of IPO lock-up shares to hit Hong Kong market",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 09:11",
-    "pub_ts": 1783300279
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/chinese-independent-refiners-snap-up-discounted-mideast-oil-supplies-rise-2026-07-03/",
-    "title": "Chinese independent refiners snap up discounted Mideast oil as supplies rise",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-06 09:00",
-    "pub_ts": 1783299625
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/south-korea-starts-24-hour-trading-dollar-won-2026-07-06/",
-    "title": "South Korea starts 24-hour trading of dollar-won",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 08:29",
-    "pub_ts": 1783297783
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753804.html",
-    "title": "全年2000亿元设备更新资金总额下达完毕",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753805.html",
-    "title": "5月高技术制造业相关物流需求同比增长15.1%",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40753803.html",
-    "title": "访科技部党组书记、部长：建设科技强国 支撑高质量发展",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0706/c1001-40753806.html",
-    "title": "党的第三个历史决议通过",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
   }
 ]
