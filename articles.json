@@ -1,6 +1,420 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0714/c1004-40760336.html",
+    "title": "7组数据看上半年外贸\"成绩单\"",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0714/c436867-40760438.html",
+    "title": "警惕AI造谣伤企",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://cq.people.com.cn/n2/2026/0714/c365401-41638533.html",
+    "title": "重庆发布今年首个高温红色预警信号",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gs.people.com.cn/n2/2026/0714/c183348-41638769.html",
+    "title": "花牛苹果 凭什么“好看好吃好营养”？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0714/c1008-40760276.html",
+    "title": "台风“巴威”为何能一路北上？气象专家解析",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ln.people.com.cn/n2/2026/0714/c378489-41638618.html",
+    "title": "辽宁多条河流发生超警以上洪水",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ln.people.com.cn/n2/2026/0714/c378489-41638672.html",
+    "title": "紧急处置水毁路段保畅通",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sh.people.com.cn/n2/2026/0714/c134768-41638626.html",
+    "title": "最是书香能致远 2026上海书展8月启幕",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gs.people.com.cn/n2/2026/0714/c183348-41638541.html",
+    "title": "第三十二届兰洽会圆满闭幕 近4.2万名宾客参会参展",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://qh.people.com.cn/n2/2026/0714/c378418-41638473.html",
+    "title": "高原平菇何以“借光”生金？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://js.people.com.cn/n2/2026/0714/c360306-41638468.html",
+    "title": "一场跨越山海的“光明行”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://fj.people.com.cn/n2/2026/0714/c181466-41638359.html",
+    "title": "福建一山区县文旅何以一路“逆袭”？",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://jx.people.com.cn/n2/2026/0714/c186330-41638488.html",
+    "title": "有回音丨网友反映大货车驶入圩堤存隐患 江西鄱阳：安装限高杆",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gz.people.com.cn/n2/2026/0714/c222152-41638185.html",
+    "title": "办实事丨网友：14盏路灯故障道路漆黑 贵州钟山区：照亮",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0714/c1012-40760454.html",
+    "title": "首场半决赛看“矛与盾”巅峰对决",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-14 19:01",
+    "pub_ts": 1784026872
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/dutch-court-rejects-glencore-bid-buy-back-logistics-unit-discount-2026-07-14/",
+    "title": "Dutch court rejects Glencore bid to buy back logistics unit at discount",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:54",
+    "pub_ts": 1784026461
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spanish-pm-sanchezs-brother-convicted-public-hiring-case-2026-07-14/",
+    "title": "Spanish PM Sanchez's brother convicted in nepotism case",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:53",
+    "pub_ts": 1784026400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/citi-others-dial-back-india-rate-hike-calls-inflation-expected-stay-moderate-2026-07-14/",
+    "title": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:52",
+    "pub_ts": 1784026345
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/bank-america-profit-rises-trading-boost-2026-07-14/",
+    "title": "Bank of America profit rises on trading boost",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:52",
+    "pub_ts": 1784026329
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/spero-licenses-innovents-experimental-immune-disease-drug-up-11-billion-2026-07-14/",
+    "title": "Spero licenses Innovent's experimental immune disease drug for up to $1.1 billion",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:51",
+    "pub_ts": 1784026294
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-exempts-certain-chemical-companies-biden-era-emissions-rules-2026-07-14/",
+    "title": "Trump exempts certain chemical companies from Biden-era emissions rules",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:50",
+    "pub_ts": 1784026248
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/wells-fargo-profit-jumps-interest-income-boost-2026-07-14/",
+    "title": "Wells Fargo profit jumps on interest income boost, trading windfall",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:50",
+    "pub_ts": 1784026227
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jpmorgan-profit-rises-investment-banking-boom-2026-07-14/",
+    "title": "JPMorgan profit rises on dealmaking, stock trading windfall",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:49",
+    "pub_ts": 1784026196
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/justices-barrett-kagan-testify-before-congress-court-seeks-security-funds-2026-07-14/",
+    "title": "Justices Barrett, Kagan testify before Congress as court seeks security funds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:48",
+    "pub_ts": 1784026118
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/chinas-deepseek-considers-new-fundraising-after-first-round-ft-reports-2026-07-14/",
+    "title": "China's DeepSeek considers new fundraising after first round, FT reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:47",
+    "pub_ts": 1784026031
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/kpmg-australia-cut-hundreds-jobs-slash-partner-pay-afr-reports-2026-07-14/",
+    "title": "KPMG Australia to cut hundreds of jobs, slash partner pay, AFR reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:46",
+    "pub_ts": 1784026007
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-outbreak-is-least-double-formal-tally-who-says-2026-07-14/",
+    "title": "WHO says it has less than half funding needed to fight Ebola",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:46",
+    "pub_ts": 1784025994
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/londons-ftse-indexes-ease-iran-conflict-rattles-markets-2026-07-14/",
+    "title": "London's FTSE indexes ease as Iran conflict rattles markets",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:45",
+    "pub_ts": 1784025945
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/some-questions-that-may-come-up-during-fed-chief-warshs-testimony-congress-2026-07-14/",
+    "title": "Some questions that may come up during Fed chief Warsh's testimony to Congress",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:45",
+    "pub_ts": 1784025920
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/pollution-musks-unpermitted-xai-power-project-hits-hardest-black-communities-2026-07-14/",
+    "title": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:43",
+    "pub_ts": 1784025805
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/blanche-glide-path-us-attorney-general-confirmation-republican-insiders-say-2026-07-14/",
+    "title": "Blanche on 'glide path' for US attorney general confirmation, Republican insiders say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:42",
+    "pub_ts": 1784025774
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/tanker-stolt-magnesium-hit-by-explosion-off-omani-coast-manager-says-2026-07-14/",
+    "title": "Tanker Stolt Magnesium hit by explosion off Omani coast, manager says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:41",
+    "pub_ts": 1784025675
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-ban-import-goods-made-using-forced-labour-2026-07-14/",
+    "title": "India to ban import of goods made using forced labour amid US probe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:40",
+    "pub_ts": 1784025636
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/crimeas-sevastopol-restricts-power-supply-after-ukrainian-attacks-2026-07-14/",
+    "title": "Crimea's Sevastopol restricts power supply after Ukrainian attacks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:32",
+    "pub_ts": 1784025139
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk-transport-minister-raises-concerns-with-eu-counterpart-over-new-border-checks-2026-07-14/",
+    "title": "UK transport minister raises concerns with EU counterpart over new border checks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:28",
+    "pub_ts": 1784024919
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/congos-planned-mining-law-reform-could-dent-investor-confidence-industry-warns-2026-07-14/",
+    "title": "Congo's planned mining law reform could dent investor confidence, industry warns",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:27",
+    "pub_ts": 1784024873
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesian-free-meals-operators-protest-moratorium-new-kitchens-2026-07-14/",
+    "title": "Indonesian free meals operators protest moratorium on new kitchens",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:27",
+    "pub_ts": 1784024863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/lithuania-appoints-sinkevicius-prime-minister-with-pledge-defence-spending-us-2026-07-14/",
+    "title": "Lithuania appoints Sinkevicius prime minister with pledge of defence spending, US troop presence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:25",
+    "pub_ts": 1784024746
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/rupee-slides-past-96usd-one-month-low-oil-climbs-rbi-likely-intervenes-2026-07-14/",
+    "title": "Rupee slides past 96/USD to one-month low as oil climbs; RBI likely intervenes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:24",
+    "pub_ts": 1784024659
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/pepsicos-turnaround-stutters-americans-rethink-snacking-2026-07-14/",
+    "title": "PepsiCo's turnaround stutters as Americans rethink snacking",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:23",
+    "pub_ts": 1784024600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-warsh-heads-congress-after-tentative-steps-away-trump-2026-07-14/",
+    "title": "Fed's Warsh heads to Congress after tentative steps away from Trump",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:22",
+    "pub_ts": 1784024528
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him-2026-07-14/",
+    "title": "Can US Senator Lindsey Graham's Ukraine initiatives survive without him?",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:18",
+    "pub_ts": 1784024305
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-small-business-sentiment-rebounds-june-inflation-major-worry-many-2026-07-14/",
+    "title": "US small-business sentiment rebounds in June, inflation a major worry for many",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-14 18:16",
+    "pub_ts": 1784024169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/pollution-musks-unpermitted-xai-power-project-hits-hardest-black-communities-2026-07-14/",
+    "title": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:16",
+    "pub_ts": 1784024166
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/can-prosecutors-compel-new-york-times-journalists-testify-leak-probe-2026-07-14/",
+    "title": "Can prosecutors compel New York Times journalists to testify in leak probe?",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 18:13",
+    "pub_ts": 1784023984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/tower-semiconductor-invest-3-billion-japan-backed-by-government-grants-2026-07-14/",
+    "title": "Tower Semiconductor to invest $3 billion in Japan, backed by government grants",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 18:11",
+    "pub_ts": 1784023904
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0311/c461530-40679327.html",
     "title": "牢牢掌握人工智能发展和治理主动权",
     "path": "/general/",
@@ -387,6 +801,24 @@
     "pub_ts": 1784017400
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/government-change-will-not-impact-ukraines-eu-integration-deputy-pm-says-2026-07-14/",
+    "title": "Government change will not impact Ukraine's EU integration, deputy PM says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 16:16",
+    "pub_ts": 1784016987
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/bmw-recall-over-29000-us-vehicles-over-fire-risk-2026-07-14/",
+    "title": "BMW to recall over 29,000 US vehicles over fire risk",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 16:13",
+    "pub_ts": 1784016831
+  },
+  {
     "source": "MIT Tech Review",
     "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
     "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
@@ -394,6 +826,24 @@
     "category": "computing",
     "pub_bj": "2026-07-14 16:00",
     "pub_ts": 1784016000
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/malaysia-says-it-is-investigating-tech-commune-run-by-ex-coinbase-executive-2026-07-14/",
+    "title": "Malaysia says it is investigating tech commune run by ex-Coinbase executive",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-14 15:56",
+    "pub_ts": 1784015798
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/subaru-recall-over-541000-us-vehicles-over-incorrect-label-2026-07-14/",
+    "title": "Subaru to recall over 541,000 US vehicles over incorrect label",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-14 15:40",
+    "pub_ts": 1784014851
   },
   {
     "source": "People's Daily",
