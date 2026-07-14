@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/top-fed-officials-embrace-cooler-inflation-reading-clamor-more-2026-07-14/",
+    "title": "Top Fed officials embrace cooler inflation reading, clamor for more",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-15 05:12",
+    "pub_ts": 1784063525
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/lionsgate-studios-attracts-takeover-interest-bollore-banijay-sources-say-2026-07-14/",
+    "title": "Lionsgate Studios attracts takeover interest from Bollore, Banijay, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 05:11",
+    "pub_ts": 1784063501
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/openais-first-hardware-device-will-be-speaker-bloomberg-news-reports-2026-07-14/",
+    "title": "OpenAI's first hardware device will be a speaker, Bloomberg News reports",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-15 05:08",
+    "pub_ts": 1784063335
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/us-launch-ai-cybersecurity-coordination-group-white-house-says-2026-07-14/",
+    "title": "US to launch AI and cybersecurity coordination group, White House says",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-15 05:08",
+    "pub_ts": 1784063291
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/chinas-q2-growth-set-lose-steam-stimulus-remain-calibrated-2026-07-14/",
+    "title": "China's Q2 growth set to lose steam, stimulus to remain calibrated",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-15 05:05",
+    "pub_ts": 1784063144
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/foreigners-bought-132-billion-us-securities-may-treasury-says-2026-07-14/",
+    "title": "Foreigners bought $132 billion of U.S. securities in May, Treasury says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 05:05",
+    "pub_ts": 1784063143
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/biopharmaceutical-company-attovia-therapeutics-files-us-ipo-2026-07-14/",
+    "title": "Biopharmaceutical company Attovia Therapeutics files for US IPO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-15 04:55",
+    "pub_ts": 1784062535
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/trump-administration-sued-by-environmental-groups-rescinding-definition-harm-2026-07-14/",
+    "title": "Trump administration sued by environmental groups for rescinding definition of 'harm'",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-15 04:43",
+    "pub_ts": 1784061791
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/civil-rights-leaders-announce-march-washington-defend-voting-rights-2026-07-14/",
+    "title": "Civil rights leaders announce 'March on Washington' to defend voting rights",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-15 04:29",
+    "pub_ts": 1784060984
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us-judge-blocks-trump-administrations-visa-limits-social-media-researchers-2026-07-14/",
     "title": "US judge blocks Trump administration's visa limits for social media researchers",
     "path": "/world/",
@@ -277,6 +358,15 @@
     "category": "world",
     "pub_bj": "2026-07-15 02:07",
     "pub_ts": 1784052464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/N4JDFIPS6BPLPO33AO5ELS7YLM-2026-07-14/",
+    "title": "Semáforos na Europa derreteram após incêndios, não por onda de calor",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-15 01:59",
+    "pub_ts": 1784051989
   },
   {
     "source": "Reuters",
@@ -26906,96 +26996,6 @@
     "title": "党的第三个历史决议通过",
     "path": "/politics/",
     "category": "politics",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0706/c461530-40753774.html",
-    "title": "理论丨把握好政绩观“近和远”的辩证统一关系",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0706/c461529-40753799.html",
-    "title": "评论丨相信可能 把握可能 创造可能",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40753811.html",
-    "title": "自然保护地如何守护？",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0706/c461001-40753800.html",
-    "title": "“七一勋章”获得者吾哈斯·苏来曼：把坚守的故事讲给年轻人听",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0706/c1002-40753732.html",
-    "title": "人文交流为中拉命运共同体建设注入活力",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0706/c1012-40753793.html",
-    "title": "郑炳林教授：编撰通史 展现敦煌两千年风华",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0706/c1008-40753745.html",
-    "title": "未成年人上网，警惕这些新问题",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0706/c1004-40753744.html",
-    "title": "我国正在论证小行星防御系统",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://health.people.com.cn/n1/2026/0706/c14739-40753840.html",
-    "title": "中国医药创新为何吸引全球目光？",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-06 08:15",
-    "pub_ts": 1783296941
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0706/c1008-40753757.html",
-    "title": "这些体表信号真的预示疾病吗",
-    "path": "/society/",
-    "category": "society",
     "pub_bj": "2026-07-06 08:15",
     "pub_ts": 1783296941
   }
