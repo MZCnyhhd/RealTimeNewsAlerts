@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-says-ukrainian-drone-kills-chief-engineer-zaporizhzhia-nuclear-plant-2026-07-15/",
+    "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 04:39",
+    "pub_ts": 1784147984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/state-bar-ftc-back-ohio-proposal-limit-aba-role-lawyer-admissions-2026-07-15/",
+    "title": "State bar, FTC back Ohio proposal to limit ABA role in lawyer admissions",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 04:36",
+    "pub_ts": 1784147794
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-aviation-industry-urges-congress-provide-20-billion-air-traffic-control-2026-07-15/",
+    "title": "US aviation industry urges Congress to provide $20 billion for air traffic control upgrades",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 04:33",
+    "pub_ts": 1784147628
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-senate-undecided-bill-make-daylight-saving-time-permanent-2026-07-15/",
+    "title": "US Senate undecided on bill to make daylight saving time permanent",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 04:25",
+    "pub_ts": 1784147128
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/white-house-weighs-releasing-controversial-intel-china-us-elections-sources-say-2026-07-15/",
+    "title": "White House weighs releasing controversial intel on China and US elections, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 04:24",
+    "pub_ts": 1784147056
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/united-sees-2026-profit-high-end-forecast-despite-renewed-fuel-surge-2026-07-15/",
+    "title": "United sees 2026 profit at high end of forecast despite renewed fuel surge",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 04:17",
+    "pub_ts": 1784146668
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/concerns-grow-about-tariffs-us-sanctions-bill-russia-2026-07-15/",
+    "title": "Concerns grow about tariffs in US sanctions bill on Russia",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 04:15",
+    "pub_ts": 1784146555
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/death-toll-venezuela-quakes-rises-4829-government-says-2026-07-15/",
+    "title": "Death toll from Venezuela quakes rises to 4,829, government says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 04:09",
+    "pub_ts": 1784146184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/busiest-us-container-port-sets-cargo-record-june-2026-07-15/",
+    "title": "Busiest US container port sets cargo record in June",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 04:00",
+    "pub_ts": 1784145636
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/2nd-florida-judge-who-ruled-trump-pulitzer-case-confirmed-federal-bench-2026-07-15/",
+    "title": "2nd Florida judge who ruled for Trump in Pulitzer case confirmed to federal bench",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 03:56",
+    "pub_ts": 1784145403
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/7TKUBHXH2RMOFIMKOMZOWRV2VM-2026-07-15/",
+    "title": "Irã não integra comissão da ONU sobre direitos femininos desde 2022",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-16 03:52",
+    "pub_ts": 1784145163
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/canada-will-become-observer-advanced-fighter-project-says-source-2026-07-15/",
     "title": "Canada will become observer to advanced fighter project, says source",
     "path": "/world/",
@@ -313,6 +412,33 @@
     "category": "business",
     "pub_bj": "2026-07-16 01:38",
     "pub_ts": 1784137081
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/zelenskiy-propose-interior-minister-klymenko-ukraines-new-defence-minister-2026-07-15/",
+    "title": "Zelenskiy to propose Interior Minister Klymenko as Ukraine's new defence minister, lawmakers say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 01:32",
+    "pub_ts": 1784136749
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/egypt-has-procured-nearly-49-million-tonnes-wheat-since-start-procurement-season-2026-07-15/",
+    "title": "Egypt has procured nearly 4.9 million tonnes of wheat since start of procurement season, PM says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 01:32",
+    "pub_ts": 1784136721
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/every-phone-leaves-trail-supreme-court-holds-location-data-is-protected-by--pracin-2026-07-15/",
+    "title": "Every phone leaves a trail — Supreme Court holds location data is protected by the Fourth Amendment",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 01:31",
+    "pub_ts": 1784136677
   },
   {
     "source": "Reuters",
@@ -26872,131 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-07 13:37",
     "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755118.html",
-    "title": "陕西省委原常委、西安市委原书记方红卫被开除党籍和公职",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gz.people.com.cn/n2/2026/0707/c222152-41631397.html",
-    "title": "办实事｜化粪池漏水淹进家？贵阳云岩：全面修复！",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://edu.people.com.cn/n1/2026/0707/c1006-40754725.html",
-    "title": "优化技能提升补贴 支持企业稳岗扩岗",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0707/c1002-40754826.html",
-    "title": "美国要把北约变“提款机”？",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0707/c1002-40754903.html",
-    "title": "首届“人工智能治理全球对话”开幕",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://military.people.com.cn/n1/2026/0707/c1011-40754973.html",
-    "title": "陆军某旅开展战术训练",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/indias-mrpl-first-state-refiner-charter-iraqi-crude-cargo-since-hormuz-blockade-2026-07-07/",
-    "title": "India's MRPL first state refiner to charter Iraqi crude cargo since Hormuz blockade, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 13:35",
-    "pub_ts": 1783402557
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-file-whatsapps-ambitions-hit-resistance-2026-07-07/",
-    "title": "India File: WhatsApp's ambitions hit resistance",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:35",
-    "pub_ts": 1783402506
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/india-supply-brahmos-astra-missiles-indonesia-india-government-official-says-2026-07-07/",
-    "title": "India to supply BrahMos, Astra missiles to Indonesia, India government official says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:25",
-    "pub_ts": 1783401945
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/gold-eases-markets-await-fed-minutes-direction-2026-07-07/",
-    "title": "Gold eases as markets await Fed minutes for direction",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:23",
-    "pub_ts": 1783401798
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/nato-unveil-big-arms-deals-ankara-before-summit-with-trump-2026-07-07/",
-    "title": "NATO to unveil big arms deals in Ankara before summit with Trump",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:21",
-    "pub_ts": 1783401665
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-bring-adr-funds-south-korea-by-around-july-15-source-says-2026-07-07/",
-    "title": "SK Hynix to bring ADR funds to South Korea by around July 15, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:20",
-    "pub_ts": 1783401609
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07/",
-    "title": "Iran fires missiles at commercial ships in Strait of Hormuz, Axios reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:19",
-    "pub_ts": 1783401563
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/graffiti-artist-scales-australian-bridge-tower-paints-bird-cartoon-disrupts-2026-07-07/",
-    "title": "Graffiti artist accused of scaling Australian bridge tower and painting giant cartoon bird",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:17",
-    "pub_ts": 1783401426
   }
 ]
