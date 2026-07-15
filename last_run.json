@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-16 04:43:59",
-  "new": 14,
-  "total": 3014,
+  "timestamp": "2026-07-16 05:39:06",
+  "new": 5,
+  "total": 3005,
   "sources": {
-    "Reuters": 1955,
+    "Reuters": 1952,
     "MIT Tech Review": 16,
-    "People's Daily": 1043
+    "People's Daily": 1037
   }
 }

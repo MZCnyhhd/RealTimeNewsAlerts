@@ -1,6 +1,51 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-province-quebec-ready-partner-proposed-longer-airbus-a220-jet-2026-07-15/",
+    "title": "Canadian province of Quebec ready to partner in proposed longer Airbus A220 jet",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 05:31",
+    "pub_ts": 1784151104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says-2026-07-15/",
+    "title": "US Mint will produce $1 coin with Trump's image, Treasury Secretary says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 05:25",
+    "pub_ts": 1784150714
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-house-defeats-bid-cut-off-israel-aid-vote-dividing-democrats-2026-07-15/",
+    "title": "US House defeats bid to cut off Israel aid in vote dividing Democrats",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 05:10",
+    "pub_ts": 1784149838
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/syngenta-sues-basf-infringing-us-herbicide-patent-2026-07-15/",
+    "title": "Syngenta sues BASF for infringing US herbicide patent",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 04:56",
+    "pub_ts": 1784148974
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/jb-hunt-beats-second-quarter-profit-estimates-strong-intermodal-growth-2026-07-15/",
+    "title": "J.B. Hunt beats second-quarter profit estimates on strong intermodal growth",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 04:43",
+    "pub_ts": 1784148207
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/russia-says-ukrainian-drone-kills-chief-engineer-zaporizhzhia-nuclear-plant-2026-07-15/",
     "title": "Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant",
     "path": "/world/",
@@ -26951,51 +26996,6 @@
     "title": "8万亿！循环经济“十五五”锚定新目标",
     "path": "/finance/",
     "category": "finance",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0707/c1008-40755049.html",
-    "title": "水利部部署台风暴雨洪水防御工作",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0707/c1004-40754823.html",
-    "title": "老手艺出圈 传统文化为文旅市场注入新动能",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0707/c227131-41631375.html",
-    "title": "安徽向上丨皖江涌“星”潮",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://health.people.com.cn/n1/2026/0707/c14739-40754972.html",
-    "title": "外避暑热、内祛湿邪，安然度夏！",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-07 13:37",
-    "pub_ts": 1783402630
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://hb.people.com.cn/n2/2026/0707/c194063-41631286.html",
-    "title": "湖北黄石黄冈等地遭遇强对流天气致多人死亡失联",
-    "path": "/general/",
-    "category": "general",
     "pub_bj": "2026-07-07 13:37",
     "pub_ts": 1783402630
   }
