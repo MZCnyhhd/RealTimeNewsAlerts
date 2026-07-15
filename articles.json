@@ -1,6 +1,150 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/canada-will-become-observer-advanced-fighter-project-says-source-2026-07-15/",
+    "title": "Canada will become observer to advanced fighter project, says source",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 03:40",
+    "pub_ts": 1784144455
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/OGPSWRS6FZORNBKVB6VOO4AVRU-2026-07-15/",
+    "title": "Não há registro de que Thierry Henry acusou arbitragem de favorecer Argentina",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-16 03:32",
+    "pub_ts": 1784143950
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-fires-judges-pick-top-federal-prosecutor-seattle-2026-07-15/",
+    "title": "Trump fires judges' pick for top federal prosecutor in Seattle",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 03:30",
+    "pub_ts": 1784143810
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/brazil-retailer-assai-launch-pharmacy-operation-with-sao-paulo-store-2026-07-15/",
+    "title": "Brazil retailer Assai to launch pharmacy operation with Sao Paulo store",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 03:27",
+    "pub_ts": 1784143664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/iran-summons-british-envoy-over-irgc-designation-2026-07-15/",
+    "title": "Iran summons British envoy over IRGC designation",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 03:18",
+    "pub_ts": 1784143086
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/oecd-says-global-minimum-tax-boosted-revenue-not-job-losses-2026-07-15/",
+    "title": "OECD says global minimum tax boosted revenue, not job losses",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 03:15",
+    "pub_ts": 1784142903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-raises-taxes-diesel-jet-fuel-exports-2026-07-15/",
+    "title": "India raises taxes on diesel and jet fuel exports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 03:12",
+    "pub_ts": 1784142730
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/airbus-boeing-fly-parts-giant-antonov-jet-ease-supply-snags-2026-07-15/",
+    "title": "Airbus, Boeing fly parts on giant Antonov jet to ease supply snags",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 03:06",
+    "pub_ts": 1784142369
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/wall-street-banks-enjoy-record-windfalls-prime-brokerage-business-2026-07-15/",
+    "title": "Wall Street banks enjoy record windfalls from prime brokerage business",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 02:58",
+    "pub_ts": 1784141922
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-justice-dept-says-it-cannot-provide-unredacted-epstein-files-new-mexico-probe-2026-07-15/",
+    "title": "US Justice Dept says it cannot provide unredacted Epstein files for New Mexico probe",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-16 02:58",
+    "pub_ts": 1784141917
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/4OGJN6HMNVJD7E4WZHOZXZROWU-2026-07-15/",
+    "title": "Posts inventam declaração de Salah sobre arbitragem de Argentina x Egito",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-16 02:57",
+    "pub_ts": 1784141872
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-outbreak-disrupts-us-backed-minerals-talks-sources-say-2026-07-15/",
+    "title": "Congo Ebola outbreak disrupts US-backed minerals talks, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 02:57",
+    "pub_ts": 1784141864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-strengthen-trumps-options-new-escalation-officials-say-2026-07-15/",
+    "title": "US strikes on Iran strengthen Trump's options for new escalation, officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 02:56",
+    "pub_ts": 1784141775
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/uber-nears-125bn-deal-acquire-delivery-hero-ft-reports-2026-07-15/",
+    "title": "Uber nears €12.5bn deal to acquire Delivery Hero, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 02:50",
+    "pub_ts": 1784141447
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/3d-printed-contact-lenses-show-promise-early-experiments-2026-07-15/",
+    "title": "3D-printed contact lenses show promise in early experiments",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 02:43",
+    "pub_ts": 1784141004
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/largest-us-electric-grid-ramps-up-warnings-amid-hot-temperatures-2026-07-15/",
+    "title": "Largest US electric grid ramps up warnings amid hot temperatures",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-16 02:35",
+    "pub_ts": 1784140544
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/rubio-host-conference-far-left-terrorism-thursday-2026-07-15/",
     "title": "Rubio to host conference on 'far-left terrorism' on Thursday",
     "path": "/world/",
@@ -169,6 +313,24 @@
     "category": "business",
     "pub_bj": "2026-07-16 01:38",
     "pub_ts": 1784137081
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-police-charge-14-year-old-boy-with-terrorism-offence-over-mosque-plot-2026-07-15/",
+    "title": "UK police charge 14-year-old boy with terrorism offence over mosque plot",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 01:15",
+    "pub_ts": 1784135745
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-criticizes-new-york-data-center-moratorium-2026-07-15/",
+    "title": "Trump criticizes New York data center moratorium",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-16 01:13",
+    "pub_ts": 1784135623
   },
   {
     "source": "Reuters",
@@ -26836,167 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-07 13:17",
     "pub_ts": 1783401426
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/britains-bond-market-may-limit-what-burnham-can-do-pm-2026-07-07/",
-    "title": "Britain's bond market may limit what Burnham can do as PM",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:15",
-    "pub_ts": 1783401343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/trump-expected-tell-turkey-he-is-ready-restore-access-f-35-jets-nyt-reports-2026-07-07/",
-    "title": "Trump expected to tell Turkey he is ready to restore access to F-35 jets, NYT reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:14",
-    "pub_ts": 1783401274
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hiding-his-face-indias-new-transgender-rules-worry-doctors-disrupt-care-2026-07-07/",
-    "title": "'Hiding his face': India's new transgender rules worry doctors, disrupt care",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 13:10",
-    "pub_ts": 1783401009
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-pushes-back-views-it-is-pressuring-boj-keep-rates-low-2026-07-07/",
-    "title": "Japan pushes back on views it is pressuring BOJ to keep rates low",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 13:10",
-    "pub_ts": 1783401002
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/hsbc-halts-some-private-credit-lending-ft-reports-2026-07-07/",
-    "title": "HSBC halts some private credit lending, FT reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 13:09",
-    "pub_ts": 1783400983
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/saudi-oil-price-cut-unlikely-convince-sated-asia-buyers-traders-say-2026-07-07/",
-    "title": "Saudi oil price cut unlikely to convince sated Asia buyers, traders say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 13:07",
-    "pub_ts": 1783400864
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-shares-set-extend-gains-pre-earnings-updates-foreign-buying-2026-07-07/",
-    "title": "Indian shares rise aided by positive corporate updates, lower oil, foreign inflows",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:44",
-    "pub_ts": 1783399455
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-07-07/",
-    "title": "Morning Bid: Samsung boom, market gloom",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:38",
-    "pub_ts": 1783399139
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/north-korea-state-media-says-japan-overseas-aggression-is-reality-not-2026-07-07/",
-    "title": "North Korea state media says Japan overseas aggression is reality, not hypothetical",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:30",
-    "pub_ts": 1783398607
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-trent-falls-after-weaker-than-expected-quarterly-revenue-growth-2026-07-07/",
-    "title": "India's Trent heads for biggest one-day loss in a year on quarterly revenue miss",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:28",
-    "pub_ts": 1783398519
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/landslide-chinas-gansu-province-traps-16-state-media-says-2026-07-07/",
-    "title": "Landslide in China's Gansu province traps 16, state media reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:27",
-    "pub_ts": 1783398459
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/indias-june-fuel-consumption-slips-37-previous-month-2026-07-07/",
-    "title": "India's June fuel consumption slips 3.7% from previous month",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 12:15",
-    "pub_ts": 1783397743
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/australia-vows-stronger-ties-with-solomon-islands-amid-china-concerns-2026-07-07/",
-    "title": "Australia, Solomon Islands vows stronger ties, criticise China's Pacific missile test",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:11",
-    "pub_ts": 1783397508
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-fitness-firm-cultfit-files-ipo-2026-07-07/",
-    "title": "Indian fitness firm Cult.fit files for IPO",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 12:05",
-    "pub_ts": 1783397108
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/china-smartphone-sales-drop-13-during-618-festival-memory-costs-limit-discounts-2026-07-07/",
-    "title": "China smartphone sales drop 13% during 618 festival as memory costs limit discounts",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 11:50",
-    "pub_ts": 1783396223
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/",
-    "title": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-07 11:42",
-    "pub_ts": 1783395753
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/supportive-asia-cues-may-offer-respite-under-pressure-rupee-rbi-focus-2026-07-07/",
-    "title": "Supportive Asia cues may offer respite for under-pressure rupee; RBI in focus",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-07 11:40",
-    "pub_ts": 1783395639
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0707/c461001-40754788.html",
-    "title": "总书记重要讲话引发热烈反响",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-07 09:28",
-    "pub_ts": 1783387728
   }
 ]
