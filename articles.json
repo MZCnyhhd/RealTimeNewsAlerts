@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/intuitive-surgical-beats-quarterly-estimates-strong-demand-its-robotic-systems-2026-07-16/",
+    "title": "Intuitive Surgical beats quarterly estimates on strong demand for its robotic systems",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 05:07",
+    "pub_ts": 1784236037
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/nicaragua-breaks-diplomatic-ties-with-italy-over-1978-murder-case-2026-07-16/",
+    "title": "Nicaragua breaks diplomatic ties with Italy over extradition row in killing of former PM Moro",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 05:03",
+    "pub_ts": 1784235795
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/german-state-facilitate-defence-company-rafaels-operations-volkswagen-site-2026-07-16/",
+    "title": "German state to facilitate defence company Rafael's operations on Volkswagen site, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 05:02",
+    "pub_ts": 1784235728
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/bhp-electrical-workers-back-strikes-key-australian-iron-ore-export-hub-2026-07-16/",
+    "title": "BHP electrical workers back strikes at key Australian iron ore export hub",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 05:00",
+    "pub_ts": 1784235638
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/QRPVGSY5WZP5TCRRUZS7RMXNRQ-2026-07-16/",
+    "title": "Trump não mencionou Lula em entrevista coletiva sobre Venezuela em janeiro",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-17 04:51",
+    "pub_ts": 1784235079
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/coca-cola-says-fairlife-halts-us-production-after-cyber-attack-2026-07-16/",
+    "title": "Coca-Cola says fairlife halts US production after cyber attack",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 04:49",
+    "pub_ts": 1784234983
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/un-experts-concerned-by-trumps-removal-immigration-judges-2026-07-16/",
+    "title": "UN experts concerned by Trump's removal of immigration judges",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 04:44",
+    "pub_ts": 1784234696
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/4PVVC4IPXRLSVAF4SWWPQCBSBA-2026-07-16/",
+    "title": "Vídeo mostra incêndio em Hong Kong, não ataque dos EUA ao Irã",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-17 04:43",
+    "pub_ts": 1784234639
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-threatens-new-iran-escalation-risks-repeating-old-mistakes-2026-07-16/",
+    "title": "Trump threatens new Iran escalation and risks repeating old mistakes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 04:36",
+    "pub_ts": 1784234183
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/icc-staffer-repeats-misconduct-allegations-against-prosecutor-karim-khan-tv-2026-07-16/",
+    "title": "ICC staffer repeats misconduct allegations against prosecutor Karim Khan in TV interview",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 04:34",
+    "pub_ts": 1784234090
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/netflix-third-quarter-earnings-forecast-falls-shy-wall-street-expectations-2026-07-16/",
     "title": "Netflix third-quarter earnings forecast falls shy of Wall Street expectations",
     "path": "/business/",
@@ -187,6 +277,24 @@
     "category": "business",
     "pub_bj": "2026-07-17 02:17",
     "pub_ts": 1784225863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/high-temperatures-shut-french-gas-plant-adding-heat-related-outages-2026-07-16/",
+    "title": "High temperatures shut French gas plant, adding to heat-related outages",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 02:12",
+    "pub_ts": 1784225529
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/uk-financial-watchdog-fines-pwc-44-million-over-babcock-audit-2026-07-16/",
+    "title": "UK financial watchdog fines PwC $4.4 million over Babcock audit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 02:10",
+    "pub_ts": 1784225401
   },
   {
     "source": "Reuters",
@@ -26890,113 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-08 17:30",
     "pub_ts": 1783503038
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0708/c227131-41632973.html\n",
-    "title": "安徽红色故事短视频大赛暨红色研学季启动",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-08 17:30",
-    "pub_ts": 1783503038
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sd.people.com.cn/n2/2026/0708/c166188-41632692.html\n",
-    "title": "山东开展机动指挥部跨区域协同保障拉练",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-08 17:30",
-    "pub_ts": 1783503038
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0708/c365401-41632919.html\n",
-    "title": "重庆航空“渝兴快线”首推“一刻登机”服务",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-08 17:30",
-    "pub_ts": 1783503038
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/mosque-promised-indias-ayodhya-settlement-scaled-back-over-funding-shortfall-2026-07-08/",
-    "title": "Mosque promised in India's Ayodhya settlement scaled back over funding shortfall",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 17:23",
-    "pub_ts": 1783502624
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/paris-court-rules-bollor-does-not-control-vivendi-2026-07-08/",
-    "title": "Paris court rules Bolloré does not control Vivendi",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-08 17:22",
-    "pub_ts": 1783502529
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-stock-futures-tumble-trump-says-iran-deal-is-over-oil-climbs-2026-07-08/",
-    "title": "US stock futures tumble as Trump says Iran deal is 'over'; oil climbs",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:19",
-    "pub_ts": 1783502346
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/catastrophic-storms-test-chinas-resilience-2026-scientists-warn-2026-07-08/",
-    "title": "Catastrophic storms to test China's resilience in 2026, scientists warn",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:17",
-    "pub_ts": 1783502265
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/what-are-key-issues-volkswagens-restructuring-efforts-2026-07-08/",
-    "title": "What are the key issues in Volkswagen's restructuring efforts?",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:14",
-    "pub_ts": 1783502063
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/us-container-imports-jumped-8-june-ahead-higher-fuel-costs-tariff-increases-2026-07-08/",
-    "title": "US container imports jumped 8% in June ahead of higher fuel costs and tariff increases",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:07",
-    "pub_ts": 1783501663
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/trump-says-he-ordered-cutting-off-all-trade-with-spain-2026-07-08/",
-    "title": "Trump says at NATO summit he has ordered cutoff of US trade with Spain",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 17:06",
-    "pub_ts": 1783501612
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/commerzbank-calls-unicredit-offer-unattractive-2026-07-08/",
-    "title": "Commerzbank calls UniCredit offer unattractive",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:06",
-    "pub_ts": 1783501569
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/s-koreas-rebellions-targets-ipo-next-year-followed-by-potential-us-listing-ceo-2026-07-08/",
-    "title": "South Korean AI chip startup Rebellions targets IPO next year",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 17:05",
-    "pub_ts": 1783501538
   }
 ]
