@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/netflix-third-quarter-earnings-forecast-falls-shy-wall-street-expectations-2026-07-16/",
+    "title": "Netflix third-quarter earnings forecast falls shy of Wall Street expectations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 04:03",
+    "pub_ts": 1784232223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/best-laid-plans-2026-07-16/",
+    "title": "Best-laid plans",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 04:02",
+    "pub_ts": 1784232145
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/draftkings-sues-philadelphia-after-receiving-subpoena-2026-07-16/",
+    "title": "DraftKings sues Philadelphia after receiving subpoena",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 04:01",
+    "pub_ts": 1784232103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-refiner-margins-hit-new-records-fuel-shortage-concerns-grow-2026-07-16/",
+    "title": "US refiner margins hit new records as fuel shortage concerns grow",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 03:55",
+    "pub_ts": 1784231744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-continues-talk-us-wants-make-deal-white-house-says-2026-07-16/",
+    "title": "Iran continues to talk to U.S., wants to make a deal, White House says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 03:44",
+    "pub_ts": 1784231086
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/court-says-meta-must-turn-over-youth-user-wellbeing-records-dc-attorney-general-2026-07-16/",
+    "title": "Court says Meta must turn over 'youth-user wellbeing' records to D.C. attorney general",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 03:37",
+    "pub_ts": 1784230674
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-house-republicans-push-forward-trump-funding-plan-iran-war-election-overhaul-2026-07-16/",
+    "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 03:22",
+    "pub_ts": 1784229743
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/canada-will-not-share-bridge-tolls-with-us-until-debt-repaid-carney-says-2026-07-16/",
     "title": "Canada will not share bridge tolls with US until debt repaid, Carney says",
     "path": "/business/",
@@ -124,6 +187,24 @@
     "category": "business",
     "pub_bj": "2026-07-17 02:17",
     "pub_ts": 1784225863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/3NR54XLHJNJHFN7XIQYAQNVLSM-2026-07-16/",
+    "title": "Vídeo em que homem reclama de comida em Bangu 5 é encenação",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-17 01:59",
+    "pub_ts": 1784224752
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-attend-world-cup-final-sunday-white-house-says-2026-07-16/",
+    "title": "Trump to attend World Cup final on Sunday, White House says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 01:56",
+    "pub_ts": 1784224585
   },
   {
     "source": "Reuters",
@@ -26917,86 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-08 17:05",
     "pub_ts": 1783501538
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/global-markets-trump-instant-view-2026-07-08/",
-    "title": "VIEW Markets dive, Trump says Iran MOU 'is over'",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 17:04",
-    "pub_ts": 1783501478
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/obamacare-insurers-ask-second-highest-premiums-increase-nearly-decade-2026-07-08/",
-    "title": "Obamacare insurers ask for second-highest premiums increase in nearly a decade",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-08 17:04",
-    "pub_ts": 1783501464
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/mercedes-benz-q2-sales-fall-china-competition-intensifies-2026-07-08/",
-    "title": "Mercedes-Benz Q2 sales fall, China competition intensifies",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 17:04",
-    "pub_ts": 1783501452
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/uaes-adnoc-expands-energy-partnership-with-south-korea-2026-07-08/",
-    "title": "UAE's ADNOC expands energy partnership with South Korea",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:59",
-    "pub_ts": 1783501185
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/thai-watchdog-says-investigating-share-purchase-filings-investor-who-built-up-2026-07-08/",
-    "title": "Thai watchdog says investigating share purchase filings from investor who built up stake in True Corp",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:59",
-    "pub_ts": 1783501146
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ryanair-loses-appeals-against-italys-covid-aid-airlines-eu-court-2026-07-08/",
-    "title": "Ryanair loses appeals against Italy's COVID aid to airlines in EU Court",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:53",
-    "pub_ts": 1783500781
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/black-sea-nato-states-expand-mine-force-protect-infrastructure-2026-07-08/",
-    "title": "Black Sea NATO states expand mine force to protect infrastructure",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:52",
-    "pub_ts": 1783500729
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/budget-overhaul-set-be-hungary-pm-magyars-first-major-credibility-test-2026-07-08/",
-    "title": "Budget overhaul set to be Hungary PM Magyar's first major credibility test",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:48",
-    "pub_ts": 1783500522
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/daimler-truck-q2-vehicle-sales-rise-8-north-america-demand-recovers-2026-07-08/",
-    "title": "Daimler Truck Q2 vehicle sales rise 8% as North America demand recovers",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:46",
-    "pub_ts": 1783500407
   }
 ]
