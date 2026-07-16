@@ -1,6 +1,132 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/canada-will-not-share-bridge-tolls-with-us-until-debt-repaid-carney-says-2026-07-16/",
+    "title": "Canada will not share bridge tolls with US until debt repaid, Carney says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 03:02",
+    "pub_ts": 1784228529
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
+    "title": "Google Gemini launch delayed as tech falls short of internal goals, Bloomberg News reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 03:01",
+    "pub_ts": 1784228505
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-readies-tough-retaliation-new-trump-tariffs-sources-say-2026-07-16/",
+    "title": "Brazil readies 'tough' retaliation to new Trump tariffs, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 02:58",
+    "pub_ts": 1784228290
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/dassault-systemes-talks-buy-drug-trial-software-firm-arisglobal-ft-reports-2026-07-16/",
+    "title": "Dassault Systemes in talks to buy drug trial software firm ArisGlobal, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 02:52",
+    "pub_ts": 1784227969
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/nuclear-fuel-firm-standard-nuclear-valued-217-billion-shares-fall-nyse-debut-2026-07-16/",
+    "title": "Nuclear fuel firm Standard Nuclear valued at $2.17 billion as shares slides in NYSE debut",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 02:52",
+    "pub_ts": 1784227929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-networks-face-dilemma-over-whether-air-trumps-election-security-speech-2026-07-16/",
+    "title": "US networks face dilemma over whether to air Trump's election security speech",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 02:48",
+    "pub_ts": 1784227714
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/WUBYY4C57RP3FLOY4AUKF34FX4-2026-07-16/",
+    "title": "Não há registros de que Ancelotti disse que Neymar está nos planos para Copa de 2030",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-17 02:41",
+    "pub_ts": 1784227300
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/australia-boost-scrutiny-big-four-accounting-firms-after-wave-scandals-2026-07-16/",
+    "title": "Australia to boost scrutiny of Big Four accounting firms after wave of scandals",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 02:40",
+    "pub_ts": 1784227233
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/new-york-hydropower-lines-outage-rankles-governor-who-championed-project-2026-07-16/",
+    "title": "New York hydropower line's outage rankles governor who championed project",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 02:34",
+    "pub_ts": 1784226872
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/white-house-says-it-is-closely-monitoring-food-borne-illness-outbreak-2026-07-16/",
+    "title": "White House says it is closely monitoring food-borne illness outbreak",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 02:32",
+    "pub_ts": 1784226765
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ntsb-finds-evidence-bird-strike-before-fatal-new-york-helicopter-crash-2026-07-16/",
+    "title": "NTSB finds evidence of bird strike before fatal New York helicopter crash",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-17 02:26",
+    "pub_ts": 1784226377
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-revive-rule-that-could-deny-green-cards-immigrants-using-public-benefits-2026-07-16/",
+    "title": "US to revive rule that could deny green cards to immigrants using public benefits",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 02:25",
+    "pub_ts": 1784226316
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/citadel-securities-invests-400-million-cryptocom-20-billion-valuation-2026-07-16/",
+    "title": "Citadel Securities invests $400 million in Crypto.com at $20 billion valuation",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 02:21",
+    "pub_ts": 1784226103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trumps-teleprompter-operator-under-cftc-probe-over-potential-insider-trading-2026-07-16/",
+    "title": "Trump's teleprompter operator under CFTC probe over potential insider trading, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 02:17",
+    "pub_ts": 1784225863
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/government/with-midterms-deck-trump-deliver-primetime-speech-election-security-2026-07-16/",
     "title": "With midterms on deck, Trump to deliver prime-time speech on election security",
     "path": "/legal/",
@@ -26872,131 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-08 16:46",
     "pub_ts": 1783500407
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/eu-court-rejects-apples-challenge-against-eu-rules-reining-big-tech-2026-07-08/",
-    "title": "Apple loses challenges against EU rules to curb Big Tech",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:46",
-    "pub_ts": 1783500404
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/johannesburg-other-municipalities-face-funding-freeze-over-high-spending-2026-07-08/",
-    "title": "Johannesburg, other municipalities face funding freeze over high spending",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:45",
-    "pub_ts": 1783500346
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/hegseth-meet-netanyahu-over-possible-sale-f-35s-turkey-source-tells-reuters-2026-07-08/",
-    "title": "Hegseth to meet Netanyahu over possible sale of F-35s to Turkey, source tells Reuters",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:45",
-    "pub_ts": 1783500346
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/trump-says-interim-accord-with-iran-end-war-is-over-2026-07-08/",
-    "title": "Trump says interim accord with Iran to end war is \"over\"",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:44",
-    "pub_ts": 1783500292
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/germanys-commerzbank-has-bumpy-history-with-big-ma-2026-07-08/",
-    "title": "UniCredit nears majority stake in Commerzbank takeover battle",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:42",
-    "pub_ts": 1783500179
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/dollar-selling-linked-sk-hynix-share-offer-sends-won-over-1-month-high-source-2026-07-08/",
-    "title": "Dollar-selling linked to SK Hynix share offer sends won to over 1-month high, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 16:40",
-    "pub_ts": 1783500005
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/french-firefigher-dies-wildfire-savoie-region-minister-says-2026-07-08/",
-    "title": "French firefigher dies in wildfire in Savoie region, minister says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 16:37",
-    "pub_ts": 1783499831
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/unicredit-secures-176-commerzbank-2026-07-08/",
-    "title": "UniCredit secures 47.6% of Commerzbank after buyout offer extension",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-08 15:50",
-    "pub_ts": 1783497057
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/thousands-march-khameneis-funeral-procession-crosses-into-iraq-2026-07-08/",
-    "title": "Thousands march as Khamenei's funeral procession crosses into Iraq",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 15:39",
-    "pub_ts": 1783496342
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/singapores-temasek-green-portfolio-rises-7-sees-eneven-climate-path-2026-07-08/",
-    "title": "Singapore's Temasek green portfolio rises 7%, sees uneven climate path",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 15:37",
-    "pub_ts": 1783496268
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-slip-middle-east-hostilities-2026-07-08/",
-    "title": "Most Gulf markets slip on Middle East hostilities",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 15:25",
-    "pub_ts": 1783495544
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/swedish-headline-inflation-eases-june-flash-data-shows-2026-07-08/",
-    "title": "Swedish headline inflation eases in June, flash data shows",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-08 15:21",
-    "pub_ts": 1783495306
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-african-rand-steady-markets-assess-renewed-middle-east-tensions-2026-07-08/",
-    "title": "South African rand steady as markets assess renewed Middle East tensions",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-08 15:19",
-    "pub_ts": 1783495183
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://xz.people.com.cn/n2/2026/0708/c138901-41632863.html",
-    "title": "4000公里串起一条\"高原上班路\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-08 15:02",
-    "pub_ts": 1783494130
   }
 ]
