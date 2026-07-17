@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/fcc-commissioner-says-trump-call-revoke-abc-nbc-licenses-is-unconstitutional-2026-07-17/",
+    "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 02:37",
+    "pub_ts": 1784313430
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/smoke-fire-floods-us-faces-triple-extreme-summer-weather-threats-2026-07-17/",
+    "title": "Smoke, fire, floods: US faces triple extreme summer weather threats",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 02:35",
+    "pub_ts": 1784313344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/eu-reiterates-its-call-israel-refrain-more-expansion-settlements-2026-07-17/",
+    "title": "EU reiterates its call on Israel to refrain from more expansion of settlements",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 02:31",
+    "pub_ts": 1784313103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/french-internet-service-providers-told-block-access-polymarket-2026-07-17/",
+    "title": "France blocks access to Polymarket website",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-18 02:18",
+    "pub_ts": 1784312283
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/photo-altered-suggest-lionel-messi-stamped-england-player-world-cup-semi-final-2026-07-17/",
+    "title": "Photo altered to suggest Lionel Messi stamped on England player in World Cup semi-final",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 02:15",
+    "pub_ts": 1784312101
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-restaurant-chains-hit-by-foodborne-illness-outbreaks-2026-07-17/",
+    "title": "US restaurant chains hit by foodborne illness outbreaks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 02:11",
+    "pub_ts": 1784311903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/clariant-rejects-dow-europes-13-billion-competition-law-claim-2026-07-17/",
+    "title": "Clariant rejects Dow Europe's $1.3 billion competition law claim",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 02:09",
+    "pub_ts": 1784311765
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-targets-next-week-another-starship-launch-attempt-shares-slide-abort-2026-07-17/",
+    "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 02:08",
+    "pub_ts": 1784311690
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/payments-company-aci-explores-sale-billing-unit-sources-say-2026-07-17/",
+    "title": "Payments company ACI explores sale of billing unit, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 02:05",
+    "pub_ts": 1784311552
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/more-than-50-homes-destroyed-norway-fire-2026-07-17/",
+    "title": "More than 50 homes destroyed in Norway fire",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:56",
+    "pub_ts": 1784311001
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/world-at-work/us-judge-wont-block-meta-laying-off-workers-who-filed-ai-discrimination-lawsuit-2026-07-17/",
     "title": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit",
     "path": "/business/",
@@ -26908,95 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-09 18:19",
     "pub_ts": 1783592365
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/iran-war-live-tehran-retaliates-kuwait-bahrain-after-second-day-us-strikes-2026-07-09/",
-    "title": "Iran war live: Tehran retaliates in Kuwait and Bahrain after second day of US strikes",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:16",
-    "pub_ts": 1783592215
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/africa-fx-kenyan-currency-could-be-boosted-by-remittances-2026-07-09/",
-    "title": "AFRICA-FX-Kenyan currency could be boosted by remittances",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:16",
-    "pub_ts": 1783592169
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/putin-likely-escalate-ukraine-war-despite-trump-peace-push-sources-say-2026-07-09/",
-    "title": "Putin likely to escalate Ukraine war, despite Trump peace push, sources say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:11",
-    "pub_ts": 1783591906
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/honeywell-aero-develop-more-defense-products-europe-outside-us-export-controls-2026-07-09/",
-    "title": "Honeywell Aero to develop more defense products for Europe outside US export controls",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:08",
-    "pub_ts": 1783591701
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/mfe-launch-single-streaming-platform-across-european-markets-ceo-berlusconi-says-2026-07-09/",
-    "title": "MFE to launch single streaming platform across European markets, CEO Berlusconi says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:05",
-    "pub_ts": 1783591553
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/french-competition-authoritys-nvidia-probe-nearing-end-2026-07-09/",
-    "title": "French competition authority's Nvidia probe nearing end",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:04",
-    "pub_ts": 1783591485
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/global-markets-technicals-graphic-2026-07-09/",
-    "title": "Mapping the Market: Chip stocks flash warning signs after blistering rally",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-09 18:04",
-    "pub_ts": 1783591447
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/higher-bar-corporate-profit-growth-poses-challenge-us-stock-market-rally-2026-07-09/",
-    "title": "Higher bar for corporate profit growth poses challenge for US stock market rally",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:02",
-    "pub_ts": 1783591332
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/apple-supplier-luxshare-leads-lukewarm-ipos-hong-kong-investors-get-picky-2026-07-09/",
-    "title": "Apple supplier Luxshare leads lukewarm IPOs in Hong Kong as investors get picky",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:00",
-    "pub_ts": 1783591254
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/ukraine-says-it-hits-more-russian-fuel-tankers-crimea-campaign-intensifies-2026-07-09/",
-    "title": "Ukraine says it hits more Russian fuel tankers as Crimea campaign intensifies",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:58",
-    "pub_ts": 1783591089
   }
 ]
