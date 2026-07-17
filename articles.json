@@ -1,6 +1,42 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/why-is-canadas-wildfire-smoke-blanketing-parts-north-america-2026-07-17/",
+    "title": "Why is Canada's wildfire smoke blanketing parts of North America?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 04:33",
+    "pub_ts": 1784320388
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/MFYR4SOEEZI75MIGHBYQK6QME4-2026-07-17/",
+    "title": "OAB não autorizou visitas de Flávio a Bolsonaro; entidade pediu liberação de comunicação",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 04:11",
+    "pub_ts": 1784319103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/people-killed-by-us-immigration-agents-during-trumps-second-term-2026-07-17/",
+    "title": "The people killed by U.S. immigration agents during Trump's second term",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 04:07",
+    "pub_ts": 1784318865
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukraines-zelenskiy-aims-improve-ties-with-poland-after-row-over-military-honour-2026-07-17/",
+    "title": "Ukraine's Zelenskiy aims to improve ties with Poland after row over military honour",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 03:51",
+    "pub_ts": 1784317904
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/western-oil-companies-see-fantastic-future-iraq-sign-agreements-2026-07-17/",
     "title": "Western oil companies see 'fantastic' future in Iraq, sign agreements",
     "path": "/business/",
@@ -26962,41 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-09 18:56",
     "pub_ts": 1783594569
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/asean-foreign-ministers-hold-meeting-with-myanmar-counterpart-weekend-2026-07-09/",
-    "title": "ASEAN foreign ministers to hold meeting with Myanmar counterpart at weekend",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:55",
-    "pub_ts": 1783594543
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/russia-eyes-mid-july-start-commercial-logistics-hub-syrian-port-2026-07-09/",
-    "title": "Russia eyes mid-July start for commercial logistics hub at Syrian port",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:55",
-    "pub_ts": 1783594524
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/taiwan-pushes-back-china-patrols-with-coast-guard-trip-foreign-lawmakers-2026-07-09/",
-    "title": "Taiwan pushes back at China patrols with Coast Guard trip for foreign lawmakers",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:53",
-    "pub_ts": 1783594439
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/hugo-boss-recommends-shareholders-reject-frasers-bid-2026-07-09/",
-    "title": "Hugo Boss urges shareholders to reject Frasers' 'inadequate' bid",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:53",
-    "pub_ts": 1783594423
   }
 ]
