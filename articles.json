@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/us-judge-wont-block-meta-laying-off-workers-who-filed-ai-discrimination-lawsuit-2026-07-17/",
+    "title": "US judge won't block Meta from laying off workers who filed AI discrimination lawsuit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:45",
+    "pub_ts": 1784310349
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-rate-hike-voices-swell-before-july-decision-rates-still-seen-hold-2026-07-17/",
+    "title": "Fed rate-hike voices swell before July decision, rates still seen on hold",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:42",
+    "pub_ts": 1784310122
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/marvel-comics-move-publishing-operations-california-report-says-2026-07-17/",
+    "title": "Marvel Comics to move publishing operations to California, report says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:40",
+    "pub_ts": 1784310045
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-appeals-court-declares-new-jerseys-ban-assault-rifles-unconstitutional-2026-07-17/",
+    "title": "US appeals court declares New Jersey's ban on assault rifles unconstitutional",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 01:37",
+    "pub_ts": 1784309842
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/faa-returning-ticketing-authority-boeing-737-max-787-planes-2026-07-17/",
+    "title": "FAA returning ticketing authority to Boeing for 737 MAX, 787 planes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:36",
+    "pub_ts": 1784309769
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-energy-firms-add-rigs-fifth-week-row-says-baker-hughes-2026-07-17/",
+    "title": "US energy firms boost rig count to highest since April 2025, says Baker Hughes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:35",
+    "pub_ts": 1784309722
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/workplace-ai-how-employers-should-prepare-new-eu-ai-act-deadline--pracin-2026-07-17/",
+    "title": "Workplace AI — how employers should prepare for the new EU AI Act deadline",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 01:30",
+    "pub_ts": 1784309458
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/apple-early-settlement-talks-with-us-doj-over-antitrust-case-bloomberg-news-2026-07-17/",
+    "title": "Apple in early settlement talks with US DOJ over antitrust case, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 01:22",
+    "pub_ts": 1784308938
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/northern-irelands-donaldson-seeks-appeal-convictions-child-sex-offences-bbc-2026-07-17/",
+    "title": "Northern Ireland's Donaldson seeks to appeal convictions for child sex offences",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 01:18",
+    "pub_ts": 1784308732
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/sanctioned-tanker-is-leaking-oil-near-oman-according-satellite-images-experts-2026-07-17/",
+    "title": "Sanctioned tanker is leaking oil near Oman, according to satellite images and experts",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 01:17",
+    "pub_ts": 1784308620
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/rolling-stones-match-beatles-with-15th-uk-number-one-album-2026-07-17/",
+    "title": "Rolling Stones match Beatles with 15th UK number one album",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:15",
+    "pub_ts": 1784308547
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/on-the-money/ak-lauren-can-i-retire-60-with-500000-savings-2026-07-17/",
+    "title": "A$K Lauren: Can I retire at 60 with $500,000 in savings?",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-18 01:07",
+    "pub_ts": 1784308030
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trump-media-pitched-100000-monthly-fee-fast-feed-us-presidents-posts-ft-reports-2026-07-17/",
+    "title": "Trump Media pitched $100,000 monthly fee for 'fastest' feed of US president's posts, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 01:06",
+    "pub_ts": 1784308005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-palestinians-attending-gaza-funeral-earlier-strike-victim-2026-07-17/",
+    "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 00:59",
+    "pub_ts": 1784307592
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/no-evidence-that-ivermectin-can-treat-cyclospora-infections-2026-07-17/",
+    "title": "No evidence that ivermectin can treat Cyclospora infections",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 00:55",
+    "pub_ts": 1784307344
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/markets/on-the-money/priced-out-young-buyers-are-looking-abroad-their-first-homes-2026-07-17/",
     "title": "Priced-out young buyers are looking abroad for their first homes",
     "path": "/markets/",
@@ -115,6 +250,24 @@
     "category": "world",
     "pub_bj": "2026-07-18 00:09",
     "pub_ts": 1784304583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/michigan-reports-5002-cyclosporiasis-cases-officials-seek-outbreak-source-2026-07-17/",
+    "title": "Michigan reports 5,002 cyclosporiasis cases as officials seek outbreak source",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-17 23:50",
+    "pub_ts": 1784303405
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/walmart-names-kinnard-replace-departing-us-coo-shanahan-memo-shows-2026-07-17/",
+    "title": "Walmart names Kinnard to replace departing US COO Shanahan, memo shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-17 23:46",
+    "pub_ts": 1784303211
   },
   {
     "source": "People's Daily",
@@ -26845,158 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-09 17:58",
     "pub_ts": 1783591089
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-dollar-inflow-salvo-sparks-record-120-bln-corporate-hedging-exporters-2026-07-09/",
-    "title": "India's dollar inflow salvo sparks record $120 bln in corporate hedging as exporters return",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:54",
-    "pub_ts": 1783590894
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/iraq-will-not-leave-opec-seeks-fair-output-quota-pm-says-2026-07-09/",
-    "title": "Iraq will not leave OPEC but seeks fair output quota, PM says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:53",
-    "pub_ts": 1783590838
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/italy-expels-two-russian-embassy-staff-over-spying-case-2026-07-09/",
-    "title": "Italy expels two Russian embassy staff over spying case",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:53",
-    "pub_ts": 1783590823
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/uniqlo-operator-fast-retailing-says-q3-profit-jumped-457-raises-forecast-2026-07-09/",
-    "title": "Uniqlo operator Fast Retailing cautions on yen and heatwaves, but raises profit forecast",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:53",
-    "pub_ts": 1783590816
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/india-removes-import-duty-some-electronics-smartphone-parts-2026-07-09/",
-    "title": "India removes import duty on some electronics, smartphone parts",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:50",
-    "pub_ts": 1783590621
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/kalshi-talks-with-regulators-expand-never-expiring-derivatives-new-areas-2026-07-09/",
-    "title": "Kalshi in talks with regulators to expand never-expiring derivatives to new areas",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:47",
-    "pub_ts": 1783590472
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/welsh-pop-singer-bonnie-tyler-has-died-75-bbc-news-reports-2026-07-09/",
-    "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:44",
-    "pub_ts": 1783590279
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/air-india-chair-oversee-firm-with-interim-panel-ceo-search-continues-source-says-2026-07-09/",
-    "title": "Air India chair to oversee firm with interim panel; CEO search continues, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:39",
-    "pub_ts": 1783589983
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/kleenex-owner-arbex-targets-global-market-share-gains-with-suzano-kimberly-clark-2026-07-09/",
-    "title": "Kleenex maker Arbex targets global market share gains with Suzano, Kimberly-Clark backing",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:38",
-    "pub_ts": 1783589912
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-power-companies-scramble-secure-equipment-surging-data-center-demand-strains-2026-07-09/",
-    "title": "US power companies scramble to secure equipment as surging data center demand strains supplies",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:37",
-    "pub_ts": 1783589864
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/barry-callebaut-does-not-expect-repeat-cocoa-crisis-despite-el-nio-risk-2026-07-09/",
-    "title": "Barry Callebaut does not expect repeat of cocoa crisis despite El Niño risk",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:37",
-    "pub_ts": 1783589863
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/seven-i-logs-hefty-quarterly-profit-jump-lifts-annual-forecast-yen-weakness-2026-07-09/",
-    "title": "Seven & i logs hefty quarterly profit jump, lifts annual forecast on yen weakness",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:36",
-    "pub_ts": 1783589783
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-launches-weekly-insulin-awiqli-india-diabetes-burden-rises-2026-07-09/",
-    "title": "Novo Nordisk launches weekly insulin shot Awiqli in India",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:35",
-    "pub_ts": 1783589745
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/china-aims-raise-ev-share-vehicle-ownership-30-by-2030-2026-07-09/",
-    "title": "China aims to raise EV share of vehicle ownership to 30% by 2030",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:26",
-    "pub_ts": 1783589168
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/pepco-lifts-full-year-outlook-following-dealz-sale-2026-07-09/",
-    "title": "Pepco lifts outlook as post-restructuring growth gains traction",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 17:25",
-    "pub_ts": 1783589140
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/opinion-polls-see-frances-le-pen-winning-2027-election-despite-guilty-verdict-2026-07-09/",
-    "title": "Opinion polls see France's Le Pen winning 2027 election despite guilty verdict",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:23",
-    "pub_ts": 1783588996
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/dollar-stands-tall-gulf-tensions-fuel-oil-price-surge-fed-hike-bets-2026-07-09/",
-    "title": "Dollar follows oil lower; Gulf tensions, Fed minutes in focus",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 17:19",
-    "pub_ts": 1783588791
   }
 ]
