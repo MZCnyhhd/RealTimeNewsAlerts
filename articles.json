@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/law-firm-ashurst-perkins-coie-hit-with-50-million-legal-malpractice-suit-over-2026-07-17/",
+    "title": "Law firm Ashurst Perkins Coie hit with $50 million legal malpractice suit over failed deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 06:09",
+    "pub_ts": 1784326181
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/6LJXZ7KODRO6LHA6XUSQIMFHME-2026-07-17/",
+    "title": "Montagem simula pisão de Messi em partida contra Inglaterra",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 05:31",
+    "pub_ts": 1784323896
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/california-19-other-states-back-dcs-power-punish-trump-ally-clark-2026-07-17/",
+    "title": "California, 19 other states back DC's power to punish Trump ally Clark",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 05:23",
+    "pub_ts": 1784323424
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/government/trump-team-scrutinized-election-agency-over-2020-vote-before-firing-its-leaders-2026-07-17/",
     "title": "Trump team scrutinized election agency over 2020 vote before firing its leaders",
     "path": "/legal/",
@@ -26971,32 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-09 19:17",
     "pub_ts": 1783595825
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/londons-ftse-100-slips-middle-east-tensions-persist-astrazeneca-drags-2026-07-09/",
-    "title": "London's FTSE 100 slips as Middle East tensions persist, AstraZeneca drags",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 19:13",
-    "pub_ts": 1783595614
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-africas-may-manufacturing-output-falls-43-yy-2026-07-09/",
-    "title": "South Africa's May manufacturing output falls 4.3% y/y",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 19:11",
-    "pub_ts": 1783595504
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/pound-nudges-four-week-highs-volatility-picks-up-2026-07-09/",
-    "title": "Pound nudges at four-week highs; volatility picks up",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 19:10",
-    "pub_ts": 1783595459
   }
 ]
