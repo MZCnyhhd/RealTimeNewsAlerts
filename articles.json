@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-team-scrutinized-election-agency-over-2020-vote-before-firing-its-leaders-2026-07-17/",
+    "title": "Trump team scrutinized election agency over 2020 vote before firing its leaders",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 05:15",
+    "pub_ts": 1784322943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/panama-bids-full-ownership-strategic-oil-terminal-2026-07-17/",
+    "title": "Panama bids for full ownership of strategic oil terminal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 04:57",
+    "pub_ts": 1784321837
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/ASEOVC22FRPUPOQXGGRG46RRBU-2026-07-17/",
+    "title": "Vídeo mostra bombardeio de Israel a Gaza em 2025, não ataque recente ao Irã",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 04:52",
+    "pub_ts": 1784321531
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/wildfire-smoke-have-minimal-impact-world-cup-final-2026-07-17/",
+    "title": "Wildfire smoke to have minimal impact on World Cup final",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 04:50",
+    "pub_ts": 1784321452
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/clover-health-says-employee-accounts-accessed-cyber-incident-2026-07-17/",
+    "title": "Clover Health says employee accounts accessed in cyber incident",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 04:49",
+    "pub_ts": 1784321384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-administration-cannot-cancel-grants-disfavored-causes-us-judge-rules-2026-07-17/",
+    "title": "Trump administration cannot cancel grants for disfavored causes, US judge rules",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 04:47",
+    "pub_ts": 1784321244
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uks-ip-group-gets-sweetened-takeover-offer-top-investor-railpen-2026-07-17/",
+    "title": "UK's IP Group gets sweetened takeover offer from top investor Railpen",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 04:40",
+    "pub_ts": 1784320825
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/environment/why-is-canadas-wildfire-smoke-blanketing-parts-north-america-2026-07-17/",
     "title": "Why is Canada's wildfire smoke blanketing parts of North America?",
     "path": "/business/",
@@ -26935,68 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-09 19:10",
     "pub_ts": 1783595459
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/egypt-june-annual-core-inflation-rises-143-central-bank-2026-07-09/",
-    "title": "Egypt June annual core inflation rises to 14.3% - central bank",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 19:10",
-    "pub_ts": 1783595450
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-adds-second-glp-1-diabetes-drug-essential-medicine-list-2026-07-09/",
-    "title": "China adds second GLP-1 diabetes drug to essential medicine list",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 19:05",
-    "pub_ts": 1783595142
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/pepsico-beats-revenue-estimates-flags-pressure-tighter-consumer-budgets-2026-07-09/",
-    "title": "PepsiCo bets on healthier products to win over budget-conscious consumers",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 19:05",
-    "pub_ts": 1783595116
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/russian-couple-sentenced-spying-poland-after-parcel-blast-probe-2026-07-09/",
-    "title": "Russian couple sentenced for spying in Poland after parcel blast probe",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 19:03",
-    "pub_ts": 1783595019
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/eu-proposes-asset-freezes-travel-bans-fight-migrant-smuggling-2026-07-09/",
-    "title": "EU proposes asset freezes and travel bans to fight migrant smuggling",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 19:01",
-    "pub_ts": 1783594903
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/google-appeals-indian-ruling-over-its-ads-platform-citing-consumer-harm-2026-07-09/",
-    "title": "Google appeals Indian ruling over its ads platform, citing consumer harm",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:57",
-    "pub_ts": 1783594676
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
-    "title": "SAP to make it easier for customers to switch, averts EU fine",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:56",
-    "pub_ts": 1783594569
   }
 ]
