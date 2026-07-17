@@ -1,6 +1,78 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/western-oil-companies-see-fantastic-future-iraq-sign-agreements-2026-07-17/",
+    "title": "Western oil companies see 'fantastic' future in Iraq, sign agreements",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 03:45",
+    "pub_ts": 1784317535
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/musks-spacex-talks-provide-computing-power-pentagon-wsj-reports-2026-07-17/",
+    "title": "Musk's SpaceX in talks to provide computing power to the Pentagon, WSJ reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 03:42",
+    "pub_ts": 1784317374
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-says-he-has-asked-lindsey-grahams-sister-run-us-senate-2026-07-17/",
+    "title": "Trump says he has asked Lindsey Graham's sister to run for US Senate",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 03:39",
+    "pub_ts": 1784317184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/",
+    "title": "The week in pictures",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 03:37",
+    "pub_ts": 1784317062
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/burnhams-path-parliament-does-not-legally-disqualify-him-becoming-pm-2026-07-17/",
+    "title": "Burnham's path to parliament does not legally disqualify him from becoming PM",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 03:21",
+    "pub_ts": 1784316084
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/WKTBJQVJ7NLNLKK7MN6MJEMTAA-2026-07-17/",
+    "title": "Montagem muda posição de Messi em lance de gol da Argentina contra Inglaterra",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-18 03:19",
+    "pub_ts": 1784315970
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-hits-one-month-high-yield-spreads-narrow-2026-07-17/",
+    "title": "Canadian dollar hits one-month high as yield spreads narrow",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 03:10",
+    "pub_ts": 1784315439
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-set-leave-benchmark-lending-rates-unchanged-14th-month-july-2026-07-17/",
+    "title": "China set to leave benchmark lending rates unchanged for 14th month in July",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 02:49",
+    "pub_ts": 1784314183
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/fcc-commissioner-says-trump-call-revoke-abc-nbc-licenses-is-unconstitutional-2026-07-17/",
     "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
     "path": "/business/",
@@ -26926,77 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-09 18:53",
     "pub_ts": 1783594423
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/eu-imposes-anti-dumping-duties-chinese-tyres-2026-07-09/",
-    "title": "EU imposes anti-dumping duties on Chinese tyres",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:46",
-    "pub_ts": 1783593982
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/chocolate-maker-barry-callebauts-q3-volumes-rise-first-time-two-years-2026-07-09/",
-    "title": "Barry Callebaut volumes recover, analysts question cocoa price assumptions",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:41",
-    "pub_ts": 1783593668
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/danantara-not-bailout-vehicle-says-head-public-investment-2026-07-09/",
-    "title": "-Danantara not a bailout vehicle, says head of public investment",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:36",
-    "pub_ts": 1783593369
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/ukraines-top-prosecutor-says-no-signs-kyiv-being-behind-nord-stream-blasts-2026-07-09/",
-    "title": "Ukraine's top prosecutor says no signs of Kyiv being behind Nord Stream blasts",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:33",
-    "pub_ts": 1783593224
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/nato-weathers-another-trump-storm-braces-more-after-ankara-summit-2026-07-09/",
-    "title": "NATO weathers another Trump storm but braces for more after Ankara summit",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 18:32",
-    "pub_ts": 1783593163
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/spacex-ai-startup-wealth-fuels-demand-private-jets-2026-07-09/",
-    "title": "SpaceX and AI startup wealth fuels demand for private jets",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-09 18:27",
-    "pub_ts": 1783592838
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/trump-cut-food-security-survey-could-make-measuring-us-hunger-harder-2026-07-09/",
-    "title": "Trump cut to food security survey could make measuring US hunger harder",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-09 18:19",
-    "pub_ts": 1783592397
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/russia-sahel-states-deepen-military-ties-insurgent-attacks-persist-2026-07-09/",
-    "title": "Russia and Sahel states deepen military ties as insurgent attacks persist",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 18:19",
-    "pub_ts": 1783592365
   }
 ]
