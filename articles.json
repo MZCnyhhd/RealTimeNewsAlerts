@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-hezbollah-fighters-after-drone-spotted-southern-2026-07-18/",
+    "title": "Israeli military says it struck Hezbollah fighters after drone spotted in southern Lebanon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 00:22",
+    "pub_ts": 1784391771
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/mexico-ministries-investigate-cyclospora-linked-mexican-farm-2026-07-18/",
+    "title": "Mexico ministries investigate cyclospora linked to Mexican farm",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-19 00:17",
+    "pub_ts": 1784391439
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/cfm-wins-approval-jet-engine-durability-boost-2026-07-18/",
+    "title": "CFM wins approval for jet engine durability boost",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 00:00",
+    "pub_ts": 1784390422
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/us-rep-ralph-norman-says-he-will-run-senate-south-carolina-following-lindsey-2026-07-18/",
     "title": "US Rep. Ralph Norman to run for Senate in South Carolina following Lindsey Graham's death",
     "path": "/world/",
@@ -26971,32 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-10 00:02",
     "pub_ts": 1783612971
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/india-clears-dixon-vivo-jv-domestic-smartphone-manufacturing-2026-07-09/",
-    "title": "India clears Dixon-Vivo JV for domestic smartphone manufacturing",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:01",
-    "pub_ts": 1783612907
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/jailed-american-robert-gilman-taken-russian-hospital-newspaper-reports-2026-07-09/",
-    "title": "Jailed American Robert Gilman taken to Russian hospital, newspaper reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:01",
-    "pub_ts": 1783612905
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/spain-says-trump-softened-rhetoric-after-learning-madrids-contributions-nato-2026-07-09/",
-    "title": "Spain says Trump softened rhetoric after learning of Madrid's contributions to NATO",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 23:51",
-    "pub_ts": 1783612314
   }
 ]
