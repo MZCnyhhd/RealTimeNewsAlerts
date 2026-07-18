@@ -1,6 +1,24 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-police-find-no-evidence-terror-offence-islamic-event-threat-probe-2026-07-18/",
+    "title": "UK police find no evidence of terror offence in Islamic event threat probe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 03:41",
+    "pub_ts": 1784403669
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/lebanese-soldier-killed-army-vehicle-hits-explosive-south-lebanon-2026-07-18/",
+    "title": "Lebanese soldier killed as army vehicle hits explosive in south Lebanon",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 03:30",
+    "pub_ts": 1784403004
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/trump-administration-to-fund-maga-aligned-projects-europe-he-reorders-us-aid-ft-2026-07-18/",
     "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
     "path": "/business/",
@@ -26980,23 +26998,5 @@
     "category": "markets",
     "pub_bj": "2026-07-10 00:19",
     "pub_ts": 1783613964
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/mexico-file-criminal-complaints-us-over-deaths-immigration-custody-2026-07-09/",
-    "title": "Mexico to file criminal complaints in US over deaths of Mexicans in immigration enforcement",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:19",
-    "pub_ts": 1783613943
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/clashes-ukraines-lviv-highlight-wartime-tensions-over-draft-2026-07-09/",
-    "title": "Clashes in Ukraine's Lviv highlight wartime tensions over draft",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:17",
-    "pub_ts": 1783613864
   }
 ]
