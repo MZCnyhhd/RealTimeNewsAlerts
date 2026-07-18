@@ -1,6 +1,42 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0718/c1016-40763286.html",
+    "title": "青海海西：乌素特水上雅丹地貌形态万千",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-18 13:38",
+    "pub_ts": 1784353104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/flash-flood-kills-4-leaves-4-others-missing-vietnam-2026-07-18/",
+    "title": "Flash flood kills 4, leaves 4 others missing in Vietnam",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 13:30",
+    "pub_ts": 1784352644
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-renews-attacks-gulf-states-after-another-night-us-strikes-2026-07-18/",
+    "title": "Iran renews attacks on Gulf states after another night of US strikes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 12:26",
+    "pub_ts": 1784348777
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/colombias-ecopetrol-says-cyberattack-stole-data-tied-3300-accounts-2026-07-18/",
+    "title": "Colombia's Ecopetrol says cyberattack stole data tied to 3,300 accounts",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-18 12:23",
+    "pub_ts": 1784348627
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0718/c1024-40763046.html",
     "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
     "path": "/politics/",
@@ -26962,41 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-09 20:47",
     "pub_ts": 1783601246
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/oil-tanker-traffic-through-hormuz-near-standstill-attacks-strain-iran-truce-2026-07-09/",
-    "title": "Oil tanker traffic through Hormuz at near standstill as attacks strain Iran truce",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 20:45",
-    "pub_ts": 1783601145
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/casualties-reported-after-shoe-factory-fire-chinas-fujian-state-media-says-2026-07-09/",
-    "title": "Xi signals significant casualties in China shoe factory fire",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 20:38",
-    "pub_ts": 1783600730
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/uks-workspace-backs-strategy-activist-investor-saba-mounts-pressure-2026-07-09/",
-    "title": "UK's Workspace backs strategy as activist investor Saba mounts pressure",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 20:38",
-    "pub_ts": 1783600723
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/ecb-saw-inflation-rising-despite-nearly-three-expected-hikes-accounts-show-2026-07-09/",
-    "title": "ECB saw inflation rising despite nearly three expected hikes, accounts show",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 20:35",
-    "pub_ts": 1783600527
   }
 ]
