@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-rep-ralph-norman-says-he-will-run-senate-south-carolina-following-lindsey-2026-07-18/",
+    "title": "US Rep. Ralph Norman to run for Senate in South Carolina following Lindsey Graham's death",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 23:15",
+    "pub_ts": 1784387753
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0718/c461001-40763340.html",
     "title": "直面时代之问,习近平提出4点意见",
@@ -26989,14 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-09 23:51",
     "pub_ts": 1783612314
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-2026-07-09/",
-    "title": "SK Hynix's US share sale aims to raise $26.5 billion at $149 per ADR, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-09 23:50",
-    "pub_ts": 1783612246
   }
 ]
