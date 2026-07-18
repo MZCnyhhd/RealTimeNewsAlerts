@@ -1,5 +1,32 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/delayed-orders-confusion-slowed-venezuelan-militarys-response-quakes-sources-say-2026-07-18/",
+    "title": "Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-18 19:09",
+    "pub_ts": 1784372983
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-says-it-will-take-measures-uks-nationalisation-british-steel-2026-07-18/",
+    "title": "China says it will take measures on UK's nationalisation of British Steel",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 18:47",
+    "pub_ts": 1784371629
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-icici-bank-reports-159-rise-q1-profit-beats-estimates-2026-07-18/",
+    "title": "India's ICICI Bank reports 15.9% rise in Q1 profit, beats estimates",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-18 18:25",
+    "pub_ts": 1784370343
+  },
+  {
     "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0718/c1004-40763240.html",
     "title": "金融全程“伴跑” 硬科技加快点燃新引擎",
@@ -26971,32 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-09 22:59",
     "pub_ts": 1783609155
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/data-centre-operator-aruba-buys-three-hydro-plants-italy-2026-07-09/",
-    "title": "Data centre operator Aruba buys three hydro plants in Italy",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 22:49",
-    "pub_ts": 1783608584
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/german-investigators-link-misplaced-pin-boeing-787-incident-2026-07-09/",
-    "title": "German investigators link misplaced pin to Boeing 787 incident",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-09 22:44",
-    "pub_ts": 1783608250
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/itv-split-drags-share-price-down-analysts-investor-spot-high-costs-2026-07-09/",
-    "title": "ITV split drags share price down as analysts, investor spot high costs",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-09 22:41",
-    "pub_ts": 1783608103
   }
 ]
