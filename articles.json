@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/samsung-electronics-america-reduce-workforce-by-739-new-jersey-us-warn-notice-2026-07-18/",
+    "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 05:59",
+    "pub_ts": 1784411983
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/uk/next-uk-prime-minister-andy-burnham-drops-digital-id-scheme-2026-07-18/",
     "title": "Next UK prime minister Andy Burnham drops digital ID scheme",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-10 00:27",
     "pub_ts": 1783614434
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/tanzania-arrests-130-people-government-cracks-down-dissent-2026-07-09/",
-    "title": "Tanzania arrests 130 people as government cracks down on dissent",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:20",
-    "pub_ts": 1783614015
   }
 ]
