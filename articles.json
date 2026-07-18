@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trump-administration-to-fund-maga-aligned-projects-europe-he-reorders-us-aid-ft-2026-07-18/",
+    "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 02:26",
+    "pub_ts": 1784399202
+  },
+  {
     "source": "People's Daily",
     "url": "http://gx.people.com.cn/n2/2026/0718/c179464-41642957.html",
     "title": "这抹\"红\",筑起冲不垮的\"堤\"",
@@ -26989,14 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-10 00:17",
     "pub_ts": 1783613864
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/imfs-africa-director-met-with-malawi-officials-this-week-imf-says-2026-07-09/",
-    "title": "IMF's Africa director met with Malawi officials this week, IMF says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:17",
-    "pub_ts": 1783613863
   }
 ]
