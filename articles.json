@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/next-uk-prime-minister-andy-burnham-drops-digital-id-scheme-2026-07-18/",
+    "title": "Next UK prime minister Andy Burnham drops digital ID scheme",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 04:46",
+    "pub_ts": 1784407569
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/uk/uk-police-find-no-evidence-terror-offence-islamic-event-threat-probe-2026-07-18/",
     "title": "UK police find no evidence of terror offence in Islamic event threat probe",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-10 00:20",
     "pub_ts": 1783614015
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/europe/european-shares-gain-tech-stocks-rebound-middle-east-focus-2026-07-09/",
-    "title": "Tech rebound lifts European shares after three-day slide",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-10 00:19",
-    "pub_ts": 1783613964
   }
 ]
