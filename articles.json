@@ -1,5 +1,50 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://gx.people.com.cn/n2/2026/0718/c179464-41642957.html",
+    "title": "这抹\"红\",筑起冲不垮的\"堤\"",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 01:32",
+    "pub_ts": 1784395920
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ah.people.com.cn/n2/2026/0718/c227131-41642964.html",
+    "title": "“弋新”向阳丨欢乐解码 快乐加倍",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 01:32",
+    "pub_ts": 1784395920
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/two-us-service-members-jordan-killed-iranian-attack-us-says-2026-07-18/",
+    "title": "Two US service members in Jordan killed in Iranian attack, US says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 01:27",
+    "pub_ts": 1784395658
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarys-president-signs-law-change-ending-his-term-office-2026-07-18/",
+    "title": "Hungary's president signs law change ending his term in office",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 01:04",
+    "pub_ts": 1784394264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/irans-supreme-leader-says-us-breaches-show-trumps-signature-is-worthless-2026-07-18/",
+    "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 00:59",
+    "pub_ts": 1784393984
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-hezbollah-fighters-after-drone-spotted-southern-2026-07-18/",
     "title": "Israeli military says it struck Hezbollah fighters after drone spotted in southern Lebanon",
@@ -26953,50 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-10 00:17",
     "pub_ts": 1783613863
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/roommate-charlie-kirk-killing-suspect-make-first-public-statement-2026-07-09/",
-    "title": "Interview with roommate of Charlie Kirk killing suspect to be played in court",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-10 00:12",
-    "pub_ts": 1783613570
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/imfs-georgieva-venezuelan-acting-president-discuss-use-sdrs-earthquake-needs-2026-07-09/",
-    "title": "IMF's Georgieva, Venezuelan acting president discuss use of SDRs for earthquake needs",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 00:09",
-    "pub_ts": 1783613384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/new-york-times-led-group-asks-court-sanction-openai-us-copyright-dispute-2026-07-09/",
-    "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-10 00:08",
-    "pub_ts": 1783613303
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/overcrowding-lack-clean-water-among-biggest-health-risks-venezuela-quakes-says-2026-07-09/",
-    "title": "Overcrowding, lack of clean water among biggest health risks from Venezuela quakes says PAHO",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 00:07",
-    "pub_ts": 1783613264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/qiagen-draws-early-takeover-interest-eqt-advent-kkr-bloomberg-news-reports-2026-07-09/",
-    "title": "EQT, Advent, KKR explore takeover of diagnostics firm Qiagen, Bloomberg News reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 00:02",
-    "pub_ts": 1783612971
   }
 ]
