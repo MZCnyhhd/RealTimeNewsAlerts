@@ -1,6 +1,87 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://xz.people.com.cn/n2/2026/0719/c138901-41643406.html",
+    "title": "向秋拉姆母子的\"鹿\"与\"路\"",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 19:20",
+    "pub_ts": 1784460028
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763668.html",
+    "title": "世界人工智能合作组织未来将重点开展三方面工作",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 19:20",
+    "pub_ts": 1784460028
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://edu.people.com.cn/n1/2026/0719/c1006-40763667.html",
+    "title": "中国代表队4名选手获第58届国际化学奥赛金牌",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 19:20",
+    "pub_ts": 1784460028
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0719/c1004-40763653.html",
+    "title": "西南地区及长江中下游有较强降雨",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-19 19:20",
+    "pub_ts": 1784460028
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://qh.people.com.cn/n2/2026/0719/c378418-41643307.html",
+    "title": "隆务河畔，画笔生辉",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 19:20",
+    "pub_ts": 1784460028
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/jordan-has-not-ordered-evacuation-aqaba-airport-or-seaport-govt-spokesperson-2026-07-19/",
+    "title": "Jordan has not ordered evacuation of Aqaba airport or seaport, gov't spokesperson says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 19:13",
+    "pub_ts": 1784459624
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/gulf-crude-exports-jump-july-shipments-slowing-renewed-hostilities-data-shows-2026-07-19/",
+    "title": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 19:03",
+    "pub_ts": 1784459024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-military-physical-fitness-requirements-wake-hegseths-fat-generals-comment-2025-09-30/",
+    "title": "What are US military physical fitness requirements?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 19:00",
+    "pub_ts": 1784458855
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/germanys-merz-signals-possible-opportunity-cabinet-reshuffle-2026-07-19/",
+    "title": "Germany's Merz signals possible opportunity for cabinet reshuffle",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 18:17",
+    "pub_ts": 1784456263
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0718/c1004-40763311.html",
     "title": "从中国经济“半年报”看产业向“新”力",
     "path": "/finance/",
@@ -26917,86 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-10 07:54",
     "pub_ts": 1783641264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/openais-applications-chief-fidji-simo-step-down-2026-07-09/",
-    "title": "OpenAI's AGI deployment chief Fidji Simo to step down",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 07:51",
-    "pub_ts": 1783641079
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/uk-shopping-trips-fall-june-heatwave-takes-toll-brc-says-2026-07-09/",
-    "title": "UK shopping trips fall in June as heatwave takes toll, BRC says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 07:21",
-    "pub_ts": 1783639285
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/geopolitical-shifts-drive-sovereign-funds-towards-national-priorities-study-2026-07-09/",
-    "title": "Geopolitical shifts drive sovereign funds towards national priorities, study finds",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-10 07:16",
-    "pub_ts": 1783639008
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/tracking-western-europes-heatwave-2026-07-09/",
-    "title": "Tracking Western Europe's Heatwave",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 07:10",
-    "pub_ts": 1783638616
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/federal-grand-jury-indicts-8-men-over-alleged-plot-attack-white-house-ufc-event-2026-07-09/",
-    "title": "Federal grand jury indicts 8 men over alleged plot to attack White House UFC event, DOJ says",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-10 07:09",
-    "pub_ts": 1783638544
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/global-ev-demand-rises-again-europe-offsets-china-us-weakness-2026-07-09/",
-    "title": "Global EV demand rises again as Europe offsets China, U.S. weakness",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 07:05",
-    "pub_ts": 1783638343
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0710/c1024-40757124.html",
-    "title": "习近平对福建泉州晋江市一鞋厂火灾事故作出重要指示",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40757136.html",
-    "title": "应急管理部派联合工作组赴晋江指导事故救援",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0710/c461530-40757172.html",
-    "title": "习近平党建思想对马克思主义建党学说的丰富和发展",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
   }
 ]
