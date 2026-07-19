@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/wildfire-frances-mediterranean-coast-forces-hamlet-evacuations-2026-07-19/",
+    "title": "Wildfire on France's Mediterranean coast forces hamlet evacuations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-20 02:15",
+    "pub_ts": 1784484918
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/autos-transportation/boeing-track-2028-air-force-one-delivery-costs-rise-2026-07-19/",
     "title": "Boeing on track for 2028 Air Force One delivery, costs rise",
     "path": "/business/",
@@ -26985,15 +26994,6 @@
     "source": "People's Daily",
     "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757219.html",
     "title": "美袭伊朗布什尔核电站等地 伊朗打击多处美军目标",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0710/c1002-40757137.html",
-    "title": "“习近平新时代中国特色社会主义思想与世界”国际研讨会举行",
     "path": "/world/",
     "category": "world",
     "pub_bj": "2026-07-10 07:59",
