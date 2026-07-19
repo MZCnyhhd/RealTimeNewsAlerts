@@ -1,6 +1,24 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://he.people.com.cn/n2/2026/0719/c192235-41643313.html",
+    "title": "风从赵都来 钢城新卷开",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-19 23:36",
+    "pub_ts": 1784475411
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/egypt-says-petrojet-enppi-chosen-oman-project-portfolio-exceeding-6-billion-2026-07-19/",
+    "title": "Egypt says Petrojet-ENPPI chosen for Oman project portfolio exceeding $6 billion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 23:02",
+    "pub_ts": 1784473328
+  },
+  {
+    "source": "People's Daily",
     "url": "http://sh.people.com.cn/n2/2026/0719/c134768-41643410.html",
     "title": "2026世界人工智能大会直击",
     "path": "/general/",
@@ -26978,24 +26996,6 @@
     "title": "向着科技强国目标坚定迈进——2025年度国家科学技术奖特别报道",
     "path": "/finance/",
     "category": "finance",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40757210.html",
-    "title": "中央气象台发布台风橙色预警",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40757149.html",
-    "title": "国家救灾响应级别针对广西提至三级",
-    "path": "/society/",
-    "category": "society",
     "pub_bj": "2026-07-10 07:59",
     "pub_ts": 1783641551
   }
