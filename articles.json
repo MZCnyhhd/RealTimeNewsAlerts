@@ -1,5 +1,50 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763678.html",
+    "title": "AI发展迎来里程碑",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-19 21:47",
+    "pub_ts": 1784468854
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/boeing-studying-new-737-max-production-hikes-2026-07-19/",
+    "title": "Boeing studying new 737 MAX production hikes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 21:23",
+    "pub_ts": 1784467424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/gulf-bourses-retreat-usiran-hostilities-intensify-2026-07-19/",
+    "title": "Gulf bourses retreat as US–Iran hostilities intensify",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 20:53",
+    "pub_ts": 1784465624
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-pollster-yougov-eyes-levings-next-ceo-sky-news-reports-2026-07-19/",
+    "title": "UK pollster YouGov eyes Levings as next CEO, Sky News reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 20:27",
+    "pub_ts": 1784464075
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-republicans-should-add-iran-russian-bill-2026-07-19/",
+    "title": "Trump says Republicans should add Iran to Russian bill",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 20:11",
+    "pub_ts": 1784463111
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/aerospace-defense/israel-receive-more-us-refuelling-planes-iran-attacks-intensify-israeli-2026-07-19/",
     "title": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
@@ -26951,51 +26996,6 @@
     "title": "以精准考核校准发力方向",
     "path": "/society/",
     "category": "society",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0710/c1012-40757191.html",
-    "title": "微短剧奔向长赛道",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0710/c1012-40757251.html",
-    "title": "呈现新大众文艺的盛夏图景",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40757201.html",
-    "title": "技术只有长在田里才算数",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0710/c1008-40757202.html",
-    "title": "为农民当好“搭桥的人”",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://health.people.com.cn/n1/2026/0710/c14739-40757180.html",
-    "title": "舒展筋骨，试试健身球操",
-    "path": "/general/",
-    "category": "general",
     "pub_bj": "2026-07-10 07:59",
     "pub_ts": 1783641551
   }
