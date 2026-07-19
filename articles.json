@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarys-pm-magyar-ask-chess-champion-judit-polgar-become-president-2026-07-19/",
+    "title": "Hungary's PM Magyar to ask chess champion Judit Polgar to become president",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 04:29",
+    "pub_ts": 1784492987
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/russian-strike-cargo-ship-black-sea-kills-5-kyiv-says-2026-07-19/",
     "title": "Russian strike on cargo ship in Black Sea kills 5, Kyiv says",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-10 08:59",
     "pub_ts": 1783645183
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757254.html",
-    "title": "\"古巴社会数字化转型\"项目正式启动",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
   }
 ]
