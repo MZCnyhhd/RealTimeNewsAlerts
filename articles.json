@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russian-strike-cargo-ship-black-sea-kills-5-kyiv-says-2026-07-19/",
+    "title": "Russian strike on cargo ship in Black Sea kills 5, Kyiv says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 04:22",
+    "pub_ts": 1784492573
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/us-service-member-killed-northern-iraq-us-central-command-says-2026-07-19/",
     "title": "US service member killed in northern Iraq, U.S. Central Command says",
     "path": "/world/",
@@ -26985,15 +26994,6 @@
     "source": "People's Daily",
     "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757254.html",
     "title": "\"古巴社会数字化转型\"项目正式启动",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757217.html",
-    "title": "霍尔木兹海峡通航量骤降 几近停滞",
     "path": "/world/",
     "category": "world",
     "pub_bj": "2026-07-10 07:59",
