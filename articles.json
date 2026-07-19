@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-renews-strikes-iran-after-two-military-personnel-were-killed-by-iranian-2026-07-18/",
+    "title": "US renews strikes on Iran after two military personnel were killed by Iranian attack",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 07:30",
+    "pub_ts": 1784417406
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763370.html",
     "title": "“促进全球人工智能朝着向上向善、造福人类的方向发展”",
@@ -26987,15 +26996,6 @@
     "title": "科技创新,一直在总书记的学习清单上",
     "path": "/finance/",
     "category": "finance",
-    "pub_bj": "2026-07-10 02:23",
-    "pub_ts": 1783621410
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40757122.html",
-    "title": "抓住历史机遇 迎接时代挑战",
-    "path": "/politics/",
-    "category": "politics",
     "pub_bj": "2026-07-10 02:23",
     "pub_ts": 1783621410
   }
