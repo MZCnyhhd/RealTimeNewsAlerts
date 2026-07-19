@@ -1,5 +1,23 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/israel-receive-more-us-refuelling-planes-iran-attacks-intensify-israeli-2026-07-19/",
+    "title": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 19:51",
+    "pub_ts": 1784461866
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/us-hurricane-center-says-80-chance-cyclone-next-48-hours-near-florida-2026-07-19/",
+    "title": "US hurricane center says 80% chance of cyclone in next 48 hours near Florida",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 19:33",
+    "pub_ts": 1784460823
+  },
+  {
     "source": "People's Daily",
     "url": "http://xz.people.com.cn/n2/2026/0719/c138901-41643406.html",
     "title": "向秋拉姆母子的\"鹿\"与\"路\"",
@@ -26980,23 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-10 07:59",
     "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0710/c1012-40757123.html",
-    "title": "法国率先晋级世界杯四强",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/australias-nextdc-signs-16-billion-senior-debt-facilities-fund-expansion-2026-07-09/",
-    "title": "Australia's NEXTDC signs $1.6 billion senior debt facilities to fund expansion",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 07:54",
-    "pub_ts": 1783641264
   }
 ]
