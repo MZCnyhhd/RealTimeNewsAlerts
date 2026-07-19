@@ -1,6 +1,69 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763660.html",
+    "title": "习近平主席引领人工智能发展",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-19 16:33",
+    "pub_ts": 1784449988
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763535.html",
+    "title": "委内瑞拉提取3.46亿美元用于震后重建",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 16:33",
+    "pub_ts": 1784449988
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763611.html",
+    "title": "国航开通北京至比什凯克直飞航线",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 16:33",
+    "pub_ts": 1784449988
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/men-more-likely-than-women-use-job-offers-pay-rises-study-finds-2026-07-19/",
+    "title": "Men more likely than women to use job offers for pay rises, study finds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 16:06",
+    "pub_ts": 1784448372
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/caspian-pipeline-consortium-oil-loadings-suspended-after-drone-attacks-tankers-2026-07-19/",
+    "title": "Caspian Pipeline Consortium oil loadings suspended after drone attacks on tankers, CPC says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 15:50",
+    "pub_ts": 1784447421
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/democratic-taiwan-must-not-become-chinas-taiwan-president-says-2026-07-19/",
+    "title": "Democratic Taiwan must not become 'China's Taiwan', president says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-19 15:39",
+    "pub_ts": 1784446748
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/southern-china-braces-more-rain-chongqing-landslide-search-continues-2026-07-19/",
+    "title": "Southern China braces for more rain, Chongqing landslide search continues",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-19 15:35",
+    "pub_ts": 1784446530
+  },
+  {
+    "source": "People's Daily",
     "url": "http://cq.people.com.cn/n2/2026/0719/c365401-41643365.html",
     "title": "重庆彭水，一场与时间赛跑的营救",
     "path": "/general/",
@@ -26935,68 +26998,5 @@
     "category": "politics",
     "pub_bj": "2026-07-10 06:56",
     "pub_ts": 1783637762
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0710/c461001-40757146.html",
-    "title": "\"十五五\"开局起步",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0710/c461001-40757129.html",
-    "title": "乘风破浪 向海图强 写在第二十二个中国航海日之际",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0710/c1001-40757132.html",
-    "title": "国务院印发《“十五五”碳达峰行动方案》",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-10 06:56",
-    "pub_ts": 1783637762
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-house-vote-bill-make-daylight-saving-time-permanent-2026-07-09/",
-    "title": "US House to vote on bill to make daylight saving time permanent",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 06:51",
-    "pub_ts": 1783637490
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/brazil-police-target-executive-linked-banco-masters-communication-efforts-2026-07-09/",
-    "title": "Brazil police target executive linked to Banco Master's communication efforts",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-10 06:48",
-    "pub_ts": 1783637330
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/zelenskiy-licenses-patriot-agreed-with-us-political-level-interceptors-be-2026-07-09/",
-    "title": "Zelenskiy says Patriot missile licences agreed with US at political level",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 06:20",
-    "pub_ts": 1783635608
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-doj-says-jersey-city-college-prep-school-end-dei-admissions-practices-2026-07-09/",
-    "title": "US DOJ says Jersey City college prep school to end DEI admissions practices",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-10 06:17",
-    "pub_ts": 1783635432
   }
 ]
