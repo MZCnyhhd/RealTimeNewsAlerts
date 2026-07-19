@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-service-member-killed-northern-iraq-us-central-command-says-2026-07-19/",
+    "title": "US service member killed in northern Iraq, U.S. Central Command says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 03:31",
+    "pub_ts": 1784489492
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/environment/wildfire-frances-mediterranean-coast-forces-hamlet-evacuations-2026-07-19/",
     "title": "Wildfire on France's Mediterranean coast forces hamlet evacuations",
     "path": "/business/",
@@ -26985,15 +26994,6 @@
     "source": "People's Daily",
     "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757217.html",
     "title": "霍尔木兹海峡通航量骤降 几近停滞",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-10 07:59",
-    "pub_ts": 1783641551
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0710/c1002-40757219.html",
-    "title": "美袭伊朗布什尔核电站等地 伊朗打击多处美军目标",
     "path": "/world/",
     "category": "world",
     "pub_bj": "2026-07-10 07:59",
