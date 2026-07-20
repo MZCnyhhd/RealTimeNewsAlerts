@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-orders-tightening-defense-supply-chain-waiver-rules-2026-07-20/",
+    "title": "Trump orders tightening of defense supply chain waiver rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-21 03:53",
+    "pub_ts": 1784577223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/capital-one-defeats-lawsuit-alleging-excessive-credit-card-rates-2026-07-20/",
+    "title": "Capital One defeats lawsuit alleging excessive credit card rates",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 03:51",
+    "pub_ts": 1784577088
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/chevron-shuts-us-gulf-platform-preparation-developing-tropical-storm-2026-07-20/",
+    "title": "Chevron shuts in US Gulf platform in preparation for developing tropical storm",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 03:47",
+    "pub_ts": 1784576864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/india-markets-regulator-penalises-depository-over-2022-malware-attack-2026-07-20/",
+    "title": "India markets regulator penalises depository over 2022 malware attack",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-21 03:26",
+    "pub_ts": 1784575585
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/aercap-order-15-boeing-787-sources-say-2026-07-20/",
+    "title": "AerCap to order 15 Boeing 787, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 03:23",
+    "pub_ts": 1784575424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-appeals-court-decertifies-boeing-class-action-stemming-max-9-blowout-2026-07-20/",
+    "title": "Boeing class action over MAX 9 blowout decertified by US appeals court",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 03:14",
+    "pub_ts": 1784574893
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/day-andy-burnham-becomes-uk-pm-northern-city-loses-trains-london-2026-07-20/",
+    "title": "On the day Andy Burnham becomes UK PM, a northern city loses trains to London",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 03:07",
+    "pub_ts": 1784574438
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/darline-graham-run-full-term-replace-her-brother-us-senate-2026-07-20/",
+    "title": "Darline Graham to run for full term to replace her brother in U.S. Senate",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 03:03",
+    "pub_ts": 1784574210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/mans-death-during-police-arrest-italy-leads-street-protests-2026-07-20/",
+    "title": "Man's death during police arrest in Italy leads to street protests",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 03:01",
+    "pub_ts": 1784574103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/UDD23URSRNI23PTMMGXFW4NJQ4-2026-07-20/",
+    "title": "Foto alterada sugiere que Lionel Messi pisoteó a jugador inglés en semifinal del Mundial",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-21 02:59",
+    "pub_ts": 1784573945
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/jetblue-wins-auction-spirits-laguardia-flight-slots-2026-07-20/",
     "title": "JetBlue wins auction for Spirit's LaGuardia flight slots",
     "path": "/legal/",
@@ -162,6 +252,78 @@
     "pub_ts": 1784567327
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-pulls-back-one-month-high-inflation-cools-2026-07-20/",
+    "title": "Canadian dollar pulls back from one-month high as inflation cools",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 01:01",
+    "pub_ts": 1784566869
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-by-51-million-barrels-lowest-2026-07-20/",
+    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 00:37",
+    "pub_ts": 1784565465
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-says-data-cyclosporiasis-points-shredded-iceberg-lettuce-taylor-farms-mexico-2026-07-20/",
+    "title": "FDA says data on cyclosporiasis points to shredded iceberg lettuce from Taylor Farms in Mexico",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 00:37",
+    "pub_ts": 1784565465
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/valeo-make-drone-motors-france-harmattan-ai-2026-07-20/",
+    "title": "Valeo to make drone motors in France for Harmattan AI",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-21 00:36",
+    "pub_ts": 1784565391
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/state-ags-are-not-waiting-new-regulations-exercise-authority-over-ai-use--pracin-2026-07-20/",
+    "title": "State AGs are not waiting for new regulations to exercise authority over AI use",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-21 00:26",
+    "pub_ts": 1784564817
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-africa-opposition-proposes-law-curb-political-influence-pic-2026-07-20/",
+    "title": "South Africa opposition proposes law to curb political influence at PIC",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 00:18",
+    "pub_ts": 1784564300
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/ortega-says-nicaragua-will-no-longer-hold-elections-2026-07-20/",
+    "title": "Ortega says Nicaragua will no longer hold elections",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 00:17",
+    "pub_ts": 1784564264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-imports-nine-month-high-buoy-copper-prices-2026-07-20/",
+    "title": "China imports at nine-month high buoy copper prices",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-21 00:11",
+    "pub_ts": 1784563903
+  },
+  {
     "source": "People's Daily",
     "url": "http://world.people.com.cn/n1/2026/0720/c1002-40764513.html",
     "title": "中泰关于面向繁荣中泰命运共同体的联合声明",
@@ -313,6 +475,51 @@
     "category": "business",
     "pub_bj": "2026-07-20 23:27",
     "pub_ts": 1784561265
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-suspends-aviation-firm-linked-beijing-light-aircraft-crash-2026-07-20/",
+    "title": "China suspends aviation firm linked to Beijing light aircraft crash",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 23:15",
+    "pub_ts": 1784560530
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-rachel-reeves-resigns-finance-minister-2026-07-20/",
+    "title": "UK finance minister Rachel Reeves leaves government",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 23:03",
+    "pub_ts": 1784559821
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-deputy-pm-lammy-leaves-government-2026-07-20/",
+    "title": "UK deputy PM Lammy leaves government",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 22:57",
+    "pub_ts": 1784559463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-attacks-deepen-hardship-not-dissent-irans-restive-south-2026-07-20/",
+    "title": "US attacks deepen hardship, not dissent, in Iran's restive south",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-20 22:52",
+    "pub_ts": 1784559130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/tempus-acquire-personalis-15-billion-2026-07-20/",
+    "title": "Tempus to buy cancer test maker Personalis for $1.5 billion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-20 22:44",
+    "pub_ts": 1784558646
   },
   {
     "source": "Reuters",
@@ -26791,212 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-11 10:22",
     "pub_ts": 1783736524
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/new-zealand-india-upgrade-ties-pm-modi-visits-auckland-2026-07-11/",
-    "title": "New Zealand, India upgrade ties as PM Modi visits Auckland",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 10:15",
-    "pub_ts": 1783736143
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-acting-spy-chief-announces-third-round-terminations-2026-07-11/",
-    "title": "US acting spy chief announces new round of staff reductions",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 10:11",
-    "pub_ts": 1783735904
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-citizen-congo-tests-positive-ebola-virus-us-cdc-says-2026-07-11/",
-    "title": "US citizen in Congo tests positive for Ebola virus, US CDC says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-11 10:07",
-    "pub_ts": 1783735663
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/us-latin-american-allies-urge-against-casting-doubt-colombias-electoral-process-2026-07-11/",
-    "title": "US, Latin American allies urge against casting doubt on Colombia's electoral process",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 09:51",
-    "pub_ts": 1783734704
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/new-york-city-ban-firms-using-subscription-traps-officials-say-2026-07-11/",
-    "title": "New York City to ban firms from using subscription traps, officials say",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-11 09:51",
-    "pub_ts": 1783734695
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/kyiv-under-russian-missile-attack-officials-say-2026-07-11/",
-    "title": "Kyiv under Russian missile attack, officials say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 09:37",
-    "pub_ts": 1783733866
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/bahamas-grounds-flamingo-air-after-10-die-plane-crash-2026-07-11/",
-    "title": "Bahamas grounds Flamingo Air after 10 die in plane crash",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-11 09:34",
-    "pub_ts": 1783733684
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/russias-diesel-export-ban-deepens-global-supply-crunch-2026-07-11/",
-    "title": "Russia's diesel export ban deepens global supply crunch",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-11 09:27",
-    "pub_ts": 1783733264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-activist-investors-must-disclose-clients-filings-sec-says-2026-07-11/",
-    "title": "US activist investors must disclose clients in filings, SEC says",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-11 08:59",
-    "pub_ts": 1783731543
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-officials-sought-ways-sidestep-election-agency-before-firings-sources-say-2026-07-11/",
-    "title": "Trump officials sought ways to sidestep election agency before firings, sources say",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-11 08:51",
-    "pub_ts": 1783731111
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0711/c1008-40758313.html",
-    "title": "福建泉州通报火灾事故情况",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-11 08:10",
-    "pub_ts": 1783728622
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0711/c1004-40758324.html",
-    "title": "人工智能学会“使坏”，我们怎么办",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-11 08:10",
-    "pub_ts": 1783728622
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/malaysians-johor-state-go-polls-test-unity-pm-anwars-coalition-2026-07-11/",
-    "title": "Malaysians in Johor state go to the polls in test of unity for PM Anwar's coalition",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 08:06",
-    "pub_ts": 1783728409
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10/",
-    "title": "Meta discontinues AI image feature days after launch",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-11 07:34",
-    "pub_ts": 1783726489
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/activist-investor-elliott-builds-stake-software-firm-ccc-bloomberg-news-reports-2026-07-10/",
-    "title": "Activist investor Elliott builds stake in software firm CCC, Bloomberg News reports",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-11 07:21",
-    "pub_ts": 1783725695
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758284.html",
-    "title": "习近平同纳米比亚总统恩代特瓦会谈",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0711/c1002-40758301.html",
-    "title": "纳米比亚总统恩代特瓦向人民英雄纪念碑敬献花圈",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758285.html",
-    "title": "习近平会见朝鲜内阁总理朴泰成",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1001-40758292.html",
-    "title": "凝聚起建设科技强国的强大合力",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0711/c1002-40758341.html",
-    "title": "执大象 天下往——2026年上半年中国元首外交纪实",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758286.html",
-    "title": "李强主持召开国务院常务会议",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758287.html",
-    "title": "赵乐际分别会见纳米比亚总统、朝鲜内阁总理",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0711/c1024-40758288.html",
-    "title": "王沪宁出席建设现代化产业体系调研协商座谈会",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-11 07:15",
-    "pub_ts": 1783725316
   }
 ]
