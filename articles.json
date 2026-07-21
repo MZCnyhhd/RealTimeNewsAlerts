@@ -1,6 +1,60 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/democratic-lawmakers-press-skadden-trump-agreement-citing-work-intel-equity-2026-07-21/",
+    "title": "Democratic lawmakers press Skadden on Trump agreement, citing work on Intel equity stake sale",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 06:07",
+    "pub_ts": 1784671678
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-history-museum-head-says-patriotism-is-its-best-when-it-is-not-instructed-2026-07-21/",
+    "title": "US history museum head says patriotism is at its best when it is 'not instructed but inspired'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 05:50",
+    "pub_ts": 1784670611
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-treasury-flags-wall-street-tax-strategies-potentially-abusive-bloomberg-news-2026-07-21/",
+    "title": "US Treasury flags Wall Street tax strategies as potentially abusive, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 05:43",
+    "pub_ts": 1784670199
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/judges-pick-seattles-federal-prosecutor-sues-trump-after-ouster-2026-07-21/",
+    "title": "Judges' pick for Seattle's federal prosecutor sues Trump after ouster",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 05:37",
+    "pub_ts": 1784669872
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+    "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-22 05:31",
+    "pub_ts": 1784669503
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/interactive-brokers-quarterly-profit-leaps-brisk-trading-2026-07-21/",
+    "title": "Interactive Brokers' quarterly profit leaps on brisk trading",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 05:21",
+    "pub_ts": 1784668903
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/us-solomon-islands-discuss-deepening-ties-return-peace-corps-2026-07-21/",
     "title": "US and Solomon Islands discuss deepening ties, return of Peace Corps",
     "path": "/world/",
@@ -26944,59 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-13 21:08",
     "pub_ts": 1783948081
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-control-strait-hormuz-get-paid-it-2026-07-13/",
-    "title": "Trump says the US should control the Strait of Hormuz and get paid for it",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 21:03",
-    "pub_ts": 1783947834
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/yemeni-military-targets-sanaa-airport-runway-stop-iranian-plane-landing-defence-2026-07-13/",
-    "title": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:59",
-    "pub_ts": 1783947597
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/watches-switzerland-held-talks-over-potential-takeover-offers-sources-say-2026-07-13/",
-    "title": "Watches of Switzerland held talks over potential takeover offers, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:58",
-    "pub_ts": 1783947485
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/i-squared-invest-up-2-billion-saudi-pifs-digital-infrastructure-cooling-plants-2026-07-13/",
-    "title": "I Squared to invest up to $2 billion in Saudi PIF's digital infrastructure and cooling plants",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:56",
-    "pub_ts": 1783947374
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/chinas-premier-urges-objective-understanding-economy-2026-07-13/",
-    "title": "China's premier urges 'objective' understanding of the economy",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:55",
-    "pub_ts": 1783947332
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/global-smartphone-shipments-second-quarter-hit-lowest-13-years-memory-chip-2026-07-13/",
-    "title": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:51",
-    "pub_ts": 1783947104
   }
 ]
