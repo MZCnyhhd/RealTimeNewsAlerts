@@ -1,6 +1,150 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-solomon-islands-discuss-deepening-ties-return-peace-corps-2026-07-21/",
+    "title": "US and Solomon Islands discuss deepening ties, return of Peace Corps",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 05:16",
+    "pub_ts": 1784668570
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/new-jersey-says-software-error-put-6600-noncitizens-voter-rolls-2026-04-13-2/",
+    "title": "Hundreds of non-citizens voted in New Jersey due to software error, governor says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 05:15",
+    "pub_ts": 1784668544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-375-billion-so-far-pentagon-says-2026-07-21/",
+    "title": "US war in Iran has cost $37.5 billion so far, Pentagon says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 05:11",
+    "pub_ts": 1784668310
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/gang-claims-responsibility-hack-coca-colas-fairlife-unit-2026-07-21/",
+    "title": "Gang claims responsibility for hack at Coca-Cola's fairlife unit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 05:11",
+    "pub_ts": 1784668303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/capital-one-second-quarter-profit-rises-higher-interest-income-2026-07-21/",
+    "title": "Capital One second-quarter profit rises on higher interest income",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 05:06",
+    "pub_ts": 1784667990
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-uae-ministers-use-social-media-signal-unity-after-months-tension-2026-07-21/",
+    "title": "Saudi, UAE ministers use social media to signal unity after months of tension",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 05:02",
+    "pub_ts": 1784667729
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/alaska-air-forecasts-quarterly-profit-below-estimates-jet-fuel-prices-stay-high-2026-07-21/",
+    "title": "Alaska Air forecasts quarterly profit below estimates as jet fuel prices stay high",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 04:59",
+    "pub_ts": 1784667599
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/super-micro-says-fourth-quarter-orders-topped-60-billion-2026-07-21/",
+    "title": "Super Micro expects stronger quarterly margins, shares jump",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-22 04:59",
+    "pub_ts": 1784667553
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/MSWQTVJTIJIM3K23RVWCLNHVEQ-2026-07-21/",
+    "title": "Trump não acusou Fifa de favorecer a Argentina",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-22 04:52",
+    "pub_ts": 1784667154
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/gilead-merck-weekly-hiv-pill-keeps-virus-suppressed-late-stage-trials-2026-07-21/",
+    "title": "Gilead, Merck weekly HIV pill keeps virus suppressed in late-stage trials",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 04:49",
+    "pub_ts": 1784666949
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/insurer-chubb-posts-higher-second-quarter-profit-strong-underwriting-business-2026-07-21/",
+    "title": "Insurer Chubb posts higher second-quarter profit on strong underwriting business",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 04:48",
+    "pub_ts": 1784666933
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/celldex-stop-skin-disease-study-after-trial-setback-2026-07-21/",
+    "title": "Celldex to stop skin disease study after trial setback",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 04:47",
+    "pub_ts": 1784666876
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/eqt-misses-quarterly-profit-estimates-weaker-natural-gas-prices-2026-07-21/",
+    "title": "EQT misses quarterly profit estimates on weaker natural gas prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 04:45",
+    "pub_ts": 1784666700
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/MW2CZH744BPIFJ3ZLXT2MHZOVU-2026-07-21/",
+    "title": "Não há evidências de que Infantino se manifestou sobre faixa “As Malvinas são argentinas”",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-22 04:36",
+    "pub_ts": 1784666175
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/litigation-when-ai-falls-short-historians-step-2026-07-21/",
+    "title": "In litigation, when AI falls short historians step in",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 04:35",
+    "pub_ts": 1784666144
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-is-increasing-capacity-inter-island-flights-2026-07-21/",
+    "title": "Hawaiian Airlines is increasing capacity on inter-island flights",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 04:34",
+    "pub_ts": 1784666058
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/bystander-wounded-near-white-house-sue-secret-service-lawyer-says-2026-07-21/",
     "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
     "path": "/legal/",
@@ -88,6 +232,15 @@
     "category": "world",
     "pub_bj": "2026-07-22 02:57",
     "pub_ts": 1784660278
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/pop-vocalist-d4vd-faces-evidentiary-hearing-murder-teenage-girl-2026-07-21/",
+    "title": "Pop vocalist D4vd faces evidentiary hearing in murder of teenage girl",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 02:47",
+    "pub_ts": 1784659623
   },
   {
     "source": "Reuters",
@@ -26845,158 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-13 20:51",
     "pub_ts": 1783947104
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/ousted-pm-hasina-faces-prison-return-bangladesh-minister-says-2026-07-13/",
-    "title": "Ousted PM Hasina faces prison on return to Bangladesh, minister says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:47",
-    "pub_ts": 1783946856
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/france-sends-water-bombers-tackle-wildfire-outside-paris-2026-07-13/",
-    "title": "Wildfire rages near Paris as heatwave scorches Europe",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:47",
-    "pub_ts": 1783946824
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/opec-further-lowers-2026-global-oil-demand-growth-forecast-2026-07-13/",
-    "title": "OPEC further lowers 2026 global oil demand growth forecast",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:46",
-    "pub_ts": 1783946793
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/macron-calls-go-it-alone-defence-strategies-europe-an-absurdity-2026-07-13/",
-    "title": "Macron calls go-it-alone defence strategies in Europe an 'absurdity'",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:44",
-    "pub_ts": 1783946674
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/italian-judge-rejects-inwits-bid-suspend-telecom-italia-exit-tower-contract-2026-07-13/",
-    "title": "Italian judge rejects INWIT bid to suspend Telecom Italia's exit from tower contract",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:43",
-    "pub_ts": 1783946621
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/intel-announces-57-billion-capital-investment-irish-manufacturing-hub-2026-07-13/",
-    "title": "Intel announces $5.7 billion AI-driven capital investment in Ireland",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:41",
-    "pub_ts": 1783946510
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-hcltech-beats-first-quarter-revenue-estimates-2026-07-13/",
-    "title": "India's HCLTech beats first-quarter revenue estimates on financial services strength",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:39",
-    "pub_ts": 1783946341
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/chesapeake-utilities-unit-build-12-billion-florida-gas-pipeline-project-2026-07-13/",
-    "title": "Chesapeake Utilities unit to build $1.2 billion Florida gas pipeline project",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:36",
-    "pub_ts": 1783946201
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/hormuz-traffic-slows-multi-week-low-renewed-us-iran-strikes-raise-safety-risk-2026-07-13/",
-    "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:33",
-    "pub_ts": 1783946008
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/no-way-out-survivors-describe-deadly-bangkok-bar-inferno-2026-07-13/",
-    "title": "'No way out': Survivors describe deadly Bangkok bar inferno",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:32",
-    "pub_ts": 1783945956
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/more-sun-needed-strengthen-ivory-coast-cocoa-crop-farmers-say-2026-07-13/",
-    "title": "More sun needed to strengthen Ivory Coast cocoa crop, farmers say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 20:19",
-    "pub_ts": 1783945184
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-asian-paints-hikes-prices-by-12-west-asia-conflict-drives-up-costs-2026-07-13/",
-    "title": "India's Asian Paints hikes prices by 12% as West Asia conflict drives up costs",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:18",
-    "pub_ts": 1783945089
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/graham-death-mcconnell-absence-hang-over-us-senate-congress-returns-2026-07-13/",
-    "title": "Graham death, McConnell absence hang over US Senate as Congress returns",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:16",
-    "pub_ts": 1783944980
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/russia-puts-some-akzo-nobel-assets-into-temporary-administration-2026-07-13/",
-    "title": "Russia puts some Akzo Nobel assets into temporary administration",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:15",
-    "pub_ts": 1783944944
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/german-finance-industry-racks-up-8-billion-costs-giant-tax-fraud-scheme-watchdog-2026-07-13/",
-    "title": "German finance industry racks up $8 billion in costs from giant tax fraud scheme, watchdog survey shows",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-13 20:15",
-    "pub_ts": 1783944912
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/germanys-merz-pushes-china-currency-talks-urges-freer-yuan-2026-07-13/",
-    "title": "Germany's Merz pushes China currency talks, urges freer yuan",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:13",
-    "pub_ts": 1783944825
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/heavy-handed-revenue-enforcement-threat-congo-mining-sector-warns-president-2026-07-13/",
-    "title": "Heavy-handed revenue enforcement a threat to Congo mining sector, warns president",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:13",
-    "pub_ts": 1783944824
   }
 ]
