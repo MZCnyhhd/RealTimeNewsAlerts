@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/bystander-wounded-near-white-house-sue-secret-service-lawyer-says-2026-07-21/",
+    "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 04:03",
+    "pub_ts": 1784664187
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iraqs-oil-minister-says-us-energy-deals-worth-about-200-billion-2026-07-21/",
+    "title": "Iraq's oil minister says US energy deals worth about $200 billion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-22 04:02",
+    "pub_ts": 1784664173
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/commander-mykhailo-drapatyi-becomes-ukraines-commander-in-chief-2026-07-21/",
+    "title": "Commander Mykhailo Drapatyi becomes Ukraine's commander-in-chief",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 04:00",
+    "pub_ts": 1784664017
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/bystander-wounded-near-white-house-sue-secret-service-lawyer-says-2026-04-13/",
+    "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 03:58",
+    "pub_ts": 1784663898
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-anti-bias-agency-moves-end-employer-reporting-worker-race-sex-data-2026-07-21/",
+    "title": "US anti-bias agency moves to end employer reporting of worker race, sex data",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 03:54",
+    "pub_ts": 1784663684
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-military-training-suffer-without-funding-boost-hegseth-says-2026-07-21/",
+    "title": "US military training to suffer without funding boost, Hegseth says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 03:53",
+    "pub_ts": 1784663620
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senator-urges-wall-street-reject-troubling-paid-early-access-trump-posts-2026-07-21/",
+    "title": "US senator urges Wall Street to reject 'troubling' paid early access to Trump posts",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 03:46",
+    "pub_ts": 1784663188
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senate-panel-narrowly-backs-trump-nominee-be-top-us-spy-2026-07-21/",
+    "title": "US Senate panel narrowly backs Trump nominee to be top US spy",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 03:11",
+    "pub_ts": 1784661103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-10-billion-us-backstop-facility-boost-reserves-source-says-2026-07-21/",
+    "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 03:10",
+    "pub_ts": 1784661054
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-sends-first-humanitarian-flight-cuba-under-new-aid-package-2026-07-21/",
+    "title": "US sends first humanitarian flight to Cuba under new aid package",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 02:57",
+    "pub_ts": 1784660278
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/government/trump-gains-another-appeals-court-opening-with-judges-planned-exit-2026-07-21/",
     "title": "Trump gains another appeals court opening with judge's planned exit",
     "path": "/legal/",
@@ -133,6 +223,24 @@
     "category": "world",
     "pub_bj": "2026-07-22 01:29",
     "pub_ts": 1784654976
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-trump-administration-stripping-immigrants-work-permits-2026-07-21/",
+    "title": "US judge blocks Trump administration from stripping immigrants of work permits",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 01:18",
+    "pub_ts": 1784654304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21/",
+    "title": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-22 01:16",
+    "pub_ts": 1784654211
   },
   {
     "source": "Reuters",
@@ -26890,113 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-13 20:13",
     "pub_ts": 1783944824
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-    "title": "The Download: a donor conception cap and world models for AI",
-    "path": "/the-download/",
-    "category": "the download",
-    "pub_bj": "2026-07-13 20:10",
-    "pub_ts": 1783944600
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/us-based-fintech-firm-payoneer-opens-tech-hub-india-boosts-hiring-2026-07-13/",
-    "title": "US-based fintech firm Payoneer opens tech hub in India, boosts hiring",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 20:09",
-    "pub_ts": 1783944589
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-proscribes-irans-irgc-terrorist-organisation-sky-news-reports-2026-07-13/",
-    "title": "UK outlaws two Iranian groups over antisemitic attacks in Britain",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:56",
-    "pub_ts": 1783943771
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/el-salvador-presidents-party-nominates-bukele-seek-third-term-2026-07-13/",
-    "title": "El Salvador president's party nominates Bukele to seek third term",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:56",
-    "pub_ts": 1783943769
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/hungarian-opposition-fideszs-parliamentary-group-chief-resigns-over-legislation-2026-07-13/",
-    "title": "Hungarian opposition Fidesz's parliamentary group chief resigns over legislation",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:55",
-    "pub_ts": 1783943746
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/transdigm-withdraws-planned-960-million-stellant-systems-acquisition-2026-07-13/",
-    "title": "TransDigm withdraws from planned $960 million Stellant Systems acquisition",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-13 19:55",
-    "pub_ts": 1783943745
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/emerging/an-emboldened-india-holds-out-better-terms-us-trade-talks-2026-07-13/",
-    "title": "An emboldened India holds out for better terms in US trade talks",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-13 19:50",
-    "pub_ts": 1783943423
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/view-indias-retail-inflation-accelerates-438-raising-rate-hike-expectations-2026-07-13/",
-    "title": "VIEW India's retail inflation accelerates to 4.38%, raising rate hike expectations",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:49",
-    "pub_ts": 1783943342
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/rescuers-search-crew-member-after-container-ship-attack-strait-hormuz-2026-07-13/",
-    "title": "Rescuers search for crew member after container ship attack in Strait of Hormuz",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:37",
-    "pub_ts": 1783942655
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/asean-outreach-may-give-myanmar-leaders-legitimacy-without-results-2026-07-13/",
-    "title": "ASEAN outreach may give Myanmar leaders legitimacy without results",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-13 19:35",
-    "pub_ts": 1783942557
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/pesticide-makers-stack-wins-against-us-environmental-public-health-groups-2026-07-13/",
-    "title": "Pesticide makers stack wins against US environmental, public health groups",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-13 19:30",
-    "pub_ts": 1783942200
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/nigerias-oil-output-hit-highest-level-since-2020-june-regulator-says-2026-07-13/",
-    "title": "Nigeria's oil output hit highest level since 2020 in June, regulator says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-13 19:26",
-    "pub_ts": 1783941965
   }
 ]
