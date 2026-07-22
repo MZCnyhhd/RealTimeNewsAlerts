@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/SF2VGG7I6BMNVECRZSPRHXRA74-2026-07-22/",
+    "title": "Imagen de Yamal con trofeo del Mundial fue alterada para incluir bandera palestina",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-23 03:40",
+    "pub_ts": 1784749253
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/K7G24PEQB5OFLELV5HRLI3VJXE-2026-07-22/",
+    "title": "Yamal cumprimentou Trump na final da Copa; vídeo foi adulterado",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-23 03:39",
+    "pub_ts": 1784749148
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/american-bar-association-says-government-lawyers-must-report-colleagues-unlawful-2026-07-22/",
+    "title": "American Bar Association says government lawyers must report colleagues' unlawful conduct",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-23 03:37",
+    "pub_ts": 1784749063
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-2026-07-22/",
+    "title": "Iran strikes on CIA facilities prompt questions about possible Russian role",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 03:33",
+    "pub_ts": 1784748832
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/teen-plaintiff-suing-meta-over-mental-health-harms-drops-his-claims-against-2026-07-22/",
+    "title": "Teen plaintiff suing Meta over mental health harms drops his claims against company days before trial",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 03:26",
+    "pub_ts": 1784748383
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/HJAMJINKMVN4VB2DTPM47QJGYM-2026-07-22/",
+    "title": "Lula não disse que quem não pode pagar saúde privada deve morrer no esquecimento",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-23 03:25",
+    "pub_ts": 1784748348
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/chatgpts-advice-kept-man-seeking-medical-treatment-dangerous-condition-lawsuit-2026-07-22/",
+    "title": "ChatGPT's advice kept man from seeking medical treatment for dangerous condition, lawsuit claims",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-23 03:21",
+    "pub_ts": 1784748105
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/fcc-votes-bar-sales-devices-with-parts-chinese-firms-posing-risks-2026-07-22/",
+    "title": "FCC votes to bar sales of devices with parts from Chinese firms posing risks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 03:02",
+    "pub_ts": 1784746929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-provide-37-billion-credit-firms-hit-by-us-tariffs-2026-07-22/",
+    "title": "Brazil to provide $3.7 billion in credit for firms hit by US tariffs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 03:01",
+    "pub_ts": 1784746904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/cme-profit-tops-estimates-ceo-says-perps-chatter-overshadows-results-2026-07-22/",
+    "title": "CME profit tops estimates, CEO says 'perps' chatter overshadows results",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-23 02:55",
+    "pub_ts": 1784746546
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/zelenskiy-speaks-us-envoys-discusses-weapons-2026-07-22/",
+    "title": "Zelenskiy speaks to U.S. envoys, discusses weapons",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 02:50",
+    "pub_ts": 1784746228
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
     "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
     "path": "/legal/",
@@ -88,6 +187,15 @@
     "category": "world",
     "pub_bj": "2026-07-23 01:40",
     "pub_ts": 1784742006
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/more-ships-change-course-red-sea-after-houthi-threats-shipping-data-shows-2026-07-22/",
+    "title": "More ships change course in Red Sea after Houthi threats, data shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 01:18",
+    "pub_ts": 1784740699
   },
   {
     "source": "People's Daily",
@@ -700,6 +808,15 @@
     "category": "fact-check",
     "pub_bj": "2026-07-22 23:19",
     "pub_ts": 1784733595
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/uber-lyft-win-court-block-nyc-law-requiring-notice-before-firing-drivers-2026-07-22/",
+    "title": "Uber, Lyft win court block on NYC law requiring notice before firing drivers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-22 23:16",
+    "pub_ts": 1784733408
   },
   {
     "source": "Reuters",
@@ -26881,122 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-14 22:03",
     "pub_ts": 1784037823
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/former-president-sall-visit-senegal-he-campaigns-un-chief-post-2026-07-14/",
-    "title": "Former president Sall to visit Senegal as he campaigns for UN chief post",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-14 22:03",
-    "pub_ts": 1784037821
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-begins-trial-gileads-experimental-antiviral-ebola-bundibugyo-2026-07-14/",
-    "title": "Congo begins trial of Gilead's experimental antiviral for Ebola Bundibugyo",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-14 21:59",
-    "pub_ts": 1784037546
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/meta-used-ai-target-workers-with-medical-conditions-layoffs-former-employees-2026-07-14/",
-    "title": "Meta used AI to target workers with medical conditions for layoffs, former employees' lawsuit claims",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-14 21:58",
-    "pub_ts": 1784037535
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/us/traders-expect-fed-skip-july-rate-hike-inflation-cools-2026-07-14/",
-    "title": "Traders expect Fed to skip July rate hike as inflation cools",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-14 21:49",
-    "pub_ts": 1784036948
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/ukraine-buy-rafale-jets-air-defence-systems-under-france-deal-2026-07-14/",
-    "title": "Ukraine to buy Rafale jets, air defence systems under France deal",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-14 21:48",
-    "pub_ts": 1784036923
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/portugal-seeks-high-value-data-centres-not-become-europes-dumping-ground-2026-07-14/",
-    "title": "Portugal seeks high-value data centres, not to become Europe's dumping ground",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-14 21:46",
-    "pub_ts": 1784036811
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/china-memory-chipmaker-cxmt-expects-raise-579-billion-yuan-ipo-2026-07-14/",
-    "title": "China memory chipmaker CXMT expects to raise 57.9 billion yuan in IPO",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-14 21:44",
-    "pub_ts": 1784036663
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/tsx-futures-slip-us-iran-tensions-weigh-2026-07-14/",
-    "title": "TSX opens higher as materials, energy stocks gain",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-14 21:44",
-    "pub_ts": 1784036650
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/iea-warns-eu-methane-law-could-limit-blocs-oil-supply-options-2026-07-14/",
-    "title": "IEA warns EU methane law could limit bloc's oil supply options",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-14 21:43",
-    "pub_ts": 1784036624
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/head-ukraines-state-weapons-producer-resigns-after-warehouse-blast-2026-07-14/",
-    "title": "Head of Ukraine's state weapons producer resigns after warehouse blast",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-14 21:35",
-    "pub_ts": 1784036151
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-tata-elxsi-logs-quarterly-profit-rise-higher-tech-spending-media-clients-2026-07-14/",
-    "title": "India's Tata Elxsi logs quarterly profit rise on higher tech spending from media clients",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-14 21:35",
-    "pub_ts": 1784036143
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/south-africas-idexis-appeals-court-ruling-over-compounded-weight-loss-drugs-2026-07-14/",
-    "title": "South Africa's iDexis appeals court ruling over compounded weight-loss drugs",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-14 21:33",
-    "pub_ts": 1784035998
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/india-proposes-easing-path-funds-insurers-raise-bank-stakes-up-10-2026-07-14/",
-    "title": "India proposes easing path for funds, insurers to raise bank stakes up to 10%",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-14 21:25",
-    "pub_ts": 1784035545
   }
 ]
