@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/counting-costs-iran-war-2026-07-23/",
+    "title": "Counting the costs of the Iran war",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 03:15",
+    "pub_ts": 1784834117
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/texas-court-says-states-lawsuit-claiming-midwife-violated-abortion-ban-lacks-2026-07-23/",
+    "title": "Texas court says state's lawsuit claiming midwife violated abortion ban lacks evidence",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 03:12",
+    "pub_ts": 1784833936
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-states-sue-trump-administration-conditioning-disaster-funds-election-changes-2026-07-23/",
+    "title": "US states sue Trump administration for conditioning disaster funds on election changes",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 03:11",
+    "pub_ts": 1784833871
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/property-companies-argan-wdp-plan-merger-create-new-13-billion-company-2026-07-23/",
+    "title": "Property companies Argan and WDP plan merger to create new €13 billion company",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 03:00",
+    "pub_ts": 1784833245
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/trump-says-xi-will-visit-us-september-24-2026-07-23/",
+    "title": "Trump says Xi will visit US on September 24",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 02:51",
+    "pub_ts": 1784832695
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-administration-urges-congress-pass-permanent-daylight-saving-time-2026-07-23/",
+    "title": "Trump administration urges Congress to pass permanent daylight saving time",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 02:46",
+    "pub_ts": 1784832391
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-7644-cyclosporiasis-cases-ongoing-outbreak-2026-07-23/",
+    "title": "Taylor Farms temporarily shuts Mexico processing facility as U.S. cyclosporiasis cases rise, source says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 02:37",
+    "pub_ts": 1784831864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strike-west-bank-violence-kill-five-palestinians-officials-say-2026-07-23/",
+    "title": "Israeli strike, West Bank violence kill five Palestinians, officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 02:35",
+    "pub_ts": 1784831744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/",
+    "title": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 02:35",
+    "pub_ts": 1784831710
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/japans-iyogin-ehime-bank-final-stages-merger-talks-nikkei-reports-2026-07-23/",
+    "title": "Japan's Iyogin, Ehime Bank in final stages of merger talks, Nikkei reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 02:34",
+    "pub_ts": 1784831694
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/un-rights-office-deplores-alleged-killing-torture-malian-soldiers-by-insurgents-2026-07-23/",
+    "title": "UN rights office deplores alleged killing, torture of Malian soldiers by insurgents",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 02:28",
+    "pub_ts": 1784831290
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/transparency-independence-biggest-us-power-grid-focus-ferc-mulls-major-reforms-2026-07-23/",
     "title": "Transparency and independence of biggest US power grid in focus as FERC mulls major reforms",
     "path": "/legal/",
@@ -144,6 +243,15 @@
     "pub_ts": 1784826305
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/whats-eus-21st-package-sanctions-against-russia-2026-07-23/",
+    "title": "What's in the EU's 21st package of sanctions against Russia",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 01:01",
+    "pub_ts": 1784826104
+  },
+  {
     "source": "MIT Tech Review",
     "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
@@ -151,6 +259,51 @@
     "category": "biotechnology and health",
     "pub_bj": "2026-07-24 00:58",
     "pub_ts": 1784825908
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-rtx-lift-2026-forecasts-pentagon-looks-restock-weapons-2026-07-23/",
+    "title": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 00:53",
+    "pub_ts": 1784825629
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/raiffeisen-sue-rasperia-315-billion-austria-2026-07-23/",
+    "title": "RBI says to pursue $3.6 billion in damages from Russia's Rasperia in Austria",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 00:53",
+    "pub_ts": 1784825621
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-place-popular-peptide-bpc-157-compounding-list-2026-07-23/",
+    "title": "FDA panel votes to place popular peptide BPC-157 on compounding list",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 00:51",
+    "pub_ts": 1784825504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/man-critically-injured-apparent-hostage-situation-german-bank-2026-07-23/",
+    "title": "Suspect detained, ending deadly hostage situation at German bank",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 00:48",
+    "pub_ts": 1784825302
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-senate-blocks-resolution-curbing-trumps-iran-war-powers-2026-07-23/",
+    "title": "US Senate blocks resolution curbing Trump's Iran war powers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 00:44",
+    "pub_ts": 1784825061
   },
   {
     "source": "People's Daily",
@@ -403,6 +556,33 @@
     "category": "world",
     "pub_bj": "2026-07-23 23:45",
     "pub_ts": 1784821534
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-imports-first-fuel-oil-cargoes-shipped-via-syria-iraq-leverages-new-export-2026-07-23/",
+    "title": "US imports first fuel oil cargoes shipped via Syria as Iraq leverages new export route",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-23 23:31",
+    "pub_ts": 1784820688
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/concerns-palestinian-economic-crisis-grow-israeli-banks-prepare-cut-ties-2026-07-23/",
+    "title": "Concerns of Palestinian economic crisis grow as Israeli banks prepare to cut ties",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-23 23:28",
+    "pub_ts": 1784820526
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/nottingham-consult-public-behaviour-misrepresented-balaclava-ban-2026-07-23/",
+    "title": "Nottingham consult on public behaviour misrepresented as balaclava ban",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-23 23:26",
+    "pub_ts": 1784820416
   },
   {
     "source": "Reuters",
@@ -26818,185 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-16 01:05",
     "pub_ts": 1784135127
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/france-faces-debt-surge-unless-spending-curbed-report-says-2026-07-15/",
-    "title": "France faces debt surge unless spending curbed, report says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:03",
-    "pub_ts": 1784134996
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/citigroup-estimates-revised-after-bank-flags-higher-expenses-stock-tanks-2026-07-15/",
-    "title": "Citigroup estimates revised after bank flags higher expenses, stock tanks",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:01",
-    "pub_ts": 1784134904
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/spacex-shares-slide-below-ipo-price-blistering-rally-unravels-2026-07-15/",
-    "title": "SpaceX shares slide below IPO price for the first time as blistering rally unravels",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 00:55",
-    "pub_ts": 1784134539
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/democratic-debate-replace-platner-maine-will-have-8-candidates-2026-07-15/",
-    "title": "Democratic debate to replace Platner in Maine will have 8 candidates",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 00:54",
-    "pub_ts": 1784134440
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-americans-returning-congo-must-wait-21-days-citing-ebola-2026-07-15/",
-    "title": "US says Americans returning from Congo must wait 21 days, citing Ebola",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 00:53",
-    "pub_ts": 1784134423
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/amazon-leo-bring-satellite-internet-south-africa-2027-2026-07-15/",
-    "title": "Amazon Leo to bring satellite internet to South Africa in 2027",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 00:51",
-    "pub_ts": 1784134286
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/asml-has-room-raise-prices-cfo-says-2026-07-15/",
-    "title": "ASML has room to raise prices, CFO says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 00:46",
-    "pub_ts": 1784134017
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/novo-nordisk-wins-eu-approval-wegovy-weight-loss-pill-2026-07-15/",
-    "title": "Novo Nordisk wins EU approval for Wegovy weight-loss pill",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 00:41",
-    "pub_ts": 1784133703
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/wall-streets-investment-banking-machine-firing-all-cylinders-2026-07-15/",
-    "title": "Wall Street's investment banking machine firing on all cylinders",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 00:39",
-    "pub_ts": 1784133584
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/indias-hdfc-life-posts-quarterly-profit-rise-higher-premium-collection-2026-07-15/",
-    "title": "India's HDFC Life sees sales via HDFC Bank rebounding as competition eases",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 00:36",
-    "pub_ts": 1784133360
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-says-it-issued-sanctions-disrupt-irans-weapon-procurement-2026-07-15/",
-    "title": "US says it issued sanctions to disrupt Iran's weapon procurement",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 00:35",
-    "pub_ts": 1784133343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/wall-street-banks-point-resilient-us-consumer-loan-growth-picks-up-2026-07-15/",
-    "title": "Wall Street banks point to resilient US consumer as loan growth picks up",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 00:33",
-    "pub_ts": 1784133225
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/spacexs-slide-risks-turning-blockbuster-ipo-into-confidence-test-2026-07-15/",
-    "title": "SpaceX's slide risks turning blockbuster IPO into confidence test",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 00:33",
-    "pub_ts": 1784133193
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/eu-accepts-action-plan-by-elon-musks-x-become-more-transparent-2026-07-15/",
-    "title": "EU accepts action plan by Elon Musk's X to become more transparent",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 00:30",
-    "pub_ts": 1784133053
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/mbda-appoints-airbus-jean-brice-dumont-chief-executive-november-1-2026-07-15/",
-    "title": "MBDA appoints Airbus' Jean-Brice Dumont as chief executive from November 1",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 00:16",
-    "pub_ts": 1784132219
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/kering-appoints-lvmh-fragrance-chief-new-bottega-veneta-ceo-2026-07-15/",
-    "title": "Kering appoints LVMH Fragrance chief Spitzer as new Bottega Veneta CEO",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 00:12",
-    "pub_ts": 1784131927
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/us-burrito-chain-chipotle-opens-first-eatery-mexico-2026-07-15/",
-    "title": "U.S. burrito chain Chipotle opens first eatery in Mexico",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 00:03",
-    "pub_ts": 1784131423
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/trump-nominee-us-cdc-director-appears-before-senate-panel-2026-07-15/",
-    "title": "Senate panel presses Trump CDC pick on supporting vaccine safety",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-15 23:59",
-    "pub_ts": 1784131187
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0715/c186331-41639776.html",
-    "title": "洞穿秦岭 半日秦楚",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-15 23:58",
-    "pub_ts": 1784131117
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0715/c1016-40761400.html",
-    "title": "河南平漯周高铁鲁湛特大桥跨郑渝高铁成功转体",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-15 23:58",
-    "pub_ts": 1784131117
   }
 ]
