@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-impose-forced-labor-duties-friday-temporary-10-us-tariffs-expire-2026-07-23/",
+    "title": "Trump to impose forced labor duties on Friday as temporary 10% US tariffs expire",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:30",
+    "pub_ts": 1784842204
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/paramount-warner-bros-deal-paused-through-august-17-judge-rules-2026-07-23/",
+    "title": "Paramount-Warner Bros deal paused through August 17, judge rules",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:29",
+    "pub_ts": 1784842173
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/JVLFVQ2NKNIZTNOR4D4KAWNGFE-2026-07-23/",
+    "title": "Video de incendio en depósitos es antiguo y no muestra ataque a aeropuerto en Arabia Saudita",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-24 05:24",
+    "pub_ts": 1784841866
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/ecb-considering-several-options-mitigate-losses-sources-say-2026-07-23/",
+    "title": "ECB considering several options to mitigate losses, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 05:23",
+    "pub_ts": 1784841822
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-bomb-attacks-injure-dozens-eastern-ukrainian-cities-2026-07-23/",
+    "title": "Russian bomb attacks injure dozens in eastern Ukrainian cities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:10",
+    "pub_ts": 1784841006
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/alabama-updates-ethics-guidance-lawyers-amid-worries-about-ai-misuse-2026-07-23/",
+    "title": "Alabama updates ethics guidance for lawyers amid worries about AI misuse",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 05:09",
+    "pub_ts": 1784840997
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/pentagon-awards-oracle-nearly-7-billion-deal-latest-software-consolidation-push-2026-07-23/",
+    "title": "Pentagon awards Oracle nearly $7 billion deal in latest software consolidation push",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-24 05:04",
+    "pub_ts": 1784840669
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/singapores-gic-banks-hedge-funds-weather-market-volatility-rides-ai-boom-2026-07-23/",
+    "title": "Singapore's GIC banks on hedge funds to weather market volatility, rides AI boom",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:03",
+    "pub_ts": 1784840598
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-2026-07-23/",
+    "title": "Digital Realty raises annual FFO forecast on robust data center demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-24 05:00",
+    "pub_ts": 1784840409
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/deckers-outdoor-raises-annual-profit-forecast-direct-to-consumer-bet-2026-07-23/",
+    "title": "Deckers Outdoor raises annual profit forecast on direct-to-consumer bet",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 04:37",
+    "pub_ts": 1784839028
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/un-rights-chief-turk-faces-opposition-new-term-sources-say-2026-07-23/",
+    "title": "UN rights chief Turk faces opposition to new term, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 04:31",
+    "pub_ts": 1784838703
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-cfo-step-down-2026-07-23/",
     "title": "GE HealthCare CFO to step down",
     "path": "/business/",
@@ -187,6 +286,15 @@
     "category": "world",
     "pub_bj": "2026-07-24 02:28",
     "pub_ts": 1784831290
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senate-elevates-trump-appointed-judge-federal-appeals-court-2026-07-23/",
+    "title": "US Senate elevates Trump-appointed judge to federal appeals court",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 02:13",
+    "pub_ts": 1784830424
   },
   {
     "source": "Reuters",
@@ -26890,113 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-16 02:02",
     "pub_ts": 1784138537
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/canadian-dollar-hits-four-week-high-limited-move-after-boc-decision-2026-07-15/",
-    "title": "Canadian dollar hits four-week high in limited move after BoC decision",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:00",
-    "pub_ts": 1784138424
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/russia-seeks-more-gasoline-india-after-ukraine-attacks-refineries-sources-say-2026-07-15/",
-    "title": "Russia seeks more gasoline from India after Ukraine attacks refineries, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:59",
-    "pub_ts": 1784138384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
-    "title": "Musk's xAI sues Grok user over sexualized 'deepfakes'",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:52",
-    "pub_ts": 1784137928
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ukraines-black-sea-ports-lose-third-grain-export-capacity-farmers-union-says-2026-07-15/",
-    "title": "Ukraine's Black Sea ports lose a third of grain export capacity, farmers' union says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:45",
-    "pub_ts": 1784137510
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/partners-group-give-readout-private-equity-confidence-2026-07-15/",
-    "title": "Partners Group new client demand beats expectations after June turmoil",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:43",
-    "pub_ts": 1784137394
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/pentair-shares-dip-17-dour-forecast-amid-weak-pool-sales-2026-07-15/",
-    "title": "Pentair shares dip 17% on dour forecast amid weak pool sales",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:40",
-    "pub_ts": 1784137238
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/law-firm-wilmerhale-sued-class-action-after-data-breach-2026-07-15/",
-    "title": "Law firm WilmerHale sued in class action after data breach",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:40",
-    "pub_ts": 1784137211
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/nigeria-launches-500-million-farm-fund-drive-food-security-2026-07-15/",
-    "title": "Nigeria launches $500 million farm fund to drive food security",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:40",
-    "pub_ts": 1784137210
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/outgoing-trump-watchdog-faces-democrat-fire-over-handling-consumer-agency-2026-07-15/",
-    "title": "Outgoing Trump watchdog faces Democrat fire over handling of consumer agency",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:39",
-    "pub_ts": 1784137184
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/french-lawmakers-adopt-landmark-assisted-dying-bill-2026-07-15/",
-    "title": "French lawmakers adopt landmark assisted dying bill",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:39",
-    "pub_ts": 1784137174
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/eu-envoys-fail-agree-21st-package-sanctions-against-russia-says-eu-diplomat-2026-07-15/",
-    "title": "EU envoys fail to agree on 21st package of sanctions against Russia, says EU diplomat",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:38",
-    "pub_ts": 1784137081
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/zelenskiy-propose-interior-minister-klymenko-ukraines-new-defence-minister-2026-07-15/",
-    "title": "Zelenskiy to propose Interior Minister Klymenko as Ukraine's new defence minister, lawmakers say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:32",
-    "pub_ts": 1784136749
   }
 ]
