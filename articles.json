@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-cfo-step-down-2026-07-23/",
+    "title": "GE HealthCare CFO to step down",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 04:27",
+    "pub_ts": 1784838451
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/sap-trims-profit-outlook-after-acquisitions-2026-07-23/",
+    "title": "SAP trims profit outlook after acquisitions",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 04:27",
+    "pub_ts": 1784838420
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/PUOW2RLS6RJ3VAUDAOJGGBNDTA-2026-07-23/",
+    "title": "Mendonça não determinou que STF preste esclarecimentos sobre eleição de 2022",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-24 04:23",
+    "pub_ts": 1784838198
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/gold-miner-newmont-beats-second-quarter-profit-estimates-2026-07-23/",
+    "title": "Newmont beats second-quarter profit estimates on higher gold prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 04:19",
+    "pub_ts": 1784837969
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-africas-deputy-finance-minister-resigns-chair-state-asset-manager-2026-07-23/",
+    "title": "South Africa's deputy finance minister resigns as chair of state asset manager",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 04:18",
+    "pub_ts": 1784837905
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/intel-forecasts-upbeat-quarterly-revenue-profit-strong-ai-driven-server-chip-2026-07-23/",
+    "title": "Intel sales, profit forecast beat estimates; company boosts spending plans on AI boom",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 04:14",
+    "pub_ts": 1784837699
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/indian-activist-wangchuk-ends-26-day-hunger-strike-2026-07-23/",
+    "title": "Indian activist Wangchuk ends 26-day hunger strike",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 04:14",
+    "pub_ts": 1784837644
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-treasury-finds-no-trading-partner-manipulated-currency-trade-advantage-2025-2026-07-23/",
+    "title": "US Treasury finds no trading partner manipulated currency for trade advantage in 2025",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 04:05",
+    "pub_ts": 1784837111
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-agency-drops-bid-force-penn-provide-names-antisemitism-probe-2026-07-23/",
+    "title": "US agency drops bid to force Penn to provide names in antisemitism probe",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 03:59",
+    "pub_ts": 1784836794
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spanish-parliament-rejects-governments-2027-spending-plan-2026-07-23/",
+    "title": "Spanish parliament rejects government's 2027 spending plan",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 03:45",
+    "pub_ts": 1784835944
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/counting-costs-iran-war-2026-07-23/",
     "title": "Counting the costs of the Iran war",
     "path": "/world/",
@@ -97,6 +187,24 @@
     "category": "world",
     "pub_bj": "2026-07-24 02:28",
     "pub_ts": 1784831290
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/google-hit-with-1-billion-eu-fine-first-under-landmark-rules-2026-07-23/",
+    "title": "Google hit with $1 billion EU fine, in 'constructive' talks to avoid more penalties",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 02:06",
+    "pub_ts": 1784829992
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-house-votes-curb-trumps-iran-war-powers-senate-backs-president-2026-07-23/",
+    "title": "US House votes to curb Trump's Iran war powers but Senate backs president",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 02:02",
+    "pub_ts": 1784829739
   },
   {
     "source": "Reuters",
@@ -26890,113 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-16 01:32",
     "pub_ts": 1784136749
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/egypt-has-procured-nearly-49-million-tonnes-wheat-since-start-procurement-season-2026-07-15/",
-    "title": "Egypt has procured nearly 4.9 million tonnes of wheat since start of procurement season, PM says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:32",
-    "pub_ts": 1784136721
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/every-phone-leaves-trail-supreme-court-holds-location-data-is-protected-by--pracin-2026-07-15/",
-    "title": "Every phone leaves a trail — Supreme Court holds location data is protected by the Fourth Amendment",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:31",
-    "pub_ts": 1784136677
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-police-charge-14-year-old-boy-with-terrorism-offence-over-mosque-plot-2026-07-15/",
-    "title": "UK police charge 14-year-old boy with terrorism offence over mosque plot",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:15",
-    "pub_ts": 1784135745
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/trump-criticizes-new-york-data-center-moratorium-2026-07-15/",
-    "title": "Trump criticizes New York data center moratorium",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:13",
-    "pub_ts": 1784135623
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/airlines-cancel-flights-after-us-israel-strikes-iran-2026-07-15/",
-    "title": "Airlines resume some Middle East flights but disruption continues",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:09",
-    "pub_ts": 1784135389
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-money-market-funds-turn-defensive-with-fed-rate-outlook-uncertain-2026-07-15/",
-    "title": "US money market funds turn defensive with Fed rate outlook uncertain",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:09",
-    "pub_ts": 1784135379
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "path": "/artificial-intelligence/",
-    "category": "artificial intelligence",
-    "pub_bj": "2026-07-16 01:09",
-    "pub_ts": 1784135377
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/feds-cook-says-she-is-prepared-act-soon-if-inflation-does-not-begin-slow-2026-07-15/",
-    "title": "Fed's Cook says she is prepared to act soon if inflation does not begin to slow",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 01:09",
-    "pub_ts": 1784135356
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/serbia-pledges-aid-ukraine-ducks-call-more-pressure-russia-2026-07-15/",
-    "title": "Serbia pledges aid to Ukraine but ducks call for more pressure on Russia",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:06",
-    "pub_ts": 1784135212
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-agency-vote-end-39-local-tv-station-ownership-cap-2026-07-15/",
-    "title": "US agency to vote to end 39% local TV station ownership cap",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:06",
-    "pub_ts": 1784135202
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/senegal-expected-pick-lazard-financial-advisor-debt-matters-source-says-2026-07-15/",
-    "title": "Senegal expected to pick Lazard as financial advisor on debt matters, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 01:06",
-    "pub_ts": 1784135179
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/sanofi-sues-pfizer-moderna-over-covid-shot-technology-2026-07-15/",
-    "title": "Sanofi sues Pfizer, Moderna over COVID shot technology",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 01:05",
-    "pub_ts": 1784135127
   }
 ]
