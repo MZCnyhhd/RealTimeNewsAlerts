@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/australias-origin-energy-confirms-customer-data-breach-2026-07-23/",
+    "title": "Australia's Origin Energy confirms customer data breach",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 06:23",
+    "pub_ts": 1784845405
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-warns-against-excessive-yen-volatility-calls-boj-rate-hikes-2026-07-23/",
+    "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 06:11",
+    "pub_ts": 1784844696
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/XZ4DFQ6DMVL4JLCNU3JDG5H6UA-2026-07-23/",
+    "title": "Video de multitud que canta “El Rey” en España antecede a la final del Mundial 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-24 06:04",
+    "pub_ts": 1784844261
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-says-us-tariffs-related-forced-labor-are-arbitrary-unjustified-2026-07-23/",
+    "title": "Brazil says US tariffs related to forced labor are 'arbitrary' and 'unjustified'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 06:04",
+    "pub_ts": 1784844240
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-advisory-panel-votes-place-popular-peptide-tb-500-compounding-list-2026-07-23/",
+    "title": "FDA advisory panel votes to place popular peptide TB-500 on compounding list",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 06:01",
+    "pub_ts": 1784844104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/law-firm-hsf-kramer-reports-24-billion-revenues-first-post-merger-year-2026-07-23/",
+    "title": "Law firm HSF Kramer reports $2.4 billion revenues in first post-merger year",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 05:58",
+    "pub_ts": 1784843932
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-before-seeing-returns-2026-07-23/",
+    "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 05:53",
+    "pub_ts": 1784843623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/verisign-posts-higher-quarterly-revenue-strong-demand-domain-names-2026-07-23/",
+    "title": "Verisign posts higher quarterly revenue on strong demand for domain names",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-24 05:51",
+    "pub_ts": 1784843473
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/nvidia-amkor-strike-15-billion-chip-packaging-deal-2026-07-23/",
+    "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:46",
+    "pub_ts": 1784843165
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/defense-tech-company-lyntris-files-us-ipo-2026-07-23/",
+    "title": "Defense tech company Lyntris files for US IPO",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 05:44",
+    "pub_ts": 1784843083
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/edwards-lifesciences-beats-quarterly-estimates-strong-demand-heart-devices-2026-07-23/",
+    "title": "Edwards Lifesciences beats quarterly estimates on strong demand for heart devices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 05:39",
+    "pub_ts": 1784842762
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/trinidad-frees-businessman-wife-held-over-alleged-plot-against-prime-minister-2026-07-23/",
+    "title": "Trinidad frees businessman and wife held over alleged plot against prime minister",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:37",
+    "pub_ts": 1784842645
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-burnham-opens-no10-north-shift-economic-power-london-2026-07-23/",
+    "title": "UK's Burnham opens 'No10 North' to shift economic power from London",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 05:34",
+    "pub_ts": 1784842474
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/trump-impose-forced-labor-duties-friday-temporary-10-us-tariffs-expire-2026-07-23/",
     "title": "Trump to impose forced labor duties on Friday as temporary 10% US tariffs expire",
     "path": "/world/",
@@ -26881,122 +26998,5 @@
     "category": "fact-check",
     "pub_bj": "2026-07-16 02:57",
     "pub_ts": 1784141872
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-ebola-outbreak-disrupts-us-backed-minerals-talks-sources-say-2026-07-15/",
-    "title": "Congo Ebola outbreak disrupts US-backed minerals talks, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:57",
-    "pub_ts": 1784141864
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-strengthen-trumps-options-new-escalation-officials-say-2026-07-15/",
-    "title": "US strikes on Iran strengthen Trump's options for new escalation, officials say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 02:56",
-    "pub_ts": 1784141775
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/uber-nears-125bn-deal-acquire-delivery-hero-ft-reports-2026-07-15/",
-    "title": "Uber nears €12.5bn deal to acquire Delivery Hero, FT reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:50",
-    "pub_ts": 1784141447
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/3d-printed-contact-lenses-show-promise-early-experiments-2026-07-15/",
-    "title": "3D-printed contact lenses show promise in early experiments",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:43",
-    "pub_ts": 1784141004
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/largest-us-electric-grid-ramps-up-warnings-amid-hot-temperatures-2026-07-15/",
-    "title": "Largest US electric grid ramps up warnings amid hot temperatures",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:35",
-    "pub_ts": 1784140544
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/rubio-host-conference-far-left-terrorism-thursday-2026-07-15/",
-    "title": "Rubio to host conference on 'far-left terrorism' on Thursday",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 02:23",
-    "pub_ts": 1784139823
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/medtronic-faces-first-trial-us-hernia-mesh-injury-cases-2026-07-15/",
-    "title": "Medtronic faces first trial in US hernia mesh injury cases",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 02:21",
-    "pub_ts": 1784139704
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-spy-nominee-clayton-will-not-directly-say-biden-won-2020-election-2026-07-15/",
-    "title": "Trump spy nominee Clayton will not directly say Biden won 2020 election",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 02:17",
-    "pub_ts": 1784139468
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/economic-activity-rise-inflation-may-be-improving-fed-survey-shows-2026-07-15/",
-    "title": "Economic activity on the rise and inflation may be improving, Fed survey shows",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:17",
-    "pub_ts": 1784139464
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/amazon-aws-executive-ceo-advisor-dave-brown-leave-after-19-years-2026-07-15/",
-    "title": "Amazon AWS executive and CEO advisor Dave Brown to leave after 19 years",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-16 02:14",
-    "pub_ts": 1784139241
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/",
-    "title": "AI startup Thinking Machines launches an open-weight AI model",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 02:03",
-    "pub_ts": 1784138625
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/brazil-government-now-expects-2026-inflation-be-above-central-banks-target-2026-07-15/",
-    "title": "Brazil government now expects 2026 inflation to be above central bank's target",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 02:03",
-    "pub_ts": 1784138624
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/nigeria-anti-graft-agency-wins-forfeiture-48-properties-tied-ex-attorney-general-2026-07-15/",
-    "title": "Nigeria anti-graft agency wins forfeiture of 48 properties tied to ex-attorney-general",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 02:02",
-    "pub_ts": 1784138537
   }
 ]
