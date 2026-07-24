@@ -1,5 +1,104 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/bnp-paribas-insurance-division-acquires-stake-indiafirst-life-2026-07-24/",
+    "title": "BNP Paribas' insurance division acquires stake in IndiaFirst Life",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:39",
+    "pub_ts": 1784918388
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazils-lula-signs-into-law-foie-gras-ban-angering-france-2026-07-24/",
+    "title": "Brazil's Lula signs into law foie gras ban, angering France",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:39",
+    "pub_ts": 1784918342
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/",
+    "title": "Trump says US to launch EU probe over 'illegal' Google fine",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 02:35",
+    "pub_ts": 1784918144
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/venezuela-notifies-un-withdrawal-icc-2026-07-24/",
+    "title": "Venezuela notifies UN of withdrawal from ICC",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:27",
+    "pub_ts": 1784917646
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/karim-khan-barrister-centre-iccs-internal-crisis-2026-07-24/",
+    "title": "Who is Karim Khan, the barrister at the centre of the ICC's internal crisis?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:26",
+    "pub_ts": 1784917567
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-adds-weekly-decline-oil-pares-recent-gains-2026-07-24/",
+    "title": "Canadian dollar adds to weekly decline as oil pares recent gains",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 02:16",
+    "pub_ts": 1784916978
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/democrats-pick-south-carolina-open-2028-nomination-race-elevating-black-voters-2026-07-24/",
+    "title": "Democrats pick South Carolina to open 2028 nomination race, elevating Black voters",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 02:16",
+    "pub_ts": 1784916974
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-small-businesses-file-lawsuit-challenging-trumps-new-forced-labor-tariffs-2026-07-24/",
+    "title": "U.S. small businesses file lawsuit challenging Trump's new 'forced labor' tariffs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:10",
+    "pub_ts": 1784916613
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/plane-engine-makers-tug-war-over-future-jet-servicing-profits-2026-07-24/",
+    "title": "Plane and engine makers in tug of war over future jet servicing profits",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 02:09",
+    "pub_ts": 1784916584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/nvidia-microsoft-other-tech-giants-back-open-source-ai-models-2026-07-24/",
+    "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:07",
+    "pub_ts": 1784916456
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/private-credit-roundup-insurers-step-up-liquidity-pressures-build-2026-07-24/",
+    "title": "Private credit roundup: Insurers step up as liquidity pressures build",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 01:55",
+    "pub_ts": 1784915731
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0724/c1001-40767601.html",
     "title": "王毅出席上海合作组织外长会",
@@ -162,6 +261,33 @@
     "pub_ts": 1784910674
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/trump-warns-china-russia-against-involvement-iran-war-2026-07-24/",
+    "title": "Trump warns China, Russia against involvement in Iran war",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 00:10",
+    "pub_ts": 1784909423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-africas-finance-minister-appoint-new-board-state-asset-manager-2026-07-24/",
+    "title": "South Africa's finance minister to appoint new board at state asset manager",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 00:02",
+    "pub_ts": 1784908975
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-fda-approves-over-the-counter-tylenol-combination-pill-pain-relief-2026-07-24/",
+    "title": "US FDA approves over-the-counter Tylenol combination pill for pain relief",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 00:01",
+    "pub_ts": 1784908903
+  },
+  {
     "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0724/c1016-40767596.html",
     "title": "福州：共享纳凉点享清凉",
@@ -277,6 +403,51 @@
     "category": "business",
     "pub_bj": "2026-07-24 22:56",
     "pub_ts": 1784904977
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-rand-claws-back-losses-prompted-by-reserve-banks-rate-hold-2026-07-24/",
+    "title": "South African rand extends losses, nears 17/$ as traders mull central bank rate hold",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 22:49",
+    "pub_ts": 1784904593
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/teen-pleads-guilty-killing-four-2024-us-school-shooting-2026-07-24/",
+    "title": "Teen pleads guilty to killing four in 2024 U.S. school shooting",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-24 22:41",
+    "pub_ts": 1784904102
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/netanyahu-meet-with-trump-washington-tuesday-pms-office-says-2026-07-24/",
+    "title": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 22:37",
+    "pub_ts": 1784903872
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/physical-oil-prices-jump-with-some-nearing-110-iran-ukraine-wars-hit-supply-2026-07-24/",
+    "title": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-24 22:36",
+    "pub_ts": 1784903781
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indian-steelmaker-sails-quarterly-profit-rises-domestic-prices-improve-2026-07-24/",
+    "title": "Indian steelmaker SAIL's quarterly profit rises as domestic prices improve",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-24 22:33",
+    "pub_ts": 1784903625
   },
   {
     "source": "Reuters",
@@ -26827,176 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-16 23:32",
     "pub_ts": 1784215943
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/icc-confirms-charges-against-libyan-war-crimes-suspect-2026-07-16/",
-    "title": "ICC confirms charges against Libyan war crimes suspect",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:31",
-    "pub_ts": 1784215878
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/lebanon-syria-reset-trade-ties-economy-minister-tells-reuters-2026-07-16/",
-    "title": "Lebanon, Syria to reset trade ties, economy minister tells Reuters",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:28",
-    "pub_ts": 1784215690
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/",
-    "title": "Chinese filing implies DeepSeek valuation of around $52 billion",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:25",
-    "pub_ts": 1784215558
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/how-uber-delivery-hero-rivals-stack-up-global-food-delivery-2026-07-16/",
-    "title": "How Uber, Delivery Hero and rivals stack up in global food delivery",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 23:24",
-    "pub_ts": 1784215473
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/",
-    "title": "Twenty-nine countries sign agreement to establish global AI cooperation body",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:23",
-    "pub_ts": 1784215424
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/serious-health-risks-posed-by-wildfire-smoke-2026-07-16/",
-    "title": "The serious health risks posed by wildfire smoke",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 23:16",
-    "pub_ts": 1784215017
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
-    "title": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 23:15",
-    "pub_ts": 1784214931
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/hungary-government-reports-orban-era-it-contracts-police-2026-07-16/",
-    "title": "Hungary government reports Orban-era IT contracts to police",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:07",
-    "pub_ts": 1784214446
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/united-sees-little-demand-hit-higher-fares-expects-pricing-gains-hold-2026-07-16/",
-    "title": "United sees little demand hit from higher fares, expects pricing gains to hold",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 23:05",
-    "pub_ts": 1784214312
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/nigeria-central-bank-chief-signals-caution-easing-next-week-2026-07-16/",
-    "title": "Nigeria central bank chief signals caution on easing next week",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 23:01",
-    "pub_ts": 1784214114
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/econ-world/inflation-limbo-2026-07-16/",
-    "title": "Inflation limbo",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-16 23:00",
-    "pub_ts": 1784214000
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/least-one-dead-100-injured-crush-indian-chariot-festival-2026-07-16/",
-    "title": "At least one dead, 100 injured in crush at Indian chariot festival",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 22:57",
-    "pub_ts": 1784213856
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-retail-sales-rise-marginally-june-2026-07-16/",
-    "title": "Lower gasoline prices hold back US retail sales, underlying momentum remains",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 22:54",
-    "pub_ts": 1784213693
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-tyremaker-ceat-misses-quarterly-profit-view-rising-costs-weigh-bottom-2026-07-16/",
-    "title": "Indian tyremaker CEAT misses quarterly profit view as rising costs weigh on bottom line",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 22:53",
-    "pub_ts": 1784213636
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/nvidia-backed-startup-fireworks-valued-175-billion-latest-funding-2026-07-16/",
-    "title": "Nvidia-backed startup Fireworks valued at $17.5 billion in latest funding",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-16 22:53",
-    "pub_ts": 1784213585
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/armenia-seizes-company-opposition-leader-charged-with-fraud-2026-07-16/",
-    "title": "Armenia seizes company from opposition leader charged with fraud",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-16 22:45",
-    "pub_ts": 1784213144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-business-inventories-increase-moderately-may-sales-accelerate-2026-07-16/",
-    "title": "US business inventories increase moderately in May as sales accelerate",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 22:37",
-    "pub_ts": 1784212663
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/ousted-defence-minister-lays-bare-rift-heart-ukraines-war-effort-2026-07-16/",
-    "title": "Ousted defence minister lays bare rift at heart of Ukraine's war effort",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-16 22:35",
-    "pub_ts": 1784212533
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/fender-sues-german-retailer-thomann-copyright-dispute-over-stratocaster-2026-07-16/",
-    "title": "Fender sues German retailer Thomann in copyright dispute over Stratocaster",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-16 22:34",
-    "pub_ts": 1784212455
   }
 ]
