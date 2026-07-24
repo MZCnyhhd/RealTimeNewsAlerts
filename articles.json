@@ -1,6 +1,78 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukrainians-back-ousted-defence-minister-political-crisis-brews-2026-07-24/",
+    "title": "Ukrainians back ousted defence minister as political crisis brews",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 05:00",
+    "pub_ts": 1784926813
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-strikes-target-yemens-hodeidah-says-houthi-run-al-masirah-tv-2026-07-24/",
+    "title": "Saudi strikes target Yemen's Hodeidah, says Houthi-run Al Masirah TV",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 04:57",
+    "pub_ts": 1784926662
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/death-black-teen-nolan-wells-go-mississippi-grand-jury-2026-07-24/",
+    "title": "Death of Black teen Nolan Wells to go to Mississippi grand jury",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 04:55",
+    "pub_ts": 1784926504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/un-assembly-approves-four-year-extension-mandate-rights-chief-2026-07-24/",
+    "title": "UN assembly approves four-year extension in mandate of rights chief",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 04:36",
+    "pub_ts": 1784925398
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/trump-says-venezuela-is-not-ready-elections-has-made-progress-2026-07-24/",
+    "title": "Trump says Venezuela is not ready for elections, but has made progress",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 04:30",
+    "pub_ts": 1784925025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/barclays-sees-upside-risks-2026-brent-price-view-given-strait-hormuz-impasse-2026-07-24/",
+    "title": "Barclays sees upside risks to 2026 Brent price view given Strait of Hormuz impasse",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 04:29",
+    "pub_ts": 1784924985
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/devon-energy-mulls-4-billion-sale-eagle-ford-powder-river-assets-bloomberg-news-2026-07-24/",
+    "title": "Devon Energy mulls $4 billion sale of Eagle Ford, Powder River assets, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 04:20",
+    "pub_ts": 1784924409
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/wall-st-week-ahead-us-stocks-face-tests-fed-decision-tech-led-earnings-deluge-2026-07-24/",
+    "title": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 04:16",
+    "pub_ts": 1784924171
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/trump-says-he-wont-proceed-with-nuclear-deal-unless-saudis-join-abraham-accords-2026-07-24/",
     "title": "Trump says he won't proceed with nuclear deal unless Saudis join Abraham Accords",
     "path": "/world/",
@@ -142,6 +214,15 @@
     "category": "world",
     "pub_bj": "2026-07-25 02:56",
     "pub_ts": 1784919402
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-eases-spending-block-improves-2026-deficit-view-2026-07-24/",
+    "title": "Brazil eases spending block and improves 2026 deficit view",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 02:43",
+    "pub_ts": 1784918624
   },
   {
     "source": "Reuters",
@@ -26917,86 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 00:27",
     "pub_ts": 1784219277
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-will-focus-counterterrorism-efforts-left-wing-groups-rubio-says-2026-07-16/",
-    "title": "US will focus counterterrorism efforts on left-wing groups, Rubio says",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 00:27",
-    "pub_ts": 1784219230
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/monte-dei-paschi-says-bid-premium-offered-by-intesa-is-too-low-2026-07-16/",
-    "title": "Monte dei Paschi says bid premium offered by Intesa is too low",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:26",
-    "pub_ts": 1784219219
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-4000-state-health-officials-say-2026-07-16/",
-    "title": "Cyclosporiasis cases in Michigan climb to over 4,000, state health officials say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:23",
-    "pub_ts": 1784218988
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-nyse-debut-2026-07-16/",
-    "title": "Brookfield-backed Csquare valued at $3.24 billion as shares fall in NYSE debut",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:22",
-    "pub_ts": 1784218973
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ireland-enacts-law-lift-dublin-airport-passenger-cap-2026-07-16/",
-    "title": "Ireland enacts law to lift Dublin Airport passenger cap",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 00:19",
-    "pub_ts": 1784218783
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/when-ai-drives-discovery-patents-drug-development--pracin-2026-07-16/",
-    "title": "When AI drives discovery — Patents and drug development",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 00:18",
-    "pub_ts": 1784218704
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/ge-aerospace-pushes-back-genx-delay-concerns-says-boeing-has-months-engine-2026-07-16/",
-    "title": "GE Aerospace says it is supporting Boeing's 787 production ramp-up",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:17",
-    "pub_ts": 1784218637
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/legal-heavyweights-square-off-in-243-million-tesla-crash-appeal-2026-07-16/",
-    "title": "Legal heavyweights square off in $243 million Tesla crash appeal",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 00:13",
-    "pub_ts": 1784218411
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/saudi-arabia-backed-developer-seeks-world-cup-stadium-investors-sources-say-2026-07-16/",
-    "title": "Saudi Arabia-backed developer seeks World Cup stadium investors, sources say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 00:12",
-    "pub_ts": 1784218373
   }
 ]
