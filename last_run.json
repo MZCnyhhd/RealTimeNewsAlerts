@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-25 05:14:04",
-  "new": 9,
-  "total": 3009,
+  "timestamp": "2026-07-25 06:18:13",
+  "new": 5,
+  "total": 3005,
   "sources": {
-    "Reuters": 2006,
+    "Reuters": 2002,
     "People's Daily": 987,
     "MIT Tech Review": 16
   }

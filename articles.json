@@ -1,6 +1,51 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-targets-22-billion-rebates-airlines-that-retrofit-planes-over-wireless-2026-07-24/",
+    "title": "US targets $2.2 billion in rebates to airlines that retrofit planes over wireless interference",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 06:05",
+    "pub_ts": 1784930744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/hf-sinclair-sues-epa-delays-biofuel-exemption-decision-bloomberg-news-reports-2026-07-24/",
+    "title": "HF Sinclair sues EPA for delays on biofuel exemption decision, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-25 06:00",
+    "pub_ts": 1784930455
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/embraers-backlog-hits-record-345-billion-second-quarter-rising-16-2026-07-24/",
+    "title": "Embraer's backlog hits record $34.5 billion in the second quarter, rising 16%",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 05:46",
+    "pub_ts": 1784929571
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/abbott-wins-dismissal-shareholder-lawsuit-over-2022-infant-formula-recall-2026-07-24/",
+    "title": "Abbott defeats shareholder lawsuit over 2022 infant formula recall",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 05:38",
+    "pub_ts": 1784929101
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-lift-ban-mexican-cattle-imports-wsj-reports-2026-07-24/",
+    "title": "US to lift ban on Mexican cattle imports, WSJ reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 05:37",
+    "pub_ts": 1784929070
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/ukrainians-back-ousted-defence-minister-political-crisis-brews-2026-07-24/",
     "title": "Ukrainians back ousted defence minister as political crisis brews",
     "path": "/world/",
@@ -26953,50 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-17 00:37",
     "pub_ts": 1784219863
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/eu-drafts-plan-double-electrification-rate-cut-oil-gas-use-2026-07-16/",
-    "title": "EU drafts plan to double electrification rate, cut oil and gas use",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:37",
-    "pub_ts": 1784219829
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/canada-wildfire-smoke-blankets-us-midwest-northeast-with-dangerous-orange-haze-2026-07-16/",
-    "title": "Canada wildfire smoke blankets US Midwest, Northeast with dangerous orange haze",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:37",
-    "pub_ts": 1784219824
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ladbrokes-owner-entain-cut-500-roles-it-seeks-lower-costs-2026-07-16/",
-    "title": "Ladbrokes owner Entain to cut 500 roles as it seeks to lower costs",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:30",
-    "pub_ts": 1784219446
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/italian-police-visit-fashion-firms-including-cucinelli-moncler-labour-probe-2026-07-16/",
-    "title": "Italian police visit fashion firms including Cucinelli and Moncler in labour probe",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:30",
-    "pub_ts": 1784219415
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indias-serum-institute-partners-with-gates-mri-make-expiremental-tb-vaccine-2026-07-16/",
-    "title": "India's Serum Institute partners with Gates MRI to make experimental TB vaccine",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 00:27",
-    "pub_ts": 1784219277
   }
 ]
