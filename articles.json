@@ -1,5 +1,32 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/",
+    "title": "South Korea President Lee looking to open new era of AI in with global tech companies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 08:33",
+    "pub_ts": 1784939623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/",
+    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 08:26",
+    "pub_ts": 1784939214
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/vitol-paid-out-59-billion-shareholders-2025-filings-show-2026-07-25/",
+    "title": "Vitol paid out $5.9 billion to shareholders in 2025, filings show",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 08:13",
+    "pub_ts": 1784938395
+  },
+  {
     "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767620.html",
     "title": "宁夏大力发展现代特色农业",
@@ -457,6 +484,24 @@
     "category": "business",
     "pub_bj": "2026-07-25 04:16",
     "pub_ts": 1784924171
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/waymo-explores-ending-uber-partnership-financial-times-reports-2026-07-24/",
+    "title": "Waymo explores ending Uber partnership, Financial Times reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-25 04:14",
+    "pub_ts": 1784924049
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-says-165-exports-face-combined-us-duties-375-2026-07-24/",
+    "title": "Brazil says 16.5% of exports face combined US duties of 37.5%",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-25 04:13",
+    "pub_ts": 1784924025
   },
   {
     "source": "Reuters",
@@ -26953,50 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 03:55",
     "pub_ts": 1784231744
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-continues-talk-us-wants-make-deal-white-house-says-2026-07-16/",
-    "title": "Iran continues to talk to U.S., wants to make a deal, White House says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 03:44",
-    "pub_ts": 1784231086
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/court-says-meta-must-turn-over-youth-user-wellbeing-records-dc-attorney-general-2026-07-16/",
-    "title": "Court says Meta must turn over 'youth-user wellbeing' records to D.C. attorney general",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 03:37",
-    "pub_ts": 1784230674
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-house-republicans-push-forward-trump-funding-plan-iran-war-election-overhaul-2026-07-16/",
-    "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 03:22",
-    "pub_ts": 1784229743
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/canada-will-not-share-bridge-tolls-with-us-until-debt-repaid-carney-says-2026-07-16/",
-    "title": "Canada will not share bridge tolls with US until debt repaid, Carney says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 03:02",
-    "pub_ts": 1784228529
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-    "title": "Google Gemini launch delayed as tech falls short of internal goals, Bloomberg News reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 03:01",
-    "pub_ts": 1784228505
   }
 ]
