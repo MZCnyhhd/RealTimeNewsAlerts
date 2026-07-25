@@ -1,5 +1,23 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/lsegs-lipper-reviews-transaction-affecting-fixed-income-fund-flow-data-2026-07-25/",
+    "title": "LSEG's Lipper reviews transaction affecting fixed-income fund flow data",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-26 00:32",
+    "pub_ts": 1784997129
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/speaking-alongside-putin-kazakh-president-calls-freeze-ukraine-war-2026-07-25/",
+    "title": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 00:19",
+    "pub_ts": 1784996384
+  },
+  {
     "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767901.html",
     "title": "台风红色预警发布",
@@ -7,6 +25,15 @@
     "category": "society",
     "pub_bj": "2026-07-26 00:11",
     "pub_ts": 1784995860
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/fourth-firefighter-dies-following-june-wildland-fire-colorado-2026-07-25/",
+    "title": "Fourth firefighter dies following June wildland fire in Colorado",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-26 00:10",
+    "pub_ts": 1784995838
   },
   {
     "source": "Reuters",
@@ -26971,32 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-17 12:25",
     "pub_ts": 1784262347
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/yen-likely-weaken-past-170-before-japans-growth-bet-pays-off-rsms-brusuelas-says-2026-07-17/",
-    "title": "Yen likely to weaken past 170 before Japan's growth bet pays off, RSM's Brusuelas says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 11:37",
-    "pub_ts": 1784259463
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0717/c1002-40762225.html",
-    "title": "携手智能伙伴 共创美好未来",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 11:34",
-    "pub_ts": 1784259248
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762731.html",
-    "title": "前5个月外资来华各类投资净增加约1600亿美元",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-17 11:34",
-    "pub_ts": 1784259248
   }
 ]
