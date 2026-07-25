@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britain-would-be-target-if-it-supports-us-war-irans-revolutionary-guards-say-2026-07-25/",
+    "title": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 04:21",
+    "pub_ts": 1785010890
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/flavio-bolsonaro-launches-brazil-presidential-campaign-touts-support-milei-2026-07-25/",
+    "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei, Netanyahu",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-26 04:18",
+    "pub_ts": 1785010693
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-appeals-court-rules-trump-cannot-implement-mail-in-voting-order-2026-07-25/",
+    "title": "US appeals court rules Trump cannot implement mail-in voting order",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 04:01",
+    "pub_ts": 1785009706
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/iran-says-ukrainian-attack-vessel-caspian-sea-killed-sailor-2026-07-25/",
     "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
     "path": "/world/",
@@ -26971,32 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 13:09",
     "pub_ts": 1784264984
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/gold-track-biggest-weekly-loss-six-iran-war-fans-inflation-worries-2026-07-17/",
-    "title": "Gold on track for biggest weekly loss in six as Iran war fans inflation worries",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 13:04",
-    "pub_ts": 1784264689
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/irans-irgc-say-they-targeted-us-command-centre-syria-state-media-reports-2026-07-17/",
-    "title": "Iran's IRGC say they targeted US command centre in Syria, state media reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 12:49",
-    "pub_ts": 1784263774
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-june-core-inflation-seen-16-elevated-energy-prices-2026-07-17/",
-    "title": "Japan June core inflation seen at 1.6% on elevated energy prices: Reuters poll",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 12:41",
-    "pub_ts": 1784263295
   }
 ]
