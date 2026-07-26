@@ -1,6 +1,42 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/vessel-sinks-week-after-being-struck-by-russian-fire-ukrainian-officials-say-2026-07-26/",
+    "title": "Vessel sinks a week after being struck by Russian fire, Ukrainian officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 02:24",
+    "pub_ts": 1785090257
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/germanys-merz-will-propose-conservative-bilger-new-transport-minister-2026-07-26/",
+    "title": "Germany's Merz will propose conservative Bilger as new transport minister",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 02:13",
+    "pub_ts": 1785089623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/suspect-berlin-pride-attack-shot-dead-during-operation-police-say-2026-07-26/",
+    "title": "Suspect in Berlin Pride attack shot dead during operation, police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 02:10",
+    "pub_ts": 1785089431
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/iran-foreign-minister-says-ukraines-attack-iranian-vessel-cannot-go-unanswered-2026-07-26/",
+    "title": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 01:43",
+    "pub_ts": 1785087823
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/europe/suspect-berlin-pride-attack-shot-dead-by-police-berlin-suburb-broadcaster-says-2026-07-26/",
     "title": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
     "path": "/world/",
@@ -26962,41 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-17 19:30",
     "pub_ts": 1784287832
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/brazil-unveils-credit-package-rural-sector-hit-by-us-tariffs-2026-07-17/",
-    "title": "Brazil unveils credit package for rural sector hit by U.S. tariffs",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:30",
-    "pub_ts": 1784287829
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/russian-blogger-who-criticised-putin-war-has-been-detained-tass-reports-2026-07-17/",
-    "title": "Russian courts target two outspoken critics of war in Ukraine",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:29",
-    "pub_ts": 1784287758
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/twenty-pupils-die-uganda-bus-crash-government-bans-all-school-outings-2026-07-17/",
-    "title": "Twenty pupils die in Uganda bus crash, government bans all school outings",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:26",
-    "pub_ts": 1784287597
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/conocophillips-buy-42-stake-bp-unit-tied-iraqs-kirkuk-oilfields-2026-07-17/",
-    "title": "ConocoPhillips to buy 42% stake in BP unit tied to Iraq's Kirkuk oilfields",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 19:25",
-    "pub_ts": 1784287523
   }
 ]
