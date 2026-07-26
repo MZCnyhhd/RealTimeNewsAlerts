@@ -1,6 +1,123 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://sc.people.com.cn/n2/2026/0726/c345510-41650140.html",
+    "title": "成都AI的“烟火人间”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0725/c1002-40767643.html",
+    "title": "《APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明》发布",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0724/c1002-40766849.html",
+    "title": "APEC数字和人工智能部长会议通过成都声明",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0724/c1004-40766867.html",
+    "title": "成都大力推进制造业“智改数转”",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768151.html",
+    "title": "受台风\"红霞\"影响 广东11条河流超警",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768150.html",
+    "title": "长江防总提升江西、湖南防汛应急响应至Ⅲ级",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0726/c1001-40768152.html",
+    "title": "第十二批中央单位援疆干部人才赴疆工作",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768154.html",
+    "title": "甘肃渭源突发山洪 已致10人死亡",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768153.html",
+    "title": "两部门派工作组赶赴现场",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-26 19:40",
+    "pub_ts": 1785066056
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/finnish-architects-humanist-take-modernism-recognised-by-unesco-2026-07-26/",
+    "title": "Finnish architects' humanist take on modernism recognised by UNESCO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 19:35",
+    "pub_ts": 1785065726
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/ugandan-diplomat-otunnu-joins-race-become-next-un-head-2026-07-26/",
+    "title": "Ugandan diplomat Otunnu joins race to become next UN head",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 19:12",
+    "pub_ts": 1785064329
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/senegals-president-faye-launches-new-party-cementing-ruling-camp-split-2026-07-26/",
+    "title": "Senegal's President Faye launches new party, cementing ruling camp split",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 19:05",
+    "pub_ts": 1785063943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-top-hamas-security-official-gaza-medics-police-say-2026-07-26/",
+    "title": "Israeli strike kills a top Hamas security official in Gaza, medics and police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 18:56",
+    "pub_ts": 1785063392
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0726/c1004-40768113.html",
     "title": "文旅惠民举措加码 暑期消费动能加速释放",
     "path": "/finance/",
@@ -26879,123 +26996,6 @@
     "title": "中国外贸凭什么稳得住?",
     "path": "/finance/",
     "category": "finance",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://js.people.com.cn/n2/2026/0717/c360302-41641907.html",
-    "title": "一棵\"榕树\"的AI助残试验",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ln.people.com.cn/n2/2026/0716/c378489-41641337.html",
-    "title": "\"胜利南\",胜利了",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762565.html",
-    "title": "从\"买商品\"到\"买体验\" 消费场景加速重构",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0717/c1016-40762865.html",
-    "title": "机车检修护航夏季能源保供运输",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0717/c1016-40762868.html",
-    "title": "国产超大直径盾构机“先锋号”在长沙下线",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762857.html",
-    "title": "供销力量护航夏粮收购 稳稳守护农民丰产硕果",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762745.html",
-    "title": "旧物获“新生” 以旧换新推动循环经济加速发展",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://leaders.people.com.cn/n1/2026/0717/c58278-40762802.html",
-    "title": "畅通档案查询渠道、扩大历史档案公开范围 国家档案局回复网友",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0717/c1004-40762855.html",
-    "title": "离境退税2.0新措施落地 专家：助力“打卡游”变“深度游”",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0717/c186331-41641950.html",
-    "title": "开局之年看中国丨一张网护一座山",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0717/c365401-41642158.html",
-    "title": "重庆对25个区县启动水旱灾害防御Ⅳ级应急响应",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gx.people.com.cn/n2/2026/0717/c179464-41641461.html",
-    "title": "“美莎克”造成广西260多万人受灾",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 18:13",
-    "pub_ts": 1784283208
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ln.people.com.cn/n2/2026/0717/c378320-41642085.html",
-    "title": "辽宁全力推进灾后恢复工作",
-    "path": "/general/",
-    "category": "general",
     "pub_bj": "2026-07-17 18:13",
     "pub_ts": 1784283208
   }
