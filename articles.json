@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/western-us-grid-operator-warns-emergency-conditions-may-persist-seven-states-2026-07-26/",
+    "title": "US Energy Department orders more power resources for western electric grid",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 06:27",
+    "pub_ts": 1785104856
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-slips-more-than-5-after-us-pauses-strikes-iran-2026-07-26/",
+    "title": "Oil slips more than 5% after US pauses strikes on Iran",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 06:17",
+    "pub_ts": 1785104275
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-burnham-welcome-zelenskiy-first-foreign-visitor-2026-07-26/",
+    "title": "UK's Burnham to welcome Zelenskiy as first foreign visitor",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 05:33",
+    "pub_ts": 1785101623
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/oilfield-services-provider-baker-hughes-beats-q2-profit-estimates-2026-07-26/",
     "title": "Oilfield services provider Baker Hughes beats Q2 profit estimates",
     "path": "/business/",
@@ -26971,32 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-17 19:40",
     "pub_ts": 1784288439
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://he.people.com.cn/n2/2026/0717/c192235-41642029.html",
-    "title": "河北丰宁：畅游百里天路 慢享夏日清凉",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-17 19:40",
-    "pub_ts": 1784288439
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/truists-quarterly-profit-rises-strength-investment-banking-trading-2026-07-17/",
-    "title": "Truist's quarterly profit rises on strength in investment banking and trading",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 19:38",
-    "pub_ts": 1784288323
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/wildfires-drought-storms-hound-europe-even-heatwave-recedes-2026-07-17/",
-    "title": "Wildfires, drought and storms hound Europe even as heatwave recedes",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 19:35",
-    "pub_ts": 1784288155
   }
 ]
