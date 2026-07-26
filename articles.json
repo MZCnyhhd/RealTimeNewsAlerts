@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oilfield-services-provider-baker-hughes-beats-q2-profit-estimates-2026-07-26/",
+    "title": "Oilfield services provider Baker Hughes beats Q2 profit estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 05:23",
+    "pub_ts": 1785100983
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/syria-president-al-jazeera-interview-says-his-country-seeks-security-deal-with-2026-07-26/",
     "title": "Syria president in Al Jazeera interview says his country seeks security deal with Israel",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 19:35",
     "pub_ts": 1784288155
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/fifth-third-reports-rise-quarterly-profit-higher-interest-income-2026-07-17/",
-    "title": "Fifth Third reports rise in quarterly profit on higher interest income",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 19:31",
-    "pub_ts": 1784287902
   }
 ]
