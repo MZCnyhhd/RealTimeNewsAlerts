@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/syria-president-al-jazeera-interview-says-his-country-seeks-security-deal-with-2026-07-26/",
+    "title": "Syria president in Al Jazeera interview says his country seeks security deal with Israel",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 03:42",
+    "pub_ts": 1785094929
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/vessel-sinks-week-after-being-struck-by-russian-fire-ukrainian-officials-say-2026-07-26/",
     "title": "Vessel sinks a week after being struck by Russian fire, Ukrainian officials say",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 19:31",
     "pub_ts": 1784287902
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/spark-air-conditioner-caused-deadly-algeria-orphanage-fire-state-tv-says-2026-07-17/",
-    "title": "Spark from air conditioner caused deadly Algeria orphanage fire, state TV says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:30",
-    "pub_ts": 1784287832
   }
 ]
