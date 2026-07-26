@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/suspect-berlin-pride-attack-shot-dead-by-police-berlin-suburb-broadcaster-says-2026-07-26/",
+    "title": "Suspect in Berlin Pride attack shot dead by police in Berlin suburb, broadcaster says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 01:15",
+    "pub_ts": 1785086144
+  },
+  {
     "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768199.html",
     "title": "\"红霞\"强度减弱 广东累计转移近90万人",
@@ -16,6 +25,15 @@
     "category": "world",
     "pub_bj": "2026-07-27 00:29",
     "pub_ts": 1785083371
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-recalls-ambassador-argentina-after-milei-attacks-lula-sources-say-2026-07-26/",
+    "title": "Brazil recalls ambassador to Argentina after Milei attacks Lula, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 00:27",
+    "pub_ts": 1785083276
   },
   {
     "source": "Reuters",
@@ -26980,23 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-17 19:25",
     "pub_ts": 1784287523
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/intuitive-surgical-falls-obamacare-concerns-rekindle-medtech-demand-debate-2026-07-17/",
-    "title": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-17 19:23",
-    "pub_ts": 1784287432
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/telstra-ceo-points-undocumented-software-change-outage-senate-testimony-2026-07-17/",
-    "title": "Telstra CEO points to undocumented software change for outage in Senate testimony",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 19:23",
-    "pub_ts": 1784287424
   }
 ]
