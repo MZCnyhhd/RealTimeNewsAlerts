@@ -1,12 +1,48 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768199.html",
+    "title": "\"红霞\"强度减弱 广东累计转移近90万人",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-07-27 00:29",
+    "pub_ts": 1785083371
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://world.people.com.cn/n1/2026/0726/c1002-40768200.html",
+    "title": "越南籍船舶南沙海域沉没 我向越转交41名获救人员",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 00:29",
+    "pub_ts": 1785083371
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-security-cabinet-approves-letting-international-force-enter-gaza-areas-2026-07-26/",
+    "title": "Israeli security cabinet approves letting international force enter Gaza areas beyond Israeli control",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 00:25",
+    "pub_ts": 1785083154
+  },
+  {
+    "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0726/c1016-40768196.html",
     "title": "杭州湾跨海铁路大桥南航道桥钢桁梁架设到位",
     "path": "/general/",
     "category": "general",
     "pub_bj": "2026-07-26 23:29",
     "pub_ts": 1785079775
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/cuban-president-accuses-us-political-genocide-anniversary-revolution-2026-07-26/",
+    "title": "Cuban president accuses US of 'political genocide' on anniversary of revolution",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-26 23:27",
+    "pub_ts": 1785079663
   },
   {
     "source": "Reuters",
@@ -26962,41 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 19:23",
     "pub_ts": 1784287424
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uks-ftse-100-flat-energy-gains-offset-banks-burnham-set-become-prime-minister-2026-07-17/",
-    "title": "UK's FTSE 100 flat as energy gains offset banks; Burnham set to become prime minister",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:19",
-    "pub_ts": 1784287183
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/indonesia-president-aims-increase-sugarcane-bioethanol-production-2026-07-17/",
-    "title": "Indonesia president aims to increase sugarcane, bioethanol production",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:18",
-    "pub_ts": 1784287093
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uks-andy-burnham-confirmed-new-labour-party-leader-2026-07-17/",
-    "title": "UK's Andy Burnham confirmed as new Labour Party leader",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:17",
-    "pub_ts": 1784287063
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/chinese-blogger-jailed-fabricating-xiaomi-ev-video-claims-state-media-say-2026-07-17/",
-    "title": "Chinese blogger jailed for fabricating Xiaomi EV video claims, state media say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 19:15",
-    "pub_ts": 1784286943
   }
 ]
