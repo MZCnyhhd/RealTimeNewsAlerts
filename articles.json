@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/",
+    "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 05:36",
+    "pub_ts": 1785188176
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/universal-health-services-cuts-2026-forecast-medicaid-reimbursement-uncertainty-2026-07-27/",
+    "title": "Universal Health Services cuts 2026 forecast on Medicaid reimbursement uncertainty",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 05:31",
+    "pub_ts": 1785187892
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/nucor-beats-quarterly-results-strong-pricing-demand-2026-07-27/",
+    "title": "Nucor beats quarterly results on strong pricing, demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 05:27",
+    "pub_ts": 1785187664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/cincinnati-financials-quarterly-profit-falls-higher-catastrophe-losses-2026-07-27/",
+    "title": "Cincinnati Financial's quarterly profit falls on higher catastrophe losses",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 05:25",
+    "pub_ts": 1785187519
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/zelenskiy-meet-us-senators-russia-sanctions-vote-expected-2026-07-27/",
+    "title": "Zelenskiy to meet US senators, Russia sanctions vote expected",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 05:23",
+    "pub_ts": 1785187425
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/f5-raises-annual-revenue-growth-forecast-again-strong-cybersecurity-demand-2026-07-27/",
+    "title": "F5 raises annual revenue growth forecast again on strong cybersecurity demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-28 05:22",
+    "pub_ts": 1785187356
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/way-cleared-pop-singer-d4vd-stand-trial-murder-mutilation-charges-2026-07-27/",
+    "title": "Way cleared for pop singer D4vd to stand trial on murder, mutilation charges",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 05:15",
+    "pub_ts": 1785186941
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/t-mobile-down-thousands-users-us-downdetector-shows-2026-07-27/",
+    "title": "T-Mobile down for thousands of users in US, Downdetector shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 05:10",
+    "pub_ts": 1785186641
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-blocks-minnesota-implementing-novel-prediction-markets-ban-2026-07-27/",
+    "title": "Judge blocks Minnesota from implementing novel prediction markets ban",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 05:01",
+    "pub_ts": 1785186107
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/watchdog-finds-staffing-guidance-gaps-transfer-usaid-programs-2026-07-27/",
+    "title": "Watchdog finds staffing, guidance gaps in transfer of USAID programs",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 04:55",
+    "pub_ts": 1785185728
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/MWN2GG6BMFMH7BEFJ5AD5HLCKQ-2026-04-13/",
+    "title": "Comparação de preços sob Bolsonaro e Lula tem valores incorretos",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-28 04:51",
+    "pub_ts": 1785185464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/applied-digital-beats-quarterly-revenue-estimates-surging-ai-infrastructure-2026-07-27/",
+    "title": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-28 04:48",
+    "pub_ts": 1785185291
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/faa-delaying-flights-new-york-philadelphia-airports-2026-07-27/",
+    "title": "FAA delaying flights at New York, Philadelphia airports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 04:46",
+    "pub_ts": 1785185196
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/just-one-three-americans-back-iran-war-most-unsure-trumps-goals-reutersipsos-2026-07-27/",
     "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
     "path": "/world/",
@@ -26881,122 +26998,5 @@
     "category": "finance",
     "pub_bj": "2026-07-19 18:08",
     "pub_ts": 1784455734
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763658.html",
-    "title": "从\"三问于民\"看城市更新中的全过程人民民主",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 18:08",
-    "pub_ts": 1784455734
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0719/c226647-41643311.html",
-    "title": "秦地山河阔 烟火满人间",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 18:08",
-    "pub_ts": 1784455734
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://qh.people.com.cn/n2/2026/0719/c378418-41643357.html",
-    "title": "环青赛｜八天驰骋千里画卷",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 18:08",
-    "pub_ts": 1784455734
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jx.people.com.cn/n2/2026/0719/c190260-41643163.html",
-    "title": "江西南昌：近郊溪流享清凉",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 18:08",
-    "pub_ts": 1784455734
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/sao-tome-principe-votes-president-vila-nova-seeks-new-term-2026-07-19/",
-    "title": "Sao Tome and Principe votes for president, Vila Nova seeks new term",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 17:31",
-    "pub_ts": 1784453504
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/institutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19/",
-    "title": "Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 17:12",
-    "pub_ts": 1784452346
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/users-metas-facebook-instagram-report-suffering-some-outages-2026-07-19/",
-    "title": "Users of Meta's Facebook, Instagram report suffering some outages",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 16:53",
-    "pub_ts": 1784451230
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763660.html",
-    "title": "习近平主席引领人工智能发展",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 16:33",
-    "pub_ts": 1784449988
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763535.html",
-    "title": "委内瑞拉提取3.46亿美元用于震后重建",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 16:33",
-    "pub_ts": 1784449988
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0719/c1002-40763611.html",
-    "title": "国航开通北京至比什凯克直飞航线",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 16:33",
-    "pub_ts": 1784449988
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/world-at-work/men-more-likely-than-women-use-job-offers-pay-rises-study-finds-2026-07-19/",
-    "title": "Men more likely than women to use job offers for pay rises, study finds",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-19 16:06",
-    "pub_ts": 1784448372
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/caspian-pipeline-consortium-oil-loadings-suspended-after-drone-attacks-tankers-2026-07-19/",
-    "title": "Caspian Pipeline Consortium oil loadings suspended after drone attacks on tankers, CPC says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-19 15:50",
-    "pub_ts": 1784447421
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/democratic-taiwan-must-not-become-chinas-taiwan-president-says-2026-07-19/",
-    "title": "Democratic Taiwan must not become 'China's Taiwan', president says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 15:39",
-    "pub_ts": 1784446748
   }
 ]
