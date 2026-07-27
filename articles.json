@@ -1,5 +1,104 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/rohingya-schools-malaysia-face-closures-amid-online-surge-hate-speech-2026-07-27/",
+    "title": "Rohingya schools in Malaysia face closures amid online surge in hate speech",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 09:09",
+    "pub_ts": 1785114564
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bank-indonesia-governor-perry-warjiyo-steps-down-government-says-2026-07-27/",
+    "title": "Bank Indonesia Governor Perry Warjiyo steps down, government says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 09:04",
+    "pub_ts": 1785114276
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-27/",
+    "title": "Shares, bonds bounce as oil skid offers inflation relief",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:42",
+    "pub_ts": 1785112950
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/how-singapores-unique-monetary-policy-works-2026-07-27/",
+    "title": "How Singapore's unique monetary policy works",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:38",
+    "pub_ts": 1785112733
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/china-memory-chipmaker-cxmt-set-shanghai-debut-after-asias-biggest-ipo-2026-07-26/",
+    "title": "China memory chipmaker CXMT set for Shanghai debut after Asia's biggest IPO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:38",
+    "pub_ts": 1785112688
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/dollar-pulls-back-us-iran-attacks-pause-oil-drops-2026-07-27/",
+    "title": "Dollar pulls back as US-Iran attacks pause, oil drops",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:33",
+    "pub_ts": 1785112423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/singapore-central-bank-surprises-with-slight-policy-tightening-inflation-worries-2026-07-27/",
+    "title": "Singapore central bank surprises with slight policy tightening on inflation worries",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:31",
+    "pub_ts": 1785112305
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
+    "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 08:14",
+    "pub_ts": 1785111269
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/red-sea-shipping-slows-after-houthi-attack-saudi-arabia-data-shows-2026-07-27/",
+    "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:09",
+    "pub_ts": 1785110984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-pm-takaichis-approval-rating-slides-inflation-bites-yomiuri-poll-shows-2026-07-27/",
+    "title": "Japan PM Takaichi's approval rating slides as inflation bites, Yomiuri poll shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:07",
+    "pub_ts": 1785110864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-june-services-producer-prices-rise-iran-war-keeps-freight-costs-high-2026-07-27/",
+    "title": "Japan June services producer prices rise as Iran war keeps freight costs high",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 08:06",
+    "pub_ts": 1785110805
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0727/c461001-40768201.html",
     "title": "不断增强党的思想引领力",
@@ -26899,104 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-17 21:44",
     "pub_ts": 1784295855
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
-    "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 21:41",
-    "pub_ts": 1784295674
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/what-is-pakistan-militarys-strength-capability-2026-07-17/",
-    "title": "What is Pakistan military's strength and capability?",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 21:35",
-    "pub_ts": 1784295349
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-shakes-up-national-security-post-protesters-rally-second-day-2026-07-17/",
-    "title": "Zelenskiy shakes up national security post as protesters rally for second day",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 21:34",
-    "pub_ts": 1784295271
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/pakistan-kuwait-discuss-expanded-defence-pact-sources-say-2026-07-17/",
-    "title": "Pakistan and Kuwait discuss expanded defence pact, sources say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 21:30",
-    "pub_ts": 1784295014
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/germany-detains-moldovan-flying-spy-drone-over-arms-maker-knds-source-says-2026-07-17/",
-    "title": "Germany detains Moldovan for flying spy drone over arms maker KNDS, source says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 21:29",
-    "pub_ts": 1784294944
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/eu-plans-measures-help-eu-banks-build-scale-compete-with-us-rivals-2026-07-17/",
-    "title": "EU plans measures to help EU banks build scale and compete with US rivals",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 21:19",
-    "pub_ts": 1784294383
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke-2026-07-17/",
-    "title": "Zoox recalls self-driving cars because they may not detect smoke",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 21:18",
-    "pub_ts": 1784294301
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/fuel-crisis-attacks-azov-sea-tighten-squeeze-russian-farmers-2026-07-17/",
-    "title": "Fuel crisis, attacks in Azov Sea tighten squeeze on Russian farmers",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 21:13",
-    "pub_ts": 1784294024
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/us-import-prices-unexpectedly-rise-june-2026-07-17/",
-    "title": "US import prices unexpectedly rise in June",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 21:06",
-    "pub_ts": 1784293612
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-equity-funds-suffer-outflows-chip-stocks-slide-2026-07-17/",
-    "title": "US equity funds suffer outflows as chip stocks slide",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-17 20:59",
-    "pub_ts": 1784293183
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/eu-imposes-sanctions-russian-executive-five-companies-over-drones-2026-07-17/",
-    "title": "EU imposes sanctions on Russian executive, five companies over drones",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-17 20:55",
-    "pub_ts": 1784292950
   }
 ]
