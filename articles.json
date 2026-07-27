@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/just-one-three-americans-back-iran-war-most-unsure-trumps-goals-reutersipsos-2026-07-27/",
+    "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 04:40",
+    "pub_ts": 1785184806
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/philips-beats-second-quarter-profit-estimates-helped-by-tariff-refunds-2026-07-27/",
+    "title": "Philips beats second-quarter profit estimates helped by tariff refunds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 04:38",
+    "pub_ts": 1785184689
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/italys-sanlorenzo-backs-bid-embattled-yacht-maker-italian-sea-group-2026-07-27/",
+    "title": "Italy's Sanlorenzo backs bid for embattled yacht maker Italian Sea Group",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 04:37",
+    "pub_ts": 1785184677
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/swiss-regulator-opens-enforcement-proceedings-against-zurich-insurance-2026-07-27/",
+    "title": "Swiss regulator opens enforcement proceedings against Zurich Insurance",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 04:36",
+    "pub_ts": 1785184576
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions-2026-07-27/",
+    "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 04:36",
+    "pub_ts": 1785184571
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-2026-07-27/",
+    "title": "Cadence raises annual forecasts as demand booms for AI chip design",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 04:36",
+    "pub_ts": 1785184562
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/fat-brands-gets-court-go-ahead-liquidation-plan-2026-07-27/",
+    "title": "FAT Brands gets court go-ahead for liquidation plan",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 04:27",
+    "pub_ts": 1785184064
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/",
+    "title": "EPA says power for data centers can sidestep pollution laws",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 04:15",
+    "pub_ts": 1785183304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/andrew-tristan-tate-seek-release-us-jail-while-fighting-extradition-2026-07-27/",
+    "title": "Andrew, Tristan Tate to seek release from US jail while fighting extradition",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 03:39",
+    "pub_ts": 1785181189
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-urges-senate-end-twice-annual-clock-switching-2026-07-27/",
+    "title": "Trump urges Senate to end twice annual clock switching",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 03:35",
+    "pub_ts": 1785180928
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/life-ukraines-front-line-worse-than-hell-russia-advances-clone-2025-12-23/",
+    "title": "Rare access reveals changing face of Mapuche struggle in Chile",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 03:29",
+    "pub_ts": 1785180543
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/nigeria-tells-south-africa-curb-xenophobic-attacks-migrants-questions-state-2026-07-27/",
+    "title": "Nigeria tells South Africa to curb xenophobic attacks on migrants, questions state response",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 03:17",
+    "pub_ts": 1785179863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-france-trade-barbs-fight-over-un-rights-chiefs-second-term-2026-07-27/",
+    "title": "US, France trade barbs in fight over UN rights chief's second term",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 03:15",
+    "pub_ts": 1785179743
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/russian-attacks-southeastern-dnipropetrovsk-region-kill-three-regional-governor-2026-07-27/",
     "title": "Russian attacks in southeastern Dnipropetrovsk region kill three, regional governor says",
     "path": "/world/",
@@ -244,6 +361,15 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/romania-expels-russian-diplomat-protest-airspace-breaches-2026-07-27/",
+    "title": "Romania expels Russian diplomat in protest of airspace breaches",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 00:51",
+    "pub_ts": 1785171068
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/former-fda-chief-says-central-mexico-may-have-broad-cyclosporiasis-contamination-2026-07-27/",
     "title": "Former FDA chief says Central Mexico may have broad cyclosporiasis contamination",
     "path": "/business/",
@@ -475,6 +601,51 @@
     "category": "world",
     "pub_bj": "2026-07-27 23:15",
     "pub_ts": 1785165309
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/mapping-wildfires-outside-bordeaux-madrid-2026-07-27/",
+    "title": "Mapping the wildfires outside Bordeaux and Madrid",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 22:58",
+    "pub_ts": 1785164328
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/palestinians-say-settler-violence-military-raids-are-bringing-them-breaking-2026-07-27/",
+    "title": "Palestinians say settler violence and military raids are bringing them to breaking point",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 22:53",
+    "pub_ts": 1785164024
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/porsche-cut-another-5000-jobs-2026-07-27/",
+    "title": "Porsche to axe one in five jobs by 2035 as China, EV woes bite",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-27 22:53",
+    "pub_ts": 1785164018
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/3SJQPFV7BBJO5OOVA4BOZROEMA-2026-07-27/",
+    "title": "Clip muestra explosiones en China en agosto de 2015, no ataque a ciudad iraní en julio de 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-27 22:51",
+    "pub_ts": 1785163871
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/netanyahu-says-iran-is-top-agenda-meeting-with-trump-2026-07-27/",
+    "title": "Netanyahu says Iran is top agenda in meeting with Trump",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-27 22:49",
+    "pub_ts": 1785163776
   },
   {
     "source": "Reuters",
@@ -26827,176 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-19 15:39",
     "pub_ts": 1784446748
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/southern-china-braces-more-rain-chongqing-landslide-search-continues-2026-07-19/",
-    "title": "Southern China braces for more rain, Chongqing landslide search continues",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-19 15:35",
-    "pub_ts": 1784446530
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0719/c365401-41643365.html",
-    "title": "重庆彭水，一场与时间赛跑的营救",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0718/c365425-41642988.html",
-    "title": "乌江之畔 加紧救援",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0717/c365401-41642503.html",
-    "title": "直击重庆彭水山体垮塌救援现场",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0718/c365401-41642578.html",
-    "title": "机械掘进+人工排查 重庆彭水从三个方向同步实施救援",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763523.html",
-    "title": "习主席一下午会见三位政要,这些细节值得关注",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0719/c186331-41643312.html",
-    "title": "行进中国丨烟雨丹霞美如画",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0719/c1016-40763563.html",
-    "title": "山东青州：数字技术让文物“活”起来",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 14:14",
-    "pub_ts": 1784441680
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/lebanons-aoun-meet-trump-white-house-hoping-generate-pressure-israel-2026-07-19/",
-    "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 14:03",
-    "pub_ts": 1784441032
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/wife-indian-activist-wangchuk-asks-court-move-him-private-hospital-2026-07-19/",
-    "title": "Wife of Indian activist Wangchuk asks court to move him to private hospital",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 13:35",
-    "pub_ts": 1784439347
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/chinas-jingye-steel-urges-uk-compensate-its-investment-losses-2026-07-19/",
-    "title": "China's Jingye Steel urges UK to compensate its investment losses",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-19 12:23",
-    "pub_ts": 1784435025
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763525.html",
-    "title": "习近平主席讲话为全球人工智能治理贡献中国智慧",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763512.html",
-    "title": "读懂习近平主席的人工智能“千里马”之喻",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0719/c461001-40763515.html",
-    "title": "老旧小区的幸福蝶变",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0719/c1004-40763366.html",
-    "title": "年中经济观察|高技术制造业绽放澎湃动能",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0719/c1004-40763511.html",
-    "title": "\"中国机遇2.0\"缘何持续收获全球关注?",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0719/c1004-40763558.html",
-    "title": "数智融合持续深化 制造业数字化转型走深向实",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0719/c1016-40763556.html",
-    "title": "内蒙古自治区第36届旅游那达慕在锡林浩特开幕",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0719/c1016-40763526.html",
-    "title": "沪渝蓉高铁建设稳步推进",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-19 11:39",
-    "pub_ts": 1784432369
   }
 ]
