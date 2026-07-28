@@ -1,6 +1,78 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-arabia-says-drones-launched-iraq-targeting-oil-facilities-intercepted-2026-07-28/",
+    "title": "Saudi Arabia says drones launched from Iraq targeting oil facilities intercepted",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 03:47",
+    "pub_ts": 1785268075
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+    "title": "Trump administration to ban new Chinese humanoid robots, protecting US AI buildout",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 03:42",
+    "pub_ts": 1785267725
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/resilient-tourists-help-us-travel-firms-absorb-middle-east-shock-2026-07-28/",
+    "title": "Resilient tourists help US travel firms absorb Middle East shock",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 03:41",
+    "pub_ts": 1785267686
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/EBDVCRTHTRPRROQXHRJ2TAS5EI-2026-07-28/",
+    "title": "Adoção de novo modelo de urna eletrônica está prevista para 2028",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-29 03:40",
+    "pub_ts": 1785267612
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/ukrainian-foreign-minister-says-he-warned-iranian-counterpart-against-escalation-2026-07-28/",
+    "title": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 03:31",
+    "pub_ts": 1785267063
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/south-africa-tribunal-approves-equinix-data-centres-despite-activist-objections-2026-07-28/",
+    "title": "South Africa tribunal approves Equinix data centres despite activist objections",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 03:12",
+    "pub_ts": 1785265930
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/Z3VKGSPLUNP43IEPBFNEPXGFNI-2026-07-28/",
+    "title": "Sóstenes Cavalcante não defendeu “repensar” voto feminino, nem disse que mulher “vota mal”",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-29 03:02",
+    "pub_ts": 1785265364
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/D4DS7IGEJJPCZHNUN2IKL3HCU4-2026-07-28/",
+    "title": "Vídeo editado omite contexto de fala de Lula sobre cuidar dos pobres",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-29 02:59",
+    "pub_ts": 1785265154
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us-faa-proposes-streamlining-commercial-space-licensing-rules-2026-07-28/",
     "title": "US FAA proposes streamlining of commercial space licensing rules",
     "path": "/world/",
@@ -115,6 +187,60 @@
     "category": "technology",
     "pub_bj": "2026-07-29 01:29",
     "pub_ts": 1785259776
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/royal-caribbean-trims-revenue-forecast-booking-hit-geopolitical-tensions-2026-07-28/",
+    "title": "Royal Caribbean raises annual profit forecast, flags modest booking hit from Middle East",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 01:26",
+    "pub_ts": 1785259560
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/250-million-asml-printer-behind-nvidias-chips-2026-07-28/",
+    "title": "The $400 million ASML 'printers' key for the AI chip boom",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 01:14",
+    "pub_ts": 1785258864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ups-raises-full-year-revenue-forecast-2026-07-28/",
+    "title": "UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 01:12",
+    "pub_ts": 1785258732
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/russia-explores-support-wildberries-after-ukrainian-drone-attacks-sources-say-2026-07-28/",
+    "title": "Russia explores support for Wildberries after Ukrainian drone attacks, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 01:07",
+    "pub_ts": 1785258463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/opec-likely-pause-oil-output-hikes-after-september-sources-say-2026-07-28/",
+    "title": "OPEC+ likely to pause oil output hikes after September, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 01:05",
+    "pub_ts": 1785258340
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/least-14-killed-attack-nigerias-benue-state-local-officials-say-2026-07-28/",
+    "title": "At least 14 killed in attack in Nigeria's Benue state, local officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 01:03",
+    "pub_ts": 1785258228
   },
   {
     "source": "People's Daily",
@@ -367,6 +493,15 @@
     "category": "business",
     "pub_bj": "2026-07-29 00:05",
     "pub_ts": 1785254743
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/russias-wildberries-says-it-paid-out-compensation-victims-ukrainian-attacks-its-2026-07-28/",
+    "title": "Russia's Wildberries says it paid out compensation to victims of Ukrainian attacks on its warehouses",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-28 23:39",
+    "pub_ts": 1785253186
   },
   {
     "source": "People's Daily",
@@ -26863,140 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-21 00:37",
     "pub_ts": 1784565465
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/valeo-make-drone-motors-france-harmattan-ai-2026-07-20/",
-    "title": "Valeo to make drone motors in France for Harmattan AI",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 00:36",
-    "pub_ts": 1784565391
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/state-ags-are-not-waiting-new-regulations-exercise-authority-over-ai-use--pracin-2026-07-20/",
-    "title": "State AGs are not waiting for new regulations to exercise authority over AI use",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 00:26",
-    "pub_ts": 1784564817
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-africa-opposition-proposes-law-curb-political-influence-pic-2026-07-20/",
-    "title": "South Africa opposition proposes law to curb political influence at PIC",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 00:18",
-    "pub_ts": 1784564300
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/ortega-says-nicaragua-will-no-longer-hold-elections-2026-07-20/",
-    "title": "Ortega says Nicaragua will no longer hold elections",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 00:17",
-    "pub_ts": 1784564264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/china-imports-nine-month-high-buoy-copper-prices-2026-07-20/",
-    "title": "China imports at nine-month high buoy copper prices",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 00:11",
-    "pub_ts": 1784563903
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0720/c1002-40764513.html",
-    "title": "中泰关于面向繁荣中泰命运共同体的联合声明",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 00:08",
-    "pub_ts": 1784563685
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0720/c1016-40764511.html",
-    "title": "科技馆里过暑假 互动科普趣味浓",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-21 00:08",
-    "pub_ts": 1784563685
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-administration-seeks-bar-law-firm-susman-godfrey-lawyer-groups-lawsuit-2026-07-20/",
-    "title": "Trump administration seeks to bar law firm Susman Godfrey from lawyer group's lawsuit",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 00:00",
-    "pub_ts": 1784563242
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indigo-signs-mou-record-leap-1a-engine-deal-with-cmf-2026-07-20/",
-    "title": "IndiGo signs MOU for record LEAP-1A engine deal with CFM",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 23:56",
-    "pub_ts": 1784562962
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/private-investors-must-pile-cash-into-defence-fill-public-funding-gap-executives-2026-07-20/",
-    "title": "Private investors must pile cash into defence to fill public funding gap, executives say",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-20 23:55",
-    "pub_ts": 1784562921
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/moderna-says-curevac-broke-agreement-by-suing-over-covid-vaccine-patents-2026-07-20/",
-    "title": "Moderna says CureVac broke agreement by suing over COVID vaccine patents",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-20 23:54",
-    "pub_ts": 1784562849
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/aspen-pharmacare-wins-canada-approval-generic-ozempic-injection-2026-07-20/",
-    "title": "Aspen Pharmacare wins Canada approval for generic Ozempic after Novo patent expiry",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-20 23:53",
-    "pub_ts": 1784562837
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/four-indians-killed-attack-ship-leaving-ukraines-odesa-new-delhi-says-2026-07-20/",
-    "title": "Four Indians killed in attack on ship leaving Ukraine's Odesa, New Delhi says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 23:49",
-    "pub_ts": 1784562549
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/canada-tap-pratt-whitney-canada-aerospace-boost-government-says-2026-07-20/",
-    "title": "Canada to tap Pratt & Whitney Canada for aerospace boost, government says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 23:43",
-    "pub_ts": 1784562223
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/new-uk-leader-burnham-says-he-will-never-take-risks-with-economy-2026-07-20/",
-    "title": "New UK leader Burnham says he will never take risks with economy",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 23:41",
-    "pub_ts": 1784562082
   }
 ]
