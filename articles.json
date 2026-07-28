@@ -1,6 +1,159 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/att-closes-23-billion-deal-acquire-spectrum-echostar-2026-07-28/",
+    "title": "AT&T closes $23 billion deal to acquire spectrum from Echostar",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:53",
+    "pub_ts": 1785272027
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/guatemalan-man-deported-us-wife-found-dead-sugar-field-baby-alive-beside-them-2026-07-28/",
+    "title": "Guatemalan man deported from US and wife found dead in sugar field, baby alive beside them",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 04:53",
+    "pub_ts": 1785272004
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/natgas-producer-expand-energy-beats-second-quarter-profit-estimates-2026-07-28/",
+    "title": "Expand Energy tops profit estimates as higher output offsets lower gas prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:52",
+    "pub_ts": 1785271933
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/electric-prices-spike-amid-hot-weather-us-midwest-2026-07-28/",
+    "title": "Electric prices spike amid hot weather in US Midwest",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:39",
+    "pub_ts": 1785271165
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/seagate-forecasts-upbeat-quarter-strong-ai-driven-storage-demand-2026-07-28/",
+    "title": "Seagate forecasts upbeat quarter on strong AI-driven storage demand",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 04:31",
+    "pub_ts": 1785270719
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/wachtell-litigation-leader-savitt-departs-rival-law-firm-gibson-dunn-2026-07-28/",
+    "title": "Wachtell litigation leader Savitt departs for rival law firm Gibson Dunn",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 04:31",
+    "pub_ts": 1785270678
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/ford-lifts-annual-guidance-citing-strong-pricing-resilient-consumer-2026-07-28/",
+    "title": "Ford lifts annual guidance, citing strong pricing and 'resilient' consumer",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:30",
+    "pub_ts": 1785270603
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/life-prison-without-parole-georgia-teen-who-killed-four-2024-us-school-shooting-2026-07-28/",
+    "title": "Life in prison without parole for Georgia teen who killed four in 2024 US school shooting",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 04:29",
+    "pub_ts": 1785270589
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/kla-corp-forecasts-upbeat-quarter-sustained-ai-investment-2026-07-28/",
+    "title": "KLA Corp forecasts upbeat quarter on sustained AI investment",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:28",
+    "pub_ts": 1785270514
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-says-romanian-drone-complaints-are-groundless-2026-07-28/",
+    "title": "Russia says Romanian drone complaints are groundless",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 04:27",
+    "pub_ts": 1785270464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-public-inflation-expectations-ease-further-july-survey-shows-2026-07-28/",
+    "title": "UK public inflation expectations ease further in July, survey shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 04:23",
+    "pub_ts": 1785270198
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/eeoc-stopped-hearing-federal-workers-class-action-cases-union-claims-lawsuit-2026-07-28/",
+    "title": "EEOC stopped hearing federal workers' class action cases, union claims in lawsuit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 04:19",
+    "pub_ts": 1785269997
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-prince-alwaleed-takes-5-stake-ev-maker-lucid-2026-07-28/",
+    "title": "Saudi Prince Alwaleed takes 5% stake in EV maker Lucid",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 04:17",
+    "pub_ts": 1785269863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/logitech-beats-forecasts-after-us-tariff-2026-07-28/",
+    "title": "Logitech beats forecasts after US tariff refund",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:17",
+    "pub_ts": 1785269855
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/oreo-maker-mondelez-beats-second-quarter-sales-estimates-2026-07-28/",
+    "title": "Oreo maker Mondelez beats second-quarter estimates on steady demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:17",
+    "pub_ts": 1785269836
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/visa-quarterly-profit-rises-resilient-consumer-spending-2026-07-28/",
+    "title": "Visa quarterly profit rises on resilient consumer spending",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:14",
+    "pub_ts": 1785269681
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/coursera-backs-co-founder-andrew-ngs-new-ai-education-firm-with-100-million-2026-07-28/",
+    "title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-29 04:09",
+    "pub_ts": 1785269389
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/saudi-arabia-says-drones-launched-iraq-targeting-oil-facilities-intercepted-2026-07-28/",
     "title": "Saudi Arabia says drones launched from Iraq targeting oil facilities intercepted",
     "path": "/world/",
@@ -493,6 +646,24 @@
     "category": "business",
     "pub_bj": "2026-07-29 00:05",
     "pub_ts": 1785254743
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/geely-rides-fords-rescue-2026-07-28/",
+    "title": "Geely rides to Ford’s rescue",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 00:00",
+    "pub_ts": 1785254400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/robinhood-ceo-vlad-tenev-says-x-account-was-hacked-2026-07-28/",
+    "title": "Robinhood CEO Vlad Tenev says X account was hacked",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 23:55",
+    "pub_ts": 1785254144
   },
   {
     "source": "Reuters",
@@ -26827,176 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-21 02:06",
     "pub_ts": 1784570780
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/after-deadly-weekend-us-troops-trump-vows-revenge-against-iran-2026-07-20/",
-    "title": "After deadly weekend for US troops, Trump vows revenge against Iran",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 02:03",
-    "pub_ts": 1784570624
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/man-charged-with-murdering-former-british-minister-ann-widdecombe-2026-07-20/",
-    "title": "Man charged with murdering former British minister Ann Widdecombe",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 02:02",
-    "pub_ts": 1784570529
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/haitian-children-jailed-years-without-facing-judge-un-official-says-2026-07-20/",
-    "title": "Haitian children jailed for years without facing judge, UN official says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 02:01",
-    "pub_ts": 1784570503
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "path": "/artificial-intelligence/",
-    "category": "artificial intelligence",
-    "pub_bj": "2026-07-21 02:00",
-    "pub_ts": 1784570400
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/former-uk-defence-minister-healey-named-new-finance-minister-2026-07-20/",
-    "title": "Former defence minister Healey named as new UK finance minister",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:59",
-    "pub_ts": 1784570344
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-pm-burnham-appoints-ed-miliband-foreign-minister-2026-07-20/",
-    "title": "UK PM Burnham appoints Ed Miliband as foreign minister",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:55",
-    "pub_ts": 1784570143
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/judge-orders-paramount-temporarily-pause-warner-bros-acquisition-2026-07-20/",
-    "title": "Judge orders Paramount to temporarily pause Warner Bros acquisition",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:54",
-    "pub_ts": 1784570090
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/",
-    "title": "Head of US AI safety agency resigns",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:50",
-    "pub_ts": 1784569836
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ten-bodies-recovered-after-ferry-capsizes-off-guyana-coast-2026-07-20/",
-    "title": "Ten bodies recovered after ferry capsizes off Guyana coast",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:48",
-    "pub_ts": 1784569713
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/senegals-faye-backs-ex-president-salls-bid-un-top-job-ministry-says-2026-07-20/",
-    "title": "Senegal's Faye backs ex-president Sall's bid for UN top job, ministry says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:45",
-    "pub_ts": 1784569543
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-senators-airshow-reassure-foreign-defense-contractors-urge-tariff-free-trade-2026-07-20/",
-    "title": "US senators at airshow to reassure foreign defense contractors, urge tariff-free trade",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:33",
-    "pub_ts": 1784568804
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/red-sea-war-insurance-costs-rise-after-houthi-blockade-sources-say-2026-07-20/",
-    "title": "Red Sea war insurance costs rise after Houthi blockade, sources say",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 01:31",
-    "pub_ts": 1784568717
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/uks-ip-group-rebuffs-railpens-revised-713-pence-proposal-2026-07-20/",
-    "title": "UK's IP Group rebuffs Railpen's revised 71.3 pence proposal",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 01:31",
-    "pub_ts": 1784568693
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-climb-over-6000-state-health-officials-say-2026-07-20/",
-    "title": "US FDA says data continues to support Taylor Farms' lettuce as cyclospora source",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 01:30",
-    "pub_ts": 1784568604
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/uks-bt-group-shareholder-sells-substantial-position-224-million-offering-2026-07-20/",
-    "title": "UK's BT Group shareholder sells substantial position in $224 million offering",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 01:21",
-    "pub_ts": 1784568095
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ukraines-zelenskiy-meets-commanders-street-protests-mount-2026-07-20/",
-    "title": "Ukraine's Zelenskiy meets commanders as street protests mount",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 01:08",
-    "pub_ts": 1784567327
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/canadian-dollar-pulls-back-one-month-high-inflation-cools-2026-07-20/",
-    "title": "Canadian dollar pulls back from one-month high as inflation cools",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 01:01",
-    "pub_ts": 1784566869
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/oil-stocks-us-strategic-petroleum-reserve-fall-by-51-million-barrels-lowest-2026-07-20/",
-    "title": "Oil stocks in US Strategic Petroleum Reserve fall by 5.1 million barrels to lowest level since 1983",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 00:37",
-    "pub_ts": 1784565465
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-says-data-cyclosporiasis-points-shredded-iceberg-lettuce-taylor-farms-mexico-2026-07-20/",
-    "title": "FDA says data on cyclosporiasis points to shredded iceberg lettuce from Taylor Farms in Mexico",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 00:37",
-    "pub_ts": 1784565465
   }
 ]
