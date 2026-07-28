@@ -1,5 +1,77 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/samsung-sk-hynix-slide-amid-nvidia-financing-worries-china-competition-2026-07-28/",
+    "title": "Samsung, SK Hynix slide amid Nvidia financing worries, China competition",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 08:59",
+    "pub_ts": 1785200359
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-kospi-drops-7-global-chipmaker-selloff-deepens-2026-07-28/",
+    "title": "South Korea's KOSPI drops 7% as global chipmaker selloff deepens",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 08:56",
+    "pub_ts": 1785200199
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-requests-wto-consultations-over-us-tariffs-2026-07-28/",
+    "title": "Brazil requests WTO consultations over US tariffs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 08:55",
+    "pub_ts": 1785200120
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/faa-says-seats-hundreds-boeing-737-max-were-incorrectly-installed-2026-07-27/",
+    "title": "FAA says seats on hundreds of Boeing 737 MAX jets were incorrectly installed",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 08:51",
+    "pub_ts": 1785199909
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/dollar-hits-one-month-high-lingering-chances-fed-hike-2026-07-28/",
+    "title": "Dollar hits one-month high on lingering chances of Fed hike",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 08:39",
+    "pub_ts": 1785199178
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/state-official-outlines-proposed-federal-cuts-colorado-river-water-arizona-2026-07-27/",
+    "title": "State official outlines proposed federal cuts to Colorado River water for Arizona, California and Nevada",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-28 08:02",
+    "pub_ts": 1785196931
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesia-faces-test-central-bank-independence-after-governors-shock-exit-2026-07-27/",
+    "title": "Indonesia faces test of central bank independence after governor's shock exit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 07:56",
+    "pub_ts": 1785196566
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/australias-victoria-state-premier-resigns-ahead-november-election-2026-07-27/",
+    "title": "Australia's Victoria state premier resigns ahead of November election",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-28 07:51",
+    "pub_ts": 1785196287
+  },
+  {
     "source": "People's Daily",
     "url": "http://world.people.com.cn/n1/2026/0728/c1002-40769076.html",
     "title": "读懂中国之治 携手同行大道",
@@ -26926,77 +26998,5 @@
     "category": "politics",
     "pub_bj": "2026-07-20 07:10",
     "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/GB/8215/461663/462286/index.html",
-    "title": "活力中国调研行|",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0720/c1004-40763701.html",
-    "title": "京津冀协同创新迸发新活力",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0720/c1008-40763722.html",
-    "title": "救灾一线:25把车钥匙背后的信任",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://edu.people.com.cn/n1/2026/0720/c1006-40763739.html",
-    "title": "教育如何应对人工智能大考",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0720/c1008-40763727.html",
-    "title": "贵州赫章百余套公租房闲置8年未盘活",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0720/c1002-40763765.html",
-    "title": "权威论坛|中国经济展现强大韧性和活力",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 07:10",
-    "pub_ts": 1784502642
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-chief-financial-officers-turn-more-hopeful-about-ai-2026-07-19/",
-    "title": "UK chief financial officers turn more hopeful about AI",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 07:07",
-    "pub_ts": 1784502463
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/pledging-rewire-britain-king-north-burnham-becomes-pm-2026-07-19/",
-    "title": "Pledging to 'rewire Britain', 'King of the North' Burnham becomes PM",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-20 07:04",
-    "pub_ts": 1784502291
   }
 ]
