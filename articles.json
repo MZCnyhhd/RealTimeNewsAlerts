@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-2026-07-28/",
+    "title": "Tech employees call for US-backed global effort to manage risks of advanced AI",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 06:03",
+    "pub_ts": 1785276224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/us-offers-first-funding-private-ammonia-project-western-sahara-2026-07-28/",
+    "title": "US offers first funding for private ammonia project in Western Sahara",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 06:02",
+    "pub_ts": 1785276168
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/firstenergy-quarterly-profit-rises-data-center-demand-operations-focus-2026-07-28/",
+    "title": "FirstEnergy quarterly profit rises on data center demand, operations focus",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 06:01",
+    "pub_ts": 1785276111
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-crude-gasoline-inventories-likely-fell-last-week-distillate-stocks-rose-2026-07-28/",
+    "title": "US crude, gasoline inventories likely fell last week, distillate stocks rose",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 06:01",
+    "pub_ts": 1785276104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
+    "title": "OpenAI's rogue agent compromised an account at a second tech firm, executive says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 05:52",
+    "pub_ts": 1785275535
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-know-about-us-outbreak-intestinal-illness-cyclosporiasis-2026-07-28/",
+    "title": "What to know about the US outbreak of cyclosporiasis intestinal illness",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 05:42",
+    "pub_ts": 1785274972
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uk-pm-burnham-set-out-first-steps-social-care-speech-2026-07-28/",
+    "title": "UK PM Burnham to set out first steps on social care in speech",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 05:38",
+    "pub_ts": 1785274736
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/drone-attacks-kill-three-target-bus-russias-belgorod-region-2026-07-28/",
+    "title": "Drone attacks kill three, target bus in Russia's Belgorod region",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 05:35",
+    "pub_ts": 1785274517
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-houstons-minority-contracting-program-2026-07-28/",
+    "title": "US judge blocks Houston's minority contracting program",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 05:21",
+    "pub_ts": 1785273703
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/trump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28/",
+    "title": "Trump administration plans to end Medicare drug plan subsidy, WSJ reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-29 05:15",
+    "pub_ts": 1785273343
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/teradyne-forecasts-upbeat-revenue-strong-chip-equipment-demand-shares-jump-2026-07-28/",
+    "title": "Teradyne forecasts upbeat revenue on strong chip equipment demand, shares jump",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-29 05:05",
+    "pub_ts": 1785272719
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-fired-missiles-saudi-oil-tanker-red-sea-2026-07-28/",
+    "title": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 05:00",
+    "pub_ts": 1785272412
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/api-shows-fall-weekly-us-crude-stocks-rise-fuel-inventories-sources-say-2026-07-28/",
+    "title": "API shows fall in weekly US crude stocks, rise in fuel inventories, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-29 04:59",
+    "pub_ts": 1785272383
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/att-closes-23-billion-deal-acquire-spectrum-echostar-2026-07-28/",
     "title": "AT&T closes $23 billion deal to acquire spectrum from Echostar",
     "path": "/business/",
@@ -223,6 +340,15 @@
     "category": "fact-check",
     "pub_bj": "2026-07-29 02:59",
     "pub_ts": 1785265154
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/5MYV7QXGWZNINCIJSM3OO7RUXA-2026-07-28/",
+    "title": "Posts inflam preços da carne e de combustíveis sob Lula",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-29 02:42",
+    "pub_ts": 1785264127
   },
   {
     "source": "Reuters",
@@ -26872,131 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-21 03:53",
     "pub_ts": 1784577223
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/capital-one-defeats-lawsuit-alleging-excessive-credit-card-rates-2026-07-20/",
-    "title": "Capital One defeats lawsuit alleging excessive credit card rates",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 03:51",
-    "pub_ts": 1784577088
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/chevron-shuts-us-gulf-platform-preparation-developing-tropical-storm-2026-07-20/",
-    "title": "Chevron shuts in US Gulf platform in preparation for developing tropical storm",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 03:47",
-    "pub_ts": 1784576864
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/india-markets-regulator-penalises-depository-over-2022-malware-attack-2026-07-20/",
-    "title": "India markets regulator penalises depository over 2022 malware attack",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 03:26",
-    "pub_ts": 1784575585
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/aercap-order-15-boeing-787-sources-say-2026-07-20/",
-    "title": "AerCap to order 15 Boeing 787, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 03:23",
-    "pub_ts": 1784575424
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/us-appeals-court-decertifies-boeing-class-action-stemming-max-9-blowout-2026-07-20/",
-    "title": "Boeing class action over MAX 9 blowout decertified by US appeals court",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 03:14",
-    "pub_ts": 1784574893
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/day-andy-burnham-becomes-uk-pm-northern-city-loses-trains-london-2026-07-20/",
-    "title": "On the day Andy Burnham becomes UK PM, a northern city loses trains to London",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 03:07",
-    "pub_ts": 1784574438
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/darline-graham-run-full-term-replace-her-brother-us-senate-2026-07-20/",
-    "title": "Darline Graham to run for full term to replace her brother in U.S. Senate",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 03:03",
-    "pub_ts": 1784574210
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/mans-death-during-police-arrest-italy-leads-street-protests-2026-07-20/",
-    "title": "Man's death during police arrest in Italy leads to street protests",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 03:01",
-    "pub_ts": 1784574103
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/espanol/UDD23URSRNI23PTMMGXFW4NJQ4-2026-07-20/",
-    "title": "Foto alterada sugiere que Lionel Messi pisoteó a jugador inglés en semifinal del Mundial",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-21 02:59",
-    "pub_ts": 1784573945
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/netanyahu-will-not-be-arrested-us-trump-says-new-york-mayor-mulls-options-2026-07-20/",
-    "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-21 02:15",
-    "pub_ts": 1784571359
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/key-ministers-new-uk-leader-burnhams-cabinet-2026-07-20/",
-    "title": "Key ministers in new UK leader Burnham's cabinet",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 02:13",
-    "pub_ts": 1784571225
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/flash-floods-kill-20-afghanistan-100-missing-authorities-say-2026-07-20/",
-    "title": "Flash floods kill 20 in Afghanistan, 100 missing, authorities say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 02:11",
-    "pub_ts": 1784571114
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/jetblue-wins-auction-spirits-laguardia-flight-slots-2026-07-20/",
-    "title": "JetBlue wins auction for Spirit's LaGuardia flight slots",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-21 02:08",
-    "pub_ts": 1784570916
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/ontario-wildfires-expand-smoke-lingers-parts-us-2026-07-20/",
-    "title": "Ontario wildfires expand as smoke lingers in parts of the US",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-21 02:06",
-    "pub_ts": 1784570780
   }
 ]
