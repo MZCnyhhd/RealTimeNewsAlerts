@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-lobby-firm-ballard-partners-opens-venezuela-office-2026-07-29/",
+    "title": "US lobby firm Ballard Partners opens Venezuela office",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 05:58",
+    "pub_ts": 1785362288
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/two-men-plead-guilty-insider-trading-case-tied-law-firm-tips-2026-07-29/",
+    "title": "Two men to plead guilty in insider trading case tied to law firm tips",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 05:57",
+    "pub_ts": 1785362263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/brazilian-juice-maker-natural-one-explores-options-including-sale-sources-say-2026-07-29/",
+    "title": "Brazilian juice maker The Natural One explores options including sale, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 05:57",
+    "pub_ts": 1785362220
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/johnson-johnson-lowers-2026-profit-forecast-2026-07-29/",
+    "title": "J&J lowers 2026 profit forecast on deal costs, sees further hit in 2027",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:54",
+    "pub_ts": 1785362050
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-against-capricors-duchenne-heart-disease-therapy-2026-07-29/",
+    "title": "FDA panel votes against Capricor's Duchenne heart disease therapy",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:53",
+    "pub_ts": 1785362017
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/casino-operator-mgm-resorts-beats-quarterly-revenue-estimates-las-vegas-strength-2026-07-29/",
+    "title": "Casino operator MGM Resorts beats quarterly revenue estimates on Las Vegas strength",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:49",
+    "pub_ts": 1785361783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-will-hit-iran-hard-after-attack-was-briefed-egypt-tanker-2026-07-29/",
+    "title": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 05:48",
+    "pub_ts": 1785361736
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/fallout-openai-hugging-face-hack-2026-07-29/",
+    "title": "The fallout from the OpenAI-Hugging Face hack",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-30 05:44",
+    "pub_ts": 1785361478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/fortinet-lifts-annual-revenue-forecast-strong-cybersecurity-demand-2026-07-29/",
+    "title": "Fortinet lifts annual revenue forecast on strong cybersecurity demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-30 05:42",
+    "pub_ts": 1785361342
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/bae-systems-wins-59-billion-uk-submarine-contract-2026-07-29/",
+    "title": "BAE Systems wins £5.9 billion UK submarine contract",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:32",
+    "pub_ts": 1785360752
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/usda-fund-arizona-facility-fight-flesh-eating-livestock-pest-2026-07-29/",
+    "title": "USDA to fund Arizona facility to fight flesh-eating livestock pest",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 05:31",
+    "pub_ts": 1785360703
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-stands-by-his-brilliant-fed-pick-despite-no-rate-cuts-2026-07-29/",
+    "title": "Trump stands by his 'brilliant' Fed pick despite no rate cuts",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:26",
+    "pub_ts": 1785360415
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/ch-robinsons-quarterly-profit-beats-view-improved-pricing-2026-07-29/",
+    "title": "CH Robinson's quarterly profit beats view on improved pricing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:23",
+    "pub_ts": 1785360193
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/canadian-oil-heads-japan-first-time-over-year-iran-war-tightens-middle-east-2026-07-29/",
+    "title": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:20",
+    "pub_ts": 1785360005
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/robinhood-quarterly-profit-rises-strong-trading-activity-2026-07-29/",
+    "title": "Robinhood beats quarterly profit estimates as trading activity remains robust",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:07",
+    "pub_ts": 1785359259
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/markets/europe/chip-equipment-maker-lam-research-forecasts-strong-revenue-ai-boom-2026-07-29/",
     "title": "Chip equipment maker Lam Research forecasts strong revenue on AI boom",
     "path": "/markets/",
@@ -26863,140 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-22 05:02",
     "pub_ts": 1784667729
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/alaska-air-forecasts-quarterly-profit-below-estimates-jet-fuel-prices-stay-high-2026-07-21/",
-    "title": "Alaska Air forecasts quarterly profit below estimates as jet fuel prices stay high",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:59",
-    "pub_ts": 1784667599
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/super-micro-says-fourth-quarter-orders-topped-60-billion-2026-07-21/",
-    "title": "Super Micro expects stronger quarterly margins, shares jump",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-22 04:59",
-    "pub_ts": 1784667553
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/MSWQTVJTIJIM3K23RVWCLNHVEQ-2026-07-21/",
-    "title": "Trump não acusou Fifa de favorecer a Argentina",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-22 04:52",
-    "pub_ts": 1784667154
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/gilead-merck-weekly-hiv-pill-keeps-virus-suppressed-late-stage-trials-2026-07-21/",
-    "title": "Gilead, Merck weekly HIV pill keeps virus suppressed in late-stage trials",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:49",
-    "pub_ts": 1784666949
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/insurer-chubb-posts-higher-second-quarter-profit-strong-underwriting-business-2026-07-21/",
-    "title": "Insurer Chubb posts higher second-quarter profit on strong underwriting business",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:48",
-    "pub_ts": 1784666933
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/celldex-stop-skin-disease-study-after-trial-setback-2026-07-21/",
-    "title": "Celldex to stop skin disease study after trial setback",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:47",
-    "pub_ts": 1784666876
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/eqt-misses-quarterly-profit-estimates-weaker-natural-gas-prices-2026-07-21/",
-    "title": "EQT misses quarterly profit estimates on weaker natural gas prices",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:45",
-    "pub_ts": 1784666700
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/MW2CZH744BPIFJ3ZLXT2MHZOVU-2026-07-21/",
-    "title": "Não há evidências de que Infantino se manifestou sobre faixa “As Malvinas são argentinas”",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-22 04:36",
-    "pub_ts": 1784666175
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/litigation-when-ai-falls-short-historians-step-2026-07-21/",
-    "title": "In litigation, when AI falls short historians step in",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:35",
-    "pub_ts": 1784666144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/hawaiian-airlines-is-increasing-capacity-inter-island-flights-2026-07-21/",
-    "title": "Hawaiian Airlines is increasing capacity on inter-island flights",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:34",
-    "pub_ts": 1784666058
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-states-new-york-city-sue-epa-relaxing-climate-rule-over-hydrofluorocarbons-2026-07-21/",
-    "title": "US states, New York City sue EPA for relaxing climate rule over hydrofluorocarbons",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:30",
-    "pub_ts": 1784665836
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/goldman-sachs-creates-private-markets-platform-wealthy-clients-memo-shows-2026-07-21/",
-    "title": "Goldman Sachs creates private markets platform for wealthy clients, memo shows",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:21",
-    "pub_ts": 1784665305
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/2ITH4O7HXFL7FGHHUUB6PRURIM-2026-07-21/",
-    "title": "Pesquisa AtlasIntel apontou 50,6% de rejeição a Lula em março, não de 85%",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-22 04:16",
-    "pub_ts": 1784664976
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/polypid-azurity-sign-surgical-site-infection-drug-deal-2026-07-21/",
-    "title": "PolyPid, Azurity sign surgical site infection drug deal",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 04:13",
-    "pub_ts": 1784664824
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/airbus-says-seeking-more-pratt-jet-engines-2027-2026-07-21/",
-    "title": "Airbus says seeking more Pratt jet engines in 2027",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:06",
-    "pub_ts": 1784664385
   }
 ]
