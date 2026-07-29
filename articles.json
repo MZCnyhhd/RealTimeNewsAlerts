@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/markets/europe/chip-equipment-maker-lam-research-forecasts-strong-revenue-ai-boom-2026-07-29/",
+    "title": "Chip equipment maker Lam Research forecasts strong revenue on AI boom",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-30 05:04",
+    "pub_ts": 1785359073
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/arm-forecasts-quarterly-revenue-above-estimates-ai-driven-chip-demand-2026-07-29/",
+    "title": "Arm forecasts quarterly revenue above estimates on AI-driven chip demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:01",
+    "pub_ts": 1785358875
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/meta-narrows-annual-capex-forecast-ai-buildout-grows-2026-07-29/",
+    "title": "Meta's free cash flow wiped out as AI buildout grows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 05:00",
+    "pub_ts": 1785358848
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/saudi-arabia-seeks-international-coalition-protect-red-sea-shipping-houthis-2026-07-29/",
+    "title": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 04:55",
+    "pub_ts": 1785358521
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/align-technology-overhaul-board-following-engagement-with-elliott-2026-07-29/",
+    "title": "Align Technology to overhaul board following engagement with Elliott",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-30 04:53",
+    "pub_ts": 1785358392
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/qualcomm-forecasts-weak-quarterly-profit-expects-apple-revenue-drop-accelerate-2026-07-29/",
+    "title": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:51",
+    "pub_ts": 1785358267
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-gets-16-billion-us-space-force-order-18-falcon-9-launches-2026-07-29/",
+    "title": "SpaceX gets $1.6 billion US Space Force order for 18 Falcon 9 launches",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:50",
+    "pub_ts": 1785358233
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/l3harris-beats-quarterly-revenue-estimates-strong-weapons-demand-2026-07-29/",
+    "title": "L3Harris beats quarterly revenue estimates on strong weapons demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:42",
+    "pub_ts": 1785357720
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukraine-reports-loss-f-16-aircraft-pilot-safe-2026-07-29/",
+    "title": "Ukraine reports loss of F-16 aircraft, pilot safe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 04:40",
+    "pub_ts": 1785357600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/microsoft-tops-quarterly-cloud-growth-estimates-easing-spending-concerns-2026-07-29/",
+    "title": "Microsoft tops quarterly cloud growth estimates, easing spending concerns",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:35",
+    "pub_ts": 1785357336
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/bat-must-face-class-action-litigation-over-cigarette-labels-us-appeals-court-2026-07-29/",
+    "title": "BAT must face class-action litigation over cigarette labels, US appeals court rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 04:32",
+    "pub_ts": 1785357157
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/chipotle-raises-annual-sales-forecast-2026-07-29/",
+    "title": "Chipotle raises annual sales forecast as new menu items, value deals drive demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:30",
+    "pub_ts": 1785357002
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/starbucks-beats-quarterly-sales-estimates-2026-07-29/",
+    "title": "Starbucks raises annual forecasts again as turnaround takes root",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 04:27",
+    "pub_ts": 1785356841
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/aerospace-defense/airbus-says-it-paid-6-million-fine-uk-export-control-probe-2026-07-29/",
     "title": "Airbus says it paid £6 million fine in UK export control probe",
     "path": "/business/",
@@ -79,6 +196,24 @@
     "category": "legal",
     "pub_bj": "2026-07-30 03:07",
     "pub_ts": 1785352043
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/",
+    "title": "US to award GlobalFoundries $300 million to develop faster AI chip links",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 02:53",
+    "pub_ts": 1785351236
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/feds-warsh-says-there-is-no-soft-target-inflation-only-2-goal-2026-07-29/",
+    "title": "Fed's Warsh says there is no 'soft target' for inflation, only a 2% goal",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-30 02:53",
+    "pub_ts": 1785351227
   },
   {
     "source": "Reuters",
@@ -26863,140 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-22 04:06",
     "pub_ts": 1784664385
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/bystander-wounded-near-white-house-sue-secret-service-lawyer-says-2026-07-21/",
-    "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 04:03",
-    "pub_ts": 1784664187
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/iraqs-oil-minister-says-us-energy-deals-worth-about-200-billion-2026-07-21/",
-    "title": "Iraq's oil minister says US energy deals worth about $200 billion",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 04:02",
-    "pub_ts": 1784664173
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/commander-mykhailo-drapatyi-becomes-ukraines-commander-in-chief-2026-07-21/",
-    "title": "Commander Mykhailo Drapatyi becomes Ukraine's commander-in-chief",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 04:00",
-    "pub_ts": 1784664017
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/bystander-wounded-near-white-house-sue-secret-service-lawyer-says-2026-04-13/",
-    "title": "Bystander wounded near White House to sue Secret Service, lawyer says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 03:58",
-    "pub_ts": 1784663898
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-anti-bias-agency-moves-end-employer-reporting-worker-race-sex-data-2026-07-21/",
-    "title": "US anti-bias agency moves to end employer reporting of worker race, sex data",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 03:54",
-    "pub_ts": 1784663684
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-military-training-suffer-without-funding-boost-hegseth-says-2026-07-21/",
-    "title": "US military training to suffer without funding boost, Hegseth says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 03:53",
-    "pub_ts": 1784663620
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-senator-urges-wall-street-reject-troubling-paid-early-access-trump-posts-2026-07-21/",
-    "title": "US senator urges Wall Street to reject 'troubling' paid early access to Trump posts",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 03:46",
-    "pub_ts": 1784663188
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-senate-panel-narrowly-backs-trump-nominee-be-top-us-spy-2026-07-21/",
-    "title": "US Senate panel narrowly backs Trump nominee to be top US spy",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 03:11",
-    "pub_ts": 1784661103
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-10-billion-us-backstop-facility-boost-reserves-source-says-2026-07-21/",
-    "title": "Pakistan seeks $10 billion in US backstop facility to boost reserves, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 03:10",
-    "pub_ts": 1784661054
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/us-sends-first-humanitarian-flight-cuba-under-new-aid-package-2026-07-21/",
-    "title": "US sends first humanitarian flight to Cuba under new aid package",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 02:57",
-    "pub_ts": 1784660278
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/pop-vocalist-d4vd-faces-evidentiary-hearing-murder-teenage-girl-2026-07-21/",
-    "title": "Pop vocalist D4vd faces evidentiary hearing in murder of teenage girl",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 02:47",
-    "pub_ts": 1784659623
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-gains-another-appeals-court-opening-with-judges-planned-exit-2026-07-21/",
-    "title": "Trump gains another appeals court opening with judge's planned exit",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 02:34",
-    "pub_ts": 1784658845
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/guyana-ferry-death-toll-rises-41-more-bodies-are-recovered-2026-07-21/",
-    "title": "Guyana ferry death toll rises to 41 as more bodies are recovered",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 02:33",
-    "pub_ts": 1784658823
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/carney-says-he-will-intensify-trade-talks-with-trump-most-premiers-pledge-keep-2026-07-21/",
-    "title": "Carney says he will intensify trade talks with Trump; most premiers pledge to keep US alcohol bans",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 02:32",
-    "pub_ts": 1784658754
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/spider-man-brand-new-day-keeps-fans-guessing-with-mystery-roles-marvel-cameos-2026-07-21/",
-    "title": "‘Spider-Man: Brand New Day’ keeps fans guessing with mystery roles and Marvel cameos",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 02:30",
-    "pub_ts": 1784658632
   }
 ]
