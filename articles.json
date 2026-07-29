@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/airbus-says-it-paid-6-million-fine-uk-export-control-probe-2026-07-29/",
+    "title": "Airbus says it paid £6 million fine in UK export control probe",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 03:56",
+    "pub_ts": 1785354975
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/wec-energy-posts-higher-profit-data-center-demand-grows-2026-07-29/",
+    "title": "WEC Energy posts higher profit as data center demand grows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 03:43",
+    "pub_ts": 1785354216
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-hits-9-day-high-fed-opts-holding-pattern-2026-07-29/",
+    "title": "Canadian dollar hits 9-day high as Fed opts for holding pattern",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 03:35",
+    "pub_ts": 1785353744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/risk-averse-investors-push-brazil-debt-deeper-into-interest-rate-exposure-2026-07-29/",
+    "title": "Risk-averse investors push Brazil debt deeper into interest rate exposure",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 03:31",
+    "pub_ts": 1785353503
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/new-fed-focus-money-supply-might-aid-inflation-thinking-margins-2026-07-29/",
+    "title": "New Fed focus on money supply might aid inflation thinking at the margins",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-30 03:25",
+    "pub_ts": 1785353137
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/epa-weighs-rfs-deadline-extension-amid-high-renewable-credit-costs-sources-say-2026-07-29/",
+    "title": "EPA weighs RFS deadline extension amid high renewable credit costs, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 03:17",
+    "pub_ts": 1785352664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/chinas-crude-calculus-iran-war-2026-07-29/",
+    "title": "China's crude calculus in Iran war",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 03:16",
+    "pub_ts": 1785352567
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/carney-plays-down-idea-curbing-canadian-oil-supplies-us-amid-trade-war-2026-07-29/",
+    "title": "Carney plays down idea of curbing Canadian oil supplies to US amid trade war",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 03:09",
+    "pub_ts": 1785352164
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/openais-sam-altman-discusses-rogue-agent-new-ai-models-with-us-senators-2026-07-29/",
+    "title": "OpenAI's Sam Altman discusses rogue agent and new AI models with US senators",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 03:07",
+    "pub_ts": 1785352043
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/view-fed-holds-rates-steady-three-policymakers-dissent-hike-2026-07-29/",
     "title": "VIEW Fed holds rates steady as three policymakers dissent for a hike",
     "path": "/business/",
@@ -253,6 +334,24 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/will-they-or-wont-they-case-against-fed-rate-hike-2026-07-29/",
+    "title": "Will they or won't they? The case for and against a Fed rate hike",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 01:10",
+    "pub_ts": 1785345016
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/low-danube-river-levels-force-romania-shut-down-both-its-nuclear-power-reactors-2026-07-29/",
+    "title": "Low Danube river levels force Romania to shut down both of its nuclear power reactors",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 01:07",
+    "pub_ts": 1785344839
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/china/italy-us-sign-off-pax-silica-ai-initiative-after-spat-with-trump-2026-07-29/",
     "title": "Italy, US to sign off on Pax Silica AI initiative after spat with Trump",
     "path": "/world/",
@@ -502,6 +601,15 @@
     "category": "business",
     "pub_bj": "2026-07-29 23:26",
     "pub_ts": 1785338781
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/sail-krakatau-steel-plan-350-million-investment-stainless-steel-plant-2026-07-29/",
+    "title": "SAIL, Krakatau Steel plan $350 million investment in stainless steel plant",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-29 23:24",
+    "pub_ts": 1785338683
   },
   {
     "source": "People's Daily",
@@ -26890,113 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-22 02:30",
     "pub_ts": 1784658632
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pricing-availability-novo-lillys-weight-loss-drugs-2026-07-21/",
-    "title": "What we know of weight-loss drugs’ pricing, availability as Novo sues Lilly",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 02:26",
-    "pub_ts": 1784658413
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/law-professor-loses-early-bid-block-new-kentucky-dean-2026-07-21/",
-    "title": "Law professor loses early bid to block new Kentucky dean",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 02:22",
-    "pub_ts": 1784658177
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/trump-misses-net-with-tariff-canadian-ice-hockey-sticks-2026-07-21/",
-    "title": "Trump misses the net with tariff on Canadian ice hockey sticks",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 02:07",
-    "pub_ts": 1784657258
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/senate-democrat-calls-probe-us-derivatives-regulators-staff-cuts-2026-07-21/",
-    "title": "Senate Democrat calls for probe of US derivatives regulator's staff cuts",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 02:06",
-    "pub_ts": 1784657173
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/moldova-approves-new-government-led-by-vasile-tofan-2026-07-21/",
-    "title": "Moldova approves new government led by Vasile Tofan",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 02:05",
-    "pub_ts": 1784657141
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/coal-sector-urges-trump-admin-provide-financing-existing-new-power-plants-2026-07-21/",
-    "title": "Coal sector urges Trump admin to provide financing for existing, new power plants",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 01:56",
-    "pub_ts": 1784656604
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/canadian-dollar-hits-one-week-low-yield-spreads-widen-us-tariff-threat-2026-07-21/",
-    "title": "Canadian dollar hits one-week low as yield spreads widen on U.S. tariff threat",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 01:52",
-    "pub_ts": 1784656329
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/asian-refiners-look-suez-canal-move-saudi-oil-amid-houthi-shipping-threats-2026-07-21/",
-    "title": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 01:39",
-    "pub_ts": 1784655583
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/rio-tinto-exits-aluminum-composites-business-transfers-customers-canadas-cymat-2026-07-21/",
-    "title": "Rio Tinto exits aluminum composites business, transfers customers to Canada's Cymat",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 01:38",
-    "pub_ts": 1784655535
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/landmark-anthropic-settlement-judge-rejects-windfall-lawyers-2026-07-21/",
-    "title": "In landmark Anthropic settlement, judge rejects ‘windfall’ for lawyers",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 01:35",
-    "pub_ts": 1784655343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/us-urges-isolating-nicaragua-after-ortega-vows-end-elections-2026-07-21/",
-    "title": "US urges isolating Nicaragua after Ortega vows to end elections",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 01:29",
-    "pub_ts": 1784654976
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-judge-blocks-trump-administration-stripping-immigrants-work-permits-2026-07-21/",
-    "title": "US judge blocks Trump administration from stripping immigrants of work permits",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 01:18",
-    "pub_ts": 1784654304
   }
 ]
