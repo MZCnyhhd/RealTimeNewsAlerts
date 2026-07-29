@@ -1,6 +1,123 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/view-fed-holds-rates-steady-three-policymakers-dissent-hike-2026-07-29/",
+    "title": "VIEW Fed holds rates steady as three policymakers dissent for a hike",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 02:39",
+    "pub_ts": 1785350384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/wealth/hedge-fund-millennium-looks-raise-record-20-billion-new-capital-source-says-2026-07-29/",
+    "title": "Hedge fund Millennium looks to raise record $20 billion in new capital, source says",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-07-30 02:39",
+    "pub_ts": 1785350381
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/white-house-planned-nominate-top-epa-adviser-air-office-replacement-sources-say-2026-07-29/",
+    "title": "White House planned to nominate top EPA adviser as air office replacement, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 02:35",
+    "pub_ts": 1785350106
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-netanyahu-explored-all-iran-options-including-attack-israeli-official-says-2026-07-29/",
+    "title": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 02:30",
+    "pub_ts": 1785349827
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-wheat-rises-black-sea-disruptions-2026-07-29/",
+    "title": "CBOT soybeans sink on favorable US weather",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 02:27",
+    "pub_ts": 1785349662
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/what-does-infantinos-proposal-sell-stakes-fifa-subsidiary-entail-2026-07-29/",
+    "title": "What does Infantino's proposal to sell stakes in FIFA subsidiary entail?",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 02:26",
+    "pub_ts": 1785349589
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/goldman-sachs-ordered-pay-male-banker-145-million-sex-discrimination-2026-07-29/",
+    "title": "Goldman Sachs ordered to pay male banker £1.45 million for sex discrimination",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 02:23",
+    "pub_ts": 1785349430
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/bolivia-imf-reach-agreement-program-worth-19-billion-2026-07-29/",
+    "title": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 02:19",
+    "pub_ts": 1785349165
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/ex-husband-massachusetts-woman-testifies-about-discovering-she-killed-their-3-2026-07-29/",
+    "title": "Ex-husband of Massachusetts woman testifies about discovering she killed their 3 children",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 02:14",
+    "pub_ts": 1785348850
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/un-rights-office-warns-worsening-settler-violence-west-bank-2026-07-29/",
+    "title": "UN rights office warns of worsening settler violence in West Bank",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 02:08",
+    "pub_ts": 1785348493
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/shell-phillips-66-weigh-sale-stakes-35-billion-us-pipeline-explorer-sources-say-2026-07-29/",
+    "title": "Shell, Phillips 66 weigh sale of stakes in $3.5 billion US pipeline Explorer, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 02:03",
+    "pub_ts": 1785348223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/tech-problems-cancellation-mar-new-us-bar-exam-some-test-takers-2026-07-29/",
+    "title": "Tech problems, cancellation mar new US bar exam for some test takers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-30 02:01",
+    "pub_ts": 1785348104
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "path": "/climate-change-and-energy/",
+    "category": "climate change and energy",
+    "pub_bj": "2026-07-30 01:58",
+    "pub_ts": 1785347924
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/transactional/dazn-investor-aser-explores-options-stake-sports-streamer-2026-07-29/",
     "title": "DAZN investor Aser explores options for stake in sports streamer",
     "path": "/legal/",
@@ -133,6 +250,24 @@
     "category": "world",
     "pub_bj": "2026-07-30 01:11",
     "pub_ts": 1785345095
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/italy-us-sign-off-pax-silica-ai-initiative-after-spat-with-trump-2026-07-29/",
+    "title": "Italy, US to sign off on Pax Silica AI initiative after spat with Trump",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-30 01:00",
+    "pub_ts": 1785344457
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-saudi-consortium-advances-plans-5-billion-gulf-refinery-2026-07-29/",
+    "title": "US-Saudi consortium advances plans for $5 billion Gulf refinery",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-30 00:41",
+    "pub_ts": 1785343305
   },
   {
     "source": "People's Daily",
@@ -26863,140 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-22 01:18",
     "pub_ts": 1784654304
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21/",
-    "title": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 01:16",
-    "pub_ts": 1784654211
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/us-ambassador-sees-40-billion-tech-investment-wave-into-portugal-by-2031-2026-07-21/",
-    "title": "US ambassador sees $40 billion tech investment wave into Portugal by 2031",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 01:06",
-    "pub_ts": 1784653607
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/",
-    "title": "India student protests give opposition a rare opening against Modi",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 01:06",
-    "pub_ts": 1784653603
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/aircraft-startup-electra-invest-850-million-build-ohio-factory-2026-07-21/",
-    "title": "Aircraft startup Electra to invest $850 million to build Ohio factory",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-22 01:05",
-    "pub_ts": 1784653526
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/amgen-settles-shareholder-lawsuit-claiming-it-hid-107-billion-tax-bill-2026-07-21/",
-    "title": "Amgen settles shareholder lawsuit claiming it hid $10.7 billion tax bill",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 01:05",
-    "pub_ts": 1784653515
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-appeals-court-overturns-order-releasing-pro-palestinian-protester-mahdawi-2026-07-21/",
-    "title": "US appeals court overturns order releasing pro-Palestinian advocate Mahdawi",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 00:54",
-    "pub_ts": 1784652880
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/indias-frill-seekers-flummox-suzuki-2026-07-21/",
-    "title": "India’s frill seekers flummox Suzuki",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 00:53",
-    "pub_ts": 1784652836
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/developed-market-debt-hit-record-758-trillion-shocks-spending-pressures-mount-2026-07-21/",
-    "title": "Developed market debt to hit record $75.8 trillion as shocks and spending pressures mount, Fitch says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-22 00:43",
-    "pub_ts": 1784652184
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/azerbaijan-president-says-german-russian-talks-were-held-baku-2026-07-21/",
-    "title": "Azerbaijan president says German-Russian talks were held in Baku",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 00:42",
-    "pub_ts": 1784652167
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/tiktok-us-chief-security-officer-testify-before-us-house-september-15-2026-07-21/",
-    "title": "TikTok US chief security officer to testify before US House on September 15",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 00:42",
-    "pub_ts": 1784652125
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-appeals-court-upholds-win-artist-jeff-koons-copyright-case-2026-07-21/",
-    "title": "US appeals court upholds win for artist Jeff Koons in copyright case",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 00:36",
-    "pub_ts": 1784651807
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-launches-pilot-program-boost-domestic-production-veterinary-drugs-2026-07-21/",
-    "title": "US launches pilot program to boost domestic production of veterinary drugs",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 00:13",
-    "pub_ts": 1784650399
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/meta-adds-xbox-game-pass-starter-horizon-subscription-2026-07-21/",
-    "title": "Meta adds Xbox Game Pass starter to Horizon+ subscription",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-22 00:12",
-    "pub_ts": 1784650355
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/",
-    "title": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-22 00:11",
-    "pub_ts": 1784650294
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-announces-trade-deal-with-jordan-2026-07-21/",
-    "title": "US announces trade deal with Jordan",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-22 00:11",
-    "pub_ts": 1784650262
   }
 ]
