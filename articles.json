@@ -1,6 +1,114 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/france-sell-part-stake-telecom-orange-secondary-share-sale-sources-say-2026-07-30/",
+    "title": "France to sell part of stake in telecom Orange in secondary share sale, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 04:12",
+    "pub_ts": 1785442368
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/roblox-forecasts-quarterly-bookings-below-estimates-2026-07-30/",
+    "title": "Roblox forecasts quarterly bookings below estimates",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-07-31 04:12",
+    "pub_ts": 1785442340
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/reddit-expects-revenue-above-estimates-ai-tools-attract-advertisers-2026-07-30/",
+    "title": "Reddit expects revenue above estimates as AI tools attract advertisers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 04:11",
+    "pub_ts": 1785442284
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/amazon-beats-estimates-quarterly-cloud-revenue-growth-2026-07-30/",
+    "title": "Amazon beats estimates for quarterly cloud revenue growth",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 04:10",
+    "pub_ts": 1785442200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/rivian-beats-quarterly-revenue-estimates-r2-launch-software-business-gain-2026-07-30/",
+    "title": "Rivian beats quarterly revenue estimates as R2 launch, software business gain traction",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 04:07",
+    "pub_ts": 1785442062
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-senate-confirms-new-tsa-head-trump-pushes-private-airport-security-2026-07-30/",
+    "title": "US Senate confirms new TSA head as Trump pushes for private airport security",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 03:59",
+    "pub_ts": 1785441584
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/microsoft-set-record-one-day-market-cap-gain-after-upbeat-azure-forecast-2026-07-30/",
+    "title": "Microsoft set for record one-day market cap gain after upbeat Azure forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 03:58",
+    "pub_ts": 1785441492
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/first-case-secretive-us-court-meant-deport-alleged-terrorists-2026-07-30/",
+    "title": "Secretive US court meant to deport alleged terrorists hears first case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 03:53",
+    "pub_ts": 1785441192
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/coinbase-beats-much-customer-lawsuit-over-us-token-sales-2026-07-30/",
+    "title": "Coinbase beats much of customer lawsuit over US token sales",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 03:45",
+    "pub_ts": 1785440754
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ghanas-government-backs-five-year-presidential-term-lowers-minimum-age-35-2026-07-30/",
+    "title": "Ghana's government backs five-year presidential term, lowers minimum age to 35",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 03:30",
+    "pub_ts": 1785439809
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/us-officials-discussed-rare-earths-farm-products-with-china-bessent-says-2026-07-30/",
+    "title": "US officials discussed rare earths, farm products with China, Bessent says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 03:15",
+    "pub_ts": 1785438942
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-sugar-demand-up-corn-syrup-down-consumers-pick-less-processed-foods-report-2026-07-30/",
+    "title": "US sugar demand up, corn syrup down, as consumers pick less processed foods, report says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 03:06",
+    "pub_ts": 1785438413
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/government/ice-claims-us-asylum-lawyer-faked-records-dozens-cases-seeks-470k-fine-2026-07-30/",
     "title": "ICE claims US asylum lawyer faked records in dozens of cases, seeks $470K fine",
     "path": "/legal/",
@@ -133,6 +241,60 @@
     "category": "business",
     "pub_bj": "2026-07-31 02:15",
     "pub_ts": 1785435317
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/uks-ig-group-agrees-buy-underdog-up-13-billion-2026-07-30/",
+    "title": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 02:03",
+    "pub_ts": 1785434589
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/ghanas-cocoa-production-is-expected-fall-16-next-season-2026-07-30/",
+    "title": "Ghana's cocoa production is expected to fall 16% next season",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 01:58",
+    "pub_ts": 1785434301
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/portugal-approves-33-windfall-tax-oil-companies-excess-profits-2026-07-30/",
+    "title": "Portugal approves 33% windfall tax on oil companies' excess profits",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 01:52",
+    "pub_ts": 1785433946
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/exelon-maintains-2029-investment-plan-after-screening-data-center-requests-2026-07-30/",
+    "title": "Exelon maintains 2029 investment plan after screening data-center requests",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 01:51",
+    "pub_ts": 1785433904
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/egypt-secures-alternatives-cover-energy-demands-after-attack-gas-vessel-pm-says-2026-07-30/",
+    "title": "Egypt secures alternatives to cover energy demands after attack on gas vessel, PM says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 01:46",
+    "pub_ts": 1785433575
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/film-producers-warn-paramount-warner-merger-could-restrict-access-news-archives-2026-07-30/",
+    "title": "Film producers warn Paramount-Warner merger could restrict access to news archives",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 01:43",
+    "pub_ts": 1785433426
   },
   {
     "source": "Reuters",
@@ -26836,167 +26998,5 @@
     "category": "fact-check",
     "pub_bj": "2026-07-23 03:40",
     "pub_ts": 1784749253
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/K7G24PEQB5OFLELV5HRLI3VJXE-2026-07-22/",
-    "title": "Yamal cumprimentou Trump na final da Copa; vídeo foi adulterado",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-23 03:39",
-    "pub_ts": 1784749148
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/american-bar-association-says-government-lawyers-must-report-colleagues-unlawful-2026-07-22/",
-    "title": "American Bar Association says government lawyers must report colleagues' unlawful conduct",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 03:37",
-    "pub_ts": 1784749063
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-2026-07-22/",
-    "title": "Iran strikes on CIA facilities prompt questions about possible Russian role",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 03:33",
-    "pub_ts": 1784748832
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/teen-plaintiff-suing-meta-over-mental-health-harms-drops-his-claims-against-2026-07-22/",
-    "title": "Teen plaintiff suing Meta over mental health harms drops his claims against company days before trial",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 03:26",
-    "pub_ts": 1784748383
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/HJAMJINKMVN4VB2DTPM47QJGYM-2026-07-22/",
-    "title": "Lula não disse que quem não pode pagar saúde privada deve morrer no esquecimento",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-23 03:25",
-    "pub_ts": 1784748348
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/chatgpts-advice-kept-man-seeking-medical-treatment-dangerous-condition-lawsuit-2026-07-22/",
-    "title": "ChatGPT's advice kept man from seeking medical treatment for dangerous condition, lawsuit claims",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 03:21",
-    "pub_ts": 1784748105
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/fcc-votes-bar-sales-devices-with-parts-chinese-firms-posing-risks-2026-07-22/",
-    "title": "FCC votes to bar sales of devices with parts from Chinese firms posing risks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 03:02",
-    "pub_ts": 1784746929
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/brazil-provide-37-billion-credit-firms-hit-by-us-tariffs-2026-07-22/",
-    "title": "Brazil to provide $3.7 billion in credit for firms hit by US tariffs",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 03:01",
-    "pub_ts": 1784746904
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/cme-profit-tops-estimates-ceo-says-perps-chatter-overshadows-results-2026-07-22/",
-    "title": "CME profit tops estimates, CEO says 'perps' chatter overshadows results",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 02:55",
-    "pub_ts": 1784746546
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/zelenskiy-speaks-us-envoys-discusses-weapons-2026-07-22/",
-    "title": "Zelenskiy speaks to U.S. envoys, discusses weapons",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 02:50",
-    "pub_ts": 1784746228
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/battlefield-bureaucracy-ukraines-new-military-chief-faces-tests-2026-07-22/",
-    "title": "From battlefield to bureaucracy, Ukraine's new military chief faces tests",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 02:30",
-    "pub_ts": 1784745033
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/houthi-red-sea-threat-would-challenge-stretched-us-military-2026-07-22/",
-    "title": "Houthi Red Sea threat would challenge a stretched US military",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 02:27",
-    "pub_ts": 1784744867
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/qatarenergy-prepares-extend-force-majeure-lng-into-mid-october-bloomberg-news-2026-07-22/",
-    "title": "QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 02:20",
-    "pub_ts": 1784744420
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/high-pjm-grid-prices-are-credit-negative-regulated-electric-utilities-moodys-2026-07-22/",
-    "title": "High PJM grid prices are credit negative for regulated electric utilities, Moody's says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 02:17",
-    "pub_ts": 1784744263
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
-    "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 02:13",
-    "pub_ts": 1784744007
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/what-is-us-senates-landmark-crypto-bill-2026-07-22/",
-    "title": "What is in the US Senate's landmark crypto bill?",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 02:06",
-    "pub_ts": 1784743616
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/eu-regulators-clear-with-conditions-paramounts-110-billion-bid-warner-bros-2026-07-22/",
-    "title": "Paramount secures EU nod for $110 billion Warner Bros deal, US hurdles ahead",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 02:06",
-    "pub_ts": 1784743608
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/private-autopsy-raises-questions-about-death-mississippi-college-football-player-2026-07-22/",
-    "title": "Private autopsy raises questions about death of Black teen in Mississippi",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 02:05",
-    "pub_ts": 1784743517
   }
 ]
