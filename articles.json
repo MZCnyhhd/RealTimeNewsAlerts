@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/anti-dei-group-lodges-new-eeoc-complaint-against-law-firms-education-nonprofit-2026-07-30/",
+    "title": "Anti-DEI group lodges new EEOC complaint against law firms, education nonprofit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 06:31",
+    "pub_ts": 1785450704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/hsbc-sell-253-billion-australian-home-loan-portfolio-blackstone-2026-07-30/",
+    "title": "HSBC to sell $25.3 billion Australian home loan portfolio to Blackstone",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 06:30",
+    "pub_ts": 1785450614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/domain-registrar-godaddy-narrows-annual-revenue-forecast-2026-07-30/",
+    "title": "Domain registrar GoDaddy narrows annual revenue forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 06:29",
+    "pub_ts": 1785450583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/nbcuniversal-names-christopher-halpin-cfo-ahead-spinoff-comcast-2026-07-30/",
+    "title": "NBCUniversal names Christopher Halpin as CFO ahead of spinoff from Comcast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 06:03",
+    "pub_ts": 1785449025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/consumers-ai-spending-likely-supported-us-economic-growth-second-quarter-2026-07-30/",
+    "title": "Consumers, AI spending likely supported US economic growth in the second quarter",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 05:55",
+    "pub_ts": 1785448548
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/enbridge-pipeline-trespassed-wisconsin-tribal-land-must-be-moved-us-appeals-2026-07-30/",
+    "title": "Enbridge pipeline trespassed on Wisconsin tribal land, must be moved, US appeals court finds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:54",
+    "pub_ts": 1785448458
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/could-fauci-face-criminal-charges-refusing-senate-covid-questions-2026-07-30/",
+    "title": "Could Fauci face criminal charges for refusing Senate COVID questions?",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:47",
+    "pub_ts": 1785448068
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/drugmakers-retailers-must-face-maximum-strength-claim-decongestant-false-ad-2026-07-30/",
+    "title": "Drugmakers, retailers must face 'maximum strength' claim in decongestant false ad litigation in US",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:46",
+    "pub_ts": 1785447991
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-cyber-defense-agency-warns-increased-hacker-targeting-water-utilities-2026-07-30/",
+    "title": "US cyber defense agency warns of increased hacker targeting of water utilities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:43",
+    "pub_ts": 1785447811
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-pm-burnham-give-mayors-share-income-tax-devolution-drive-2026-07-30/",
+    "title": "UK PM Burnham to give mayors a share of income tax in devolution drive",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:33",
+    "pub_ts": 1785447224
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/stryker-beats-quarterly-estimates-strong-demand-medical-devices-2026-07-30/",
     "title": "Stryker beats quarterly estimates on strong demand for medical devices",
     "path": "/legal/",
@@ -26908,95 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-23 05:46",
     "pub_ts": 1784756784
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/panama-canal-monitors-weather-severe-el-nio-threat-rises-2026-07-22/",
-    "title": "Panama Canal monitors weather as severe El Niño threat rises",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 05:45",
-    "pub_ts": 1784756736
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/trump-administration-considers-putting-nuclear-power-plants-us-waters-2026-07-22/",
-    "title": "Trump administration considers putting nuclear power plants in US waters",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:45",
-    "pub_ts": 1784756713
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/rollins-misses-profit-sales-estimates-slow-demand-pest-control-services-2026-07-22/",
-    "title": "Rollins misses profit, sales estimates on slow demand for pest control services",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 05:36",
-    "pub_ts": 1784756218
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/trump-administration-seizes-new-jersey-voting-error-demand-noncitizen-data-2026-07-22/",
-    "title": "Trump administration seizes on New Jersey voting error to demand noncitizen data",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:30",
-    "pub_ts": 1784755845
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/new-york-mayor-taps-ex-ftc-chair-khan-key-economic-post-separately-faces-suit-2026-07-22/",
-    "title": "New York mayor taps ex-FTC Chair Khan for key economic post, separately faces suit over rent freeze",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:30",
-    "pub_ts": 1784755817
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/pfizers-prostate-cancer-drug-combination-gets-us-fda-priority-review-2026-07-22/",
-    "title": "Pfizer's prostate cancer drug combination gets US FDA priority review",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:29",
-    "pub_ts": 1784755796
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-says-it-reached-nuclear-cooperation-deal-with-saudi-arabia-2026-07-22/",
-    "title": "US says it reaches nuclear power deal with Saudi Arabia",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 05:22",
-    "pub_ts": 1784755355
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/raymond-james-profit-rises-capital-markets-strength-2026-07-22/",
-    "title": "Raymond James profit rises on capital markets strength",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:16",
-    "pub_ts": 1784754967
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/tropical-storm-bertha-makes-landfall-st-bernard-parish-louisiana-2026-07-22/",
-    "title": "Tropical Storm Bertha makes landfall in St. Bernard Parish, Louisiana",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 05:12",
-    "pub_ts": 1784754766
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/casino-operator-las-vegas-sands-quarterly-profit-revenue-slip-weak-macau-2026-07-22/",
-    "title": "Casino operator Las Vegas Sands quarterly profit, revenue slip on weak Macau business",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 05:11",
-    "pub_ts": 1784754704
   }
 ]
