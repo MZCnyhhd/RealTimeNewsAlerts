@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/stryker-beats-quarterly-estimates-strong-demand-medical-devices-2026-07-30/",
+    "title": "Stryker beats quarterly estimates on strong demand for medical devices",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:30",
+    "pub_ts": 1785447009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-orders-restrictions-export-critical-minerals-scrap-white-house-officials-2026-07-30/",
+    "title": "Trump orders restrictions on export of critical minerals scrap, White House officials say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:28",
+    "pub_ts": 1785446889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-revenue-profits-beat-expectations-iphone-mac-sales-2026-07-30/",
+    "title": "Apple revenue, profits beat expectations on iPhone sales but services miss targets",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 05:27",
+    "pub_ts": 1785446847
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/crypto-exchange-coinbase-reports-third-straight-quarterly-loss-trading-slowdown-2026-07-30/",
+    "title": "Crypto exchange Coinbase logs third straight quarterly loss on trading slowdown",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 05:22",
+    "pub_ts": 1785446540
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-labour-readmits-diane-abbott-after-suspension-over-race-remarks-2026-07-30/",
+    "title": "UK's Labour readmits Diane Abbott after suspension over race remarks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:17",
+    "pub_ts": 1785446263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexico-says-15-gdp-growth-secure-unless-economy-shrinks-second-half-2026-07-30/",
+    "title": "Mexico says 1.5% GDP growth secure unless economy shrinks in second half",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:16",
+    "pub_ts": 1785446169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-panel-backs-replimune-skin-cancer-drug-study-data-2026-07-30/",
+    "title": "US FDA panel backs Replimune skin cancer drug study data",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 05:11",
+    "pub_ts": 1785445903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-conducts-massive-yen-buying-intervention-nikkei-reports-2026-07-30/",
+    "title": "Japan conducts massive yen-buying intervention, Nikkei reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:09",
+    "pub_ts": 1785445755
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/producer-sues-netflix-105-million-over-missing-nicolas-cage-movie-2026-07-30/",
+    "title": "Producer sues Netflix for $105 million over missing Nicolas Cage movie",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 05:05",
+    "pub_ts": 1785445548
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/boj-keep-rates-steady-deliver-hawkish-signal-price-pressures-mount-2026-07-30/",
+    "title": "BOJ to keep rates steady, deliver hawkish signal as price pressures mount",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 05:03",
+    "pub_ts": 1785445425
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/musks-america-pac-plans-100-million-plus-effort-boost-republican-turnout-nyt-2026-07-30/",
+    "title": "Musk's America PAC plans $100 million-plus effort to boost Republican turnout, NYT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 04:59",
+    "pub_ts": 1785445191
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/faa-official-who-led-response-fatal-collision-is-stepping-down-2026-07-30/",
+    "title": "FAA official who led response to fatal collision is stepping down",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 04:51",
+    "pub_ts": 1785444704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/corteva-beats-quarterly-profit-estimates-2026-07-30/",
+    "title": "Corteva raises full-year profit forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 04:49",
+    "pub_ts": 1785444581
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/bank-america-buy-uks-mdsec-consulting-bolster-cyber-defenses-2026-07-30/",
+    "title": "Bank of America to buy UK's MDSec Consulting to bolster cyber defenses",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 04:43",
+    "pub_ts": 1785444210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/lulas-payroll-loans-boom-brazilian-defaults-spike-too-2026-07-30/",
+    "title": "Lula's payroll loans boom, but Brazilian defaults spike too",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-07-31 04:34",
+    "pub_ts": 1785443657
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/france-sell-part-stake-telecom-orange-secondary-share-sale-sources-say-2026-07-30/",
     "title": "France to sell part of stake in telecom Orange in secondary share sale, sources say",
     "path": "/world/",
@@ -106,6 +241,15 @@
     "category": "business",
     "pub_bj": "2026-07-31 03:06",
     "pub_ts": 1785438413
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/smallpox-dna-is-recovered-spanish-conquest-era-chilean-mummies-2026-07-30/",
+    "title": "Smallpox DNA is recovered from Spanish conquest-era Chilean mummies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 03:02",
+    "pub_ts": 1785438133
   },
   {
     "source": "Reuters",
@@ -547,6 +691,24 @@
     "category": "markets",
     "pub_bj": "2026-07-31 00:25",
     "pub_ts": 1785428700
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/climate-strategy-energy-security-building-aviations-saf-market--pracin-2026-07-30/",
+    "title": "From climate strategy to energy security — Building aviation's SAF market",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 00:22",
+    "pub_ts": 1785428560
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/arcadis-rejects-57-billion-takeover-bid-wsp-global-2026-07-30/",
+    "title": "Arcadis rejects $5.7 billion takeover bid from WSP Global",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 00:21",
+    "pub_ts": 1785428484
   },
   {
     "source": "Reuters",
@@ -26836,167 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-23 05:11",
     "pub_ts": 1784754704
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/pardoned-by-trump-hernandez-return-honduras-seek-dismissal-local-charges-2026-07-22/",
-    "title": "Pardoned by Trump, Hernandez to return to Honduras and seek dismissal of local charges",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 05:00",
-    "pub_ts": 1784754047
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/5PYHVR2RWNIVPGWXSI3V5ZZCAA-2026-07-22/",
-    "title": "Vídeo não mostra reação de Infantino a gol da Espanha contra Argentina",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-23 04:50",
-    "pub_ts": 1784753419
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/chipmaker-renesas-sues-rival-navitas-stealing-trade-secrets-2026-07-22/",
-    "title": "Chipmaker Renesas sues rival Navitas for stealing trade secrets",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 04:49",
-    "pub_ts": 1784753385
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-says-it-is-investigating-another-cyclospora-outbreak-2026-07-22/",
-    "title": "US FDA says it is investigating another cyclosporiasis outbreak",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:40",
-    "pub_ts": 1784752831
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/elon-musks-tesla-posts-cash-burn-capex-surges-ai-robotaxi-push-2026-07-22/",
-    "title": "Tesla posts cash burn as spending on AI and robotaxis surges",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:39",
-    "pub_ts": 1784752760
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-judge-casts-doubt-69000-cases-alleging-jj-talc-caused-cancer-2026-07-22/",
-    "title": "US judge casts doubt on 69,000 cases alleging J&J talc caused cancer",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 04:37",
-    "pub_ts": 1784752649
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/southwest-airlines-forecasts-third-quarter-profit-below-expectations-fuel-costs-2026-07-22/",
-    "title": "Southwest Airlines forecasts third-quarter profit below expectations as fuel costs soar",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:35",
-    "pub_ts": 1784752539
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/why-new-yorks-mamdani-cannot-have-israels-netanyahu-arrested-2026-07-22/",
-    "title": "Why New York's Mamdani cannot have Israel's Netanyahu arrested",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 04:31",
-    "pub_ts": 1784752317
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/csx-second-quarter-profit-revenue-rises-intermodal-demand-2026-07-22/",
-    "title": "CSX second-quarter profit, revenue rises on intermodal demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:31",
-    "pub_ts": 1784752305
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ibm-cuts-yearly-revenue-growth-forecast-customers-prioritize-ai-infrastructure-2026-07-22/",
-    "title": "IBM cuts yearly revenue growth forecast as customers prioritize AI infrastructure spending",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:28",
-    "pub_ts": 1784752082
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/tesla-earnings-live-investors-await-q2-results-elon-musk-pivots-ai-powered-cars-2026-07-22/",
-    "title": "Tesla Q2 results live: Investors look to Elon Musk's earnings call after automaker posts cash burn",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 04:22",
-    "pub_ts": 1784751778
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/kinder-morgan-tops-second-quarter-profit-estimates-higher-natural-gas-volumes-2026-07-22/",
-    "title": "Kinder Morgan tops second-quarter profit estimates on higher natural gas volumes",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:21",
-    "pub_ts": 1784751706
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/servicenow-raises-annual-subscription-revenue-forecast-again-ai-driven-demand-2026-07-22/",
-    "title": "ServiceNow raises annual subscription revenue forecast again on AI-driven demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:21",
-    "pub_ts": 1784751683
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/bob-mackie-settles-lawsuits-against-jcpenney-business-partner-over-apparel-line-2026-07-22/",
-    "title": "Bob Mackie settles lawsuits against JCPenney, business partner over apparel line",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 04:13",
-    "pub_ts": 1784751237
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/google-quarterly-cloud-revenue-growth-beats-expectations-2026-07-22/",
-    "title": "Google quarterly cloud revenue growth beats expectations",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:12",
-    "pub_ts": 1784751136
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/texas-instruments-forecasts-quarterly-revenue-above-estimates-2026-07-22/",
-    "title": "Texas Instruments forecasts quarterly revenue above estimates",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 04:07",
-    "pub_ts": 1784750863
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/pakistan-welcomes-us-exim-bank-financing-framework-proposal-2026-07-22/",
-    "title": "Pakistan welcomes US EXIM Bank financing framework proposal",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 04:00",
-    "pub_ts": 1784750406
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/espanol/SF2VGG7I6BMNVECRZSPRHXRA74-2026-07-22/",
-    "title": "Imagen de Yamal con trofeo del Mundial fue alterada para incluir bandera palestina",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-23 03:40",
-    "pub_ts": 1784749253
   }
 ]
