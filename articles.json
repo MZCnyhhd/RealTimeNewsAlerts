@@ -1,6 +1,78 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/exxon-chevron-warn-continued-high-fuel-prices-iran-war-2026-07-31/",
+    "title": "Exxon, Chevron warn of continued high fuel prices from Iran war",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:31",
+    "pub_ts": 1785533509
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/egypt-raises-most-household-power-tariffs-by-average-12-2026-07-31/",
+    "title": "Egypt raises most household power tariffs by average 12%",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:29",
+    "pub_ts": 1785533359
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-israel-planning-bombard-energy-related-targets-iran-cbs-reports-2026-07-31/",
+    "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 05:23",
+    "pub_ts": 1785533009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-signs-proclamation-safeguard-measure-quartz-surface-imports-2026-07-31/",
+    "title": "Trump signs proclamation on safeguard measure for quartz surface imports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:13",
+    "pub_ts": 1785532424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/latvia-closes-border-with-belarus-interior-minister-says-2026-07-31/",
+    "title": "Latvia closes border with Belarus, interior minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 05:09",
+    "pub_ts": 1785532166
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/thousands-rally-kyiv-demanding-ousted-defence-ministers-reinstatement-2026-07-31/",
+    "title": "Thousands rally in Kyiv demanding ousted defence minister's reinstatement",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 04:57",
+    "pub_ts": 1785531463
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/warsh-raised-changing-frequency-fed-policy-meetings-nyt-reports-2026-07-31/",
+    "title": "Warsh raised changing frequency of Fed policy meetings, NYT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 04:48",
+    "pub_ts": 1785530889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/brazil-implements-temporary-32-ethanol-blend-gasoline-saturday-2026-07-31/",
+    "title": "Brazil implements temporary 32% ethanol blend in gasoline from Saturday",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 04:23",
+    "pub_ts": 1785529408
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
     "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
     "path": "/business/",
@@ -26926,77 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 00:53",
     "pub_ts": 1784825621
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-panel-votes-place-popular-peptide-bpc-157-compounding-list-2026-07-23/",
-    "title": "FDA panel votes to place popular peptide BPC-157 on compounding list",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:51",
-    "pub_ts": 1784825504
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/man-critically-injured-apparent-hostage-situation-german-bank-2026-07-23/",
-    "title": "Suspect detained, ending deadly hostage situation at German bank",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:48",
-    "pub_ts": 1784825302
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-senate-blocks-resolution-curbing-trumps-iran-war-powers-2026-07-23/",
-    "title": "US Senate blocks resolution curbing Trump's Iran war powers",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:44",
-    "pub_ts": 1784825061
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0723/c1016-40766815.html",
-    "title": "福州：非遗茶香赋能文旅新发展",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-24 00:40",
-    "pub_ts": 1784824858
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0723/c365401-41648246.html",
-    "title": "重庆彭水山体崩塌造成11人死亡、50人失联",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-24 00:40",
-    "pub_ts": 1784824858
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/french-drone-maker-exail-technologies-posts-17-rise-second-quarter-revenue-2026-07-23/",
-    "title": "French drone maker Exail Technologies posts 17% rise in second-quarter revenue",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:37",
-    "pub_ts": 1784824644
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/ecb-will-discuss-raising-banks-minimum-reserves-lagarde-says-2026-07-23/",
-    "title": "ECB will discuss raising banks' minimum reserves, Lagarde says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:35",
-    "pub_ts": 1784824543
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/iata-taps-world-economic-forum-managing-director-zahidi-new-chief-2026-07-23/",
-    "title": "IATA taps World Economic Forum managing director Zahidi as new chief",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:32",
-    "pub_ts": 1784824329
   }
 ]
