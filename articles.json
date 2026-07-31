@@ -1,6 +1,69 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/",
+    "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 02:45",
+    "pub_ts": 1785523531
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/DIFEXIH56RMRNJ2RPSON7NTKXA-2026-07-31/",
+    "title": "Video fue alterado para sugerir que Trump se desvaneció al exterior de la Casa Blanca",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 02:45",
+    "pub_ts": 1785523523
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/sam-fender-olivia-dean-duet-becomes-longest-running-top-single-uk-2026-07-31/",
+    "title": "Sam Fender and Olivia Dean duet becomes longest-running top single in UK",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 02:19",
+    "pub_ts": 1785521984
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/norse-atlantic-starts-formal-process-possible-sale-or-merger-2026-07-31/",
+    "title": "Norse Atlantic starts formal process for possible sale or merger",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 02:17",
+    "pub_ts": 1785521864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/white-house-official-says-no-weaponized-drones-seized-during-fifa-world-cup-2026-07-31/",
+    "title": "White House official says no weaponized drones seized during FIFA World Cup",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 02:13",
+    "pub_ts": 1785521617
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/trump-says-us-has-not-agreed-ukraine-building-patriot-missiles-2026-07-31/",
+    "title": "Trump says US has not agreed to Ukraine building Patriot missiles",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 02:08",
+    "pub_ts": 1785521289
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fed-chief-warsh-faces-hard-choice-inflation-after-bond-markets-red-flag-2026-07-31/",
+    "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 01:56",
+    "pub_ts": 1785520562
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/transactional/banco-bpm-ends-talks-potential-merger-with-monte-dei-paschi-2026-07-31/",
     "title": "Banco BPM ends talks on potential merger with Monte dei Paschi",
     "path": "/legal/",
@@ -106,6 +169,87 @@
     "category": "markets",
     "pub_bj": "2026-08-01 01:03",
     "pub_ts": 1785517435
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/old-video-shows-man-setting-vegetation-alight-italy-not-france-2026-07-31/",
+    "title": "Old video shows man setting vegetation alight in Italy, not France",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 00:59",
+    "pub_ts": 1785517158
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/",
+    "title": "Chinese military researchers tap US AI models to train defence systems",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 00:54",
+    "pub_ts": 1785516886
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/FOWIIWHMPJIJNAZCOHDNJ7YQXI-2026-07-31/",
+    "title": "La selección española compartió una foto sin Trump, no lo “borró” con IA",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 00:52",
+    "pub_ts": 1785516722
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/israeli-military-cracks-down-west-bank-village-settlers-march-2026-07-31/",
+    "title": "Israeli military cracks down on West Bank village as settlers march in",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 00:51",
+    "pub_ts": 1785516718
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadas-imperial-oil-second-quarter-profit-more-than-doubles-2026-07-31/",
+    "title": "Imperial Oil beats quarterly estimates as crude rally lifts profits",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 00:48",
+    "pub_ts": 1785516514
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/frances-cosmobilis-park-square-capital-acquire-wrc-commercial-rights-2026-07-31/",
+    "title": "Cosmobilis and Park Square Capital acquire WRC commercial rights",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 00:39",
+    "pub_ts": 1785515964
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/where-trump-israel-hamas-stand-gaza-roadmap-2026-07-31/",
+    "title": "Where Trump, Israel and Hamas stand on Gaza roadmap",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 00:37",
+    "pub_ts": 1785515848
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-presents-colorado-river-water-sharing-plan-2026-07-31/",
+    "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 00:36",
+    "pub_ts": 1785515815
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/us-bank-regulators-propose-fair-lending-rule-update-2026-07-31/",
+    "title": "US bank regulators propose fair-lending rule update",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 00:35",
+    "pub_ts": 1785515729
   },
   {
     "source": "Reuters",
@@ -304,6 +448,51 @@
     "category": "business",
     "pub_bj": "2026-07-31 23:32",
     "pub_ts": 1785511961
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/image-burnham-running-toward-film-crew-is-altered-2026-07-31/",
+    "title": "Image of Burnham running toward film crew is altered",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-07-31 23:20",
+    "pub_ts": 1785511228
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/ares-ceo-says-it-should-probably-be-bigger-private-equity-2026-07-31/",
+    "title": "Ares CEO says it should probably be bigger in private equity",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-07-31 23:16",
+    "pub_ts": 1785510991
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/former-sri-lankan-defence-official-ex-police-chief-sentenced-death-over-2019-2026-07-31/",
+    "title": "Former Sri Lankan defence official, ex-police chief sentenced to death over 2019 Easter bombings",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 23:13",
+    "pub_ts": 1785510823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cyclosporiasis-cases-michigan-rise-10773-ongoing-outbreak-2026-07-31/",
+    "title": "Cyclosporiasis cases in Michigan rise to 10,773 in ongoing outbreak",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 23:11",
+    "pub_ts": 1785510704
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canada-records-much-smaller-budget-deficit-over-first-two-months-202627-2026-07-31/",
+    "title": "Canada records much smaller budget deficit over first two months of 2026/27",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 23:09",
+    "pub_ts": 1785510583
   },
   {
     "source": "Reuters",
@@ -26809,194 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-23 23:57",
     "pub_ts": 1784822267
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/dutch-engineering-group-arcadis-attracts-takeover-interest-including-wsp-sources-2026-07-23/",
-    "title": "Dutch engineering group Arcadis attracts takeover interest, including from WSP, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:57",
-    "pub_ts": 1784822258
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/molina-falls-concerns-around-obamacare-medicaid-businesses-2026-07-23/",
-    "title": "Molina plummets as it expects to halve its Obamacare presence",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 23:56",
-    "pub_ts": 1784822169
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-allies-say-russian-hackers-stole-emails-without-social-engineering-2026-07-23/",
-    "title": "US and allies say Russian hackers stole emails without social engineering",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 23:55",
-    "pub_ts": 1784822144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/ai-chip-startup-etched-raises-300-million-103-billion-valuation-2026-07-23/",
-    "title": "AI chip startup Etched raises $300 million at $10.3 billion valuation",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-23 23:50",
-    "pub_ts": 1784821831
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ubisoft-maintains-outlook-says-some-major-titles-delayed-2028-2029-2026-07-23/",
-    "title": "Ubisoft maintains outlook, says some major titles delayed to 2028, 2029",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:48",
-    "pub_ts": 1784821689
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/traders-stick-with-ecb-rate-hike-bets-oil-touches-100-once-more-2026-07-23/",
-    "title": "Traders stick with ECB rate-hike bets as oil touches $100 once more",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:47",
-    "pub_ts": 1784821665
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-africa-unexpectedly-keeps-key-rate-unchanged-rand-falls-2026-07-23/",
-    "title": "South Africa central bank surprises with rate hold, says policy tight enough",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 23:45",
-    "pub_ts": 1784821534
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-imports-first-fuel-oil-cargoes-shipped-via-syria-iraq-leverages-new-export-2026-07-23/",
-    "title": "US imports first fuel oil cargoes shipped via Syria as Iraq leverages new export route",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:31",
-    "pub_ts": 1784820688
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/concerns-palestinian-economic-crisis-grow-israeli-banks-prepare-cut-ties-2026-07-23/",
-    "title": "Concerns of Palestinian economic crisis grow as Israeli banks prepare to cut ties",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 23:28",
-    "pub_ts": 1784820526
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/nottingham-consult-public-behaviour-misrepresented-balaclava-ban-2026-07-23/",
-    "title": "Nottingham consult on public behaviour misrepresented as balaclava ban",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-23 23:26",
-    "pub_ts": 1784820416
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/china-boost-wind-solar-generation-by-more-than-50-five-years-2026-07-23/",
-    "title": "China to boost wind and solar generation by more than 50% in five years",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:17",
-    "pub_ts": 1784819859
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/us-house-votes-halt-iran-war-another-symbolic-rebuke-trump-2026-07-23/",
-    "title": "US House votes to halt Iran war, in another symbolic rebuke of Trump",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 23:12",
-    "pub_ts": 1784819568
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say-2026-07-23/",
-    "title": "Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 23:11",
-    "pub_ts": 1784819500
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/oil-executives-rush-complete-contract-migration-venezuela-sources-say-2026-07-23/",
-    "title": "Oil executives rush to complete contract migration in Venezuela, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:08",
-    "pub_ts": 1784819312
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/no-definitive-evidence-irish-alumina-exports-used-russian-weapons-irish-pm-says-2026-07-23/",
-    "title": "No 'definitive' evidence Irish alumina exports used in Russian weapons, Irish PM says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 23:08",
-    "pub_ts": 1784819289
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/databricks-expands-microsoft-azure-partnership-use-more-custom-chips-2026-07-23/",
-    "title": "Databricks expands Microsoft Azure partnership, to use more custom chips",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 23:03",
-    "pub_ts": 1784819025
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sx.people.com.cn/n2/2026/0723/c189132-41647014.html",
-    "title": "山西：用好“凉资源” 做活“凉经济”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sx.people.com.cn/n2/2026/0714/c189132-41638099.html",
-    "title": "行进中国｜开着房车上陵川，体验一夏清凉",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0503/c1004-40713220.html",
-    "title": "新场景里看活力 | 来山西大同，逛东南邑、品古今",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sx.people.com.cn/n2/2026/0622/c189130-41616880.html",
-    "title": "大同：“煤都”向新 算力“筑城”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sx.people.com.cn/n2/2026/0630/c189130-41625064.html",
-    "title": "山西文旅暑期推广季启幕",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
   }
 ]
