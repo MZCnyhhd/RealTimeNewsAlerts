@@ -1,6 +1,132 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 04:18",
+    "pub_ts": 1785529134
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/KZDH3PMTDBJVXPEWMZPKMTYWLA-2026-07-31/",
+    "title": "Inglaterra no contempla que la asistencia a juegos de su liga de fútbol sea tratamiento para la depresión",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 04:18",
+    "pub_ts": 1785529121
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/amgen-discloses-data-breach-says-patient-information-was-stolen-2026-07-31/",
+    "title": "Amgen discloses data breach, says patient information was stolen",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 04:14",
+    "pub_ts": 1785528880
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/us-bars-imports-43-more-companies-over-chinas-alleged-forced-labor-involving-2026-07-31/",
+    "title": "US bars imports from 43 more companies over China's alleged forced labor involving Uyghurs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 04:05",
+    "pub_ts": 1785528339
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/social-media-rumours-economic-hardship-fuel-migrant-surge-into-ceuta-2026-07-31/",
+    "title": "Social media rumours, economic hardship fuel migrant surge into Ceuta",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 04:02",
+    "pub_ts": 1785528134
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/ZTS4X2X755MJDFK44XZDCRIJTQ-2026-07-31/",
+    "title": "Dona da Brastemp anunciou fechamento de fábrica no México, não no Brasil",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 03:55",
+    "pub_ts": 1785527727
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-commodity-futures-trading-commission-fines-george-santos-alleged-manipulative-2026-07-31/",
+    "title": "US Commodity Futures Trading Commission fines George Santos for alleged manipulative trading",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 03:52",
+    "pub_ts": 1785527533
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/ex-steward-health-ceo-loses-appeal-lawsuit-against-us-senators-2026-07-31/",
+    "title": "Ex-Steward Health CEO loses appeal in lawsuit against US senators",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 03:47",
+    "pub_ts": 1785527238
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/kkr-nearing-deal-acquire-integer-holdings-wsj-reports-2026-07-31/",
+    "title": "KKR nearing deal to acquire Integer Holdings, WSJ reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 03:29",
+    "pub_ts": 1785526149
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/serbia-secures-us-sanctions-waiver-its-russian-owned-nis-oil-firm-energy-2026-07-31/",
+    "title": "Serbia secures US sanctions waiver for its Russian-owned NIS oil firm,  energy minister says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 03:26",
+    "pub_ts": 1785525971
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/magnitude-47-quake-strikes-near-italys-naples-causing-outages-damage-2026-07-31/",
+    "title": "Magnitude 4.7 quake strikes near Italy's Naples, causing outages and damage",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 03:22",
+    "pub_ts": 1785525763
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/becton-dickinson-issues-recall-certain-lots-needle-sets-used-emergency-iv-access-2026-07-31/",
+    "title": "Becton Dickinson issues recall on certain lots of needle sets used for emergency IV access",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 03:22",
+    "pub_ts": 1785525727
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/westjet-begins-parking-737-aircraft-ahead-potential-labor-disruption-2026-07-31/",
+    "title": "WestJet starts parking Boeing 737 jets ahead of looming labor strike",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 03:19",
+    "pub_ts": 1785525550
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/amazon-sued-by-consumers-over-seafood-sustainability-claims-2026-07-31/",
+    "title": "Amazon sued by consumers over seafood sustainability claims",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 03:14",
+    "pub_ts": 1785525273
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/",
     "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
     "path": "/legal/",
@@ -169,6 +295,15 @@
     "category": "markets",
     "pub_bj": "2026-08-01 01:03",
     "pub_ts": 1785517435
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/top-us-data-center-serving-utility-dominion-tops-profit-estimates-2026-07-31/",
+    "title": "Top US data center-serving utility Dominion tops profit estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 01:02",
+    "pub_ts": 1785517371
   },
   {
     "source": "Reuters",
@@ -448,6 +583,15 @@
     "category": "business",
     "pub_bj": "2026-07-31 23:32",
     "pub_ts": 1785511961
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/futures-edge-higher-upbeat-earnings-gdp-data-focus-2026-07-31/",
+    "title": "TSX down as gold prices pressure miners; Telus tumbles",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 23:25",
+    "pub_ts": 1785511544
   },
   {
     "source": "Reuters",
@@ -26854,149 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 00:32",
     "pub_ts": 1784824329
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/beethoven-or-birds-ecb-unveils-new-banknote-designs-2026-07-23/",
-    "title": "Beethoven or birds? ECB unveils new banknote designs",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:30",
-    "pub_ts": 1784824211
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/ousted-ukrainian-defence-chief-digs-against-zelenskiy-2026-07-23/",
-    "title": "Ousted Ukrainian defence chief digs in against Zelenskiy",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:26",
-    "pub_ts": 1784823981
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/portugues/NXZXUDNQDVOO7ARYV75Y3SZO5E-2026-07-23/",
-    "title": "Ocultação de marcas do governo federal em obra no ES segue norma eleitoral",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-24 00:25",
-    "pub_ts": 1784823911
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/bangladesh-president-backed-by-ousted-pm-hasina-resign-friday-say-sources-2026-07-23/",
-    "title": "Bangladesh president, backed by ousted PM Hasina, to resign on Friday, say sources",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:24",
-    "pub_ts": 1784823849
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/carrefour-sales-beat-forecasts-france-brazil-drive-growth-2026-07-23/",
-    "title": "Carrefour sales beat forecasts as France, Brazil drive growth",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:23",
-    "pub_ts": 1784823818
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/commuters-businesses-hit-by-metro-internet-curbs-delhi-during-protests-2026-07-23/",
-    "title": "Commuters and businesses hit by metro and internet curbs in Delhi during protests",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:23",
-    "pub_ts": 1784823818
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/abhijeet-dipke-face-indias-first-gen-z-protest-movement-2026-07-23/",
-    "title": "Abhijeet Dipke, face of India's first Gen Z protest movement",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:23",
-    "pub_ts": 1784823787
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/war-risk-insurance-costs-surge-southern-red-sea-voyages-after-houthi-attacks-2026-07-23/",
-    "title": "War risk insurance costs surge for southern Red Sea voyages after Houthi attacks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:18",
-    "pub_ts": 1784823514
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/brazil-federal-prosecutors-move-block-ethanol-blend-increase-gasoline-2026-07-23/",
-    "title": "Brazil federal prosecutors move to block ethanol blend increase in gasoline",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:17",
-    "pub_ts": 1784823463
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/minnesota-man-faces-life-prison-assassinating-democratic-lawmaker-2026-07-23/",
-    "title": "Minnesota man faces life in prison for assassinating Democratic lawmaker",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 00:17",
-    "pub_ts": 1784823421
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-fda-advisers-weigh-restrictions-seven-peptides-industry-presses-expansion-2026-07-23/",
-    "title": "US FDA advisers weigh restrictions on seven peptides as industry presses for expansion",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 00:12",
-    "pub_ts": 1784823125
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/utility-pge-beats-quarterly-profit-estimates-higher-rates-2026-07-23/",
-    "title": "Utility PG&E beats quarterly profit estimates on higher rates",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 00:10",
-    "pub_ts": 1784823031
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iaea-says-awaiting-us-saudi-request-nuclear-deal-verification-2026-07-23/",
-    "title": "IAEA says awaiting US-Saudi request on nuclear deal verification",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:09",
-    "pub_ts": 1784822984
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-relaxes-e-commerce-investment-rules-exports-win-amazon-2026-07-23/",
-    "title": "India relaxes e-commerce investment rules for exports in win for Amazon",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:06",
-    "pub_ts": 1784822763
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/havas-sticks-guidance-north-america-offsets-china-weakness-2026-07-23/",
-    "title": "Havas sticks to guidance as North America offsets China weakness",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 00:04",
-    "pub_ts": 1784822641
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us-pledges-over-200-million-aid-red-cross-agencies-2026-07-23/",
-    "title": "US pledges over $200 million in aid to Red Cross agencies",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 23:57",
-    "pub_ts": 1784822267
   }
 ]
