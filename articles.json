@@ -1,5 +1,122 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/banco-bpm-ends-talks-potential-merger-with-monte-dei-paschi-2026-07-31/",
+    "title": "Banco BPM ends talks on potential merger with Monte dei Paschi",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 01:47",
+    "pub_ts": 1785520064
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/indias-sebi-imposes-penalty-148-million-rupees-zee-entertainment-2026-07-31/",
+    "title": "India's SEBI imposes 14.8 million rupees penalty on Zee Entertainment",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 01:46",
+    "pub_ts": 1785519972
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/founder-russian-retailer-wildberries-calls-ukrainian-attacks-acts-terrorism-2026-07-31/",
+    "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 01:44",
+    "pub_ts": 1785519879
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/senate-challenger-collins-falsely-says-ossoff-voted-against-laken-riley-act-2026-07-31/",
+    "title": "Senate challenger Collins falsely says Ossoff voted against Laken Riley Act",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-01 01:33",
+    "pub_ts": 1785519188
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/saipem-subsea7-cleared-complete-merger-us-2026-07-31/",
+    "title": "Saipem, Subsea7 cleared to complete merger in US",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 01:31",
+    "pub_ts": 1785519097
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-israel-very-happy-with-gaza-disarmament-agreement-2026-07-31/",
+    "title": "Trump says Israel 'very happy' with Gaza disarmament agreement",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 01:23",
+    "pub_ts": 1785518581
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-icc-campaign-aimed-defending-netanyahu-not-himself-2026-07-31/",
+    "title": "Trump says ICC campaign aimed at defending Netanyahu, not himself",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 01:17",
+    "pub_ts": 1785518274
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/perus-new-foreign-minister-eyes-stronger-us-ties-fujimori-takes-office-2026-07-31/",
+    "title": "Peru's new foreign minister eyes stronger US ties as Fujimori takes office",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 01:17",
+    "pub_ts": 1785518220
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis-2026-07-31/",
+    "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 01:14",
+    "pub_ts": 1785518097
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trumps-powerful-unofficial-venezuela-adviser-leaves-his-role-2026-07-31/",
+    "title": "Trump's powerful but unofficial Venezuela adviser leaves his role",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 01:07",
+    "pub_ts": 1785517672
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/nxp-talks-buy-chip-developer-ambarella-ft-reports-2026-07-31/",
+    "title": "NXP in talks to buy chip developer Ambarella, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 01:07",
+    "pub_ts": 1785517664
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/on-the-money/ak-lauren-how-soon-can-i-refinance-mortgage-2026-07-31/",
+    "title": "A$K Lauren: How soon can I refinance a mortgage?",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-08-01 01:03",
+    "pub_ts": 1785517435
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/un-weather-agency-warns-strong-el-nino-intensify-august-2026-07-31/",
+    "title": "UN weather agency warns strong El Nino to intensify from August",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 00:19",
+    "pub_ts": 1785514784
+  },
+  {
     "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0731/c1016-40771945.html",
     "title": "穗深城际铁路全线贯通运营",
@@ -178,6 +295,15 @@
     "category": "legal",
     "pub_bj": "2026-07-31 23:38",
     "pub_ts": 1785512287
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canadian-dollar-heads-monthly-gain-gdp-data-beats-estimates-2026-07-31/",
+    "title": "Canadian dollar heads for monthly gain as GDP data beats estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-07-31 23:32",
+    "pub_ts": 1785511961
   },
   {
     "source": "Reuters",
@@ -26872,131 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-23 23:02",
     "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0723/c1024-40766807.html",
-    "title": "赵乐际同捷克众议长冈村富夫会谈",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gs.people.com.cn/n2/2026/0723/c183348-41647529.html",
-    "title": "秦王川有了\"绿围脖\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0723/c436867-40766769.html",
-    "title": "来华外资的三个数据体现了三个\"笃定\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0723/c1004-40766770.html",
-    "title": "迎战高温与暴雨考验 迎峰度夏电力保供不停歇",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0723/c186331-41647413.html",
-    "title": "行进中国｜秦岭脚下好“丰”景",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://qh.people.com.cn/n2/2026/0723/c378418-41647543.html",
-    "title": "麦秀，不只是森林",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0723/c14540-41648126.html",
-    "title": "北京出台新政加快智能体引领产业发展 最高支持1亿元项目资金",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gx.people.com.cn/n2/2026/0723/c179464-41648151.html",
-    "title": "广西：“一卡在手，万事通达”便民服务生态圈逐步形成",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sz.people.com.cn/n2/2026/0723/c202846-41647955.html",
-    "title": "上半年深圳前海实际使用外资同比增长超100%",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0723/c1004-40766811.html",
-    "title": "中国数学家邓煜、王虹获得菲尔兹奖",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sz.people.com.cn/n2/2026/0723/c202846-41648164.html",
-    "title": "今年第12号台风“红霞”将登陆粤闽沿海",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-23 23:02",
-    "pub_ts": 1784818954
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/aramco-offers-more-crude-oil-cargoes-mediterranean-amid-red-sea-threats-sources-2026-07-23/",
-    "title": "Aramco offers more crude oil cargoes from Mediterranean amid Red Sea threats, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-23 22:59",
-    "pub_ts": 1784818795
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/landslide-killed-11-southwest-china-50-still-missing-state-media-says-2026-07-23/",
-    "title": "Landslide killed 11 in southwest China, 50 still missing, state media says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-23 22:56",
-    "pub_ts": 1784818619
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/us-justice-department-streamlines-merger-review-process-2026-07-23/",
-    "title": "US Justice Department streamlines merger review process",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-23 22:51",
-    "pub_ts": 1784818316
   }
 ]
