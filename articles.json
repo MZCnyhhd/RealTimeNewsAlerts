@@ -1,6 +1,96 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-ice-detains-johns-hopkins-researcher-airport-arrests-surge-2026-07-31/",
+    "title": "US ICE detains Johns Hopkins researcher as airport arrests surge",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 06:29",
+    "pub_ts": 1785536973
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-justice-department-drops-case-against-former-us-olympian-over-lincoln-2026-07-31/",
+    "title": "US Justice Department drops case against former US Olympian over Lincoln Memorial Reflecting Pool",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 06:28",
+    "pub_ts": 1785536933
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/fifa-has-scrapped-20-billion-world-cup-sell-off-plan-new-york-post-reports-2026-07-31/",
+    "title": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 06:25",
+    "pub_ts": 1785536715
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/brazils-petrobras-increase-jet-fuel-prices-by-19-august-2026-07-31/",
+    "title": "Brazil's Petrobras to increase jet fuel prices by 1.9% in August",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 06:05",
+    "pub_ts": 1785535543
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/north-korea-says-nato-fuel-plan-shows-alliance-preparing-war-2026-07-31/",
+    "title": "North Korea says NATO fuel plan shows alliance preparing for war",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:59",
+    "pub_ts": 1785535184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-healey-tells-ministers-prepare-budget-cuts-times-reports-2026-07-31/",
+    "title": "UK's Healey tells ministers to prepare for budget cuts, The Times reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 05:50",
+    "pub_ts": 1785534609
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/former-china-state-grid-chairman-xin-baoan-under-investigation-anti-graft-2026-07-31/",
+    "title": "Former China State Grid Chairman Xin Baoan under investigation, anti-graft watchdog says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 05:48",
+    "pub_ts": 1785534525
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/ftc-approves-ionq-acquisition-skywater-semiconductor-foundry-2026-07-31/",
+    "title": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 05:46",
+    "pub_ts": 1785534393
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/wall-st-week-ahead-teetering-us-stock-market-faces-jobs-report-big-earnings-week-2026-07-31/",
+    "title": "Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:43",
+    "pub_ts": 1785534186
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/warner-music-group-reshuffles-leadership-cfo-exits-2026-07-31/",
+    "title": "Warner Music Group reshuffles leadership as CFO exits",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 05:40",
+    "pub_ts": 1785534014
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/exxon-chevron-warn-continued-high-fuel-prices-iran-war-2026-07-31/",
     "title": "Exxon, Chevron warn of continued high fuel prices from Iran war",
     "path": "/business/",
@@ -26908,95 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 01:28",
     "pub_ts": 1784827737
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/trumps-consumer-finance-watchdog-pick-pledges-open-mind-plans-fire-most-agency-2026-07-23/",
-    "title": "Trump's consumer finance watchdog pick pledges 'open mind' on plans to fire most of agency work force",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 01:28",
-    "pub_ts": 1784827682
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/germanys-merz-could-announce-cabinet-reshuffle-friday-sources-say-2026-07-23/",
-    "title": "Germany's Merz could announce cabinet reshuffle on Friday, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 01:20",
-    "pub_ts": 1784827255
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/blackstone-is-addressing-community-concerns-around-ai-ceo-says-2026-07-23/",
-    "title": "Blackstone is addressing community concerns around AI, CEO says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 01:17",
-    "pub_ts": 1784827065
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/ai-kill-switch-bill-floated-by-us-house-lawmakers-2026-07-23/",
-    "title": "White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch'",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 01:08",
-    "pub_ts": 1784826490
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/merchant-ship-hijacked-off-yemen-now-held-by-somali-pirates-residents-say-2026-07-23/",
-    "title": "Merchant ship hijacked off Yemen now held by Somali pirates, residents say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 01:05",
-    "pub_ts": 1784826315
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/decade-transformation-how-us-workplace-has-changed-what-employers-must-focus--pracin-2026-07-23/",
-    "title": "A decade of transformation — How the U.S. workplace has changed and what employers must focus on next",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 01:05",
-    "pub_ts": 1784826305
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/whats-eus-21st-package-sanctions-against-russia-2026-07-23/",
-    "title": "What's in the EU's 21st package of sanctions against Russia",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 01:01",
-    "pub_ts": 1784826104
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-    "path": "/biotechnology-and-health/",
-    "category": "biotechnology and health",
-    "pub_bj": "2026-07-24 00:58",
-    "pub_ts": 1784825908
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-rtx-lift-2026-forecasts-pentagon-looks-restock-weapons-2026-07-23/",
-    "title": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:53",
-    "pub_ts": 1784825629
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/raiffeisen-sue-rasperia-315-billion-austria-2026-07-23/",
-    "title": "RBI says to pursue $3.6 billion in damages from Russia's Rasperia in Austria",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 00:53",
-    "pub_ts": 1784825621
   }
 ]
