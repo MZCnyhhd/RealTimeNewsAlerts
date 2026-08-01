@@ -1,5 +1,68 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772189.html",
+    "title": "习近平的强军号令",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-01 22:11",
+    "pub_ts": 1785593509
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772186.html",
+    "title": "统帅与士兵心连心",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-01 22:11",
+    "pub_ts": 1785593509
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772188.html",
+    "title": "强国必须强军 军强才能国安",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-01 22:11",
+    "pub_ts": 1785593509
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772190.html",
+    "title": "\"人不负青山,青山定不负人\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-01 22:11",
+    "pub_ts": 1785593509
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772191.html",
+    "title": "各地各部队扎实做好双拥工作成效显著",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-01 22:11",
+    "pub_ts": 1785593509
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-threatens-keep-blanche-acting-attorney-general-revive-anti-weaponization-2026-08-01/",
+    "title": "Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-01 22:03",
+    "pub_ts": 1785593027
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/romania-expands-bear-cull-critics-say-enforcement-gaps-persist-2026-08-01/",
+    "title": "Romania expands bear cull, critics say enforcement gaps persist",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 21:49",
+    "pub_ts": 1785592184
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/iraq-expects-sign-extension-pipeline-deal-with-turkey-ina-says-2026-08-01/",
     "title": "Turkey, Iraq sign one-year oil pipeline deal",
@@ -26935,68 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 11:05",
     "pub_ts": 1784862306
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-ready-take-decisive-action-forex-finance-minister-says-2026-07-24/",
-    "title": "Japan ready to take decisive action on forex, finance minister says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 10:58",
-    "pub_ts": 1784861937
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-grid-operator-extends-advisory-amid-heat-outage-risks-2026-07-24/",
-    "title": "US grid operator extends advisory amid heat, outage risks",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 10:57",
-    "pub_ts": 1784861869
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-stars-ranbir-kapoor-yash-arrive-comic-con-promote-ramayana-2026-07-24/",
-    "title": "Indian stars Ranbir Kapoor and Yash arrive at Comic-Con to promote 'Ramayana'",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 10:56",
-    "pub_ts": 1784861819
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-makes-preliminary-finding-steel-dumping-by-south-korea-china-2026-07-24/",
-    "title": "Japan makes preliminary finding on steel dumping by South Korea, China",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 10:27",
-    "pub_ts": 1784860063
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-accuses-chinas-moonshot-stealing-anthropics-fable-latest-ai-model-2026-06-30/",
-    "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 10:09",
-    "pub_ts": 1784858951
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japans-nikkei-falls-more-than-2-ai-spending-worries-2026-07-24/",
-    "title": "Japan's Nikkei falls more than 2% on AI spending worries",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 09:58",
-    "pub_ts": 1784858296
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/avatar-aang-film-creators-unveil-first-avatar-studios-film-comic-con-despite-2026-07-24/",
-    "title": "'Avatar Aang' film creators unveil first Avatar Studios film at Comic-Con despite setbacks",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 09:43",
-    "pub_ts": 1784857394
   }
 ]
