@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/three-killed-15-injured-moscow-explosion-tass-says-2026-08-01/",
+    "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 03:23",
+    "pub_ts": 1785612210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-justice-department-subpoenas-new-york-times-freelancer-over-north-korea-story-2026-08-01/",
+    "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-02 03:11",
+    "pub_ts": 1785611504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/westjet-begins-flight-cancellations-ahead-strike-2026-08-01/",
+    "title": "WestJet begins flight cancellations ahead of strike",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-02 02:56",
+    "pub_ts": 1785610587
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us/clayton-set-take-over-top-us-spy-monday-pulte-says-2026-08-01/",
     "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
     "path": "/world/",
@@ -26971,32 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 11:31",
     "pub_ts": 1784863903
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-rupee-brink-record-low-after-crude-storms-past-100-rbi-watched-2026-07-24/",
-    "title": "Indian rupee on brink of record low after crude storms past $100; RBI watched",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 11:30",
-    "pub_ts": 1784863846
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/seaplane-crashes-washington-state-all-11-people-board-accounted-2026-07-24/",
-    "title": "Seaplane crashes in Washington state, all 11 people on board accounted for",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 11:29",
-    "pub_ts": 1784863790
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/boj-likely-keep-inflation-warning-expect-no-big-build-up-risks-sources-say-2026-07-24/",
-    "title": "BOJ likely to keep inflation warning but expect no big build-up in risks, sources say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 11:27",
-    "pub_ts": 1784863646
   }
 ]
