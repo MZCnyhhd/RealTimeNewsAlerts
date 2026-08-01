@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/thirteen-die-tourist-plane-crash-over-perus-nazca-lines-tvperu-says-2026-08-01/",
+    "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines, TVPeru says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 03:53",
+    "pub_ts": 1785613994
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/three-killed-15-injured-moscow-explosion-tass-says-2026-08-01/",
     "title": "Restaurant explosion in central Moscow kills three, injures 15, police say",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 11:38",
     "pub_ts": 1784864323
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-central-bank-likely-steps-avert-rupee-record-low-oil-surges-traders-say-2026-07-24/",
-    "title": "Indian central bank likely steps in to avert rupee record low as oil surges, traders say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 11:31",
-    "pub_ts": 1784863903
   }
 ]
