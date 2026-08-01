@@ -1,5 +1,32 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iraq-expects-sign-extension-pipeline-deal-with-turkey-ina-says-2026-08-01/",
+    "title": "Turkey, Iraq sign one-year oil pipeline deal",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-01 20:37",
+    "pub_ts": 1785587826
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/crimean-families-queue-hot-meals-ukraine-hits-power-supply-2026-08-01/",
+    "title": "Crimean families queue for hot meals as Ukraine hits power supply",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 20:26",
+    "pub_ts": 1785587170
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/famed-climber-nirmal-purja-nine-others-die-avalanche-pakistan-hiking-company-2026-08-01/",
+    "title": "Famed climber Nirmal Purja, nine others, die in avalanche in Pakistan, hiking company says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 20:09",
+    "pub_ts": 1785586182
+  },
+  {
     "source": "People's Daily",
     "url": "http://health.people.com.cn/n1/2026/0727/c14739-40768370.html",
     "title": "全民健身发展新蓝图清晰呈现",
@@ -26971,32 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 09:43",
     "pub_ts": 1784857394
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-24/",
-    "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 09:31",
-    "pub_ts": 1784856673
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/singapore-set-keep-monetary-policy-steady-inflation-risks-mild-2026-07-24/",
-    "title": "Singapore set to keep monetary policy steady, inflation risks mild",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 09:12",
-    "pub_ts": 1784855566
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/china-urges-deeper-security-cooperation-with-belarus-uzbekistan-2026-07-24/",
-    "title": "China urges deeper security cooperation with Belarus, Uzbekistan",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 09:03",
-    "pub_ts": 1784855007
   }
 ]
