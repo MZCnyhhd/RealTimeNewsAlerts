@@ -1,6 +1,24 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0801/c1016-40772199.html",
+    "title": "我国首台掘爆机在武汉下线",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-01 23:17",
+    "pub_ts": 1785597421
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/migrants-say-hunger-hostility-drove-them-back-spains-ceuta-morocco-2026-08-01/",
+    "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-01 22:56",
+    "pub_ts": 1785596173
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0801/c461001-40772189.html",
     "title": "习近平的强军号令",
     "path": "/politics/",
@@ -26980,23 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 11:11",
     "pub_ts": 1784862707
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-military-says-it-completed-13th-consecutive-night-strikes-iran-2026-07-24/",
-    "title": "US military says it completed 13th consecutive night of strikes on Iran",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 11:06",
-    "pub_ts": 1784862418
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/seoul-advances-increased-cash-rules-leveraged-etfs-july-31-2026-07-24/",
-    "title": "Seoul advances increased cash rules for leveraged ETFs to July 31",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 11:05",
-    "pub_ts": 1784862306
   }
 ]
