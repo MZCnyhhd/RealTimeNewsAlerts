@@ -1,5 +1,23 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/emirates-nbd-bank-acquire-retail-banking-business-hsbc-egypt-2026-08-02/",
+    "title": "Emirates NBD Bank to acquire retail banking business of HSBC Egypt",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 23:09",
+    "pub_ts": 1785683384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/death-toll-migrant-rush-into-ceuta-rises-72-2026-08-02/",
+    "title": "Death toll from migrant rush into Ceuta rises to 72",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 22:35",
+    "pub_ts": 1785681320
+  },
+  {
     "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0802/c461001-40772446.html",
     "title": "习语|我和你们一起在这里站岗",
@@ -26980,23 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 16:45",
     "pub_ts": 1784882743
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/south-africas-ramaphosa-wins-court-challenge-halt-farmgate-impeachment-process-2026-07-24/",
-    "title": "South Africa's Ramaphosa secures court order halting 'Farmgate' impeachment process",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:40",
-    "pub_ts": 1784882410
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-firms-report-first-growth-three-months-cost-pressures-ease-pmis-2026-07-24/",
-    "title": "UK firms report first growth in three months, cost pressures ease - PMIs",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:35",
-    "pub_ts": 1784882143
   }
 ]
