@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-bars-some-diageo-inbrew-liquor-over-flavouring-violations-2026-08-02/",
+    "title": "India bars some Diageo, Inbrew liquor over flavouring violations",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 01:59",
+    "pub_ts": 1785693583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senator-moreno-says-ohios-miller-should-not-serve-congress-citing-abuse-2026-08-02/",
+    "title": "US Senator Moreno says Ohio's Miller should not serve in Congress, citing abuse allegations",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 01:57",
+    "pub_ts": 1785693464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/gunmen-kill-12-abduct-women-children-nigerian-village-2026-08-02/",
+    "title": "Gunmen kill 12, abduct women and children in Nigerian village",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 01:34",
+    "pub_ts": 1785692082
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/china/china-draws-red-lines-around-its-economic-model-ahead-eu-us-trade-talks-2026-08-02/",
     "title": "China draws 'red lines' around its economic model ahead of EU, US trade talks",
     "path": "/world/",
@@ -26971,32 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 16:57",
     "pub_ts": 1784883474
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uk-firms-plan-smaller-price-rises-wage-hikes-boe-survey-shows-2026-07-24/",
-    "title": "UK firms plan smaller price rises and wage hikes, BoE survey shows",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:55",
-    "pub_ts": 1784883343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/novo-nordisk-seeks-preliminary-injunction-against-lilly-weight-loss-ads-2026-07-24/",
-    "title": "Novo Nordisk seeks preliminary injunction against Lilly weight-loss ads",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:51",
-    "pub_ts": 1784883116
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/one-killed-two-injured-shooting-incident-west-bank-2026-07-24/",
-    "title": "Four Palestinians and one Israeli killed in West Bank shooting",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:49",
-    "pub_ts": 1784882979
   }
 ]
