@@ -1,6 +1,78 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0802/c461001-40772446.html",
+    "title": "习语|我和你们一起在这里站岗",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-02 22:12",
+    "pub_ts": 1785679961
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772449.html",
+    "title": "住房城乡建设部就防范燃气安全事故约谈相关负责人",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-08-02 22:12",
+    "pub_ts": 1785679961
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0802/c1004-40772437.html",
+    "title": "国家外汇局：将继续稳步扩大外汇领域制度型开放",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-02 22:12",
+    "pub_ts": 1785679961
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/australias-home-price-retreat-gathers-pace-july-cotality-data-shows-2026-08-02/",
+    "title": "Australia's home price retreat gathers pace in July, Cotality data shows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 22:03",
+    "pub_ts": 1785679403
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/italian-led-eu-force-boards-sanctioned-tanker-russias-shadow-fleet-mediterranean-2026-08-02/",
+    "title": "Italian-led EU force boards sanctioned tanker from Russia's 'shadow fleet' in Mediterranean",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 21:53",
+    "pub_ts": 1785678806
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/two-firefighting-helicopters-collide-west-athens-2026-08-02/",
+    "title": "Two firefighting helicopters collide west of Athens",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 21:40",
+    "pub_ts": 1785678041
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-proposes-transmission-charge-relief-delayed-renewable-projects-2026-08-02/",
+    "title": "India proposes transmission charge relief for delayed renewable projects",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-02 20:52",
+    "pub_ts": 1785675132
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/gulf-stocks-rise-iran-de-escalation-hopes-earnings-lift-sentiment-2026-08-02/",
+    "title": "Gulf stocks rise as Iran de-escalation hopes, earnings lift sentiment",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 20:48",
+    "pub_ts": 1785674932
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772431.html",
     "title": "两部门对北京河北、",
     "path": "/society/",
@@ -26926,77 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 16:35",
     "pub_ts": 1784882143
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/canadas-enervoxa-plans-india-rare-earths-project-may-tie-up-with-vedanta-nalco-2026-07-24/",
-    "title": "Canada's Enervoxa plans India rare earths project, may tie up with Vedanta, NALCO",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:34",
-    "pub_ts": 1784882075
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-shriram-finance-posts-about-60-quarterly-profit-rise-loan-growth-wider-2026-07-24/",
-    "title": "India's Shriram Finance posts about 60% quarterly profit rise on loan growth, wider margins",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:26",
-    "pub_ts": 1784881605
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/kfc-india-operator-sapphire-swings-quarterly-profit-discounts-prop-up-demand-2026-07-24/",
-    "title": "KFC India operator Sapphire swings to quarterly profit as discounts prop up demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 16:26",
-    "pub_ts": 1784881561
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/dutch-engineering-firm-arcadis-confirms-takeover-bid-wsp-2026-07-24/",
-    "title": "Dutch engineering firm Arcadis confirms $5 billion bid from WSP",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 16:23",
-    "pub_ts": 1784881398
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-hcltech-sarvam-set-up-148-billion-ai-data-center-odisha-state-2026-07-24/",
-    "title": "India's HCLTech to invest $1.48 bln in AI data center, open 5,000-seat tech hub",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:17",
-    "pub_ts": 1784881039
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/vietnam-proposes-banning-under-16s-posting-social-media-2026-07-24/",
-    "title": "Vietnam proposes banning under-16s from posting on social media",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 16:15",
-    "pub_ts": 1784880926
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/euro-zone-firms-struggle-raise-consumer-prices-after-iran-shock-ecb-poll-shows-2026-07-24/",
-    "title": "Euro zone firms struggle to raise consumer prices after Iran shock, ECB poll shows",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 16:13",
-    "pub_ts": 1784880792
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/ecb-survey-shows-broadly-unchanged-inflation-outlook-2026-07-24/",
-    "title": "ECB survey shows broadly unchanged inflation outlook",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 16:09",
-    "pub_ts": 1784880584
   }
 ]
