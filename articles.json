@@ -1,6 +1,33 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/astrazeneca-holds-talks-with-bristol-myers-squibb-potential-megadeal-ft-reports-2026-08-02/",
+    "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 03:53",
+    "pub_ts": 1785700390
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/france-tightens-oversight-foreign-investment-protect-national-security-2026-08-02/",
+    "title": "France tightens oversight of foreign investment to protect national security",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 03:37",
+    "pub_ts": 1785699478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-lawmaker-kaptur-injured-car-crash-her-office-says-2026-08-02/",
+    "title": "US lawmaker Kaptur injured in car crash, her office says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 03:35",
+    "pub_ts": 1785699343
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/crew-iranian-ship-hit-ukrainian-attack-returns-home-news-agency-says-2026-08-02/",
     "title": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
     "path": "/world/",
@@ -26971,32 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-24 17:07",
     "pub_ts": 1784884020
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gz.people.com.cn/n2/2026/0724/c222152-41648468.html\n",
-    "title": "贵阳：2026年第二届永乐乡永乐桃采摘开园",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-24 17:07",
-    "pub_ts": 1784884020
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/",
-    "title": "As AI grows more powerful, a US-China feud threatens safety efforts",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-24 17:02",
-    "pub_ts": 1784883732
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/indias-adani-energy-solutions-wins-8808-million-project-andhra-pradesh-state-2026-07-24/",
-    "title": "India's Adani Energy Solutions wins $880.8 million project in Andhra Pradesh state",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 17:02",
-    "pub_ts": 1784883730
   }
 ]
