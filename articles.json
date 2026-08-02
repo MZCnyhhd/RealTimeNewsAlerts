@@ -1,5 +1,23 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/china-draws-red-lines-around-its-economic-model-ahead-eu-us-trade-talks-2026-08-02/",
+    "title": "China draws 'red lines' around its economic model ahead of EU, US trade talks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 01:10",
+    "pub_ts": 1785690639
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/suspected-suicide-bombing-police-station-kills-least-14-pakistan-officials-say-2026-08-02/",
+    "title": "Suspected suicide bombing at police station kills at least 14 in Pakistan, officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 00:53",
+    "pub_ts": 1785689611
+  },
+  {
     "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0802/c1016-40772457.html",
     "title": "走近明安图草原“天眼”",
@@ -26980,23 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-24 16:49",
     "pub_ts": 1784882979
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-identifies-large-share-rare-earths-deep-sea-mud-off-remote-island-2026-07-24/",
-    "title": "Japan identifies large share of rare earths in deep-sea mud off remote island",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:49",
-    "pub_ts": 1784882965
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-dr-lal-pathlabs-posts-higher-first-quarter-profit-healthy-demand-tests-2026-07-24/",
-    "title": "India's Dr Lal PathLabs posts higher first-quarter profit on healthy demand for tests",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 16:46",
-    "pub_ts": 1784882793
   }
 ]
