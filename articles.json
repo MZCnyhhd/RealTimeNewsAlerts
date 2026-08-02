@@ -1,6 +1,33 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://nm.people.com.cn/n2/2026/0801/c196689-41656576.html",
+    "title": "2026年世界奶业大会在内蒙古呼和浩特开幕",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-02 08:11",
+    "pub_ts": 1785629517
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-strikes-kill-least-four-gaza-despite-trump-announcing-breakthrough-2026-08-01/",
+    "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-02 07:51",
+    "pub_ts": 1785628304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/capital-one-says-it-closed-trump-organizations-accounts-after-anti-money-2026-08-01/",
+    "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-02 07:23",
+    "pub_ts": 1785626613
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0526/c461530-40727192.html",
     "title": "高质量发展是一场关系发展全局的深刻变革，也是树立和践行正确政绩观的重要要求",
     "path": "/general/",
@@ -26969,33 +26996,6 @@
     "title": "俄罗斯大力推动北极游",
     "path": "/world/",
     "category": "world",
-    "pub_bj": "2026-07-24 12:10",
-    "pub_ts": 1784866237
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://military.people.com.cn/n1/2026/0724/c1011-40767085.html",
-    "title": "空军航空兵某旅组织实弹射击训练",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-24 12:10",
-    "pub_ts": 1784866237
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fj.people.com.cn/n2/2026/0723/c181466-41648067.html\n",
-    "title": "厦门鼓浪屿上听“潮声”：潮人潮歌，踏浪而来",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-24 12:10",
-    "pub_ts": 1784866237
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fj.people.com.cn/n2/2026/0723/c181466-41648067.html",
-    "title": "海上明月共潮生，入耳歌声随风来。22日晚，厦门鼓浪屿港仔后沙滩舞台浪涛和鸣，潮歌不断。当晚，“浪漫世遗 乐动琴岛”第七届鼓浪屿音乐季“潮声踏浪”主题音乐会举行，“新潮”的青年歌手们轮番登台演唱，潮人、潮歌、潮声别开生面。",
-    "path": "/general/",
-    "category": "general",
     "pub_bj": "2026-07-24 12:10",
     "pub_ts": 1784866237
   }
