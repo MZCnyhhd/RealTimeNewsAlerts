@@ -1,5 +1,23 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772431.html",
+    "title": "两部门对北京河北、",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-08-02 20:39",
+    "pub_ts": 1785674394
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0802/c1008-40772433.html",
+    "title": "贵州启动防汛四级应急响应",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-08-02 20:39",
+    "pub_ts": 1785674394
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/environment/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-drought-2026-08-02/",
     "title": "Greece battles wildfires, Hungary shuts nuclear power plant due to drought",
@@ -26980,23 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-24 16:09",
     "pub_ts": 1784880584
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-iran-war-forces-diet-coke-roll-out-bigger-can-heftier-price-tag-2026-07-24/",
-    "title": "In India, Iran war forces Diet Coke to roll out a bigger can, heftier price tag",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-24 15:18",
-    "pub_ts": 1784877537
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/russias-novatek-says-h1-net-profit-edges-down-3-year-on-year-28-billion-2026-07-24/",
-    "title": "Russia's Novatek says H1 net profit edges down 3% year-on-year to $2.8 billion",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-24 15:17",
-    "pub_ts": 1784877463
   }
 ]
