@@ -1,5 +1,149 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/england-wales-record-driest-ever-july-2026-08-03/",
+    "title": "England and Wales record driest-ever July",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:11",
+    "pub_ts": 1785773476
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/michigan-reports-two-deaths-ongoing-cyclosporiasis-outbreak-2026-08-03/",
+    "title": "Michigan reports two deaths in ongoing cyclosporiasis outbreak",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:10",
+    "pub_ts": 1785773459
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/political-law-risks-ma-why-diligence-matters-how-get-it-right--pracin-2026-08-03/",
+    "title": "Political law risks in M&A — Why diligence matters and how to get it right",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:10",
+    "pub_ts": 1785773448
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03/",
+    "title": "US finalizes voluntary AI safety tests, White House official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 00:10",
+    "pub_ts": 1785773423
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/jay-clayton-sworn-us-director-national-intelligence-2026-08-03/",
+    "title": "Jay Clayton sworn in as U.S. director of national intelligence",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 00:09",
+    "pub_ts": 1785773381
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/integrating-lateral-hire-structure-collaboration-matter--pracin-2026-08-03/",
+    "title": "Integrating the lateral hire – structure and collaboration matter",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:09",
+    "pub_ts": 1785773359
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/broadcom-loses-court-bid-suspend-eu-antitrust-request-us-legal-papers-2026-08-03/",
+    "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:01",
+    "pub_ts": 1785772897
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/curium-buy-lantheus-up-8-billion-deal-2026-08-03/",
+    "title": "Curium deepens radiopharma heft with up to $8 billion deal for Lantheus",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 23:59",
+    "pub_ts": 1785772786
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/afdb-approves-35-million-boost-senegals-public-finance-management-2026-08-03/",
+    "title": "AfDB approves $35 million to boost Senegal's public finance management",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 23:52",
+    "pub_ts": 1785772330
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/whole-foods-ban-black-lives-matter-apparel-was-lawful-us-labor-board-rules-2026-08-03/",
+    "title": "Whole Foods ban on Black Lives Matter apparel was lawful, US labor board rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 23:49",
+    "pub_ts": 1785772186
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/britain-says-it-is-open-ai-regulation-if-voluntary-safeguards-fall-short-2026-08-03/",
+    "title": "Britain says it is open to AI regulation if voluntary safeguards fall short",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 23:45",
+    "pub_ts": 1785771947
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/nigerias-nnpc-issues-another-tender-sell-cawthorne-crude-2026-08-03/",
+    "title": "Nigeria's NNPC issues another tender to sell Cawthorne crude",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 22:27",
+    "pub_ts": 1785767264
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/trump-demands-lower-gas-prices-oil-companies-chides-chevron-ceo-2026-08-03/",
+    "title": "Trump demands lower gas prices from oil companies, chides Chevron CEO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 22:26",
+    "pub_ts": 1785767169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/latigo-blossomhill-launch-us-ipos-biotech-listings-rebound-2026-08-03/",
+    "title": "Latigo, BlossomHill launch US IPOs as biotech listings rebound",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 22:25",
+    "pub_ts": 1785767138
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/us-shakes-up-currency-markets-with-talk-unusual-yen-buying-via-selling-euros-2026-08-03/",
+    "title": "US shakes up currency markets with unusual yen-buying via selling euros",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 22:08",
+    "pub_ts": 1785766101
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-manufacturing-activity-jumps-more-than-four-year-high-july-2026-08-03/",
+    "title": "US manufacturing activity jumps to more than four-year high in July",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 22:08",
+    "pub_ts": 1785766093
+  },
+  {
     "source": "People's Daily",
     "url": "http://theory.people.com.cn/n1/2026/0803/c40531-40772889.html",
     "title": "一图学习领会习近平党建思想",
@@ -26852,150 +26996,6 @@
     "title": "以实干实效回应群众期盼",
     "path": "/politics/",
     "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767632.html",
-    "title": "权威发布|夺取全年粮食丰收有较好基础",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767626.html",
-    "title": "上半年营业性演出票房收入同比增长9.41%",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767668.html",
-    "title": "\"留下\"老街,留下些什么",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767665.html",
-    "title": "看防汛减灾\"科技密码\"",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c1001-40767647.html",
-    "title": "王毅出席上海合作组织外长会",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c1001-40767648.html",
-    "title": "王毅会见俄罗斯外长拉夫罗夫",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0725/c1002-40767640.html",
-    "title": "斯洛伐克总统佩列格里尼将对中国进行国事访问",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c1001-40767649.html",
-    "title": "王小洪会见美国联邦调查局局长帕特尔",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c1001-40767656.html",
-    "title": "国务院批复同意将山东省潍坊市列为国家历史文化名城",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767651.html",
-    "title": "国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767663.html",
-    "title": "国家发改委、国家能源局解读《可再生能源发展“十五五”规划》",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767633.html",
-    "title": "政策解读·问答丨离岸信托需缴纳个人所得税",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767650.html",
-    "title": "权威发布丨我国社会稳定形势持续向好",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767622.html",
-    "title": "我国首批9000吨级粮食气膜仓首次装粮压仓",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767634.html",
-    "title": "首条穿越长江高铁隧道贯通",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0725/c1002-40767638.html",
-    "title": "评论丨旅游业是增进欧中民心相通的重要纽带",
-    "path": "/world/",
-    "category": "world",
     "pub_bj": "2026-07-25 07:27",
     "pub_ts": 1784935626
   }
