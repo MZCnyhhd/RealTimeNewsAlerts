@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/onsemi-forecasts-upbeat-revenue-surging-ai-data-center-chip-demand-2026-08-03/",
+    "title": "Onsemi forecasts upbeat revenue on surging AI data center chip demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 05:58",
+    "pub_ts": 1785794314
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/north-korea-says-us-led-cyber-threat-warnings-are-bid-smear-its-image-2026-08-03/",
+    "title": "North Korea says US-led cyber threat warnings are bid to smear its image",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 05:55",
+    "pub_ts": 1785794144
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/cubas-electric-grid-collapses-again-following-sunday-blackout-2026-08-03/",
+    "title": "Cuba's electric grid collapses again following Sunday blackout",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 05:49",
+    "pub_ts": 1785793761
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/former-ukrainian-top-commander-sees-no-prospect-kyiv-joining-nato-2026-08-03/",
+    "title": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 05:49",
+    "pub_ts": 1785793754
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/death-toll-venezuela-june-earthquakes-tops-6000-2026-08-03/",
+    "title": "Death toll from Venezuela June earthquakes tops 6,000",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 05:44",
+    "pub_ts": 1785793466
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/liechtenstein-says-hackers-access-information-31000-legal-entities-2026-08-03/",
+    "title": "Liechtenstein says hackers access information on 31,000 legal entities",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 05:36",
+    "pub_ts": 1785792961
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/us-house-panel-seeks-briefing-openais-ai-agent-security-breach-2026-08-03/",
+    "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-04 05:31",
+    "pub_ts": 1785792668
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/mexicos-largest-meat-exporter-sukarne-explores-sale-sources-say-2026-08-03/",
+    "title": "Mexico's largest meat exporter SuKarne explores sale, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 05:29",
+    "pub_ts": 1785792586
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uk-regulator-says-it-is-monitoring-developments-after-rogue-ai-agent-hacks-2026-08-03/",
+    "title": "UK regulator says it is monitoring developments after rogue AI agent hacks",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 05:21",
+    "pub_ts": 1785792111
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/shale-producer-diamondback-energy-beats-second-quarter-profit-estimates-2026-08-03/",
     "title": "Diamondback Energy beats quarterly profit estimates, raises production forecast",
     "path": "/business/",
@@ -26917,86 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-25 18:05",
     "pub_ts": 1784973944
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/ukrainian-drone-strike-sparks-fire-russias-tyumen-oil-refinery-2026-07-25/",
-    "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 17:59",
-    "pub_ts": 1784973575
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
-    "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 17:42",
-    "pub_ts": 1784972532
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/high-winds-could-make-fighting-spanish-wildfires-harder-officials-say-2026-07-25/",
-    "title": "High winds could make fighting Spanish wildfires harder, officials say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 17:40",
-    "pub_ts": 1784972449
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-education-minister-resigns-after-youth-protests-2026-07-25/",
-    "title": "India's education minister resigns after youth protests",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 17:23",
-    "pub_ts": 1784971384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/attack-holiday-camps-kills-eight-says-governor-russian-held-territory-ukraine-2026-07-25/",
-    "title": "Attack on holiday camps kills eight, says governor of Russian-held territory in Ukraine",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 17:13",
-    "pub_ts": 1784970823
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jx.people.com.cn/n2/2026/0725/c190260-41650006.html",
-    "title": "“景德镇手工瓷业遗存”申遗成功：窑火映文明 瓷韵通古今",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 16:28",
-    "pub_ts": 1784968132
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767850.html",
-    "title": "\"景德镇手工瓷业遗存\"成功列入《世界遗产名录》",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 16:28",
-    "pub_ts": 1784968132
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767854.html",
-    "title": "“景德镇手工瓷业遗存”填补世界遗产“瓷”主题空白",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 16:28",
-    "pub_ts": 1784968132
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767631.html",
-    "title": "读懂“千年瓷都”的世界回响",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 16:28",
-    "pub_ts": 1784968132
   }
 ]
