@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/denmark-targets-august-21-second-security-council-un-chief-poll-2026-08-03/",
+    "title": "Denmark targets August 21 for second Security Council UN chief poll",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 03:55",
+    "pub_ts": 1785786903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/group-25-us-states-challenge-trumps-latest-tariffs-2026-08-03/",
+    "title": "Democratic US states sue to challenge Trump's latest tariffs",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 03:50",
+    "pub_ts": 1785786627
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-administration-sued-over-ban-trans-care-coverage-federal-workers-2026-08-03/",
+    "title": "Trump administration sued over ban on trans care coverage for federal workers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 03:47",
+    "pub_ts": 1785786468
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trump-blasts-jeanine-pirro-says-she-choked-dropping-reflecting-pool-case-2026-08-03/",
+    "title": "Trump blasts Jeanine Pirro, says she 'choked' in dropping reflecting pool case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 03:35",
+    "pub_ts": 1785785737
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/linkedin-asks-judge-bar-top-executives-testimony-lawsuit-it-tried-settle-2026-08-03/",
+    "title": "LinkedIn asks judge to bar top executives' testimony in lawsuit it tried to settle",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 03:24",
+    "pub_ts": 1785785064
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/2C2CAX3TFVM75FWPHEPNQMUW74-2026-08-03/",
+    "title": "Lula não disse que motoboys não nasceram para estudar",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-04 03:18",
+    "pub_ts": 1785784686
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-treasury-raises-third-quarter-borrowing-estimate-739-billion-2026-08-03/",
+    "title": "US Treasury raises third-quarter borrowing estimate to $739 billion",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 03:03",
+    "pub_ts": 1785783835
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/grenada-cancels-production-sharing-contract-with-russian-firm-2026-08-03/",
+    "title": "Grenada cancels production-sharing contract with Russian firm",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 02:57",
+    "pub_ts": 1785783442
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/californias-highest-court-rules-gilead-says-drugmakers-dont-have-duty-innovate-2026-08-03/",
+    "title": "California's highest court rules for Gilead, says drugmakers don't have 'duty to innovate'",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 02:52",
+    "pub_ts": 1785783145
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "path": "/artificial-intelligence/",
+    "category": "artificial intelligence",
+    "pub_bj": "2026-08-04 02:43",
+    "pub_ts": 1785782610
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/fed-lending-officer-survey-finds-stable-standard-many-types-commercial-2026-08-03/",
+    "title": "Fed lending officer survey finds stable standard for many types of commercial, industrial loans",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 02:42",
+    "pub_ts": 1785782546
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/trump-says-talks-with-iran-are-going-right-now-2026-08-03/",
     "title": "Trump says talks with Iran are going on 'right now'",
     "path": "/world/",
@@ -118,6 +217,96 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-undertakes-sweeping-makeover-white-house-washington-2026-08-03/",
+    "title": "Trump undertakes sweeping makeover of the White House and Washington",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 01:05",
+    "pub_ts": 1785776732
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/french-broadcaster-tf1-weighs-sale-production-arm-studio-tf1-sources-say-2026-08-03/",
+    "title": "French broadcaster TF1 weighs sale of production arm Studio TF1, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 00:59",
+    "pub_ts": 1785776373
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/italy-new-car-registrations-rise-39-year-on-year-july-2026-08-03/",
+    "title": "Italy new car registrations rise 3.9% year-on-year in July",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 00:55",
+    "pub_ts": 1785776122
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uk-july-ev-sales-beat-mandate-path-new-automotive-data-shows-2026-08-03/",
+    "title": "UK July EV sales beat mandate path, New Automotive data shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:52",
+    "pub_ts": 1785775929
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-lng-exports-stall-july-despite-higher-lng-prices-2026-08-03/",
+    "title": "US LNG exports stall in July despite higher LNG prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:47",
+    "pub_ts": 1785775648
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/kkr-closes-192-billion-infrastructure-fund-north-america-europe-2026-08-03/",
+    "title": "KKR closes $19.2 billion infrastructure fund for North America, Europe",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:46",
+    "pub_ts": 1785775614
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/india-sell-up-65-stake-lic-via-offer-sale-2026-08-03/",
+    "title": "India to sell up to 6.5% LIC stake in over 300 billion rupee share sale",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:41",
+    "pub_ts": 1785775269
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/freight-rates-russias-urals-rise-sharply-august-higher-security-risks-sources-2026-08-03/",
+    "title": "Freight rates for Russia’s Urals rise sharply in August on higher security risks, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:38",
+    "pub_ts": 1785775081
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/russia-set-increase-exports-western-ports-august-amid-firm-demand-asia-sources-2026-08-03/",
+    "title": "Russia set to increase exports from western ports in August amid firm demand in Asia, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:32",
+    "pub_ts": 1785774734
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/law-firm-jackson-walker-pay-15-million-case-tied-judge-scandal-2026-08-03/",
+    "title": "Law firm Jackson Walker to pay $15 million in case tied to judge scandal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 00:32",
+    "pub_ts": 1785774730
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/tesla-new-car-sales-italy-down-77-year-on-year-july-2026-08-03/",
     "title": "Tesla new car sales in Italy down 77% year-on-year in July",
     "path": "/business/",
@@ -232,6 +421,33 @@
     "category": "business",
     "pub_bj": "2026-08-03 23:45",
     "pub_ts": 1785771947
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jpmorgan-aims-deploy-750-billion-into-housing-through-2035-2026-08-03/",
+    "title": "JPMorgan aims to funnel $750 billion into housing through 2035",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 22:59",
+    "pub_ts": 1785769181
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/cybersecurity-firm-horizon3-crosses-2-billion-valuation-new-funding-round-2026-08-03/",
+    "title": "Cybersecurity firm Horizon3 crosses $2 billion valuation in new funding round",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-03 22:39",
+    "pub_ts": 1785767945
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/markets/us/us-construction-spending-unexpectedly-falls-june-2026-08-03/",
+    "title": "US construction spending unexpectedly falls in June",
+    "path": "/markets/",
+    "category": "markets",
+    "pub_bj": "2026-08-03 22:33",
+    "pub_ts": 1785767613
   },
   {
     "source": "Reuters",
@@ -26782,221 +26998,5 @@
     "category": "finance",
     "pub_bj": "2026-07-25 14:27",
     "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gd.people.com.cn/n2/2026/0725/c123932-41649910.html",
-    "title": "广东将防风应急响应提升至Ⅱ级",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sh.people.com.cn/n2/2026/0725/c134768-41649610.html",
-    "title": "上海：政绩的标尺，刻在群众的衣食住行上",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0725/c227131-41649790.html",
-    "title": "幸福村里的“幸福事”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://hb.people.com.cn/n2/2026/0725/c192237-41649666.html",
-    "title": "从“过境地”到“目的地” “知音湖北”撬动全球大市场",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767737.html",
-    "title": "40℃高温熬不住？这4处清凉地说走就走",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://health.people.com.cn/n1/2026/0725/c14739-40767786.html",
-    "title": "1分钟科普站丨中伏吃喝少节制？山楂丸解决夏日积食难题",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
-    "title": "India's Modi under pressure as youth protest leaders set for more talks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 14:15",
-    "pub_ts": 1784960145
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/kuwaits-kpc-signs-16-billion-lease-leaseback-deal-with-blackstone-kkr-brookfield-2026-07-25/",
-    "title": "Kuwait's KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 14:15",
-    "pub_ts": 1784960144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/guterres-set-be-first-un-chief-visit-syria-since-before-2011-war-2026-07-25/",
-    "title": "Guterres set to be first UN chief to visit Syria since before 2011 war",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 13:25",
-    "pub_ts": 1784957144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/south-koreas-sk-hynix-samsung-elec-sign-950-bln-partnership-with-us-big-tech-2026-07-25/",
-    "title": "South Korea's SK Hynix, Samsung Elec sign $950 bln partnership with US big tech",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 12:38",
-    "pub_ts": 1784954289
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c461001-40767772.html",
-    "title": "万山磅礴看主峰|习近平谈亚太合作",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://hlj.people.com.cn/n2/2026/0725/c220005-41649597.html",
-    "title": "绘说现代化丨现代化大农业 跑出“加速度”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://henan.people.com.cn/n2/2026/0725/c351638-41649818.html",
-    "title": "行进中国 | 红绿融合 桐树庄走出“蝶变路”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0725/c1016-40767785.html",
-    "title": "皇柳高速公路建成通车",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0725/c1016-40767788.html",
-    "title": "江苏宿迁：海外华裔青少年开启文化体验活动",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0725/c1016-40767793.html",
-    "title": "与海鸥的夏日之约",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0725/c1016-40767775.html",
-    "title": "山西吕梁：地肥水美五谷丰",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://theory.people.com.cn/n1/2026/0725/c40531-40767738.html",
-    "title": "以法治力量推动美丽中国建设",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://dangjian.people.com.cn/n1/2026/0725/c117092-40767763.html",
-    "title": "长治打造实训基地 培优基层治理多面手",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fanfu.people.com.cn/n1/2026/0725/c64371-40767769.html",
-    "title": "南昌紧盯关键环节靶向发力 边巡边查",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://renshi.people.com.cn/n1/2026/0725/c139617-40767766.html",
-    "title": "江苏省省管领导干部任职前公示",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://cpc.people.com.cn/n1/2026/0725/c443712-40767754.html",
-    "title": "赵章成与两用迫击炮的故事",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767764.html",
-    "title": "2026年上半年全国纪检监察机关处分41.2万人",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767835.html",
-    "title": "罚没51.79亿元 市场监管总局对携程作出处罚",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
   }
 ]
