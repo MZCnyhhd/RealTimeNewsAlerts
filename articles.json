@@ -1,6 +1,132 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/shale-producer-diamondback-energy-beats-second-quarter-profit-estimates-2026-08-03/",
+    "title": "Diamondback Energy beats quarterly profit estimates, raises production forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:54",
+    "pub_ts": 1785790490
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/morocco-says-spain-should-have-foreseen-migration-impact-court-ruling-2026-08-03/",
+    "title": "Morocco says Spain should have foreseen migration impact of court ruling",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 04:54",
+    "pub_ts": 1785790488
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/williams-buy-momentum-midstream-55-billion-2026-08-03/",
+    "title": "Williams to buy Momentum Midstream for $5.5 billion",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 04:54",
+    "pub_ts": 1785790478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/FCHVUTU3IRIYDH5RD27HY7WHAI-2026-08-03/",
+    "title": "Uso de chips de Taiwan não indica fraude nas urnas eletrônicas",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-04 04:54",
+    "pub_ts": 1785790477
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/palantir-raises-annual-revenue-forecast-strong-demand-us-government-commercial-2026-08-03/",
+    "title": "Palantir lifts annual revenue forecast as data analytics spending booms",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-04 04:54",
+    "pub_ts": 1785790447
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-oil-exports-july-fall-lowest-level-eight-months-data-shows-2026-08-03/",
+    "title": "US oil exports in July fall to lowest level in eight months, data shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:48",
+    "pub_ts": 1785790130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/venezuelas-oil-exports-fell-slightly-july-cargoes-us-rose-2026-08-03/",
+    "title": "Venezuela's oil exports fell slightly in July, cargoes to US rose",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:45",
+    "pub_ts": 1785789944
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/democrats-lead-republicans-economy-trump-approval-falls-reutersipsos-poll-finds-2026-08-03/",
+    "title": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 04:44",
+    "pub_ts": 1785789868
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/clorox-forecasts-upbeat-annual-sales-demand-improves-2026-08-03/",
+    "title": "Clorox forecasts upbeat annual sales as demand improves",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:22",
+    "pub_ts": 1785788530
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/epa-gives-delek-refinery-biofuel-relief-finds-hf-sinclair-petitions-ineligible-2026-08-03/",
+    "title": "EPA gives Delek refinery biofuel relief, finds HF Sinclair petitions ineligible",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:21",
+    "pub_ts": 1785788494
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-wanted-lindsey-graham-tribute-south-carolina-republicans-want-choice-2026-08-03/",
+    "title": "Trump wanted a Lindsey Graham tribute. South Carolina Republicans want a choice",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 04:15",
+    "pub_ts": 1785788157
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/snap-beats-revenue-estimates-ad-boost-world-cup-2026-08-03/",
+    "title": "Snap beats revenue estimates on ad boost from World Cup",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:14",
+    "pub_ts": 1785788052
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/ameresco-books-18-billion-new-awards-power-demand-remains-strong-2026-08-03/",
+    "title": "Ameresco books $1.8 billion in new awards as power demand remains strong",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 04:13",
+    "pub_ts": 1785787983
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/vertex-raises-annual-revenue-forecast-cystic-fibrosis-drugs-strength-2026-08-03/",
+    "title": "Vertex raises annual revenue forecast on cystic fibrosis drugs strength",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 04:06",
+    "pub_ts": 1785787573
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/americas/denmark-targets-august-21-second-security-council-un-chief-poll-2026-08-03/",
     "title": "Denmark targets August 21 for second Security Council UN chief poll",
     "path": "/world/",
@@ -421,6 +547,33 @@
     "category": "business",
     "pub_bj": "2026-08-03 23:45",
     "pub_ts": 1785771947
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-opens-case-against-apple-over-pre-installation-domestic-apps-2026-08-03/",
+    "title": "Russia opens case against Apple over pre-installation of domestic apps",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 23:21",
+    "pub_ts": 1785770483
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/india-raises-windfall-tax-diesel-aviation-fuel-2026-08-03/",
+    "title": "India raises windfall tax on diesel, petrol, jet fuel",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 23:17",
+    "pub_ts": 1785770226
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/beiersdorf-says-middle-east-conflict-disrupts-gulf-sales-deliveries-2026-08-03/",
+    "title": "Beiersdorf says Middle East conflict disrupts Gulf sales, deliveries",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 23:06",
+    "pub_ts": 1785769569
   },
   {
     "source": "Reuters",
@@ -26845,158 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-25 16:28",
     "pub_ts": 1784968132
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/suburbs-around-bordeaux-evacuated-wildfires-rage-2026-07-25/",
-    "title": "Suburbs around Bordeaux evacuated as wildfires rage",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 15:36",
-    "pub_ts": 1784965015
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/southern-china-braces-typhoon-noul-suspends-public-transport-2026-07-25/",
-    "title": "Southern China braces for typhoon Noul, suspends public transport",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 15:35",
-    "pub_ts": 1784964910
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/greek-operated-air-defence-system-shoots-down-missiles-over-saudi-2026-07-25/",
-    "title": "Greek-operated air defence system shoots down missiles over Saudi",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 15:28",
-    "pub_ts": 1784964501
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/italy-defence-minister-offers-ousted-ukraine-counterpart-fedorov-adviser-role-2026-07-25/",
-    "title": "Italy defence minister offers ousted Ukraine counterpart Fedorov adviser role",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 15:25",
-    "pub_ts": 1784964345
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/romania-says-it-shot-down-second-drone-breaching-its-airspace-2026-07-25/",
-    "title": "Romania says it shot down second drone breaching its airspace",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 15:16",
-    "pub_ts": 1784963805
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/output-serbias-biggest-hydropower-plant-falls-third-due-low-danube-levels-2026-07-25/",
-    "title": "Output of Serbia's biggest hydropower plant falls to a third due to low Danube levels",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 14:43",
-    "pub_ts": 1784961824
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/canadian-woman-who-was-nato-intern-arrested-belgium-spying-charge-2026-07-25/",
-    "title": "Canadian woman who was NATO intern arrested in Belgium on spying charge",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 14:30",
-    "pub_ts": 1784961011
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0724/c1004-40767523.html",
-    "title": "财米油盐｜如何让下一代更好拥抱AI？",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0724/c1002-40766849.html",
-    "title": "APEC数字和人工智能部长会议通过成都声明",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sc.people.com.cn/n2/2026/0711/c345167-41635817.html",
-    "title": "APEC“四川时间”碰撞数智“火花”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0715/c1002-40761363.html",
-    "title": "APEC“中国年”下半场同样精彩",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0717/c1002-40762955.html",
-    "title": "世界人工智能大会释放中国人工智能发展新信号",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2025/0925/c461001-40571361.html",
-    "title": "“人工智能+”国际合作倡议",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gz.people.com.cn/n2/2026/0725/c222152-41649611.html",
-    "title": "从山野走向世界 铜仁抹茶的进阶之路",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767771.html",
-    "title": "\"中国制造\"何以驰骋海外?",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0724/c1008-40767582.html",
-    "title": "老街新生 家园蝶变",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767735.html",
-    "title": "夏粮首次突破3000亿斤 我国农业农村经济运行稳中向好",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 14:27",
-    "pub_ts": 1784960839
   }
 ]
