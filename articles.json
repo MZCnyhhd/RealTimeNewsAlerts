@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-talks-with-iran-are-going-right-now-2026-08-03/",
+    "title": "Trump says talks with Iran are going on 'right now'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 02:06",
+    "pub_ts": 1785780369
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-launches-new-legal-challenge-uk-attempt-access-encrypted-user-data-ft-2026-08-03/",
+    "title": "Apple launches new legal challenge to UK attempt to access encrypted user data, FT reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 02:06",
+    "pub_ts": 1785780366
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/chevron-awards-staff-special-bonus-following-earnings-blowout-2026-08-03/",
+    "title": "Chevron awards staff special bonus following earnings blowout",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 02:01",
+    "pub_ts": 1785780103
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/citi-hires-bank-americas-rohan-sen-lead-technology-services-banking-2026-08-03/",
+    "title": "Citi hires Bank of America's Rohan Sen to lead technology services banking",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 02:01",
+    "pub_ts": 1785780083
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/federal-aviation-administration-certifies-boeing-737-max-7-2026-08-03/",
+    "title": "US FAA certifies Boeing 737 MAX 7 in win for planemaker",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 01:58",
+    "pub_ts": 1785779901
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/indias-food-regulator-bars-dabur-selling-products-with-misleading-100-claims-2026-08-03/",
+    "title": "India's food regulator bars Dabur from selling products with misleading '100%' claims",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 01:57",
+    "pub_ts": 1785779826
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/women-lawyers-are-more-stressed-anxious-than-men-study-finds-2026-08-03/",
+    "title": "Women lawyers are more stressed, anxious than men, study finds",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 01:55",
+    "pub_ts": 1785779750
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/californias-highest-court-rules-gilead-duty-innovate-case-2026-08-03/",
+    "title": "California's highest court rules for Gilead in 'duty to innovate' case",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 01:51",
+    "pub_ts": 1785779478
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fresenius-medical-care-beats-quarterly-profit-estimates-sticks-2026-outlook-2026-08-03/",
+    "title": "Fresenius Medical Care beats quarterly profit estimates, sticks to 2026 outlook",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 01:47",
+    "pub_ts": 1785779266
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/states-sue-over-trump-policy-sharing-benefits-data-with-immigration-authorities-2026-08-03/",
+    "title": "States sue over Trump policy of sharing benefits data with immigration authorities",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 01:43",
+    "pub_ts": 1785779032
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/ferragamo-grows-revenue-returns-black-relaunch-strategy-advances-2026-08-03/",
+    "title": "Ferragamo grows revenue and returns to black as relaunch strategy advances",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 01:41",
+    "pub_ts": 1785778870
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-expected-attend-state-department-roundtable-with-mining-ceos-amid-critical-2026-08-03/",
+    "title": "Trump expected to attend event with mining execs amid critical minerals push",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 01:40",
+    "pub_ts": 1785778842
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukraines-ambassador-us-stefanishyna-dismissed-by-presidential-decree-2026-08-03/",
+    "title": "Ukraine’s ambassador to U.S. Stefanishyna dismissed by presidential decree",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 01:11",
+    "pub_ts": 1785777106
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/tesla-new-car-sales-italy-down-77-year-on-year-july-2026-08-03/",
+    "title": "Tesla new car sales in Italy down 77% year-on-year in July",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 00:23",
+    "pub_ts": 1785774224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/lithuanian-police-launch-racism-investigation-after-black-powerlifter-incident-2026-08-03/",
+    "title": "Lithuanian police launch racism investigation after Black powerlifter incident",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 00:21",
+    "pub_ts": 1785774080
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/environment/england-wales-record-driest-ever-july-2026-08-03/",
     "title": "England and Wales record driest-ever July",
     "path": "/business/",
@@ -403,6 +538,69 @@
     "category": "business",
     "pub_bj": "2026-08-03 21:08",
     "pub_ts": 1785762532
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/romanian-carmakers-dacia-ford-stop-production-until-aug-19-power-crisis-looms-pm-2026-08-03/",
+    "title": "Romanian carmakers Dacia, Ford stop production until Aug 19 as power crisis looms-PM",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-03 20:51",
+    "pub_ts": 1785761504
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/american-family-buy-bowhead-specialty-12-billion-deal-2026-08-03/",
+    "title": "American Family to buy remaining stake in specialty insurer Bowhead in $1.2 billion deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 20:46",
+    "pub_ts": 1785761172
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bank-indonesia-wants-more-lending-commercial-banks-acting-governor-says-2026-08-03/",
+    "title": "Bank Indonesia wants more lending from commercial banks, acting governor says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 20:44",
+    "pub_ts": 1785761068
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/uk-man-jailed-claiming-late-mothers-benefits-while-keeping-her-body-freezer-2026-08-03/",
+    "title": "UK man jailed for claiming late mother's benefits while keeping her body in freezer",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-03 20:43",
+    "pub_ts": 1785761025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/reform-uk-proposes-military-led-operation-stop-asylum-seekers-2026-08-03/",
+    "title": "Reform UK proposes military-led operation to stop asylum seekers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 20:37",
+    "pub_ts": 1785760667
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/ukraines-top-negotiator-umerov-head-foreign-intelligence-service-2026-08-03/",
+    "title": "Ukraine's top negotiator Umerov to head foreign intelligence service",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 20:28",
+    "pub_ts": 1785760121
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-central-bank-buy-gold-domestic-producers-2026-08-03/",
+    "title": "South Korea's central bank to buy gold from domestic producers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-03 20:23",
+    "pub_ts": 1785759823
   },
   {
     "source": "Reuters",
@@ -26800,203 +26998,5 @@
     "category": "society",
     "pub_bj": "2026-07-25 12:09",
     "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767849.html",
-    "title": "广东将防风应急响应提升至Ⅱ级",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gd.people.com.cn/n2/2026/0725/c123932-41649768.html",
-    "title": "转移群众超2万人",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767830.html",
-    "title": "云南腾冲：大暑至农事忙",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0725/c1008-40767829.html",
-    "title": "江西新余：机采夏茶助农增收",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://military.people.com.cn/n1/2026/0725/c1011-40767792.html",
-    "title": "陆军某旅组织实弹射击训练",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0725/c1012-40767790.html",
-    "title": "福州：共享纳凉点享清凉",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 12:09",
-    "pub_ts": 1784952594
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/australias-queensland-confirms-h5n1-bird-flu-case-fourth-state-2026-07-25/",
-    "title": "Australia's Queensland confirms H5N1 bird flu case, fourth state",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 11:37",
-    "pub_ts": 1784950635
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/five-people-killed-soil-collapse-northern-china-2026-07-25/",
-    "title": "Five people killed in soil collapse in northern China",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 11:30",
-    "pub_ts": 1784950258
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/trump-says-israeli-pm-netanyahu-will-visit-us-next-week-2026-07-25/",
-    "title": "Trump says Israeli PM Netanyahu will visit US next week",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 11:15",
-    "pub_ts": 1784949300
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/china-fines-tripcom-770-million-over-online-hotel-booking-monopoly-2026-07-25/",
-    "title": "China fines Trip.com $770 million over online hotel-booking monopoly",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-25 11:14",
-    "pub_ts": 1784949249
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/",
-    "title": "South Korea President Lee looking to open new era of AI in with global tech companies",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 08:33",
-    "pub_ts": 1784939623
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/",
-    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 08:26",
-    "pub_ts": 1784939214
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/vitol-paid-out-59-billion-shareholders-2025-filings-show-2026-07-25/",
-    "title": "Vitol paid out $5.9 billion to shareholders in 2025, filings show",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-25 08:13",
-    "pub_ts": 1784938395
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767620.html",
-    "title": "宁夏大力发展现代特色农业",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0714/c192493-41638282.html",
-    "title": "田埂上“跑”出好日子",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0724/c192493-41649041.html",
-    "title": "科技赋能沙漠农业 宁夏银川市探索“治沙增收”新路径",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0721/c192493-41645559.html",
-    "title": "宁夏“六特”产品出口增势良好 外贸助农带动农户增收见效",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0711/c192493-41635939.html",
-    "title": "宁夏银川：塞上乡村“丰”景正好",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767621.html",
-    "title": "年中经济观察|民生保障扎实有力",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c461001-40767624.html",
-    "title": "对口援疆\"接力棒\"完成第十一次传递 硕果累累",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0725/c461529-40767654.html",
-    "title": "从上海告别\"拎马桶\"看正确政绩观",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0725/c461001-40767623.html",
-    "title": "以实干实效回应群众期盼",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-25 07:27",
-    "pub_ts": 1784935626
   }
 ]
