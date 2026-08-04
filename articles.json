@@ -1,6 +1,87 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/bessent-says-he-is-sure-boj-chief-ueda-will-do-what-is-best-nhk-reports-2026-08-04/",
+    "title": "Bessent says he is sure BOJ chief Ueda will 'do what is best', NHK reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 06:32",
+    "pub_ts": 1785882747
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/family-man-who-died-ice-detention-new-jersey-alleges-medical-negligence-custody-2026-08-04/",
+    "title": "Family of man who died in ICE detention in New Jersey alleges medical negligence in custody",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 06:31",
+    "pub_ts": 1785882671
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/mattel-misses-second-quarter-profit-estimates-toy-spends-slow-2026-08-04/",
+    "title": "Mattel misses second-quarter profit estimates as toy spends slow",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 06:26",
+    "pub_ts": 1785882365
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/jacobs-beats-quarterly-profit-estimates-strong-infrastructure-demand-2026-08-04/",
+    "title": "Jacobs beats quarterly profit estimates on strong infrastructure demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 06:22",
+    "pub_ts": 1785882120
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/arista-forecasts-upbeat-quarterly-revenue-ai-driven-networking-demand-2026-08-04/",
+    "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 06:14",
+    "pub_ts": 1785881675
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/when-beat-goes-without-you-can-first-party-cyber-media-insurance-protect-music--pracin-2026-06-03/",
+    "title": "When the beat goes on without you — Can first-party cyber and media insurance protect music artists from AI deepfakes?",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 06:11",
+    "pub_ts": 1785881479
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russian-forces-attack-ukrainian-capital-kyiv-with-ballistic-missiles-mayor-says-2026-08-04/",
+    "title": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, officials say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 06:06",
+    "pub_ts": 1785881173
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/emerson-electric-beats-quarterly-estimates-robust-automation-demand-2026-08-04/",
+    "title": "Emerson Electric beats quarterly estimates on robust automation demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:51",
+    "pub_ts": 1785880309
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-advisers-tell-ai-firms-they-will-not-safety-test-open-weight-models-2026-08-04/",
+    "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:50",
+    "pub_ts": 1785880202
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/media-telecom/view-spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-2026-08-04/",
     "title": "VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
     "path": "/business/",
@@ -26917,86 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-27 19:36",
     "pub_ts": 1785152214
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/french-police-arrest-man-after-knife-attack-paris-2026-07-27/",
-    "title": "French police arrest man after knife attack in Paris",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:36",
-    "pub_ts": 1785152211
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/swiss-court-imposes-37-mln-fine-lombard-odier-money-laundering-case-2026-07-27/",
-    "title": "Swiss court imposes $3.7 mln fine on Lombard Odier in money laundering case",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:36",
-    "pub_ts": 1785152208
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/poland-may-act-lower-fuel-prices-again-pm-says-2026-07-27/",
-    "title": "Poland may act to lower fuel prices again, PM says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 19:35",
-    "pub_ts": 1785152145
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "title": "Building the enterprise environment for agentic AI",
-    "path": "/artificial-intelligence/",
-    "category": "artificial intelligence",
-    "pub_bj": "2026-07-27 19:32",
-    "pub_ts": 1785151978
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/firefighters-battle-keep-blazes-away-frances-bordeaux-2026-07-27/",
-    "title": "Wildfires threaten Bordeaux as Spain battles more blazes",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 19:25",
-    "pub_ts": 1785151524
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/coca-cola-says-fairlife-resumes-production-4-us-plants-2026-07-27/",
-    "title": "Coca-Cola says fairlife resumes production at 4 US plants after cyberattack",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 19:25",
-    "pub_ts": 1785151500
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/bahrain-loses-bid-block-dissidents-spyware-lawsuit-uk-2026-07-27/",
-    "title": "Bahrain loses bid to block dissidents' spyware lawsuit in UK",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:21",
-    "pub_ts": 1785151271
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/malaysia-pm-orders-action-against-rohingya-muslims-gathered-front-un-refugee-2026-07-27/",
-    "title": "Malaysia PM orders action against Rohingya Muslims gathered in front of UN refugee agency",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:20",
-    "pub_ts": 1785151248
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/brazils-lula-holds-lead-over-bolsonaro-btgnexus-election-poll-2026-07-27/",
-    "title": "Brazil's Lula holds lead over Bolsonaro in BTG/Nexus election poll",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:19",
-    "pub_ts": 1785151185
   }
 ]
