@@ -1,6 +1,159 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/lucid-plans-save-14-billion-2026-cost-cuts-losses-mount-2026-08-04/",
+    "title": "Lucid plans to save $1.4 billion in 2026 from cost cuts as losses mount",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:11",
+    "pub_ts": 1785874309
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-surges-debut-results-strong-growth-its-starlink-2026-08-04/",
+    "title": "SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:10",
+    "pub_ts": 1785874202
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/paramount-skydance-reports-mixed-second-quarter-results-2026-08-04/",
+    "title": "Paramount Skydance reports mixed second-quarter results",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:09",
+    "pub_ts": 1785874184
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/pinterest-expects-slower-quarterly-revenue-growth-ad-competition-heats-up-2026-08-04/",
+    "title": "Pinterest expects slower quarterly revenue growth as ad competition heats up",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:08",
+    "pub_ts": 1785874136
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/amgen-second-quarter-sales-rise-9-profit-tops-street-view-2026-08-04/",
+    "title": "Amgen second-quarter sales rise 9%, profit tops Street view",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:07",
+    "pub_ts": 1785874026
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/gilead-second-quarter-sales-rise-8-beating-wall-street-estimates-2026-08-04/",
+    "title": "Gilead second-quarter sales rise 8%, beating Wall Street estimates",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:05",
+    "pub_ts": 1785873943
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-sets-march-2027-trial-paramount-warner-bros-deal-2026-08-04/",
+    "title": "Judge sets March 2027 trial on Paramount-Warner Bros deal",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 04:03",
+    "pub_ts": 1785873821
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/lumen-beats-revenue-estimates-strong-digital-networking-demand-2026-08-04/",
+    "title": "Lumen beats revenue estimates on strong digital networking demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:03",
+    "pub_ts": 1785873802
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cdc-expands-largest-known-cyclospora-outbreak-15-states-washington-post-reports-2026-08-04/",
+    "title": "CDC expands largest known cyclosporiasis outbreak to 15 states, Washington Post reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 03:57",
+    "pub_ts": 1785873442
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
+    "title": "Amazon loses US court ban on Perplexity's AI shopping tools",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 03:56",
+    "pub_ts": 1785873374
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/nigerias-tinubu-approves-military-pay-rise-security-challenges-persist-2026-08-04/",
+    "title": "Nigeria's Tinubu approves military pay rise as security challenges persist",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 03:49",
+    "pub_ts": 1785872994
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-launches-next-generation-ai-memory-technology-2026-08-04/",
+    "title": "Samsung Electronics launches next-generation AI memory technology",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 03:42",
+    "pub_ts": 1785872574
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/7OUUMW66N5PQDJFR7AQC54JYCY-2026-08-04/",
+    "title": "Vídeo em que suposto deputado ensina a roubar é sátira",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-05 03:39",
+    "pub_ts": 1785872343
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/southern-california-edison-equipment-blamed-2025-eaton-fire-la-local-media-says-2026-08-04/",
+    "title": "Southern California Edison equipment blamed for 2025 Eaton fire in LA, local media says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 03:33",
+    "pub_ts": 1785872023
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/american-bar-association-rejects-plan-scrap-dei-rule-law-schools-2026-08-04/",
+    "title": "American Bar Association rejects plan to scrap DEI rule for law schools",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 03:29",
+    "pub_ts": 1785871784
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/openai-pays-32-million-us-probe-over-hiring-foreign-workers-2026-08-04/",
+    "title": "OpenAI pays $3.2 million in US probe over hiring foreign workers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 03:24",
+    "pub_ts": 1785871450
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-milky-mist-cuts-ipo-size-163-million-launch-next-week-2026-08-04/",
+    "title": "India's Milky Mist cuts IPO size to $163 million, launch next week",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 03:24",
+    "pub_ts": 1785871449
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/us-jury-says-medtronic-owes-88-million-first-case-go-trial-over-covidiens-hernia-2026-08-04/",
     "title": "US jury says Medtronic owes $88 million in first case to go to trial over Covidien's hernia mesh",
     "path": "/world/",
@@ -133,6 +286,42 @@
     "category": "business",
     "pub_bj": "2026-08-05 01:49",
     "pub_ts": 1785865785
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/britains-princess-eugenie-gives-birth-third-child-2026-08-04/",
+    "title": "Britain's Princess Eugenie gives birth to third child",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 01:43",
+    "pub_ts": 1785865399
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/putin-lifts-recent-deposit-restrictions-foreign-nationals-firms-russia-based-2026-08-04/",
+    "title": "Putin lifts recent deposit restrictions from foreign nationals, firms' Russia-based branches",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 01:29",
+    "pub_ts": 1785864583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/oracle-corp-goes-high-stakes-ratings-gamble-ai-strategy-2026-08-04/",
+    "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 01:23",
+    "pub_ts": 1785864212
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/ai-data-centre-race-builds-1-trillion-lease-burden-big-tech-2026-08-04/",
+    "title": "AI data-centre race builds $1 trillion lease burden for Big Tech",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 01:22",
+    "pub_ts": 1785864142
   },
   {
     "source": "Reuters",
@@ -295,6 +484,15 @@
     "category": "business",
     "pub_bj": "2026-08-05 00:00",
     "pub_ts": 1785859200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/inmates-stage-mass-escape-western-libya-amid-armed-clashes-2026-08-04/",
+    "title": "Inmates stage mass escape in western Libya amid armed clashes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 23:48",
+    "pub_ts": 1785858497
   },
   {
     "source": "People's Daily",
@@ -26800,203 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-27 17:41",
     "pub_ts": 1785145304
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/kremlin-says-it-has-seen-nothing-tangible-any-new-ukraine-peace-proposals-2026-07-27/",
-    "title": "Kremlin says it has seen nothing tangible on any new Ukraine peace proposals",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:39",
-    "pub_ts": 1785145187
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/indias-engineering-exports-rise-21-june-china-shipments-jump-74-2026-07-27/",
-    "title": "India's engineering exports rise 21% in June as China shipments jump 74%",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:26",
-    "pub_ts": 1785144369
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/earthquake-magnitude-55-strikes-antofagasta-chile-emsc-says-2026-07-27/",
-    "title": "Earthquake of magnitude 5.5 strikes Antofagasta, Chile, EMSC says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 17:10",
-    "pub_ts": 1785143459
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/second-suspect-berlin-pride-attack-released-prosecutors-say-2026-07-27/",
-    "title": "Second suspect in Berlin pride attack released, prosecutors say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:05",
-    "pub_ts": 1785143144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/fact-check/hebrew/UWSRRZUILFK5XF665OUTXBTN2E-2026-07-27/",
-    "title": "סרטון מציג מהומות לאחר  משחק של פריז סן ז'רמן, ולא במהלך גביע העולם",
-    "path": "/fact-check/",
-    "category": "fact-check",
-    "pub_bj": "2026-07-27 17:05",
-    "pub_ts": 1785143113
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/italy-prepares-new-measures-tackle-spiking-fuel-prices-amid-fiscal-concerns-2026-07-27/",
-    "title": "Italy prepares new measures to tackle spiking fuel prices amid fiscal concerns",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 17:02",
-    "pub_ts": 1785142959
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/russian-attacks-kill-one-damage-vessels-ukraines-mykolaiv-region-official-says-2026-07-27/",
-    "title": "Russian attacks kill one, damage vessels in Ukraine's Mykolaiv region, official says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:01",
-    "pub_ts": 1785142897
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/indias-mrpl-seeks-crude-via-tender-avoiding-red-sea-hormuz-document-shows-2026-07-27/",
-    "title": "India's MRPL seeks crude via tender avoiding Red Sea and Hormuz, document shows",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 16:59",
-    "pub_ts": 1785142783
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-suspends-policeman-firing-ak-47-student-protesters-2026-07-27/",
-    "title": "India suspends policeman for firing AK-47 at student protesters",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 16:53",
-    "pub_ts": 1785142417
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0727/c428181-40768354.html",
-    "title": "6000亩节水灌溉项目何以“纸面惠民”？",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0727/c1003-40768768.html",
-    "title": "人民锐评：6000亩节水灌溉工程为何“水土不服”？",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fanfu.people.com.cn/n1/2026/0606/c64371-40735055.html",
-    "title": "监督护航高标准农田建设",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fanfu.people.com.cn/n1/2026/0526/c64371-40727308.html",
-    "title": "疏通高标准农田管护堵点",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://theory.people.com.cn/n1/2026/0717/c40531-40762488.html",
-    "title": "持续筑牢粮食安全防线",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0727/c227131-41651165.html",
-    "title": "\"合肥造\",奔赴山海",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0727/c436867-40768649.html",
-    "title": "\"车企远程锁车\",是为了你好还是越俎代庖?",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ln.people.com.cn/n2/2026/0727/c378317-41651136.html",
-    "title": "纪念抗美援朝战争胜利73周年祭英烈活动在沈阳举办",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0727/c14540-41650801.html",
-    "title": "拒绝无效防晒！9个问答读懂科学防晒",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0727/c1001-40768891.html",
-    "title": "王毅将出席全球发展倡议5周年高级别会议",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0727/c1002-40768870.html",
-    "title": "斯洛伐克总统佩列格里尼抵达北京开始访华",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0727/c1002-40768887.html",
-    "title": "外交部：越方对中方第一时间救援越遇险船只表示感谢",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0727/c461001-40768809.html",
-    "title": "网信部门严管“自媒体”未规范标注信息来源行为",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-27 16:16",
-    "pub_ts": 1785140209
   }
 ]
