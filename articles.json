@@ -1,5 +1,122 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/seventeen-migrants-believed-dead-trying-reach-spains-balearic-islands-2026-08-04/",
+    "title": "Seventeen migrants believed dead trying to reach Spain's Balearic Islands",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 01:11",
+    "pub_ts": 1785863489
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/",
+    "title": "US weighs polysilicon price floor, tariffs to counter China in solar and chips",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 01:10",
+    "pub_ts": 1785863418
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-facilitated-israel-lebanon-talks-have-begun-says-state-department-2026-08-04/",
+    "title": "US-facilitated Israel-Lebanon talks have begun, says State Department",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 01:10",
+    "pub_ts": 1785863404
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/embraer-wins-colombian-order-two-kc-390-transport-aircraft-2026-08-04/",
+    "title": "Embraer wins Colombian order for two KC-390 transport aircraft",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 01:09",
+    "pub_ts": 1785863384
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/unions-file-strike-notice-easyjet-france-cabin-crew-2026-08-04/",
+    "title": "Unions file strike notice for easyJet France cabin crew",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 01:07",
+    "pub_ts": 1785863239
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/novo-nordisks-q2-profit-beats-forecasts-raises-outlook-2026-08-04/",
+    "title": "Novo Nordisk's Q2 profit beats forecasts, raises outlook",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 01:01",
+    "pub_ts": 1785862910
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/anthropic-names-global-affairs-chief-tackle-ai-policy-trump-tensions-persist-2026-08-04/",
+    "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 00:57",
+    "pub_ts": 1785862621
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/cyclosporiasis-cases-michigan-climb-11508-ongoing-outbreak-2026-08-04/",
+    "title": "Cyclosporiasis cases in Michigan climb to 11,508 in ongoing outbreak",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 00:56",
+    "pub_ts": 1785862560
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/payments-firm-fis-shares-slide-after-outlook-cut-2026-08-04/",
+    "title": "Payments firm FIS shares slide after outlook cut",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 00:55",
+    "pub_ts": 1785862544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/pg-is-acquiring-supplements-maker-thorne-ceo-jejurikar-tells-cnbc-2026-08-04/",
+    "title": "P&G is acquiring supplements maker Thorne for $3.8 billion, CEO Jejurikar tells CNBC",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 00:44",
+    "pub_ts": 1785861894
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/cape-town-airport-runway-closed-after-planes-tyres-fail-passengers-safe-2026-08-04/",
+    "title": "Cape Town airport runway closed after plane's tyres fail, passengers safe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 00:36",
+    "pub_ts": 1785861408
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/faa-proposes-giving-airlines-flexibility-flight-emergency-medical-kits-2026-08-04/",
+    "title": "FAA proposes giving airlines flexibility on flight emergency medical kits",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 00:35",
+    "pub_ts": 1785861344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say-2026-08-04/",
+    "title": "Lockheed seeks U.S. mineral supplies after Trump supply-chain push, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 00:28",
+    "pub_ts": 1785860923
+  },
+  {
     "source": "People's Daily",
     "url": "http://sx.people.com.cn/n2/2026/0804/c189132-41658579.html",
     "title": "当挖掘机换上“绿色心脏”",
@@ -109,6 +226,15 @@
   },
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-pnb-housing-posts-45-rise-quarterly-profit-strong-credit-demand-2026-08-04/",
+    "title": "India's PNB Housing posts profit rise on credit demand; margins slip",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 23:36",
+    "pub_ts": 1785857807
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/transactional/bofa-usaa-agree-cross-license-ai-banking-patents-2026-08-04/",
     "title": "BofA, USAA agree to cross-license AI, banking patents",
     "path": "/legal/",
@@ -214,6 +340,15 @@
     "category": "business",
     "pub_bj": "2026-08-04 23:02",
     "pub_ts": 1785855759
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/nrg-energy-misses-quarterly-profit-estimates-interest-costs-rise-2026-08-04/",
+    "title": "NRG Energy misses quarterly profit estimates as interest costs rise",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 23:01",
+    "pub_ts": 1785855660
   },
   {
     "source": "Reuters",
@@ -26863,140 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-27 15:15",
     "pub_ts": 1785136520
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/australia-singapore-sign-energy-security-pact-amid-supply-disruptions-2026-07-27/",
-    "title": "Australia and Singapore sign energy security pact amid supply disruptions",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 15:13",
-    "pub_ts": 1785136433
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/egypt-restructure-military-linked-future-egypt-economic-body-2026-07-27/",
-    "title": "Egypt to restructure military-linked 'Future of Egypt' economic body",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 15:12",
-    "pub_ts": 1785136329
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-african-rand-trims-recent-losses-2026-07-27/",
-    "title": "South African rand trims recent losses",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 15:05",
-    "pub_ts": 1785135943
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazenecas-rare-disease-drug-misses-main-goal-late-stage-trial-2026-07-27/",
-    "title": "AstraZeneca's rare disease drug misses main goal in late-stage trial",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 15:03",
-    "pub_ts": 1785135824
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/south-korea-court-gives-ex-president-yoon-suspended-jail-term-violating-election-2026-07-27/",
-    "title": "South Korea court gives ex-President Yoon suspended jail term for violating election law",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 14:56",
-    "pub_ts": 1785135397
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/emerging-markets-stare-inflation-risks-powerful-el-nio-looms-2026-07-27/",
-    "title": "Emerging markets stare at inflation risks as powerful El Niño looms",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 14:45",
-    "pub_ts": 1785134746
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/what-is-cxmt-how-did-it-become-chinas-dram-champion-2026-07-27/",
-    "title": "What is CXMT and how did it become China's DRAM champion?",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 14:28",
-    "pub_ts": 1785133720
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/fashion-stumbles-jewellery-will-help-shape-luxurys-winners-2026-07-27/",
-    "title": "As fashion stumbles, jewellery will help shape luxury's winners",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 14:07",
-    "pub_ts": 1785132479
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/rbi-hold-rates-through-2026-growth-risks-outweigh-inflation-2026-07-27/",
-    "title": "RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 13:47",
-    "pub_ts": 1785131271
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/argenx-buy-forte-biosciences-about-22-billion-2026-07-27/",
-    "title": "Argenx to buy Forte Biosciences for about $2.2 billion",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-27 13:15",
-    "pub_ts": 1785129354
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/fortescue-chair-calls-fair-negotiations-with-china-2026-07-27/",
-    "title": "Fortescue chair calls for fair negotiations with China",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 13:14",
-    "pub_ts": 1785129271
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/swiss-lawmakers-eye-ubs-rules-balancing-stability-competition-concerns-2026-07-27/",
-    "title": "Swiss lawmakers eye UBS rules balancing stability and competition concerns",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-27 13:02",
-    "pub_ts": 1785128529
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0727/c1024-40768759.html",
-    "title": "习近平同巴西总统卢拉通电话",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-27 12:50",
-    "pub_ts": 1785127842
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0727/c436867-40768627.html",
-    "title": "菲尔兹奖双响的冷思考",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-27 12:50",
-    "pub_ts": 1785127842
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0727/c1004-40768769.html",
-    "title": "上半年全国规模以上工业企业利润增长18.7%",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-27 12:50",
-    "pub_ts": 1785127842
   }
 ]
