@@ -1,6 +1,249 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://nx.people.com.cn/n2/2026/0804/c192493-41658427.html",
+    "title": "一杯奶的城乡共富路",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-04 14:13",
+    "pub_ts": 1785824023
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/bps-second-quarter-profit-more-than-doubles-year-ago-2026-08-04/",
+    "title": "BP's second-quarter profit more than doubles from a year ago",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:09",
+    "pub_ts": 1785823797
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uks-segro-agrees-prologis-up-192-billion-bid-2026-08-04/",
+    "title": "UK's Segro agrees to Prologis' up to $19.2 billion bid",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:09",
+    "pub_ts": 1785823775
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/bayer-posts-unexpected-19-gain-q2-adjusted-ebitda-2026-08-04/",
+    "title": "Bayer posts unexpected 1.9% gain in Q2 adjusted profit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:09",
+    "pub_ts": 1785823767
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/lufthansa-sets-2026-profit-outlook-range-after-q2-ebit-hit-by-fuel-costs-2026-08-04/",
+    "title": "Lufthansa sets annual profit outlook range as fuel cost surge clouds forecast",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:08",
+    "pub_ts": 1785823720
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/aramco-posts-44-increase-net-profit-2026-08-04/",
+    "title": "Aramco posts 44% rise in net profit as Iran war drives up oil prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:05",
+    "pub_ts": 1785823509
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/japan-us-likely-intervene-again-if-yen-resumes-slide-ex-boj-official-says-2026-08-04/",
+    "title": "Japan, US likely to intervene again if yen resumes slide, ex-BOJ official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 14:01",
+    "pub_ts": 1785823317
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/hpcl-buys-wafrica-crude-rajasthan-refinery-sources-say-2026-08-04/",
+    "title": "HPCL buys W.Africa crude for Rajasthan refinery, sources say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 14:01",
+    "pub_ts": 1785823305
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/austrias-ams-osram-flags-milestone-ar-smart-glasses-chips-q2-revenue-rises-2026-08-04/",
+    "title": "Austria's ams OSRAM flags milestone on AR smart-glasses chips as Q2 revenue rises",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:59",
+    "pub_ts": 1785823187
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/",
+    "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 13:58",
+    "pub_ts": 1785823130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/shein-seeks-30-40-billion-valuation-august-hong-kong-ipo-sources-say-2026-08-04/",
+    "title": "Shein seeks $30-$40 billion valuation for August Hong Kong IPO, sources say",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 13:58",
+    "pub_ts": 1785823094
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/south-korea-vows-soothe-stock-market-volatility-etf-boom-slows-2026-08-04/",
+    "title": "South Korea vows to soothe stock market volatility as ETF boom slows",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:57",
+    "pub_ts": 1785823079
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/toyota-profit-drops-fifth-straight-quarter-china-slump-iran-war-impact-2026-08-04/",
+    "title": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:56",
+    "pub_ts": 1785823014
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/continental-beats-q2-operating-profit-view-strong-tyre-demand-2026-08-04/",
+    "title": "Continental beats Q2 operating profit view on resilient tyre demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:55",
+    "pub_ts": 1785822949
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/europes-wildfire-season-exposes-climate-insurance-gap-2026-08-04/",
+    "title": "Europe's wildfire season exposes climate insurance gap",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 13:55",
+    "pub_ts": 1785822945
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/rio-tinto-signals-no-rush-revive-glencore-deal-standstill-ends-2026-08-04/",
+    "title": "Rio Tinto signals no rush to revive Glencore deal as standstill ends",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-04 13:54",
+    "pub_ts": 1785822889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/indias-new-stock-closing-auction-leaves-traders-nervous-before-derivatives-2026-08-04/",
+    "title": "India's new stock closing auction leaves traders nervous before derivatives expiry",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:52",
+    "pub_ts": 1785822729
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/zalando-expects-2026-growth-lower-end-range-narrows-profit-outlook-2026-08-04/",
+    "title": "Zalando expects 2026 growth at lower end of range, narrows profit outlook",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:51",
+    "pub_ts": 1785822713
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/hugo-boss-posts-q2-operating-profit-beat-2026-08-04/",
+    "title": "Hugo Boss operating profit falls but tops analyst estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:51",
+    "pub_ts": 1785822691
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/resilient-earnings-soothe-indias-oil-shock-2026-08-04/",
+    "title": "Resilient earnings soothe India's oil shock",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:49",
+    "pub_ts": 1785822546
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/sustainable-fund-launches-stutter-amid-industry-caution-2026-08-04/",
+    "title": "Sustainable fund launches stutter amid industry caution",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:48",
+    "pub_ts": 1785822506
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/hsbcs-first-half-profit-jumps-23-2026-08-04/",
+    "title": "HSBC sets $1 billion buyback after profit beat on boost from rates and wealth",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:47",
+    "pub_ts": 1785822471
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/bhp-faces-weekend-strike-port-hedland-iron-ore-hub-wage-talks-drag-2026-08-04/",
+    "title": "BHP faces weekend strike at Port Hedland iron ore hub as wage talks drag",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:42",
+    "pub_ts": 1785822133
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/three-crew-injured-cargo-ship-hit-by-drone-attack-near-russias-novorossiysk-2026-08-04/",
+    "title": "Three crew injured as cargo ship hit by drone attack near Russia's Novorossiysk",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:42",
+    "pub_ts": 1785822129
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/india-pharma-sector-miss-2030-sales-target-amid-tariff-shipping-woes-trade-body-2026-08-04/",
+    "title": "India pharma sector to miss 2030 sales target amid tariff and shipping woes, trade body says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 13:34",
+    "pub_ts": 1785821641
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/indonesia-launch-stimulus-boost-electric-vehicle-sales-minister-says-2026-08-04/",
+    "title": "Indonesia to launch stimulus to boost electric vehicle sales, minister says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:28",
+    "pub_ts": 1785821304
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/status-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04/",
+    "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 13:27",
+    "pub_ts": 1785821272
+  },
+  {
+    "source": "People's Daily",
     "url": "http://politics.people.com.cn/n1/2026/0701/c461001-40751166.html",
     "title": "为中国人民谋幸福 为中华民族谋复兴",
     "path": "/politics/",
@@ -26755,248 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-26 11:51",
     "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0726/c1016-40768102.html",
-    "title": "北京：暑假乐游科技馆",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0726/c1016-40768109.html",
-    "title": "江苏南京：人防工程纳凉点向公众开放",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://pic.people.com.cn/n1/2026/0726/c1016-40768106.html",
-    "title": "广西蒙山：晾晒香云纱",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://theory.people.com.cn/n1/2026/0726/c40531-40767996.html",
-    "title": "完善增值评价体系 激发人才创新活力",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://dangjian.people.com.cn/n1/2026/0726/c117092-40768012.html",
-    "title": "党的政治建设是党的根本性建设",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fanfu.people.com.cn/n1/2026/0726/c64371-40767991.html",
-    "title": "拧紧责任链条防止返贫致贫",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fanfu.people.com.cn/n1/2026/0726/c64371-40767995.html",
-    "title": "持之以恒净化高校政治生态",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://cpc.people.com.cn/n1/2026/0726/c443712-40768002.html",
-    "title": "李庄在抗战时期的文化坚守",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768105.html",
-    "title": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0725/c1004-40767889.html",
-    "title": "“新新三样”又来了！",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0726/c14540-41650335.html",
-    "title": "北京集中发布180个重点融资项目 覆盖科创基建民生三大领域",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://js.people.com.cn/n2/2026/0726/c360301-41650191.html",
-    "title": "江苏连云港高新区企业“出海”忙",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0726/c1012-40768047.html",
-    "title": "中国羽毛球公开赛：中国队提前锁定混双冠军",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768092.html",
-    "title": "与海鸥的夏日之约",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40768093.html",
-    "title": "江苏南京：港口作业忙",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0726/c1002-40768068.html",
-    "title": "“景德镇手工瓷业遗存”申遗成功",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0726/c1002-40768069.html",
-    "title": "叙利亚两辆巴士相撞致35人死亡",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://military.people.com.cn/n1/2026/0726/c1011-40768074.html",
-    "title": "海军某支队组织舰艇协同训练",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0726/c1012-40768005.html",
-    "title": "“武夷山国家公园”主题观光列车首发",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-26 11:51",
-    "pub_ts": 1785037915
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/rescuers-scour-south-china-sea-23-missing-after-vietnamese-vessel-sinks-2026-07-26/",
-    "title": "Rescuers scour South China Sea for 23 missing after Vietnamese vessel sinks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 11:48",
-    "pub_ts": 1785037728
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/southern-china-drenched-typhoon-noul-makes-landfall-2026-07-26/",
-    "title": "Southern China drenched as Typhoon Noul makes landfall",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-26 11:12",
-    "pub_ts": 1785035559
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/marvel-unveils-ghost-rider-black-panther-3-comic-con-2026-07-26/",
-    "title": "Marvel unveils 'Ghost Rider,' 'Black Panther 3' at Comic-Con",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-26 10:39",
-    "pub_ts": 1785033547
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/major-vehicle-ramming-incidents-germany-since-2016-2026-07-26/",
-    "title": "Major vehicle-ramming incidents in Germany since 2016",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 09:48",
-    "pub_ts": 1785030522
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/police-identify-islamist-suspect-berlin-pride-attack-seeking-his-arrest-2026-07-26/",
-    "title": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 09:37",
-    "pub_ts": 1785029851
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/australia-raise-concerns-over-new-tariffs-with-trump-pm-albanese-says-2026-07-26/",
-    "title": "Australia to raise concerns over new tariffs with Trump, PM Albanese says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-26 09:30",
-    "pub_ts": 1785029400
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0726/c1008-40767952.html",
-    "title": "台风\"红霞\"登陆 强度减弱",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-26 08:10",
-    "pub_ts": 1785024609
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/apple-tv-teases-matchbox-neuromancer-mayday-comic-con-2026-07-25/",
-    "title": "Apple TV teases ‘Matchbox,’ ‘Neuromancer,’ ‘Mayday’ at Comic-Con",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-26 07:49",
-    "pub_ts": 1785023383
   }
 ]
