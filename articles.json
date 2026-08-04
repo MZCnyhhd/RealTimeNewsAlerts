@@ -1,6 +1,186 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/view-spacexs-first-quarterly-results-public-company-beat-expectations-ai-costs-2026-08-04/",
+    "title": "VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:25",
+    "pub_ts": 1785878719
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/suncor-energy-beats-second-quarter-profit-estimates-2026-08-04/",
+    "title": "Suncor Energy beats second-quarter profit estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:24",
+    "pub_ts": 1785878647
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/kim-yo-jong-criticises-japans-tomahawk-missile-test-kcna-reports-2026-08-04/",
+    "title": "Kim Yo Jong criticises Japan's Tomahawk missile test, KCNA reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 05:23",
+    "pub_ts": 1785878588
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/sysco-has-stopped-buying-iceberg-lettuce-taylor-farms-mexico-amid-us-2026-08-04/",
+    "title": "Sysco has stopped buying iceberg lettuce from Taylor Farms and Mexico amid US cyclosporiasis outbreak, CEO says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:15",
+    "pub_ts": 1785878145
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-shale-producer-eog-resources-beats-second-quarter-profit-estimates-2026-08-04/",
+    "title": "US shale producer EOG Resources beats quarterly profit estimates on higher crude prices",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:11",
+    "pub_ts": 1785877864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/texas-governor-orders-pause-new-data-center-approvals-pending-audit-2026-08-04/",
+    "title": "Texas governor orders pause on new data center approvals pending audit",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:10",
+    "pub_ts": 1785877807
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/embattled-us-representative-max-miller-requests-ethics-probe-abuse-claims-2026-08-04/",
+    "title": "Embattled US Representative Max Miller requests ethics probe of abuse claims against him",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 05:09",
+    "pub_ts": 1785877765
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-judge-grants-justice-department-bid-dismiss-oath-keepers-prosecutions-2026-08-04/",
+    "title": "US judge grants DOJ bid to dismiss Jan. 6 cases against Oath Keepers",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 05:08",
+    "pub_ts": 1785877689
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/us-shale-producer-devon-energy-tops-second-quarter-profit-estimates-2026-08-04/",
+    "title": "Devon Energy posts highest quarterly profit since 2022 on higher prices, output",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 05:07",
+    "pub_ts": 1785877636
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/wynn-resorts-beats-quarterly-estimates-macau-strength-announces-uae-casino-2026-08-04/",
+    "title": "Wynn Resorts beats quarterly estimates on Macau strength, announces UAE casino opening date",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 05:01",
+    "pub_ts": 1785877303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/online-travel-firm-booking-holdings-quarterly-profit-rises-2026-08-04/",
+    "title": "Booking Holdings beats quarterly profit estimates but warns of Middle East pressures",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:58",
+    "pub_ts": 1785877109
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/new-mexico-creates-bar-exam-alternative-lawyers-2026-08-04/",
+    "title": "New Mexico creates bar exam alternative for lawyers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:57",
+    "pub_ts": 1785877039
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-revokes-visa-brazilian-ambassador-over-diplomatic-dispute-official-says-2026-08-04/",
+    "title": "US revokes visa of Brazilian ambassador over diplomatic dispute, official says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 04:57",
+    "pub_ts": 1785877025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/amd-forecasts-upbeat-revenue-ai-data-center-demand-beats-quarterly-estimates-2026-08-04/",
+    "title": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:56",
+    "pub_ts": 1785877015
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/mcdonalds-names-company-veteran-new-us-head-after-sales-miss-2026-08-04/",
+    "title": "McDonald's names company veteran as new US head after sales miss",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:53",
+    "pub_ts": 1785876823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senator-wyden-urges-regulators-probe-wall-street-banks-over-epstein-accounts-2026-08-04/",
+    "title": "US Senator Wyden urges regulators to probe Wall Street banks over Epstein accounts",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:53",
+    "pub_ts": 1785876786
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/prudential-financials-quarterly-profit-rises-gains-pgim-individual-life-units-2026-08-04/",
+    "title": "Prudential Financial's quarterly profit rises on gains in PGIM, individual life units",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:52",
+    "pub_ts": 1785876743
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/matchs-weak-quarterly-revenue-forecast-clouds-improving-trends-tinder-2026-08-04/",
+    "title": "Match's weak quarterly revenue forecast clouds improving trends at Tinder",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 04:51",
+    "pub_ts": 1785876703
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-energy-secretary-wright-says-fuel-prices-should-come-down-coming-weeks-2026-08-04/",
+    "title": "US Energy Secretary Wright says fuel prices should come down in coming weeks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 04:49",
+    "pub_ts": 1785876577
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/C3OY4G6JAFOPHD7R3IV26CJZ6A-2026-08-04/",
+    "title": "Toyota nega que fechou fábrica por causa do governo; produção foi transferida",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-05 04:34",
+    "pub_ts": 1785875650
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/autos-transportation/lucid-plans-save-14-billion-2026-cost-cuts-losses-mount-2026-08-04/",
     "title": "Lucid plans to save $1.4 billion in 2026 from cost cuts as losses mount",
     "path": "/business/",
@@ -151,6 +331,15 @@
     "category": "world",
     "pub_bj": "2026-08-05 03:24",
     "pub_ts": 1785871449
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexicos-central-bank-likely-hold-key-interest-rate-this-week-2026-08-04/",
+    "title": "Mexico's central bank likely to hold key interest rate this week: Reuters poll",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 02:54",
+    "pub_ts": 1785869699
   },
   {
     "source": "Reuters",
@@ -484,6 +673,24 @@
     "category": "business",
     "pub_bj": "2026-08-05 00:00",
     "pub_ts": 1785859200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/south-african-court-orders-reinstatement-state-asset-managers-ceo-2026-08-04/",
+    "title": "South African court orders reinstatement of state asset manager's CEO",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-04 23:57",
+    "pub_ts": 1785859035
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/italy-puts-all-major-cities-highest-alert-heatwave-intensifies-2026-08-04/",
+    "title": "Italy puts all major cities on highest alert as heatwave intensifies",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-04 23:56",
+    "pub_ts": 1785858960
   },
   {
     "source": "Reuters",
@@ -26791,212 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-27 19:19",
     "pub_ts": 1785151185
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-says-it-still-controls-strait-not-seeking-talks-after-trump-halts-bombing-2026-07-27/",
-    "title": "Iran says it still controls strait, not seeking talks, after Trump halts bombing",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:19",
-    "pub_ts": 1785151152
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/chinas-innocares-psoriasis-drug-meets-main-goal-late-stage-trial-2026-07-27/",
-    "title": "China's Innocare says psoriasis oral drug shows 'consistent treatment effect' in late-stage trial",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 19:17",
-    "pub_ts": 1785151056
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/customer-data-indias-bank-baroda-leaked-online-source-researcher-say-2026-07-27/",
-    "title": "Customer data from India's Bank of Baroda leaked online, source and researcher say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 19:14",
-    "pub_ts": 1785150898
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27/",
-    "title": "HSBC to hire 100 AI specialists, 100 wealth managers in boost to Singapore hub",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-27 19:14",
-    "pub_ts": 1785150848
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/expand-energy-acquire-twin-eagle-125-billion-deal-2026-07-27/",
-    "title": "Natural gas producer Expand Energy to acquire Twin Eagle for $1.25 billion",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-27 19:13",
-    "pub_ts": 1785150803
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/pakistans-cenbank-holds-key-policy-rate-115-2026-07-27/",
-    "title": "Pakistan's cenbank holds key policy rate at 11.5%",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:12",
-    "pub_ts": 1785150778
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/ukrainian-drones-kill-two-russias-rostov-on-don-target-taganrog-governor-says-2026-07-27/",
-    "title": "Ukrainian drones kill five in Russia's Rostov-on-Don, target Taganrog, governor says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:11",
-    "pub_ts": 1785150697
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/chinas-june-net-gold-imports-via-hong-kong-up-year-ago-down-may-2026-07-27/",
-    "title": "China's June net gold imports via Hong Kong up from year ago, down from May",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:05",
-    "pub_ts": 1785150343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/imf-chief-visits-argentina-2027-debt-hurdle-looms-2026-07-27/",
-    "title": "IMF chief visits Argentina as 2027 debt hurdle looms",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 19:03",
-    "pub_ts": 1785150223
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-07-27/",
-    "title": "Ukraine's attacks on Russian energy sites — what has been hit?",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 18:59",
-    "pub_ts": 1785149984
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-puts-anti-graft-campaign-centre-address-congress-2026-07-27/",
-    "title": "Philippines' Marcos puts anti-graft campaign at centre of address to Congress",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 18:59",
-    "pub_ts": 1785149984
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/kazakhstans-daily-oil-output-halves-after-exporting-terminal-closure-source-says-2026-07-27/",
-    "title": "Kazakhstan's daily oil output halves after export terminal closure, source says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 18:59",
-    "pub_ts": 1785149943
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/why-el-nios-promise-quieter-hurricane-season-may-not-guarantee-good-news-2026-07-27/",
-    "title": "Why El Niño's promise of a quieter hurricane season may not guarantee good news for insurers",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-27 18:58",
-    "pub_ts": 1785149919
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-firm-energy-drink-crackdown-despite-pepsi-red-bull-monster-protest-2026-07-27/",
-    "title": "India firm on 'energy drink' crackdown despite Pepsi, Red Bull, Monster protest",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 18:56",
-    "pub_ts": 1785149784
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/indonesia-seeks-resolve-mineral-export-bottlenecks-caused-by-rare-earth-content-2026-07-27/",
-    "title": "Indonesia seeks to resolve mineral export bottlenecks caused by rare earth content",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 18:56",
-    "pub_ts": 1785149769
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/guan-chong-forecasts-increased-grindings-2026-2026-07-27/",
-    "title": "Guan Chong forecasts increased grindings in 2026",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 18:55",
-    "pub_ts": 1785149745
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-hdfc-bank-finds-employees-conduct-deposit-pricing-matter-was-business-2026-07-27/",
-    "title": "India's HDFC Bank finds employees' conduct in deposit pricing matter was business overreach, not misconduct",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 18:53",
-    "pub_ts": 1785149598
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/singapore-detains-3-youths-under-security-law-1-planned-attack-teachers-2026-07-27/",
-    "title": "Singapore detains 3 youths under security law, 1 planned to attack teachers, schoolmates",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 18:11",
-    "pub_ts": 1785147078
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/clean-energy-platform-pcg-global-secures-capital-expansion-2026-07-27/",
-    "title": "Clean energy platform PCG Global secures capital for expansion",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 18:10",
-    "pub_ts": 1785147029
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/currencies/global-markets-technicals-2026-07-27/",
-    "title": "Mapping the Market: British pound coils for potential breakout",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-27 18:05",
-    "pub_ts": 1785146723
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-africas-vodacom-lifts-medium-term-targets-after-safaricom-deal-2026-07-27/",
-    "title": "South Africa's Vodacom lifts medium-term targets after Safaricom deal",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:58",
-    "pub_ts": 1785146305
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/london-stocks-advance-us-iran-pause-lifts-risk-appetite-earnings-add-gains-2026-07-27/",
-    "title": "London stocks advance as US-Iran pause lifts risk appetite; earnings add to gains",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-27 17:44",
-    "pub_ts": 1785145481
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/north-koreas-kim-jong-un-marks-war-anniversary-with-daughter-by-his-side-2026-07-27/",
-    "title": "North Korea's Kim Jong Un marks war anniversary with daughter by his side",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-27 17:41",
-    "pub_ts": 1785145304
   }
 ]
