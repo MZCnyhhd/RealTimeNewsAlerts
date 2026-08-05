@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/bikemaker-accell-starts-insolvency-proceedings-four-years-after-kkr-led-buyout-2026-08-05/",
+    "title": "Bikemaker Accell starts insolvency proceedings four years after KKR-led buyout",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 05:30",
+    "pub_ts": 1785965437
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/meta-launches-new-ai-coding-tool-powered-by-muse-spark-12-2026-08-05/",
+    "title": "Meta launches new AI coding tool powered by Muse Spark 1.2",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 05:30",
+    "pub_ts": 1785965409
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-nuclear-power-plants-defeat-employees-wage-suppression-lawsuit-2026-08-05/",
+    "title": "US nuclear power plants defeat employees' wage suppression lawsuit",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 05:26",
+    "pub_ts": 1785965169
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/sandisk-forecasts-upbeat-quarterly-revenue-ai-driven-demand-2026-08-05/",
+    "title": "Sandisk forecasts upbeat quarterly revenue on AI-driven demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:17",
+    "pub_ts": 1785964637
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/blackout-hits-most-ex-soviet-georgia-news-reports-say-2026-08-05/",
+    "title": "Blackout hits most of ex-Soviet Georgia, news reports say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:17",
+    "pub_ts": 1785964632
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mexico-investigating-tourist-hub-cyclospora-after-uk-alert-2026-08-05/",
+    "title": "Mexico investigating tourist hub for cyclospora after UK alert",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:13",
+    "pub_ts": 1785964411
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/entry-level-hiring-large-us-law-firms-declined-first-time-decade-data-shows-2026-08-05/",
+    "title": "Entry-level hiring at large US law firms declined for the first time in a decade, data shows",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 05:11",
+    "pub_ts": 1785964299
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/republicans-seize-michigan-progressives-wins-party-is-split-socialism-message-2026-08-05/",
+    "title": "Republicans seize on Michigan progressives' wins, but party is split on socialism message",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 05:10",
+    "pub_ts": 1785964210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/chime-lifts-2026-revenue-forecast-robust-demand-cfo-step-down-2026-08-05/",
+    "title": "Chime lifts 2026 revenue forecast on robust demand, CFO to step down",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:09",
+    "pub_ts": 1785964160
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/Y5UM2YSAARPU3K6D4SMJEEFEEU-2026-08-05/",
+    "title": "Video muestra incendio tras victoria del PSG en la Champions League, no es del Mundial",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-06 05:05",
+    "pub_ts": 1785963938
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/western-digital-forecasts-upbeat-revenue-shares-fall-lofty-expectations-2026-08-05/",
+    "title": "Western Digital forecasts upbeat revenue but shares fall on lofty expectations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:59",
+    "pub_ts": 1785963563
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-securities-regulator-launches-new-accounting-enforcement-team-2026-08-05/",
+    "title": "US securities regulator launches new accounting enforcement team",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 04:57",
+    "pub_ts": 1785963435
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/shale-producer-apa-beats-second-quarter-profit-estimates-2026-08-05/",
+    "title": "Shale producer APA beats second-quarter profit estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:52",
+    "pub_ts": 1785963179
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/mckesson-raises-annual-profit-forecast-strong-growth-specialty-drug-business-2026-08-05/",
+    "title": "McKesson raises annual profit forecast on strong growth in specialty drug business",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 04:44",
+    "pub_ts": 1785962694
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/shale-producer-occidental-petroleum-beats-quarterly-profit-estimates-2026-08-05/",
+    "title": "Occidental quarterly profit soars to highest since 2022 on oil rally",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:43",
+    "pub_ts": 1785962600
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/feds-cook-says-ready-raise-rates-if-inflation-doesnt-start-easing-2026-08-05/",
     "title": "Fed's Cook says ready to raise rates if inflation doesn't start easing",
     "path": "/business/",
@@ -26863,140 +26998,5 @@
     "category": "general",
     "pub_bj": "2026-07-28 19:32",
     "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0728/c1008-40769707.html",
-    "title": "重庆市政协原党组成员、副主席段成刚受贿案一审宣判",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/dte-energy-tops-quarterly-profit-estimates-energy-trading-unit-shines-2026-07-28/",
-    "title": "DTE Energy tops quarterly profit estimates as energy trading unit shines",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:27",
-    "pub_ts": 1785238064
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/polands-tusk-calls-end-hate-crimes-against-ukrainians-2026-07-28/",
-    "title": "Poland's Tusk calls for end to hate crimes against Ukrainians",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:25",
-    "pub_ts": 1785237955
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-june-industrial-output-grows-73-yy-manufacturing-boost-2026-07-28/",
-    "title": "India's June industrial output grows 7.3% y/y on manufacturing boost",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:24",
-    "pub_ts": 1785237870
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/thousands-children-sponsors-arrested-by-ice-after-tips-us-child-migrant-agency-2026-07-28/",
-    "title": "Thousands of children, sponsors arrested by ICE after tips from US child migrant agency",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-28 19:23",
-    "pub_ts": 1785237825
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/mercedes-reports-q2-profit-boost-flags-china-woes-car-sales-2026-07-28/",
-    "title": "Cost cuts help Mercedes stabilise profit but China woes loom",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:22",
-    "pub_ts": 1785237749
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/malaysia-foreign-minister-calls-review-un-refugee-agencys-presence-state-media-2026-07-28/",
-    "title": "Malaysia foreign minister calls for review of UN refugee agency's presence, state media reports",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:22",
-    "pub_ts": 1785237729
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/core-scientific-signs-ai-infrastructure-deal-with-amd-2026-07-28/",
-    "title": "Core Scientific signs AI infrastructure deal with AMD",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:21",
-    "pub_ts": 1785237677
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-beats-second-quarter-profit-estimates-launches-252-billion-cost-savings-2026-07-28/",
-    "title": "GSK launches $2.5 billion savings drive to boost drug pipeline",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:21",
-    "pub_ts": 1785237666
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/wall-street-brokerages-pencil-fed-rate-cuts-mid2026-2026-07-28/",
-    "title": "Most brokerages see Fed on hold, but hawkish view grows",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:19",
-    "pub_ts": 1785237540
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/betmgm-sees-results-near-lower-end-2026-forecasts-2026-07-28/",
-    "title": "BetMGM sees results near lower end of 2026 forecasts",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:18",
-    "pub_ts": 1785237512
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/altimmunes-drug-meets-main-goal-mid-stage-study-alcohol-use-disorder-2026-07-28/",
-    "title": "Altimmune's drug meets main goal of mid-stage study for alcohol use disorder",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:17",
-    "pub_ts": 1785237476
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/jetblue-airways-posts-bigger-second-quarter-loss-fuel-costs-surge-2026-07-28/",
-    "title": "JetBlue Airways posts bigger second-quarter loss as fuel costs surge",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:16",
-    "pub_ts": 1785237405
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/singapore-airlines-posts-first-quarterly-loss-since-pandemic-air-india-losses-2026-07-28/",
-    "title": "Singapore Airlines posts first quarterly loss since 2022",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:16",
-    "pub_ts": 1785237388
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/hf-sinclair-beats-quarterly-profit-estimates-2026-07-28/",
-    "title": "HF Sinclair beats quarterly profit estimates, plans to separate lubricants unit",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:15",
-    "pub_ts": 1785237343
   }
 ]
