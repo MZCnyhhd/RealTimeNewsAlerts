@@ -1,6 +1,177 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0805/c1016-40774584.html",
+    "title": "从数据采集到应用场景，在上海感受具身智能发展活力",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-06 01:01",
+    "pub_ts": 1785949303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/french-men-get-suspended-jail-sentences-over-livestreamed-death-2026-08-05/",
+    "title": "French men get suspended jail sentences over livestreamed death",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:56",
+    "pub_ts": 1785948983
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
+    "title": "Google shakes up AI leadership as DeepMind chief shifts role",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:55",
+    "pub_ts": 1785948903
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/novo-nordisk-wins-dutch-court-injunction-semaglutide-patent-infringement-case-2026-08-05/",
+    "title": "Novo Nordisk wins Dutch court injunction in semaglutide patent infringement case",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 00:53",
+    "pub_ts": 1785948798
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/major-wall-street-hedge-funds-targeted-attempted-cyberattacks-bloomberg-news-2026-08-05/",
+    "title": "Major Wall Street hedge funds targeted in attempted cyberattacks, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 00:51",
+    "pub_ts": 1785948660
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/kansas-voters-say-no-electing-state-supreme-court-justices-2026-08-05/",
+    "title": "Kansas voters say no to electing state supreme court justices",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 00:50",
+    "pub_ts": 1785948641
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-removes-sanctions-three-irgc-linked-entities-treasury-website-shows-2026-08-05/",
+    "title": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:45",
+    "pub_ts": 1785948300
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/activist-investor-starboard-takes-new-position-shake-shack-bloomberg-news-2026-08-05/",
+    "title": "Activist investor Starboard takes new position in Shake Shack, Bloomberg News reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:43",
+    "pub_ts": 1785948224
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/two-regional-fed-banks-launch-pilot-survey-private-credit-market-2026-08-05/",
+    "title": "Two regional Fed banks to launch pilot survey of private credit market",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:40",
+    "pub_ts": 1785948014
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/italys-banco-bpm-posts-strong-quarter-firms-up-outlook-after-ending-mps-merger-2026-08-05/",
+    "title": "Italy's Banco BPM posts strong quarter, firms up outlook after ending MPS merger talks",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 00:37",
+    "pub_ts": 1785947864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/mexican-influencer-cesar-gastelum-shot-death-during-livestream-2026-08-05/",
+    "title": "Mexican influencer Cesar Gastelum shot to death during livestream",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:35",
+    "pub_ts": 1785947744
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-stock-market-could-ride-earnings-strength-more-gains-after-sp-500-hits-record-2026-08-05/",
+    "title": "US stock market could ride earnings strength to more gains after S&P 500 hits record",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:35",
+    "pub_ts": 1785947724
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-private-payrolls-increase-moderately-july-adp-says-2026-08-05/",
+    "title": "US services activity stays strong in July, input costs rise",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:31",
+    "pub_ts": 1785947475
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/spacex-attracts-retail-buyers-after-post-earnings-share-slide-2026-08-05/",
+    "title": "SpaceX attracts retail buyers after post-earnings share slide",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:31",
+    "pub_ts": 1785947461
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-presses-with-ukraine-patriot-missile-talks-sources-say-despite-trumps-doubts-2026-08-05/",
+    "title": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:29",
+    "pub_ts": 1785947385
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-oman-reach-understanding-coordinates-route-through-hormuz-iran-ministry-2026-08-05/",
+    "title": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:29",
+    "pub_ts": 1785947360
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/faa-says-marine-one-was-briefly-too-close-passenger-airplane-2026-08-05/",
+    "title": "FAA says Marine One was briefly too close to passenger airplane",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:27",
+    "pub_ts": 1785947265
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/phillips-66-plans-refineries-run-mid-90-range-capacity-q3-2026-08-05/",
+    "title": "Phillips 66 plans refineries to run in mid-90% range of capacity in Q3",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 00:25",
+    "pub_ts": 1785947141
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/progressive-el-sayed-wins-michigan-primary-jolt-democrats-us-media-project-2026-08-05/",
+    "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:24",
+    "pub_ts": 1785947040
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0805/c223228-40774554.html",
     "title": "壹时评:煤电发电量占比首次低于50%意义非凡",
     "path": "/general/",
@@ -234,6 +405,15 @@
     "pub_ts": 1785937030
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/steris-invest-600-million-new-north-carolina-chemicals-manufacturing-hub-2026-08-05/",
+    "title": "Steris to invest $600 million in new North Carolina chemicals manufacturing hub",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 21:28",
+    "pub_ts": 1785936505
+  },
+  {
     "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0702/c1004-40752419.html",
     "title": "《限制快递过度包装要求》强制性国家标准实施",
@@ -286,6 +466,15 @@
     "category": "finance",
     "pub_bj": "2026-08-05 21:15",
     "pub_ts": 1785935745
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/iran-state-oil-companys-bank-accounts-frozen-over-debt-fars-news-agency-reports-2026-08-05/",
+    "title": "Iran state oil company's bank accounts frozen over debt, Fars news agency reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 21:12",
+    "pub_ts": 1785935567
   },
   {
     "source": "Reuters",
@@ -26809,194 +26998,5 @@
     "category": "society",
     "pub_bj": "2026-07-28 17:25",
     "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0728/c192493-41652040.html\n",
-    "title": "不收门票，却卖出5000万，这家酒庄有“引流”密码",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://nx.people.com.cn/n2/2026/0728/c192493-41652040.html",
-    "title": "这个暑期，位于宁夏贺兰山东麓的志辉源石酒庄迎来客流高峰。这个酒庄，20多年前还是一片废弃的砂石矿坑。经过生态修复，酒庄在矿坑上建起地下酒窖，建成生态林8000多亩，将荒滩变为绿洲，并跻身国家4A级旅游景区。从葡萄园到发酵车间，从恒温酒窖到品酒大厅，游客免费参观，全程沉浸式体验一杯葡萄酒的诞生。数据显示，酒庄大部分零售额在品酒大厅完成，去年共接待游客超过50万人次，现场销售额达5000余万元。",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0728/c14540-41652178.html\n",
-    "title": "北京经开区发布“人工智能+”行动路线图",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://hlj.people.com.cn/n2/2026/0728/c220005-41652342.html\n",
-    "title": "哈尔滨推出三类乡村避暑旅游产品",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://zj.people.com.cn/n2/2026/0728/c228592-41651784.html\n",
-    "title": "60名来自阿克苏和杭州的学子走进革命红船起航地",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0728/c227131-41652301.html\n",
-    "title": "安徽：用地用林联动审批提速超40%",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fj.people.com.cn/n2/2026/0728/c181466-41651962.html\n",
-    "title": "第13届厦金海峡横渡活动举行",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uks-burnham-outlines-youth-training-overhaul-ai-reshapes-jobs-market-2026-07-28/",
-    "title": "UK's Burnham outlines youth training overhaul as AI reshapes jobs market",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:22",
-    "pub_ts": 1785230533
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/rbis-3-day-intervention-push-signals-lower-tolerance-rupee-weakness-bankers-say-2026-07-28/",
-    "title": "RBI's 3-day intervention push signals lower tolerance for rupee weakness, bankers say",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:21",
-    "pub_ts": 1785230503
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/magnitude-71-earthquake-hits-japans-kyushu-region-jma-says-2026-07-28/",
-    "title": "Major quake in southern Japan knocks out power, disrupts transport",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:21",
-    "pub_ts": 1785230468
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/",
-    "title": "China starts production of home-grown immersion DUV chipmaking tools - source",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:19",
-    "pub_ts": 1785230374
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "path": "/artificial-intelligence/",
-    "category": "artificial intelligence",
-    "pub_bj": "2026-07-28 17:18",
-    "pub_ts": 1785230337
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ugandas-health-minister-declares-country-free-ebola-2026-07-28/",
-    "title": "Uganda's health minister declares country free of Ebola",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:15",
-    "pub_ts": 1785230156
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-varun-beverages-posts-higher-quarterly-profit-healthy-volumes-2026-07-28/",
-    "title": "India's Varun Beverages misses quarterly profit view as competition bites",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:14",
-    "pub_ts": 1785230097
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/white-phosphorus-leak-inside-us-air-base-south-korea-seoul-says-2026-07-28/",
-    "title": "White Phosphorus 'leak' inside US air base in South Korea, Seoul says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:13",
-    "pub_ts": 1785230026
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/iran-executes-two-men-over-charges-related-january-protests-2026-07-28/",
-    "title": "Iran executes two men over charges related to January protests",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:11",
-    "pub_ts": 1785229907
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/europe/european-shares-subdued-earnings-boost-counters-tech-slide-2026-07-28/",
-    "title": "European shares inch up as earnings boost counters banks, tech slide",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-28 17:10",
-    "pub_ts": 1785229859
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/malaysian-police-raid-online-scam-centres-johor-arrest-335-people-including-309-2026-07-28/",
-    "title": "Malaysian police raid online scam centres in Johor and arrest 335 people, including 309 Chinese nationals",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-28 17:09",
-    "pub_ts": 1785229767
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-ambuja-cements-first-quarter-profit-falls-higher-costs-2026-07-28/",
-    "title": "India's Ambuja Cements posts 37% profit fall as weak volumes, higher costs weigh",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:06",
-    "pub_ts": 1785229560
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/israels-yellow-line-shifting-edge-war-pushing-gazans-home-2026-07-28/",
-    "title": "Israel's yellow line, a shifting edge of war pushing Gazans from home",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:04",
-    "pub_ts": 1785229454
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/italy-use-eu-safe-scheme-fund-defence-spending-foreign-minister-says-2026-07-28/",
-    "title": "Italy to use EU SAFE scheme to fund defence spending, foreign minister says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:02",
-    "pub_ts": 1785229329
   }
 ]
