@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-cook-says-ready-raise-rates-if-inflation-doesnt-start-easing-2026-08-05/",
+    "title": "Fed's Cook says ready to raise rates if inflation doesn't start easing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:07",
+    "pub_ts": 1785960438
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/duolingos-lower-than-expected-revenue-forecast-overshadows-quarterly-beat-2026-08-05/",
+    "title": "Duolingo's lower-than-expected revenue forecast overshadows quarterly beat",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 04:07",
+    "pub_ts": 1785960421
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/expedia-raises-annual-forecast-resilient-domestic-travel-demand-2026-08-05/",
+    "title": "Expedia raises annual forecast on resilient domestic travel demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:04",
+    "pub_ts": 1785960272
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/trump-administration-impose-15-tariff-polysilicon-sources-say-2026-08-05/",
+    "title": "Trump administration to impose 15% tariff on polysilicon, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 03:56",
+    "pub_ts": 1785959791
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/jpmorgan-chase-hires-lissauer-activism-defense-2026-08-05/",
+    "title": "JPMorgan Chase hires Lissauer for activism defense",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 03:45",
+    "pub_ts": 1785959149
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
+    "title": "Iran threatens to hit Gulf states if US launches new strikes",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 03:44",
+    "pub_ts": 1785959068
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-halts-avocado-export-inspections-mexicos-michoacan-over-security-alert-2026-08-05/",
+    "title": "US halts avocado export inspections in Mexico's Michoacan over security alert",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 03:43",
+    "pub_ts": 1785959023
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/wagner-moura-greta-lee-fight-survival-new-thriller-the-last-house-2026-08-05/",
+    "title": "Wagner Moura and Greta Lee fight for survival in new thriller 'The Last House'",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 03:35",
+    "pub_ts": 1785958544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-senate-confirms-schwartz-cdc-director-2026-08-05/",
+    "title": "US Senate confirms Schwartz as CDC director",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 03:25",
+    "pub_ts": 1785957947
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/going-rogue-draws-critics-amid-widening-ai-hacks-2026-08-05/",
+    "title": "'Going rogue' draws critics amid widening AI hacks",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 03:00",
+    "pub_ts": 1785956400
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/canada-invest-c27-billion-build-rental-housing-toronto-2026-08-05/",
+    "title": "Canada to invest C$2.7 billion to build rental housing in Toronto",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 02:41",
+    "pub_ts": 1785955303
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
     "title": "Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
     "path": "/world/",
@@ -79,6 +178,87 @@
     "category": "legal",
     "pub_bj": "2026-08-06 01:55",
     "pub_ts": 1785952543
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/new-mexico-sues-us-government-access-epstein-files-2026-08-05/",
+    "title": "New Mexico sues US government for access to Epstein files",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 01:38",
+    "pub_ts": 1785951530
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uks-bodycote-gets-possible-cash-offers-cvc-veritas-2026-08-05/",
+    "title": "UK's Bodycote gets $2 billion rival approaches from CVC, Veritas Capital",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 01:35",
+    "pub_ts": 1785951303
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/suncor-not-ready-speed-output-growth-ceo-says-despite-governments-pro-oil-stance-2026-08-05/",
+    "title": "Suncor not ready to speed output growth, CEO says, despite government's pro-oil stance",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 01:34",
+    "pub_ts": 1785951269
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/blanche-confirmation-trump-attorney-general-work-progress-after-defection-2026-08-05/",
+    "title": "Blanche confirmation for Trump attorney general a 'work in progress' after defection",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 01:34",
+    "pub_ts": 1785951263
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/deal-reopen-hormuz-2026-08-05/",
+    "title": "Deal to reopen Hormuz?",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 01:30",
+    "pub_ts": 1785951000
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-says-he-spoke-nato-head-rutte-about-securing-interceptors-2026-08-05/",
+    "title": "Ukraine's Zelenskiy says he spoke to NATO head Rutte about securing interceptors",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 01:15",
+    "pub_ts": 1785950130
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/magnitude-55-earthquake-strikes-halmahera-indonesia-gfz-says-2026-08-05/",
+    "title": "Magnitude 5.5 earthquake strikes  Halmahera, Indonesia, GFZ says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 01:10",
+    "pub_ts": 1785949859
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/us-upstream-oil-gas-second-quarter-dealmaking-dives-volatility-2026-08-05/",
+    "title": "US upstream oil and gas second-quarter dealmaking dives on volatility",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 01:06",
+    "pub_ts": 1785949569
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/dangote-has-strong-intent-south-africa-listing-after-nigeria-ipo-jse-2026-08-05/",
+    "title": "Dangote has 'strong intent' for South Africa listing after Nigeria IPO - JSE",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 01:03",
+    "pub_ts": 1785949424
   },
   {
     "source": "People's Daily",
@@ -277,6 +457,15 @@
     "category": "business",
     "pub_bj": "2026-08-05 23:59",
     "pub_ts": 1785945574
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-jails-lithuanian-citizen-13-12-years-espionage-2026-08-05/",
+    "title": "Russia jails Lithuanian citizen for 13-1/2 years for espionage",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 23:34",
+    "pub_ts": 1785944056
   },
   {
     "source": "People's Daily",
@@ -26809,194 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-28 19:15",
     "pub_ts": 1785237343
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/paypal-presses-with-turnaround-pivotal-quarter-sale-questions-linger-2026-07-28/",
-    "title": "PayPal presses on with turnaround in pivotal quarter as sale questions linger",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:12",
-    "pub_ts": 1785237166
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/gulf-states-back-plan-let-iran-collect-voluntary-fees-use-hormuz-2026-07-28/",
-    "title": "Gulf states back plan to let Iran collect voluntary fees to use Hormuz",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:12",
-    "pub_ts": 1785237134
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/coca-cola-lifts-annual-forecasts-strong-demand-sodas-2026-07-28/",
-    "title": "Coca-Cola lifts annual forecasts on sodas demand after FIFA World Cup powers sales",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:08",
-    "pub_ts": 1785236937
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-court-orders-winding-up-paytm-payments-bank-after-rbi-licence-cancellation-2026-07-28/",
-    "title": "India court orders winding up of Paytm Payments Bank after RBI licence cancellation",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:08",
-    "pub_ts": 1785236919
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/sterling-slips-oil-slides-us-rate-hike-bets-grow-2026-07-28/",
-    "title": "Sterling slips as oil slides, US rate hike bets grow",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:08",
-    "pub_ts": 1785236880
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-hansohs-cancer-drug-meets-main-goal-bone-cancer-trial-2026-07-28/",
-    "title": "GSK, Hansoh's bone cancer drug meets main goal in late-stage trial",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:07",
-    "pub_ts": 1785236868
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/europe/global-markets-technicals-graphic-2026-07-28/",
-    "title": "Mapping the Market: Aussie dollar eyes recovery against Swiss franc",
-    "path": "/markets/",
-    "category": "markets",
-    "pub_bj": "2026-07-28 19:07",
-    "pub_ts": 1785236839
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/india-bars-sugar-dealers-holding-stocks-more-than-30-days-2026-07-28/",
-    "title": "India bars sugar dealers from holding stocks for more than 30 days",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:05",
-    "pub_ts": 1785236712
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/teradar-wins-michigan-automaker-deal-test-next-generation-adas-sensors-2026-07-28/",
-    "title": "Teradar wins Michigan automaker deal to test next-generation ADAS sensors",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-28 19:04",
-    "pub_ts": 1785236688
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/gsk-invest-400-million-britain-over-3-years-it-ramps-up-rd-efforts-2026-07-28/",
-    "title": "GSK to invest £400 million in Britain over 3 years as it ramps up R&D efforts",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-28 19:03",
-    "pub_ts": 1785236638
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/uk/uks-labour-party-catches-reform-polls-after-burnham-becomes-pm-2026-07-28/",
-    "title": "UK's Labour Party catches Reform in polls after Burnham becomes PM",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:01",
-    "pub_ts": 1785236503
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/toronto-futures-little-changed-investors-assess-corporate-earnings-2026-07-28/",
-    "title": "Toronto futures little changed as investors assess corporate earnings",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:59",
-    "pub_ts": 1785236384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/firefighters-france-spain-scramble-contain-blazes-new-heatwave-looms-2026-07-28/",
-    "title": "Firefighters in France, Spain scramble to contain blazes as new heatwave looms",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:59",
-    "pub_ts": 1785236384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/yum-ceo-faces-first-big-test-taco-bell-outbreak-clouds-earnings-2026-07-28/",
-    "title": "Yum CEO faces first big test as Taco Bell outbreak clouds earnings",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:24",
-    "pub_ts": 1785234271
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/bar-fed-rate-hike-this-week-remains-high-even-markets-see-chance-2026-07-28/",
-    "title": "Bar to Fed rate hike this week remains high even as markets see a chance",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:23",
-    "pub_ts": 1785234224
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hansoh-pharma-says-osteosarcoma-treatment-drug-meets-primary-endpoint-late-stage-2026-07-28/",
-    "title": "Hansoh Pharma says osteosarcoma treatment drug meets primary endpoint in late stage trial",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:20",
-    "pub_ts": 1785234041
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/us-bond-market-avoids-big-rate-bets-inflation-dims-fed-outlook-2026-07-28/",
-    "title": "US bond market avoids big rate bets as inflation dims Fed outlook",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:20",
-    "pub_ts": 1785234002
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/government/sports-betting-industry-spending-us-midterm-elections-surpasses-72-million-2026-07-28/",
-    "title": "Sports betting industry spending on US midterm elections surpasses $72 million",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-28 18:19",
-    "pub_ts": 1785233997
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/kremlin-says-government-is-monitoring-situation-with-wildberries-retailer-after-2026-07-28/",
-    "title": "Kremlin says the government is monitoring situation with Wildberries retailer after Ukrainian attacks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 18:18",
-    "pub_ts": 1785233907
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/xiaohongshus-hong-kong-ipo-plans-face-scrutiny-after-complaint-about-corporate-2026-07-28/",
-    "title": "Xiaohongshu's Hong Kong IPO plans face scrutiny after complaint about corporate structure",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 18:11",
-    "pub_ts": 1785233491
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/perus-fujimori-takes-power-extending-latin-americas-rightward-tilt-2026-07-28/",
-    "title": "Peru's Fujimori takes power, extending Latin America's rightward tilt",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 18:08",
-    "pub_ts": 1785233289
   }
 ]
