@@ -1,6 +1,141 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/",
+    "title": "Meta's AI model hacked another company during testing, The Information reports",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 06:30",
+    "pub_ts": 1785969043
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/aerospace-defense/axon-posts-lower-quarterly-gross-margin-higher-mix-services-new-product-scaling-2026-08-05/",
+    "title": "Axon posts lower quarterly gross margin on higher mix of services, new product scaling",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 06:27",
+    "pub_ts": 1785968864
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-refunds-100-billion-tariffs-struck-down-by-supreme-court-filing-shows-2026-08-05/",
+    "title": "US refunds $100 billion in tariffs struck down by Supreme Court, filing shows",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 06:24",
+    "pub_ts": 1785968698
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/wsj-publisher-news-corp-beats-revenue-estimates-real-estate-dow-jones-strength-2026-08-05/",
+    "title": "WSJ publisher News Corp beats revenue estimates on real estate, Dow Jones strength",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 06:23",
+    "pub_ts": 1785968596
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/elf-beauty-raises-annual-forecasts-value-bet-pays-off-2026-08-05/",
+    "title": "Elf Beauty raises annual forecasts betting on international expansion drive",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 06:21",
+    "pub_ts": 1785968467
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/paycom-raises-annual-forecast-ai-driven-demand-2026-08-05/",
+    "title": "Paycom raises annual forecast on AI-driven demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 06:15",
+    "pub_ts": 1785968104
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/solventum-hive-off-healthcare-software-business-raises-profit-forecast-2026-08-05/",
+    "title": "Solventum to hive off healthcare software business, raises profit forecast",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 06:13",
+    "pub_ts": 1785967987
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/bayer-seeks-short-delay-725-billion-roundup-settlement-hearing-2026-08-05/",
+    "title": "Bayer seeks short delay to $7.25 billion Roundup settlement hearing",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 06:08",
+    "pub_ts": 1785967706
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/panama-canal-again-tightens-draft-limits-water-levels-under-pressure-2026-08-05/",
+    "title": "Panama Canal again tightens draft limits as water levels under pressure",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 06:03",
+    "pub_ts": 1785967424
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/brazil-central-bank-cuts-rates-by-25-bps-fourth-straight-meeting-2026-08-05/",
+    "title": "Brazil cuts rates by 25 bps again, September rate cut in play",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 06:00",
+    "pub_ts": 1785967225
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/bumble-forecasts-downbeat-quarterly-revenue-paying-users-drop-2026-08-05/",
+    "title": "Bumble forecasts downbeat quarterly revenue as paying users drop",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 05:58",
+    "pub_ts": 1785967102
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-takedas-sleep-disorder-pill-2026-08-05/",
+    "title": "US FDA approves Takeda's sleep disorder pill",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:53",
+    "pub_ts": 1785966824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/doordash-projects-strong-growth-delivery-demand-holds-firm-2026-08-05/",
+    "title": "DoorDash projects strong growth as delivery demand holds firm",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:53",
+    "pub_ts": 1785966788
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/atmos-energy-posts-higher-quarterly-profit-rate-hikes-2026-08-05/",
+    "title": "Atmos Energy posts higher quarterly profit on rate hikes",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:52",
+    "pub_ts": 1785966723
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/corpay-lifts-annual-forecasts-sell-non-core-uk-vehicle-payments-business-2026-08-05/",
+    "title": "Corpay lifts annual forecasts, to sell non-core UK vehicle payments business",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 05:46",
+    "pub_ts": 1785966370
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/transactional/bikemaker-accell-starts-insolvency-proceedings-four-years-after-kkr-led-buyout-2026-08-05/",
     "title": "Bikemaker Accell starts insolvency proceedings four years after KKR-led buyout",
     "path": "/legal/",
@@ -133,6 +268,51 @@
     "category": "business",
     "pub_bj": "2026-08-06 04:43",
     "pub_ts": 1785962600
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/etsy-lays-off-12-worker-part-restructuring-plan-2026-08-05/",
+    "title": "Etsy lays off 12% of workforce as part of restructuring plan",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:29",
+    "pub_ts": 1785961760
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/mercadolibres-net-profit-beats-estimates-despite-third-straight-decline-2026-08-05/",
+    "title": "MercadoLibre's net profit beats estimates despite third straight decline",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:25",
+    "pub_ts": 1785961534
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/retail-consumer/ebay-forecasts-quarterly-revenue-above-estimates-2026-08-05/",
+    "title": "EBay forecasts quarterly revenue above estimates",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 04:24",
+    "pub_ts": 1785961472
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-reports-over-14-billion-income-crypto-ventures-2026-06-30/",
+    "title": "Trump reports over $1.4 billion in income from crypto ventures",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 04:16",
+    "pub_ts": 1785960998
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/figma-lifts-annual-revenue-forecast-ai-efforts-drive-solid-demand-2026-08-05/",
+    "title": "Figma lifts annual revenue forecast as AI efforts drive solid demand",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-06 04:15",
+    "pub_ts": 1785960924
   },
   {
     "source": "Reuters",
@@ -26818,185 +26998,5 @@
     "category": "legal",
     "pub_bj": "2026-07-28 19:55",
     "pub_ts": 1785239701
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/brookfield-sees-65-gw-ai-data-centre-capacity-coming-online-india-2026-07-28/",
-    "title": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 19:47",
-    "pub_ts": 1785239251
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/skippy-peanut-butter-maker-hormel-foods-names-insider-john-ghingo-ceo-2026-07-28/",
-    "title": "Skippy peanut butter maker Hormel Foods names insider John Ghingo as CEO",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:44",
-    "pub_ts": 1785239049
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/production-libyas-el-feel-halted-noc-says-2026-07-28/",
-    "title": "Production at Libya's El Feel, Wafa oilfields resumes after disruption, NOC says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 19:39",
-    "pub_ts": 1785238794
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0728/c461530-40769073.html",
-    "title": "持续推动学习贯彻习近平党建思想走深走实",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0710/c461530-40757172.html",
-    "title": "习近平党建思想对马克思主义建党学说的丰富和发展",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0728/c1024-40769717.html",
-    "title": "李强在河北唐山调研慰问",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jl.people.com.cn/n2/2026/0728/c349771-41651725.html",
-    "title": "吉林市:唱响\"京剧第二故乡\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0728/c1004-40769470.html",
-    "title": "清洁能源多点布局 绿色发展动能持续增强",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0728/c1008-40769703.html",
-    "title": "强化汛期保障，多地多部门多措并举确保民众平安出行",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0728/c14540-41652601.html",
-    "title": "北京中轴线旁展览上新 天宫藻井持续“圈粉”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jx.people.com.cn/n2/2026/0728/c190260-41652670.html",
-    "title": "江西信丰：鹭鸟伴耕生态美",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0728/c1001-40769718.html",
-    "title": "何立峰出席2026年亚太经合组织林业部长级会议开幕式并致辞",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0728/c1008-40769710.html",
-    "title": "两部门调整部分能源资源行业企业城镇土地使用税政策",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://bj.people.com.cn/n2/2026/0728/c14540-41652176.html",
-    "title": "申遗成功两周年 北京东西城联合发布“中轴线上”三年行动计划",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jx.people.com.cn/n2/2026/0728/c186330-41652133.html",
-    "title": "一次回访，看江西如何“加码”为民办实事",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://he.people.com.cn/n2/2026/0728/c192235-41652211.html",
-    "title": "河北沧州：运河醒了，鸟回来了",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://js.people.com.cn/n2/2026/0728/c358232-41652232.html",
-    "title": "江苏：把群众“心上事”办成“暖心事”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://yn.people.com.cn/n2/2026/0728/c378439-41651779.html",
-    "title": "云南昌宁：一池热泉“泡”出的“富民经”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0728/c227131-41652080.html",
-    "title": "安徽桐城：一粒大米的“身价”跃迁",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://fj.people.com.cn/n2/2026/0728/c181466-41651904.html",
-    "title": "强直性脊柱炎纳入跨省结算后怎么报销？医保部门手把手教你",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 19:32",
-    "pub_ts": 1785238361
   }
 ]
