@@ -1,5 +1,86 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/under-patel-fbi-forges-unprecedented-law-enforcement-ties-with-china-russia-2026-08-05/",
+    "title": "Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 02:30",
+    "pub_ts": 1785954601
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/gulf-oil-exports-steady-july-still-40-below-pre-war-mark-2026-08-05/",
+    "title": "Gulf oil exports steady in July, still 40% below pre-war mark",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-06 02:25",
+    "pub_ts": 1785954323
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/doj-raise-antitrust-concerns-over-investor-advice-duopoly-2026-08-05/",
+    "title": "US Justice Department raises antitrust concerns over proxy advisers",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 02:21",
+    "pub_ts": 1785954108
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
+    "title": "Rubio, Miliband discuss Ukraine war, Europe taking greater role in its own security",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 02:21",
+    "pub_ts": 1785954080
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/emerging-considerations-loan-documents-life-sciences--pracin-2026-08-05/",
+    "title": "Emerging considerations for loan documents in life sciences",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 02:20",
+    "pub_ts": 1785954027
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/bank-america-tech-executive-liu-leaving-competitor-memo-says-2026-08-05/",
+    "title": "Bank of America tech executive Liu leaving for competitor, memo says",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 02:17",
+    "pub_ts": 1785953863
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/U73BCIORJZN2LC47KW5WGQ4SZQ-2026-08-05/",
+    "title": "STF retirou requisito de idade mínima apenas para aposentadoria especial",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-06 02:14",
+    "pub_ts": 1785953666
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/spains-ceuta-seeks-transfer-unaccompanied-migrant-minors-mainland-spain-after-2026-08-05/",
+    "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 01:59",
+    "pub_ts": 1785952793
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/linkedin-executives-can-be-questioned-antitrust-lawsuit-judge-rules-2026-08-05/",
+    "title": "LinkedIn executives can be questioned in antitrust lawsuit, judge rules",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-06 01:55",
+    "pub_ts": 1785952543
+  },
+  {
     "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0805/c1016-40774584.html",
     "title": "从数据采集到应用场景，在上海感受具身智能发展活力",
@@ -171,6 +252,33 @@
     "pub_ts": 1785947040
   },
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-government-faculty-odds-over-proposed-governance-changes-top-statistical-2026-08-05/",
+    "title": "India government, faculty at odds over proposed governance changes at top statistical institute",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:10",
+    "pub_ts": 1785946248
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/kenyas-stock-exchange-plans-east-africas-first-ai-focused-etf-2026-08-05/",
+    "title": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-06 00:01",
+    "pub_ts": 1785945666
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/italy-handle-monte-paschi-stake-without-interfering-with-ma-moves-2026-08-05/",
+    "title": "Italy to handle Monte Paschi stake without interfering with M&A moves",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 23:59",
+    "pub_ts": 1785945574
+  },
+  {
     "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0805/c223228-40774554.html",
     "title": "壹时评:煤电发电量占比首次低于50%意义非凡",
@@ -313,6 +421,96 @@
     "category": "world",
     "pub_bj": "2026-08-05 22:46",
     "pub_ts": 1785941213
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/bayers-india-unit-posts-quarterly-profit-rise-expenses-shrink-2026-08-05/",
+    "title": "Bayer's India unit posts quarterly profit rise as expenses shrink",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 22:35",
+    "pub_ts": 1785940544
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/austria-hits-record-temperature-second-day-running-east-reaches-412-c-2026-08-05/",
+    "title": "Austria hits record temperature for second day running, as east reaches 41.2 C",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:32",
+    "pub_ts": 1785940330
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/VRNHBWR6ABMUZJ4SJY5HHEF7UM-2026-08-05/",
+    "title": "No hay registro de frase de Bukele sobre un encarcelamiento de Sheinbaum",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-05 22:29",
+    "pub_ts": 1785940179
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/finance/glencores-australia-listing-taps-mining-friendly-capital-copper-ma-ambitions-2026-08-05/",
+    "title": "Glencore's Australia listing taps mining-friendly capital for copper, M&A ambitions",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:27",
+    "pub_ts": 1785940072
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-says-us-held-all-day-negotiation-with-iran-tuesday-2026-08-05/",
+    "title": "Trump says US held 'all-day negotiation' with Iran on Tuesday",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-05 22:26",
+    "pub_ts": 1785939973
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/carlyles-second-quarter-profit-jumps-pick-up-fees-deals-2026-08-05/",
+    "title": "Carlyle tops profit expectations on pick-up in fees, deals",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-05 22:25",
+    "pub_ts": 1785939914
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/chipotle-says-annual-targets-do-not-include-impact-minnesota-salmonella-outbreak-2026-08-05/",
+    "title": "Chipotle says annual targets do not include impact of Minnesota salmonella outbreak",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:18",
+    "pub_ts": 1785939489
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/argentinas-grain-ports-operating-normally-following-end-maritime-workers-protest-2026-08-05/",
+    "title": "Argentina's grain ports operating normally following end of maritime workers' protest",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:17",
+    "pub_ts": 1785939464
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/",
+    "title": "Anthropic to build in-house chip design team for Claude, hire engineers",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:15",
+    "pub_ts": 1785939344
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-service-sector-maintains-strong-growth-pace-july-2026-08-05/",
+    "title": "US service sector maintains strong growth pace in July",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-05 22:13",
+    "pub_ts": 1785939225
   },
   {
     "source": "Reuters",
@@ -26800,203 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-28 18:08",
     "pub_ts": 1785233289
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/britains-ftse-indexes-climb-consumer-earnings-boost-offsets-banks-energy-drag-2026-07-28/",
-    "title": "Britain's FTSE indexes climb as consumer earnings boost offsets banks, energy drag",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:07",
-    "pub_ts": 1785233264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/brazils-bolsonaro-is-barred-this-years-election-can-his-ai-avatar-campaign-2026-07-28/",
-    "title": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:06",
-    "pub_ts": 1785233167
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/german-economy-likely-showed-some-resilience-war-q2-bundesbank-says-2026-07-28/",
-    "title": "German economy likely showed some resilience to war in Q2, Bundesbank says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 18:03",
-    "pub_ts": 1785233024
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/france-braces-fourth-major-heatwave-crews-tackle-bordeaux-blaze-2026-07-28/",
-    "title": "France braces for fourth major heatwave as crews tackle Bordeaux blaze",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 18:02",
-    "pub_ts": 1785232931
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-07-28/",
-    "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:57",
-    "pub_ts": 1785232661
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/engies-first-hydro-upgrade-welsh-hydropower-plant-2026-07-28/",
-    "title": "Engie's First Hydro to upgrade Welsh hydropower plant",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:54",
-    "pub_ts": 1785232449
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/qatarenergy-extends-force-majeure-three-lng-cargoes-edison-says-2026-07-28/",
-    "title": "QatarEnergy extends force majeure on three LNG cargoes, Edison says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:52",
-    "pub_ts": 1785232329
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/transactional/family-owned-companies-have-big-appetites-us-snack-ma-2026-07-28/",
-    "title": "Family-owned companies have big appetites for US snack M&A",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-28 17:51",
-    "pub_ts": 1785232266
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/media-telecom/canal-says-paddington-4-is-works-it-locks-down-french-streaming-advantage-2026-07-28/",
-    "title": "Canal+ says 'Paddington 4' is in works, as it locks down French streaming advantage",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-28 17:42",
-    "pub_ts": 1785231742
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/jolie-blanchett-appeal-refugee-protections-un-convention-turns-75-2026-07-28/",
-    "title": "Jolie, Blanchett appeal for refugee protections as UN convention turns 75",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:39",
-    "pub_ts": 1785231584
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-radico-khaitan-quarterly-profit-jumps-gross-margins-expand-premium-demand-2026-07-28/",
-    "title": "India's Radico Khaitan quarterly profit jumps as gross margins expand on premium demand",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:32",
-    "pub_ts": 1785231174
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0728/c1002-40769609.html",
-    "title": "斯洛伐克总统佩列格里尼向人民英雄纪念碑敬献花圈",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0728/c461001-40769637.html",
-    "title": "习近平推动海南自贸港\"样板间\"建设",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sd.people.com.cn/n2/2026/0728/c364532-41652143.html",
-    "title": "沂河岸边的工业\"拓荒\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0728/c1002-40769671.html",
-    "title": "日本熊本县发生7.1级地震",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0728/c227131-41651894.html",
-    "title": "行进中国｜安徽合肥：“共享”实验室 创新“加速器”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://world.people.com.cn/n1/2026/0728/c1002-40769699.html",
-    "title": "外交部回应强闯中国使馆的村田晃大被起诉",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0728/c1008-40769673.html",
-    "title": "上半年各级民政部门累计处置非法社会组织702个",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0728/c1004-40769674.html",
-    "title": "部分能源资源行业企业城镇土地使用税政策将调整",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://env.people.com.cn/n1/2026/0728/c1010-40769694.html",
-    "title": "上半年全国空气和地表水环境质量改善",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0728/c1004-40769697.html",
-    "title": "截至6月底我国电动汽车充电基础设施（枪）达2305.7万个",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0728/c1008-40769693.html",
-    "title": "青海兴海地震暂无人员伤亡报告",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-28 17:25",
-    "pub_ts": 1785230759
   }
 ]
