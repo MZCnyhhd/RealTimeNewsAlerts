@@ -1,6 +1,42 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/new-jerseys-25-billion-forever-chemicals-settlements-with-dupont-3m-others-win-2026-08-07/",
+    "title": "New Jersey's $2.5 billion 'forever chemicals' settlements with DuPont, 3M, others win court approval",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 04:41",
+    "pub_ts": 1786135278
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/russia-dismisses-german-drone-incident-fabricated-provocation-2026-08-07/",
+    "title": "Russia dismisses German drone incident as 'fabricated provocation'",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 04:24",
+    "pub_ts": 1786134266
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spain-establish-border-controls-travellers-italy-amid-migration-row-2026-08-07/",
+    "title": "Spain to establish border controls on travellers from Italy amid migration dispute",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 04:19",
+    "pub_ts": 1786133989
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-trump-administrations-third-attempt-cancel-va-union-contract-2026-08-07/",
+    "title": "US judge blocks Trump administration's third attempt to cancel VA union contract",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 04:15",
+    "pub_ts": 1786133743
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/world-at-work/two-day-strike-begins-bhps-port-hedland-iron-ore-operations-2026-08-07/",
     "title": "Two-day strike begins at BHP's Port Hedland iron ore operations",
     "path": "/business/",
@@ -26962,41 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 15:51",
     "pub_ts": 1785397918
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/vopak-raises-outlook-growth-projects-boost-confidence-shares-rise-2026-07-30/",
-    "title": "Vopak raises outlook as growth projects boost confidence, shares rise",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:51",
-    "pub_ts": 1785397905
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/portugals-edp-raises-profit-outlook-networks-strength-asset-gains-2026-07-30/",
-    "title": "Portugal's EDP raises profit outlook on networks strength and asset gains",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:49",
-    "pub_ts": 1785397784
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/mizuhos-first-quarter-profit-rises-45-2026-07-30/",
-    "title": "Mizuho posts 45% jump in first-quarter profit, raises annual forecast",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:46",
-    "pub_ts": 1785397590
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/lloyds-reports-first-half-profit-up-23-outlines-new-strategy-2026-07-30/",
-    "title": "Lloyds reports first-half profit up 23%, outlines AI-driven cost-cutting plans",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:46",
-    "pub_ts": 1785397576
   }
 ]
