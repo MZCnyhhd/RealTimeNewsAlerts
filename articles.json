@@ -1,6 +1,60 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/justice-alito-says-he-is-staying-supreme-court-another-term-2026-08-07/",
+    "title": "Justice Alito says he is staying on Supreme Court for another term",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 06:15",
+    "pub_ts": 1786140944
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/data-center-firm-switch-confidentially-files-us-ipo-bloomberg-news-reports-2026-08-07/",
+    "title": "Data center firm Switch confidentially files for US IPO, Bloomberg News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 06:13",
+    "pub_ts": 1786140823
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/uk-police-reopen-attempted-burglary-case-part-widdecombe-murder-probe-2026-08-07/",
+    "title": "UK police reopen attempted burglary case as part of Widdecombe murder probe",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 06:03",
+    "pub_ts": 1786140223
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/battery-technology-firm-sila-receives-14-billion-pentagon-loan-commitment-2026-08-07/",
+    "title": "Battery technology firm Sila receives $1.4 billion Pentagon loan commitment",
+    "path": "/technology/",
+    "category": "technology",
+    "pub_bj": "2026-08-08 05:58",
+    "pub_ts": 1786139883
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/katseye-hit-by-another-hiatus-sophia-laforteza-steps-back-2026-08-07/",
+    "title": "KATSEYE hit by another hiatus as Sophia Laforteza steps back",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 05:53",
+    "pub_ts": 1786139623
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-urges-pirro-revisit-decision-drop-reflecting-pool-case-alleging-vandalism-2026-08-07/",
+    "title": "Trump urges Pirro to revisit decision to drop Reflecting Pool case alleging vandalism",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 05:51",
+    "pub_ts": 1786139489
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/government/trumps-new-attack-birthright-citizenship-faces-uphill-legal-battle-2026-08-07/",
     "title": "Trump's new attack on birthright citizenship faces uphill legal battle",
     "path": "/legal/",
@@ -26944,59 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 16:13",
     "pub_ts": 1785399223
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/sensodyne-maker-haleon-posts-higher-second-quarter-organic-revenue-growth-2026-07-30/",
-    "title": "Sensodyne maker Haleon reaffirms targets on US and emerging markets growth",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 16:12",
-    "pub_ts": 1785399126
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/commercial-sea-drone-captures-footage-chinese-warship-philippine-waters-2026-07-29/",
-    "title": "Commercial sea drone captures footage of Chinese warship in Philippine waters",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 16:10",
-    "pub_ts": 1785399012
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/world-at-work/westjet-airlines-flight-attendants-give-72-hour-strike-notice-2026-07-30/",
-    "title": "WestJet flight attendants issue 72-hour strike notice over unpaid work",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 16:10",
-    "pub_ts": 1785399009
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/stellantis-operating-income-more-than-triples-q2-driven-by-north-america-2026-07-30/",
-    "title": "Jeep-maker Stellantis Q2 profit miss stirs doubts about Filosa revival plan",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 16:09",
-    "pub_ts": 1785398949
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ucb-shares-fall-despite-guidance-upgrade-investors-question-earnings-quality-2026-07-30/",
-    "title": "UCB shares fall despite guidance upgrade as investors question earnings quality",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 16:07",
-    "pub_ts": 1785398845
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/german-economy-grows-by-02-q2-preliminary-data-shows-2026-07-30/",
-    "title": "German economy grows by 0.2% in Q2, preliminary data shows",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 16:06",
-    "pub_ts": 1785398764
   }
 ]
