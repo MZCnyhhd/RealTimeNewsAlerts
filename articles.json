@@ -1,6 +1,42 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/trumps-new-attack-birthright-citizenship-faces-uphill-legal-battle-2026-08-07/",
+    "title": "Trump's new attack on birthright citizenship faces uphill legal battle",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 05:41",
+    "pub_ts": 1786138899
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/scholar-rock-drops-catalent-facility-marketing-application-muscle-weakness-drug-2026-08-07/",
+    "title": "Scholar Rock drops Catalent facility from marketing application for muscle weakness drug",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 05:32",
+    "pub_ts": 1786138342
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/us-postal-service-reports-25-billion-quarterly-loss-2026-08-07/",
+    "title": "US Postal Service reports $2.5 billion quarterly loss",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 05:30",
+    "pub_ts": 1786138210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/houthis-strike-marib-again-un-warns-yemen-nearing-wider-conflict-2026-08-07/",
+    "title": "Houthis strike Marib again as UN warns Yemen nearing wider conflict",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 05:14",
+    "pub_ts": 1786137270
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/new-jerseys-25-billion-forever-chemicals-settlements-with-dupont-3m-others-win-2026-08-07/",
     "title": "New Jersey's $2.5 billion 'forever chemicals' settlements with DuPont, 3M, others win court approval",
     "path": "/legal/",
@@ -26962,41 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 16:06",
     "pub_ts": 1785398764
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/mcdonalds-india-operator-profit-halves-higher-costs-weigh-2026-07-30/",
-    "title": "McDonald's India operator profit halves as higher costs weigh",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 16:03",
-    "pub_ts": 1785398627
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/schroders-reports-42-billion-outflows-ahead-sale-nuveen-2026-07-30/",
-    "title": "Schroders reports £4.2 billion outflows ahead of sale to Nuveen",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:55",
-    "pub_ts": 1785398144
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/symrise-beats-sales-expectations-strong-north-america-asia-demand-2026-07-30/",
-    "title": "Symrise beats sales expectations on strong North America, Asia demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:55",
-    "pub_ts": 1785398143
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/islamist-militants-kill-10-police-officers-northwest-pakistan-say-police-2026-07-30/",
-    "title": "Islamist militants kill 10 police officers in northwest Pakistan, say police",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:51",
-    "pub_ts": 1785397918
   }
 ]
