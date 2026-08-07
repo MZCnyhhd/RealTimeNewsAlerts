@@ -1,6 +1,150 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0804/c461529-40773249.html",
+    "title": "国产动画何以“闹海”",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-07 22:27",
+    "pub_ts": 1786112861
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2026/0430/c1012-40711458.html",
+    "title": "“打开”电影的无限可能",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-07 22:27",
+    "pub_ts": 1786112861
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0219/c1004-40667537.html",
+    "title": "“电影+”融合发展势头正劲",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-07 22:27",
+    "pub_ts": 1786112861
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/trump-says-congress-wants-regulate-ai-industry-out-business-2026-08-07/",
+    "title": "Trump says Congress wants to regulate AI industry 'out of business'",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-07 22:20",
+    "pub_ts": 1786112432
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "path": "/the-download/",
+    "category": "the download",
+    "pub_bj": "2026-08-07 22:20",
+    "pub_ts": 1786112400
+  },
+  {
+    "source": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "path": "/policy/",
+    "category": "policy",
+    "pub_bj": "2026-08-07 22:00",
+    "pub_ts": 1786111200
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/airbnb-shares-gain-investors-cheer-revenue-forecast-raise-ai-payoff-2026-08-07/",
+    "title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 21:55",
+    "pub_ts": 1786110916
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/canada-posts-monster-jobs-gain-july-unemployment-rate-hits-two-year-low-2026-08-07/",
+    "title": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:44",
+    "pub_ts": 1786110281
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-india-posts-quarterly-profit-surge-crude-price-jump-higher-production-2026-08-07/",
+    "title": "Oil India posts quarterly profit surge on crude price jump, higher production",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 21:44",
+    "pub_ts": 1786110252
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/chinas-beijing-further-relaxes-homebuying-curb-authorities-say-2026-08-07/",
+    "title": "China's Beijing further relaxes homebuying curb, authorities say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:44",
+    "pub_ts": 1786110249
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-supreme-court-consider-barring-anti-war-yabloko-party-election-tass-2026-08-07/",
+    "title": "Russian Supreme Court to consider barring anti-war Yabloko party from election, TASS reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:41",
+    "pub_ts": 1786110073
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/africa/tanzania-eases-fx-rules-allow-all-foreigners-buy-government-debt-2026-08-07/",
+    "title": "Tanzania eases FX rules to allow all foreigners to buy government debt",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:40",
+    "pub_ts": 1786110017
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/some-chinese-traders-steelmakers-stopped-dealing-with-radiant-world-sources-say-2026-08-07/",
+    "title": "Some Chinese traders, steelmakers stopped dealing with Radiant World, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:37",
+    "pub_ts": 1786109847
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/polands-former-orlen-managers-face-trial-over-oil-deal-losses-2026-08-07/",
+    "title": "Poland's former Orlen managers face trial over oil deal losses",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-07 21:36",
+    "pub_ts": 1786109800
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/seven-passengers-boat-intercepted-near-kinshasa-test-negative-ebola-2026-08-07/",
+    "title": "Seven passengers on boat intercepted near Kinshasa test negative for Ebola",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 21:35",
+    "pub_ts": 1786109747
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/spain-says-it-dismantles-one-mediterraneans-largest-human-smuggling-networks-2026-08-07/",
+    "title": "Spain says it dismantles one of Mediterranean's largest human smuggling networks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 21:35",
+    "pub_ts": 1786109743
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0308/c1008-40677495.html",
     "title": "以法典之名 回应绿色期待",
     "path": "/society/",
@@ -187,6 +331,78 @@
     "category": "business",
     "pub_bj": "2026-08-07 20:48",
     "pub_ts": 1786106889
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/vistra-quarterly-profit-slips-hedging-losses-despite-strong-power-demand-2026-08-07/",
+    "title": "Vistra quarterly profit slips on hedging losses despite strong power demand",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 20:26",
+    "pub_ts": 1786105568
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/spain-hopes-transfer-migrant-minors-mainland-within-weeks-2026-08-07/",
+    "title": "Spain hopes to transfer migrant minors to mainland within weeks",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 20:25",
+    "pub_ts": 1786105517
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/hungary-expects-danube-rise-nuclear-plant-still-facing-output-curbs-2026-08-07/",
+    "title": "Hungary expects Danube to rise but nuclear plant still facing output curbs",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 20:23",
+    "pub_ts": 1786105426
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/autos-transportation/debt-burden-grows-german-suppliers-embattled-auto-sector-study-shows-2026-08-07/",
+    "title": "Debt burden grows for German suppliers in embattled auto sector, study shows",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 20:19",
+    "pub_ts": 1786105167
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/choosing-same-person-twice-manchester-mayoral-election-would-not-have-2026-08-06/",
+    "title": "Choosing same person twice in Manchester mayoral election would not have invalidated vote",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-07 20:18",
+    "pub_ts": 1786105115
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/dubai-edges-higher-abu-dhabi-falls-amid-middle-east-tensions-2026-08-07/",
+    "title": "Dubai edges higher, Abu Dhabi falls amid Middle East tensions",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 20:13",
+    "pub_ts": 1786104824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russian-court-hands-publisher-suspended-sentence-over-lgbt-propaganda-tass-2026-08-07/",
+    "title": "Russian court hands publisher suspended sentence over 'LGBT propaganda', TASS reports",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 20:11",
+    "pub_ts": 1786104683
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/norway-will-speed-up-onshore-wind-power-developments-government-says-2026-08-07/",
+    "title": "Norway will speed up onshore wind power developments, government says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 20:07",
+    "pub_ts": 1786104474
   },
   {
     "source": "People's Daily",
@@ -547,6 +763,15 @@
     "category": "business",
     "pub_bj": "2026-08-07 18:41",
     "pub_ts": 1786099307
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/alkami-kicks-off-sale-process-after-buyer-interest-sources-say-2026-08-06/",
+    "title": "Alkami kicks off sale process after buyer interest, sources say",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 18:38",
+    "pub_ts": 1786099089
   },
   {
     "source": "People's Daily",
@@ -26773,230 +26998,5 @@
     "category": "finance",
     "pub_bj": "2026-07-30 11:21",
     "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770966.html",
-    "title": "今年上半年我国煤电发电量占比首次低于50%",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0730/c1012-40770967.html",
-    "title": "中国网络文学作品总量超3300万部",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770933.html",
-    "title": "我国成功发射通信技术试验卫星二十七号A/B星",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://kpzg.people.com.cn/n1/2026/0730/c404214-40770685.html",
-    "title": "小行星撞击形成的尘埃终结恐龙时代？",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://edu.people.com.cn/n1/2026/0730/c1006-40770814.html",
-    "title": "江苏宿迁：青少年学习防溺水救援",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770751.html",
-    "title": "浙江桐庐：乡村爱心食堂惠民生",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://society.people.com.cn/n1/2026/0730/c1008-40770756.html",
-    "title": "草原漂流 避暑纳凉",
-    "path": "/society/",
-    "category": "society",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0730/c1002-40770805.html",
-    "title": "构建面向全球的“瓷的未来”",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "https://world.people.com.cn/n1/2026/0730/c1002-40770839.html",
-    "title": "一盘鱼饭里的塞内加尔",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://military.people.com.cn/n1/2026/0730/c1011-40770817.html",
-    "title": "那一句“跟我来”穿越时空",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://js.people.com.cn/n2/2026/0729/c360301-41653843.html\n",
-    "title": "不到全市1%的土地，南京鼓楼何以贡献近12%的经济总量",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://js.people.com.cn/n2/2026/0729/c360301-41653843.html",
-    "title": "7月29日，中国共产党南京市鼓楼区第四次代表大会召开。会议披露，五年来，鼓楼区创新动能不断激发、经济运行向新向好，2025年完成地区生产总值2245.8亿元，经济体量领跑主城；实现社会消费品零售总额1214.26亿元、占全市14.9%；完成一般公共预算收入186.41亿元、占全市11.5%，较“十三五”末提高了1.3个百分点。",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://tj.people.com.cn/n2/2026/0729/c375366-41653735.html\n",
-    "title": "来天津，邂逅山西五千年文明",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://hlj.people.com.cn/n2/2026/0729/c220005-41653840.html\n",
-    "title": "上半年绥芬河公路口岸进出口货运量同比增长8.1%",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0729/c227131-41653764.html\n",
-    "title": "看一场戏，“椒”个朋友",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gz.people.com.cn/n2/2026/0729/c222152-41653699.html\n",
-    "title": "贵阳“艺厂咖啡戏剧节”在多彩贵州城启幕",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0730/c1012-40770629.html",
-    "title": "悬崖瀑降，炎炎夏日觅清凉",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japan-pm-instructs-ruling-party-proceed-with-temporary-sales-tax-cut-2026-07-30/",
-    "title": "Japan PM instructs ruling party to proceed with temporary sales tax cut",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:17",
-    "pub_ts": 1785381463
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-carries-out-fresh-iran-strikes-centcom-says-2026-07-30/",
-    "title": "US military says latest strikes on Iran last two hours, hitting dozens of targets",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:11",
-    "pub_ts": 1785381069
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/zhongji-innolight-debut-lower-hong-kongs-biggest-share-sale-this-year-2026-07-30/",
-    "title": "Zhongji Innolight slips in Hong Kong debut as AI selloff weighs on $6.8 billion listing",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:10",
-    "pub_ts": 1785381059
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/gold-edges-higher-markets-weigh-warshs-inflation-message-after-fed-decision-2026-07-30/",
-    "title": "Gold edges higher as markets weigh Warsh's inflation message",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:06",
-    "pub_ts": 1785380762
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/rupees-rally-faces-test-post-fed-us-yield-rise-oil-worries-linger-2026-07-30/",
-    "title": "Rupee's rally faces test from post-Fed US yield rise; oil worries linger",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:01",
-    "pub_ts": 1785380473
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/japans-earthquake-leaves-communities-thirsting-water-relief-heat-2026-07-30/",
-    "title": "Japan's earthquake leaves communities thirsting for water and relief from heat",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 10:59",
-    "pub_ts": 1785380384
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/iran-war-live-us-strikes-iran-again-war-widens-with-attack-egypt-port-2026-07-30/",
-    "title": "Iran war live: US strikes Iran again as war widens with attack on Egypt port",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 10:44",
-    "pub_ts": 1785379454
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indian-shares-seen-muted-fed-rates-confusion-2026-07-30/",
-    "title": "Indian shares seen muted on Fed rates confusion",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 10:40",
-    "pub_ts": 1785379238
   }
 ]
