@@ -1,5 +1,95 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0807/c1016-40775901.html",
+    "title": "“守望——廊桥保护三年行动成果展”在北京开展",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 00:12",
+    "pub_ts": 1786119163
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/rockstar-energy-founder-builds-celsius-stake-wants-take-over-ceo-cnbc-reports-2026-08-07/",
+    "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO, CNBC reports",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 00:10",
+    "pub_ts": 1786119017
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/mike-ashleys-frasers-leads-race-buy-harvey-nichols-sky-news-reports-2026-08-07/",
+    "title": "Mike Ashley's Frasers leads race to buy Harvey Nichols, Sky News reports",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 00:05",
+    "pub_ts": 1786118743
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/trump-nominates-agency-lawyer-serve-federal-communications-commission-2026-08-07/",
+    "title": "Trump nominates agency lawyer to serve on Federal Communications Commission",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 00:02",
+    "pub_ts": 1786118562
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/resmed-shares-tumble-weak-2027-sales-forecast-eclipses-quarterly-profit-beat-2026-08-07/",
+    "title": "ResMed shares tumble as weak 2027 sales forecast eclipses quarterly profit beat",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 00:01",
+    "pub_ts": 1786118497
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/his-quiet-home-shooting-spree-school-thai-teenagers-deadly-rampage-2026-08-07/",
+    "title": "From his quiet home to a shooting spree at school, a Thai teenager's deadly rampage",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 00:00",
+    "pub_ts": 1786118454
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/uk/serial-uk-sex-attacker-guilty-double-murder-prompting-questions-police-2026-08-07/",
+    "title": "Serial UK sex attacker guilty of double murder, prompting questions for police",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 23:56",
+    "pub_ts": 1786118165
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/india/india-fuel-retailers-say-e20-petrol-meets-quality-standards-2026-08-07/",
+    "title": "India fuel retailers say E20 petrol meets quality standards",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 23:45",
+    "pub_ts": 1786117545
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/morgan-stanley-hires-bofas-kweskin-cover-diversified-industries-2026-08-07/",
+    "title": "Morgan Stanley hires BofA's Kweskin to cover diversified industries",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-07 23:28",
+    "pub_ts": 1786116506
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-hold-advisory-meeting-review-grails-multi-cancer-test-2026-08-07/",
+    "title": "US FDA to hold advisory meeting to review Grail's multi-cancer test",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 23:27",
+    "pub_ts": 1786116464
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/blackstones-ags-health-files-updated-draft-papers-500-million-india-ipo-2026-08-07/",
     "title": "Blackstone's AGS Health files updated draft papers for $500 million India IPO",
@@ -115,6 +205,15 @@
     "category": "finance",
     "pub_bj": "2026-08-07 22:27",
     "pub_ts": 1786112861
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/canadas-ivey-pmi-hits-four-month-low-july-2026-08-07/",
+    "title": "Canada's Ivey PMI hits four-month low in July",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-07 22:21",
+    "pub_ts": 1786112493
   },
   {
     "source": "Reuters",
@@ -26899,104 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 13:25",
     "pub_ts": 1785389100
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/kenya-utility-says-electricity-restored-several-regions-after-outage-2026-07-30/",
-    "title": "Kenya utility says electricity restored in several regions after outage",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:24",
-    "pub_ts": 1785389093
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/socgen-enjoys-record-quarterly-profit-retail-bank-beats-weak-trading-2026-07-30/",
-    "title": "SocGen enjoys record quarterly profit as retail bank beats weak trading",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:24",
-    "pub_ts": 1785389049
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/qatarenergy-buys-33-us-lng-cargoes-offset-hormuz-disruption-sources-say-2026-07-30/",
-    "title": "QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:19",
-    "pub_ts": 1785388789
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/feds-hawkish-hold-muddies-path-stocks-bonds-2026-07-30/",
-    "title": "Fed's 'hawkish hold' muddies path for stocks and bonds",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:19",
-    "pub_ts": 1785388780
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/us-fusion-energy-company-commonwealth-raises-1-billion-equity-funding-2026-07-30/",
-    "title": "US fusion energy company Commonwealth raises $1 billion in equity funding",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:19",
-    "pub_ts": 1785388769
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/japans-jogmec-invest-up-34-million-toyota-tsusho-rare-earth-venture-namibia-2026-07-30/",
-    "title": "Japan's JOGMEC to invest up to $34 million in Toyota Tsusho rare earth venture in Namibia",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 11:26",
-    "pub_ts": 1785381989
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0719/c1004-40763511.html",
-    "title": "“中国机遇2.0”缘何持续收获全球关注？",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0627/c1003-40748709.html",
-    "title": "“中国冲击2.0”话术难掩“中国机遇2.0”事实",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0730/c1024-40770509.html",
-    "title": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0730/c461529-40770528.html",
-    "title": "心里有本账 要做明白人",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://jl.people.com.cn/n2/2026/0730/c349771-41653976.html",
-    "title": "行进中国丨松花江畔，有戏！",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 11:21",
-    "pub_ts": 1785381711
   }
 ]
