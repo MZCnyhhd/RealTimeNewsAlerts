@@ -1,6 +1,51 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/G76YQ46GPJNC3MJD2NVAC6JCP4-2026-08-07/",
+    "title": "Vídeo de homem nadando não mostra imigrante indo para Ceuta",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 02:36",
+    "pub_ts": 1786127817
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/veteran-economist-insider-matsumoto-wins-senate-approval-bls-commissioner-2026-08-07/",
+    "title": "Veteran economist, insider Matsumoto wins Senate approval as BLS commissioner",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 02:35",
+    "pub_ts": 1786127743
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-senate-confirms-trump-nominees-labor-board-cementing-republican-control-2026-08-07/",
+    "title": "US Senate confirms Trump nominees for labor board, cementing Republican control",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 02:34",
+    "pub_ts": 1786127659
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/LFCPJ6MDN5KDDEFKZKMFZ5EOHA-2026-08-07/",
+    "title": "Vídeo em que homem foge de cachorro é anterior à crise migratória em Ceuta",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 02:15",
+    "pub_ts": 1786126503
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/how-kill-federal-judge-author-convicted-threatening-us-judges-2026-08-07/",
+    "title": "'How to Kill a Federal Judge' author convicted of threatening US judges",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 02:14",
+    "pub_ts": 1786126450
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/business/energy/middle-east-buyers-interested-lng-cargoes-canada-pacific-energy-says-2026-08-07/",
     "title": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says",
     "path": "/business/",
@@ -26951,51 +26996,6 @@
     "title": "从马克思主义政治经济学视角深化全球南方研究",
     "path": "/general/",
     "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://sn.people.com.cn/n2/2026/0730/c226647-41654259.html",
-    "title": "陕西汉中:一座城的幸福日常",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0730/c436867-40770705.html",
-    "title": "莫让\"初级农产品\"成为毒药材的\"挡箭牌\"",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ah.people.com.cn/n2/2026/0730/c227131-41654542.html",
-    "title": "行进中国｜安徽庐江：从“生态负债”到“绿色资产”",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://gz.people.com.cn/n2/2026/0730/c222152-41654107.html",
-    "title": "AI贵州有多彩 | 千里苗疆锦绣图，多维振兴看黔东南",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0730/c461001-40771027.html",
-    "title": "全国人大常委会举办2026年第3期全国人大代表学习班",
-    "path": "/politics/",
-    "category": "politics",
     "pub_bj": "2026-07-30 14:02",
     "pub_ts": 1785391354
   }
