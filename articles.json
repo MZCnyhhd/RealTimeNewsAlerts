@@ -1,6 +1,60 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/world-at-work/two-day-strike-begins-bhps-port-hedland-iron-ore-operations-2026-08-07/",
+    "title": "Two-day strike begins at BHP's Port Hedland iron ore operations",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 04:09",
+    "pub_ts": 1786133361
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/europe/spains-government-announces-immediate-border-controls-with-italy-migration-spat-2026-08-07/",
+    "title": "Spain's government announces immediate border controls with Italy in migration spat",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 04:04",
+    "pub_ts": 1786133060
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/americas/us-senate-confirms-dozens-trump-nominees-filling-gaps-diplomatic-corps-2026-08-07/",
+    "title": "US Senate confirms dozens of Trump nominees, filling gaps in diplomatic corps",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 03:55",
+    "pub_ts": 1786132545
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-tightens-travel-rules-people-returning-ebola-hit-regions-2026-08-07/",
+    "title": "US tightens travel rules for people returning from Ebola-hit regions",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 03:51",
+    "pub_ts": 1786132272
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/iraqi-pm-saudi-intelligence-chief-discuss-regional-security-militias-delay-2026-08-07/",
+    "title": "Iraqi PM, Saudi intelligence chief discuss regional security as militias delay response",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 03:41",
+    "pub_ts": 1786131695
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/how-could-new-mexicos-567-million-ruling-change-meta-2026-08-07/",
+    "title": "How could New Mexico's $567 million ruling change Meta?",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 03:40",
+    "pub_ts": 1786131604
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/fact-check/portugues/6TZHSWLK75N65ONFI3BKETZ7NI-2026-08-07/",
     "title": "É falso que PF encontrou “fábrica de fake news” pró-Flávio em Diadema (SP)",
     "path": "/fact-check/",
@@ -26944,59 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 15:46",
     "pub_ts": 1785397576
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/dangerous-mix-german-insurer-warns-el-nino-extreme-weather-2026-07-30/",
-    "title": "'Dangerous mix': German insurer warns on El Nino extreme weather",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:45",
-    "pub_ts": 1785397518
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/italys-edison-trims-2026-guidance-again-over-iran-war-weak-hydro-power-2026-07-30/",
-    "title": "Edison trims 2026 guidance again over Qatari gas, weak hydro",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:40",
-    "pub_ts": 1785397243
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/capgemini-sees-multi-year-it-modernisation-boom-firms-prepare-ai-2026-07-30/",
-    "title": "Capgemini sees multi-year IT modernisation boom as firms prepare for AI",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:35",
-    "pub_ts": 1785396943
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/qatarenergy-controlled-lng-tanker-exits-hormuz-first-nearly-three-weeks-2026-07-30/",
-    "title": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:31",
-    "pub_ts": 1785396681
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/singtel-confirms-optus-stake-sale-talks-regulatory-pressure-mounts-2026-07-30/",
-    "title": "Singtel confirms Optus stake-sale talks as regulatory pressure mounts",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:31",
-    "pub_ts": 1785396663
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/panasonics-battery-unit-posts-sharp-rise-q1-operating-profit-2026-07-30/",
-    "title": "Panasonic raises profit outlook on AI demand, battery unit profit jumps",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:30",
-    "pub_ts": 1785396606
   }
 ]
