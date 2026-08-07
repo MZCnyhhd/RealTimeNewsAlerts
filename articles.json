@@ -1,5 +1,86 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/",
+    "title": "Law firms Herbert Smith, Goodwin hit by data breaches",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 01:02",
+    "pub_ts": 1786122123
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/early-surge-us-container-imports-coming-an-end-shippers-say-2026-08-07/",
+    "title": "Early surge in US container imports coming to an end, shippers say",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 01:00",
+    "pub_ts": 1786122051
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/lebanon-israel-agree-shortlist-countries-that-could-send-troops-verify-hezbollah-2026-08-07/",
+    "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 00:59",
+    "pub_ts": 1786121978
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/ukraines-zelenskiy-arrives-serbia-first-visit-2026-08-07/",
+    "title": "Ukraine's Zelenskiy arrives in Serbia for first visit",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 00:46",
+    "pub_ts": 1786121206
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/hundreds-millions-grid-deposits-linger-uncertainty-following-texas-data-center-2026-08-07/",
+    "title": "Hundreds of millions in grid deposits linger in uncertainty following Texas data center pause",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 00:44",
+    "pub_ts": 1786121090
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/us-judge-allows-deportation-protections-end-south-sudanese-2026-08-07/",
+    "title": "US judge allows deportation protections to end for South Sudanese",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 00:40",
+    "pub_ts": 1786120858
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/citi-revises-q3-2026-brent-forecast-80bbl-2026-08-07/",
+    "title": "Citi revises Q3 2026 Brent forecast to $80/bbl",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 00:35",
+    "pub_ts": 1786120546
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/uks-harworth-rejects-peel-holdings-787-million-bid-valuation-grounds-2026-08-07/",
+    "title": "UK's Harworth rejects Peel Holdings' $787 million bid on valuation grounds",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 00:23",
+    "pub_ts": 1786119824
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/petrobras-likely-exceed-oil-production-forecast-year-says-ceo-2026-08-07/",
+    "title": "Petrobras likely to exceed oil production forecast for the year, says CEO",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 00:14",
+    "pub_ts": 1786119249
+  },
+  {
     "source": "People's Daily",
     "url": "http://pic.people.com.cn/n1/2026/0807/c1016-40775901.html",
     "title": "“守望——廊桥保护三年行动成果展”在北京开展",
@@ -178,6 +259,33 @@
     "category": "legal",
     "pub_bj": "2026-08-07 22:35",
     "pub_ts": 1786113346
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/maricopa-county-did-not-get-over-74000-suspicious-mail-ballots-2020-election-2026-08-07/",
+    "title": "Maricopa County did not get over 74,000 suspicious mail ballots in 2020 election",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-07 22:30",
+    "pub_ts": 1786113015
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/feds-barkin-says-july-jobs-data-matches-recent-trend-2026-08-07/",
+    "title": "Fed's Barkin says July jobs data matches recent trend",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-07 22:30",
+    "pub_ts": 1786113009
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/unipol-targets-stake-above-30-future-bper-mps-banking-group-2026-08-07/",
+    "title": "Unipol targets stake above 30% in future BPER-MPS banking group",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-07 22:29",
+    "pub_ts": 1786112985
   },
   {
     "source": "People's Daily",
@@ -26890,113 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 13:49",
     "pub_ts": 1785390550
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/prysmian-lifts-2026-forecast-booming-demand-data-center-cables-2026-07-30/",
-    "title": "Italian cable maker Prysmian lifts profit outlook after Q2 beat",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:47",
-    "pub_ts": 1785390470
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/ab-inbev-q2-profit-revenue-beat-forecasts-2026-07-30/",
-    "title": "Budweiser-maker AB InBev beats on profit, revenue with World Cup assist",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:46",
-    "pub_ts": 1785390390
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/jpmorgan-brings-forward-fed-rate-hike-call-december-after-july-hold-2026-07-30/",
-    "title": "J.P.Morgan brings forward Fed rate hike call to December after July hold",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:45",
-    "pub_ts": 1785390348
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/french-economy-grew-02-percent-second-quarter-2026-07-30/",
-    "title": "French economy grew 0.2 percent in second quarter",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:45",
-    "pub_ts": 1785390344
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/bmw-reports-second-quarter-earnings-slump-it-cuts-jobs-2026-07-30/",
-    "title": "BMW reports second-quarter earnings slump as it cuts jobs",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:43",
-    "pub_ts": 1785390224
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/frances-schneider-electric-raises-2026-guidance-data-centre-demand-2026-07-30/",
-    "title": "France's Schneider Electric raises 2026 guidance on data-centre demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:36",
-    "pub_ts": 1785389769
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/sanofi-raises-sales-outlook-dupixent-strength-boost-new-ceo-2026-07-30/",
-    "title": "Sanofi raises sales outlook on Dupixent strength in boost for new CEO",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-30 13:35",
-    "pub_ts": 1785389744
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/ing-hikes-full-year-guidance-after-quarterly-profit-beat-expectations-2026-07-30/",
-    "title": "ING hikes 2026, 2027 guidance after quarterly profit beats expectations",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:33",
-    "pub_ts": 1785389637
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/bbvas-q2-net-profit-rises-114-same-period-year-ago-2026-07-30/",
-    "title": "BBVA's Q2 net profit rises 11.4% thanks to Mexico",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:33",
-    "pub_ts": 1785389615
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/arcelormittal-posts-earnings-beat-european-safeguards-bear-fruit-2026-07-30/",
-    "title": "ArcelorMittal posts earnings beat as European safeguards bear fruit",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:32",
-    "pub_ts": 1785389565
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/turkey-detains-another-opposition-mayor-sustained-crackdown-2026-07-30/",
-    "title": "Turkey detains another opposition mayor in sustained crackdown",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 13:30",
-    "pub_ts": 1785389432
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/siltronic-upgrades-annual-revenue-guidance-higher-wafer-area-sales-2026-07-30/",
-    "title": "Siltronic upgrades annual revenue guidance on higher wafer area sales",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:25",
-    "pub_ts": 1785389100
   }
 ]
