@@ -1,6 +1,105 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/portugues/6TZHSWLK75N65ONFI3BKETZ7NI-2026-08-07/",
+    "title": "É falso que PF encontrou “fábrica de fake news” pró-Flávio em Diadema (SP)",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 03:31",
+    "pub_ts": 1786131098
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/YYN4ETYJMRLOJEW6QM5BMFA3G4-2026-08-07/",
+    "title": "Nadador se filmó en Marruecos, no al llegar a Ceuta como migrante",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 03:26",
+    "pub_ts": 1786130762
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/3BPYSI2RL5PQNNJPLMQXVJP64M-2026-08-07/",
+    "title": "Video de rayos en Guatemala no muestra el volcán Acatenango y se comparte desde 2023",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 03:23",
+    "pub_ts": 1786130583
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/judge-blocks-us-decision-add-wuxi-list-companies-tied-chinese-military-2026-08-07/",
+    "title": "Judge blocks US decision to add WuXi to list of companies tied to Chinese military",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 03:20",
+    "pub_ts": 1786130436
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-official-we-expect-deal-soon-between-iran-oman-strait-hormuz-2026-08-07/",
+    "title": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 03:15",
+    "pub_ts": 1786130143
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/trump-administration-back-three-mineral-projects-with-58-million-financing-2026-08-07/",
+    "title": "Trump administration to back three mineral projects with $58 million in financing",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 03:13",
+    "pub_ts": 1786130031
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/XNNMISFMH5JBZJPJ7ILH66VMLI-2026-08-07/",
+    "title": "Producción industrial de Argentina sube 2,0% interanual en junio: INDEC",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 03:11",
+    "pub_ts": 1786129905
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/YSF4CMKM7FLWFADB5T3IWYSF3A-2026-08-07/",
+    "title": "Orden de aprehensión de EEUU contra senador mexicano Adán Augusto López no es auténtica",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 02:59",
+    "pub_ts": 1786129154
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/espanol/65JXSLMETJNENKUX7ZVM2RPDWY-2026-08-07/",
+    "title": "Clip de incendio de buque en Egipto no corresponde a ataque de dron en 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 02:57",
+    "pub_ts": 1786129025
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/senate-confirms-trump-pick-oversee-tsa-administration-pushes-private-airport-2026-08-07/",
+    "title": "Senate confirms Trump pick to oversee TSA as administration pushes private airport security",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 02:45",
+    "pub_ts": 1786128347
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/fact-check/video-shows-morocco-ceuta-border-gate-opened-may-2021-not-july-2026-2026-08-07/",
+    "title": "Video shows Morocco-Ceuta border gate opened in May 2021, not July 2026",
+    "path": "/fact-check/",
+    "category": "fact-check",
+    "pub_bj": "2026-08-08 02:41",
+    "pub_ts": 1786128077
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/fact-check/portugues/G76YQ46GPJNC3MJD2NVAC6JCP4-2026-08-07/",
     "title": "Vídeo de homem nadando não mostra imigrante indo para Ceuta",
     "path": "/fact-check/",
@@ -26899,104 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 15:30",
     "pub_ts": 1785396606
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/air-france-klm-beats-quarterly-profit-expectations-trims-capacity-forecasts-2026-07-30/",
-    "title": "Air France-KLM beats quarterly profit expectations but trims capacity forecasts",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:30",
-    "pub_ts": 1785396603
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-african-rand-steady-before-producer-inflation-budget-balance-data-2026-07-30/",
-    "title": "South African rand steady before producer inflation, budget balance data",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:27",
-    "pub_ts": 1785396427
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/woolworths-flags-slower-profit-growth-middle-east-conflict-higher-rates-weigh-2026-07-30/",
-    "title": "Woolworths flags slower profit growth as Middle East conflict, higher rates weigh on consumers",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:24",
-    "pub_ts": 1785396249
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/gillette-india-posts-quarterly-profit-rise-steady-demand-grooming-products-2026-07-30/",
-    "title": "Gillette India posts quarterly profit rise on steady demand for grooming products",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:22",
-    "pub_ts": 1785396179
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/south-sudans-president-removes-central-bank-governor-2026-07-30/",
-    "title": "South Sudan's president removes central bank governor",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:15",
-    "pub_ts": 1785395743
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/sk-innovation-swings-q2-profit-tops-estimates-refining-rebounds-2026-07-30/",
-    "title": "SK Innovation swings to Q2 profit, tops estimates as refining rebounds",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 15:14",
-    "pub_ts": 1785395669
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/bat-lifts-full-year-earnings-forecast-demand-velo-pouches-surge-2026-07-30/",
-    "title": "BAT lifts annual profit growth target as Velo drives U.S. momentum",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 15:11",
-    "pub_ts": 1785395492
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0730/c461530-40770546.html\n",
-    "title": "新时代伟大实践彰显马克思主义强大生命力",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2025/0912/c1003-40562149.html",
-    "title": "把握马克思主义的七大生命力",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0127/c461530-40653175.html",
-    "title": "深化马克思主义理论学科建设",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://opinion.people.com.cn/n1/2026/0608/c461530-40735471.html",
-    "title": "从马克思主义政治经济学视角深化全球南方研究",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
   }
 ]
