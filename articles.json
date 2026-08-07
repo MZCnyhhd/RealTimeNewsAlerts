@@ -1,6 +1,60 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/middle-east-buyers-interested-lng-cargoes-canada-pacific-energy-says-2026-08-07/",
+    "title": "Middle East buyers interested in LNG cargoes from Canada, Pacific Energy says",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 01:53",
+    "pub_ts": 1786125231
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/",
+    "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 01:50",
+    "pub_ts": 1786125010
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/sweeping-russia-energy-sanctions-head-toward-us-senate-passage-2026-08-07/",
+    "title": "US Senate passes sweeping Russia energy sanctions, next stop US House",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 01:48",
+    "pub_ts": 1786124915
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/",
+    "title": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 01:45",
+    "pub_ts": 1786124702
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/legalindustry/us-legal-sector-employment-grew-again-july-2026-08-07/",
+    "title": "US legal sector employment grew again in July",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 01:35",
+    "pub_ts": 1786124145
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/trump-moving-forward-with-attempt-fire-lisa-cook-after-supreme-court-ruling-abc-2026-08-07/",
+    "title": "Trump moving forward with attempt to fire Lisa Cook after Supreme Court ruling -ABC News",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 01:15",
+    "pub_ts": 1786122913
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/",
     "title": "Law firms Herbert Smith, Goodwin hit by data breaches",
     "path": "/legal/",
@@ -26944,59 +26998,5 @@
     "category": "politics",
     "pub_bj": "2026-07-30 14:02",
     "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40771020.html",
-    "title": "世界最大直径高铁盾构机成功穿越长江",
-    "path": "/finance/",
-    "category": "finance",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://ent.people.com.cn/n1/2026/0730/c1012-40771005.html",
-    "title": "上半年全国规模以上文化企业营收同比增长4.6%",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://cq.people.com.cn/n2/2026/0730/c365401-41654040.html",
-    "title": "人民建议丨网友献策建专业赛车场 获重庆市体育局积极回应",
-    "path": "/general/",
-    "category": "general",
-    "pub_bj": "2026-07-30 14:02",
-    "pub_ts": 1785391354
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/two-arrested-suspicion-arson-firefighters-battle-blazes-near-bordeaux-2026-07-30/",
-    "title": "Two arrested on suspicion of arson as firefighters battle blazes near Bordeaux",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:56",
-    "pub_ts": 1785390985
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/capgemini-lifts-2026-target-first-half-revenue-rises-88-2026-07-30/",
-    "title": "Capgemini lifts 2026 revenue growth target on AI transformation demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:49",
-    "pub_ts": 1785390556
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/adidas-raises-2026-sales-outlook-2026-07-30/",
-    "title": "Adidas raises 2026 sales outlook on strong demand",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 13:49",
-    "pub_ts": 1785390550
   }
 ]
