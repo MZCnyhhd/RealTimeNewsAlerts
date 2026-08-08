@@ -1,6 +1,42 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0626/c1004-40748186.html",
+    "title": "壹视界·知行记｜巧手绣出幸福路",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 19:43",
+    "pub_ts": 1786189437
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://gz.people.com.cn/n2/2026/0730/c222152-41654107.html",
+    "title": "千里苗疆锦绣图，多维振兴看黔东南",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 19:43",
+    "pub_ts": 1786189437
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://ent.people.com.cn/n1/2025/0425/c1012-40467689.html",
+    "title": "古老苗绣对话现代时尚",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 19:43",
+    "pub_ts": 1786189437
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/hungarys-ruling-party-nominates-former-supreme-court-head-baka-president-2026-08-08/",
+    "title": "Hungary's ruling party nominates former supreme court head Baka as president",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 19:40",
+    "pub_ts": 1786189230
+  },
+  {
+    "source": "People's Daily",
     "url": "http://opinion.people.com.cn/n1/2026/0808/c436867-40776084.html\n",
     "title": "双向奔赴之善,岂容\"按键\"毁伤",
     "path": "/general/",
@@ -26962,41 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 19:29",
     "pub_ts": 1785410993
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/eu-aims-seven-ai-gigafactories-with-10-billion-plan-race-with-us-china-2026-07-30/",
-    "title": "EU aims for seven AI gigafactories with €10 billion plan in race with US, China",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 19:28",
-    "pub_ts": 1785410922
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/cityfibre-seeks-raise-120-billion-acquisitions-bloomberg-news-reports-2026-07-30/",
-    "title": "CityFibre seeks to raise $1.20 billion for acquisitions, Bloomberg News reports",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 19:27",
-    "pub_ts": 1785410861
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/de-longhi-raises-2026-adjusted-ebitda-guidance-range-2026-07-30/",
-    "title": "De' Longhi raises 2026 adjusted EBITDA guidance range",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 19:23",
-    "pub_ts": 1785410590
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/technology/chatgpt-roblox-could-be-included-dsa-scope-eu-commission-spokesperson-says-2026-07-30/",
-    "title": "ChatGPT, Roblox could be included in DSA scope, EU Commission spokesperson says",
-    "path": "/technology/",
-    "category": "technology",
-    "pub_bj": "2026-07-30 19:19",
-    "pub_ts": 1785410383
   }
 ]
