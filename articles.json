@@ -1,6 +1,51 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0808/c1008-40776143.html",
+    "title": "\"白海豚\"来袭 降水极端性突出",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-08-08 23:14",
+    "pub_ts": 1786202044
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://society.people.com.cn/n1/2026/0808/c1008-40776141.html",
+    "title": "福建撤离转移逾9万人",
+    "path": "/society/",
+    "category": "society",
+    "pub_bj": "2026-08-08 23:14",
+    "pub_ts": 1786202044
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0808/c1002-40776144.html",
+    "title": "泽连斯基:乌美就\"爱国者\"导弹供应达成协议",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 23:14",
+    "pub_ts": 1786202044
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://world.people.com.cn/n1/2026/0808/c1002-40776142.html",
+    "title": "第九届进博会首批展品从奥地利启运",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 23:14",
+    "pub_ts": 1786202044
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/russia-says-it-struck-vessels-military-facilities-supporting-ukraine-odesa-2026-08-08/",
+    "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 23:00",
+    "pub_ts": 1786201241
+  },
+  {
+    "source": "People's Daily",
     "url": "http://finance.people.com.cn/n1/2026/0718/c1004-40763259.html",
     "title": "以绿色赋能发展 我国能源转型纵深推进",
     "path": "/finance/",
@@ -26953,50 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 20:12",
     "pub_ts": 1785413529
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/two-homes-different-traumas-japan-quake-leaves-scars-seen-unseen-2026-07-30/",
-    "title": "Two homes, different traumas: Japan quake leaves scars seen and unseen",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:11",
-    "pub_ts": 1785413507
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/more-ukrainian-russian-children-reunited-with-families-us-says-2026-07-30/",
-    "title": "More Ukrainian, Russian children reunited with families, US says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:10",
-    "pub_ts": 1785413410
-  },
-  {
-    "source": "MIT Tech Review",
-    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "path": "/the-download/",
-    "category": "the download",
-    "pub_bj": "2026-07-30 20:10",
-    "pub_ts": 1785413400
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/environment/after-surviving-earthquakes-family-venezuela-seeks-new-beginning-far-ground-zero-2026-07-30/",
-    "title": "After surviving earthquakes, a family in Venezuela seeks a new beginning far from ground zero",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:07",
-    "pub_ts": 1785413267
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/outokumpu-cfo-says-costs-eat-into-gains-eu-steel-measures-2026-07-30/",
-    "title": "Outokumpu CFO says costs eat into gains from EU steel measures",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:07",
-    "pub_ts": 1785413266
   }
 ]
