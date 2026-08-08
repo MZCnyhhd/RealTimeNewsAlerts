@@ -1,6 +1,15 @@
 [
   {
     "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/new-jersey-opens-civil-rights-probe-privately-run-ice-detention-center-newark-2026-08-07/",
+    "title": "New Jersey opens civil rights probe of privately run ICE detention center in Newark",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 07:57",
+    "pub_ts": 1786147036
+  },
+  {
+    "source": "Reuters",
     "url": "https://www.reuters.com/world/middle-east/us-expects-deal-soon-strait-hormuz-sunni-powers-unite-defense-pact-2026-08-07/",
     "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
     "path": "/world/",
@@ -26989,14 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 17:54",
     "pub_ts": 1785405250
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/asia-pacific/taiwans-ase-tech-raises-2026-capex-by-2-billion-strong-demand-2026-07-30/",
-    "title": "Taiwan's ASE Tech raises 2026 capex by $2 billion on strong demand",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 17:48",
-    "pub_ts": 1785404909
   }
 ]
