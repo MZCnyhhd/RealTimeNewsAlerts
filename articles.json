@@ -1,6 +1,87 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0808/c1004-40776106.html",
+    "title": "“老厂牌”的智算新局",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0601/c1004-40731055.html",
+    "title": "全国一体化算力网怎么建",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770541.html",
+    "title": "算力资源，这样互通共享",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0610/c461529-40737137.html",
+    "title": "从词元套餐看新机遇",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0804/c1004-40773195.html",
+    "title": "调用大模型 省钱又方便",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0530/c1004-40730541.html",
+    "title": "算力服务加速迈向全球",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://hi.people.com.cn/n2/2026/0808/c231190-41662849.html",
+    "title": "一枚\"福蛋\"的科技范",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://pic.people.com.cn/n1/2026/0808/c1016-40776145.html",
+    "title": "杭台高铁温玉段正式开通运营",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://nm.people.com.cn/n2/2026/0808/c196689-41662864.html",
+    "title": "“相约兴安盟 全民那达慕”——2026兴安盟那达慕开幕",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 23:46",
+    "pub_ts": 1786203970
+  },
+  {
+    "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0808/c1008-40776143.html",
     "title": "\"白海豚\"来袭 降水极端性突出",
     "path": "/society/",
@@ -26917,86 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 20:50",
     "pub_ts": 1785415847
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/us/us-economic-growth-slows-second-quarter-domestic-demand-robust-2026-07-30/",
-    "title": "US economic growth slows in second quarter, but domestic demand robust",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:49",
-    "pub_ts": 1785415743
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/kkrs-profit-jumps-dealmaking-strength-asset-growth-2026-07-30/",
-    "title": "KKR profit leaps as private equity deals flourish",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:48",
-    "pub_ts": 1785415722
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/china/ferrari-nudges-up-full-year-forecasts-after-beating-consensus-second-quarter-2026-07-30/",
-    "title": "Ferrari lifts guidance after second quarter beat driven by F80, personalisations",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:46",
-    "pub_ts": 1785415594
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/global-markets-central-banks-graphic-2026-07-30/",
-    "title": "Major central banks steer a cautious hiking path",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:46",
-    "pub_ts": 1785415575
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/africa/africa-fx-zambian-ghanaian-currencies-seen-under-pressure-2026-07-30/",
-    "title": "AFRICA-FX-Zambian and Ghanaian currencies seen under pressure",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:45",
-    "pub_ts": 1785415544
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/americas/mexicos-economy-grows-fastest-pace-since-late-2020-q2-2026-07-30/",
-    "title": "Mexico's economy grows at fastest pace since late 2020 in Q2",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:41",
-    "pub_ts": 1785415304
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://politics.people.com.cn/n1/2026/0730/c1024-40771117.html",
-    "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-    "path": "/politics/",
-    "category": "politics",
-    "pub_bj": "2026-07-30 20:17",
-    "pub_ts": 1785413838
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/mastercard-profit-jumps-stable-spending-drives-transaction-volumes-2026-07-30/",
-    "title": "Mastercard profit jumps as stable spending drives transaction volumes",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:15",
-    "pub_ts": 1785413728
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ukraine-strikes-two-more-warehouses-russian-online-retailer-wildberries-2026-07-30/",
-    "title": "Ukraine strikes two more warehouses of Russian online retailer Wildberries",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:12",
-    "pub_ts": 1785413529
   }
 ]
