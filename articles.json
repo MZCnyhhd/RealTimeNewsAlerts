@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/",
+    "title": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 22:03",
+    "pub_ts": 1786197782
+  },
+  {
     "source": "People's Daily",
     "url": "http://hb.people.com.cn/n2/2026/0607/c192237-41603443.html",
     "title": "老物件讲述“东方茶港”的百年传奇",
@@ -26989,14 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 20:06",
     "pub_ts": 1785413160
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bristol-myers-raises-2026-forecast-eliquis-newer-medicines-power-results-2026-07-30/",
-    "title": "Bristol Myers raises 2026 forecast as Eliquis, newer medicines power results",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:05",
-    "pub_ts": 1785413133
   }
 ]
