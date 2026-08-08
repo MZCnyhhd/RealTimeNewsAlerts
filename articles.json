@@ -1,6 +1,96 @@
 [
   {
     "source": "People's Daily",
+    "url": "http://opinion.people.com.cn/n1/2026/0727/c461529-40768205.html",
+    "title": "从“中国智造”亮丽名片感悟中国式现代化",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0711/c461001-40758480.html",
+    "title": "“扎扎实实以科技创新支撑和引领中国式现代化”",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0428/c1004-40710574.html",
+    "title": "中国经济韧性与活力从何而来？",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0321/c1004-40686184.html",
+    "title": "从“中国路”，读懂中国式现代化道路",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "People's Daily",
+    "url": "https://cpc.people.com.cn/n1/2026/0808/c164113-40776008.html",
+    "title": "学习·知行|总书记点赞的非遗苗绣焕发新生机",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://politics.people.com.cn/n1/2026/0808/c1001-40775915.html",
+    "title": "\"紧紧抓住那些惠及面广、牵一发而动全身的工作\"",
+    "path": "/politics/",
+    "category": "politics",
+    "pub_bj": "2026-08-08 11:20",
+    "pub_ts": 1786159210
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/transactional/delaware-judge-orders-verisk-proceed-with-235-billion-acculynx-deal-2026-08-08/",
+    "title": "Delaware judge orders Verisk to proceed with $2.35 billion AccuLynx deal",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 11:07",
+    "pub_ts": 1786158460
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us/us-says-it-plans-1-billion-security-assistance-government-colombias-new-leader-2026-08-08/",
+    "title": "US says it plans $1 billion security assistance to government of Colombia's new leader",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 10:52",
+    "pub_ts": 1786157533
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/china/taiwan-president-oversees-coastal-strike-drill-during-annual-war-games-2026-08-08/",
+    "title": "Taiwan president oversees coastal strike drill during annual war games",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 10:39",
+    "pub_ts": 1786156783
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/legal/government/sec-drops-insider-trading-suit-against-ex-healthcare-executive-pardoned-by-trump-2026-08-08/",
+    "title": "SEC drops insider trading suit against ex-healthcare executive pardoned by Trump",
+    "path": "/legal/",
+    "category": "legal",
+    "pub_bj": "2026-08-08 10:11",
+    "pub_ts": 1786155094
+  },
+  {
+    "source": "People's Daily",
     "url": "http://theory.people.com.cn/n1/2026/0808/c40531-40776007.html",
     "title": "以系统思维强化科技攻关能力",
     "path": "/general/",
@@ -26908,95 +26998,5 @@
     "category": "world",
     "pub_bj": "2026-07-30 18:39",
     "pub_ts": 1785407942
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/ukrainian-drones-damage-major-russian-grain-export-terminal-kerch-strait-source-2026-07-30/",
-    "title": "Ukrainian drones damage Russian grain export terminal on Kerch Strait, source says",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 18:38",
-    "pub_ts": 1785407904
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/autos-transportation/bombardier-free-cash-flow-swings-positive-stronger-private-jet-orders-2026-07-30/",
-    "title": "Bombardier free cash flow swings to positive on stronger private jet orders",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:37",
-    "pub_ts": 1785407865
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/india/indias-swiggy-posts-a-narrower-quarterly-loss-2026-07-30/",
-    "title": "India's Swiggy posts narrower loss as quick commerce arm hits contribution break-even",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 18:37",
-    "pub_ts": 1785407853
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/accor-revenue-per-available-room-falls-slightly-second-quarter-2026-07-30/",
-    "title": "Accor says Middle East conflict hit Q2 room revenue, Dubai returns to growth",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:37",
-    "pub_ts": 1785407843
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/cigna-raises-annual-profit-forecast-strength-health-services-unit-2026-07-30/",
-    "title": "Cigna raises annual profit forecast on strength in health services unit",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-30 18:37",
-    "pub_ts": 1785407829
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/magnum-ice-cream-reports-first-half-earnings-above-expectations-2026-07-30/",
-    "title": "Magnum Ice Cream tops earnings forecast as cost cuts kick in",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:35",
-    "pub_ts": 1785407748
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/legalindustry/lawyers-training-ai-do-work-they-used-hate-2026-07-30/",
-    "title": "The lawyers training AI to do the work they used to hate",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-30 18:33",
-    "pub_ts": 1785407630
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/retail-consumer/amazon-walmart-ai-detect-made-usa-fraud-do-not-flag-it-study-says-2026-07-30/",
-    "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:33",
-    "pub_ts": 1785407626
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/prolonged-iran-war-could-keep-spot-lng-prices-high-tokyo-gas-says-2026-07-30/",
-    "title": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:33",
-    "pub_ts": 1785407623
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/energy/drone-strike-lukoil-refinery-causes-fire-damages-distillation-unit-sources-say-2026-07-30/",
-    "title": "Drone strike on Lukoil refinery causes fire, damages distillation unit, sources say",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 18:31",
-    "pub_ts": 1785407477
   }
 ]
