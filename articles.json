@@ -1,5 +1,14 @@
 [
   {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/us-senate-passes-short-term-funding-bill-avert-federal-shutdown-before-election-2026-08-08/",
+    "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election",
+    "path": "/world/",
+    "category": "world",
+    "pub_bj": "2026-08-08 16:07",
+    "pub_ts": 1786176462
+  },
+  {
     "source": "People's Daily",
     "url": "http://society.people.com.cn/n1/2026/0808/c1008-40776105.html",
     "title": "台风\"白海豚\"来袭 国家防总、应急管理部启动响应",
@@ -26987,15 +26996,6 @@
     "title": "外交部：强烈敦促日方早日彻底清除日遗化武毒害",
     "path": "/world/",
     "category": "world",
-    "pub_bj": "2026-07-30 18:50",
-    "pub_ts": 1785408610
-  },
-  {
-    "source": "People's Daily",
-    "url": "http://finance.people.com.cn/n1/2026/0730/c1004-40770909.html",
-    "title": "村民日子越过越红火",
-    "path": "/finance/",
-    "category": "finance",
     "pub_bj": "2026-07-30 18:50",
     "pub_ts": 1785408610
   }
