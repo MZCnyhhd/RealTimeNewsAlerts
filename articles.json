@@ -1,5 +1,32 @@
 [
   {
+    "source": "People's Daily",
+    "url": "http://finance.people.com.cn/n1/2026/0718/c1004-40763259.html",
+    "title": "以绿色赋能发展 我国能源转型纵深推进",
+    "path": "/finance/",
+    "category": "finance",
+    "pub_bj": "2026-08-08 22:52",
+    "pub_ts": 1786200740
+  },
+  {
+    "source": "People's Daily",
+    "url": "http://sn.people.com.cn/n2/2026/0630/c186331-41625079.html",
+    "title": "“十五五”时期我国首个特高压直流工程投运",
+    "path": "/general/",
+    "category": "general",
+    "pub_bj": "2026-08-08 22:52",
+    "pub_ts": 1786200740
+  },
+  {
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/energy/libyas-waha-oil-says-it-contained-leak-zaqout-sidra-pipeline-pumping-resumed-2026-08-08/",
+    "title": "Libya's Waha Oil says it contained leak on Zaqout-Sidra pipeline, pumping resumed after repairs",
+    "path": "/business/",
+    "category": "business",
+    "pub_bj": "2026-08-08 22:29",
+    "pub_ts": 1786199390
+  },
+  {
     "source": "Reuters",
     "url": "https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/",
     "title": "British Columbia district declares state of emergency, issues evacuation orders as wildfire rages",
@@ -26971,32 +26998,5 @@
     "category": "business",
     "pub_bj": "2026-07-30 20:07",
     "pub_ts": 1785413266
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/legal/litigation/capricor-plummets-after-fda-panel-votes-against-duchenne-heart-disease-therapy-2026-07-30/",
-    "title": "Capricor plummets after FDA panel votes against Duchenne heart disease therapy",
-    "path": "/legal/",
-    "category": "legal",
-    "pub_bj": "2026-07-30 20:07",
-    "pub_ts": 1785413264
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/us-military-says-it-hit-dozens-irans-irgc-targets-2026-07-30/",
-    "title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war",
-    "path": "/world/",
-    "category": "world",
-    "pub_bj": "2026-07-30 20:07",
-    "pub_ts": 1785413235
-  },
-  {
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/teladoc-tumbles-revenue-forecast-cut-betterhelp-demand-shifts-hurt-2026-07-30/",
-    "title": "Teladoc tumbles on revenue forecast cut as BetterHelp demand shifts hurt",
-    "path": "/business/",
-    "category": "business",
-    "pub_bj": "2026-07-30 20:06",
-    "pub_ts": 1785413160
   }
 ]
